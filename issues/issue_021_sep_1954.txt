@@ -1,0 +1,4158 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #21 — September 1954
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Infinite Stacks" by Gerald "Gerry" Pulaski
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Librarian of Babel Station" by Oscar Lennox ........... p. 4
+2. "Freshman Year on Phobos" by Danny Kowalski ............... p. 38
+3. "The Weight of Light" by Dr. Vincent Koslov ............... p. 62
+4. "The Substitute" by Arthur Wainwright ..................... p. 90
+5. "Three-Body Tango" by Theodore Cain ....................... p. 116
+6. "The Examiner" by Lucian Marsh ............................ p. 138
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 166
+   Signals Received: Letters to the Editor ................... p. 168
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 171
+   Coming Attractions ........................................ p. 174
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+"Back to School"
+by Maxwell Sterling
+
+================================================================================
+
+Dear Reader,
+
+A year ago this month, we published our first "Back to School" issue — a
+collection of stories that took as their subject the act of learning, of
+encountering knowledge for the first time and being changed by the encounter.
+The response from our readers was gratifying enough that we resolved to
+make it an annual tradition, and so here we are again, returning to class
+with pencils sharpened and imaginations at the ready.
+
+But this year's lesson plan has a somewhat darker syllabus.
+
+The stories gathered in this issue are not concerned solely with the
+acquisition of knowledge. They are concerned with its edges — the places
+where what we think we know dissolves into what we cannot comprehend, where
+the textbook runs out of pages and the student is left standing at the
+boundary of the unknown with nothing but curiosity and nerve.
+
+Oscar Lennox opens our pages with a story about a library that contains
+too much, including a book that should not exist. Danny Kowalski sends a
+thirteen-year-old boy to boarding school on Phobos, where the curriculum
+includes mysteries that no teacher has assigned. Dr. Vincent Koslov, our
+most rigorous scientist, offers a meditation on the speed of light that
+begins with mathematics and ends somewhere considerably more unsettling.
+Arthur Wainwright gives us a robot that becomes a teacher, with results
+that will alarm any parent who has ever questioned a report card. Theodore
+Cain explores a love triangle that mirrors the gravitational instabilities
+of a triple-star system. And Lucian Marsh — whose work, I confess, makes
+my editorial sleep somewhat restless — presents an academy examination
+that tests something far more fundamental than knowledge.
+
+Six stories. Six lessons. Not all of them comforting.
+
+I have received several letters asking whether we plan to increase our page
+count. The answer, I am pleased to report, is that beginning with Issue #22
+we will add eight pages to our regular format, allowing us to feature longer
+stories and expanded departments. Our cover price will remain thirty-five
+cents. We believe that a magazine, like an education, should be accessible
+to everyone who desires it.
+
+A note on our October issue: it will be our first Halloween special, and
+the stories we have assembled are — well, let us say that you may wish
+to leave a light on. More details in our Coming Attractions section.
+
+In the meantime, class is in session. Take your seats.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, July 1954
+
+================================================================================
+
+                    THE LIBRARIAN OF BABEL STATION
+
+                         by Oscar Lennox
+
+================================================================================
+
+                              I.
+
+The catalogue was infinite, or close enough to infinite that the
+distinction had ceased to matter to anyone except the philosophers, and
+they had stopped coming to Babel Station years ago.
+
+Iris Montague stood at the circulation desk on Level Forty-Seven, East
+Wing, Section Kappa-Sigma, and regarded the return cart with the weary
+affection of a woman who had long since made peace with the impossible.
+Seventeen volumes this morning. Four were misfiled — three from adjacent
+parallel designations and one that appeared to have originated in a
+timeline where the Roman Empire had never fallen and consequently published
+its novels in a script that combined Latin with something that looked
+uncomfortably like mathematics. She logged each one, affixed the
+appropriate routing tags, and placed them in the pneumatic chute that
+would carry them to Reshelving, where they would be sorted, classified
+according to their timeline of origin, and returned to their proper
+places in the stacks.
+
+The stacks.
+
+That word was inadequate, of course. The stacks of Babel Station extended
+through six hundred and twelve levels of a cylindrical structure that
+orbited the Lagrange point between Earth and Luna, spinning at precisely
+0.73 rotations per minute to generate a comfortable artificial gravity
+of 0.4 g. The books — physical volumes, every one, because the founders
+of Babel Station had believed, with the fervor of the converted, that
+knowledge must have weight and texture and the faint smell of binding
+glue — occupied shelving that, if uncoiled and laid end to end, would
+stretch from the station to Mars during a favorable opposition.
+
+But these were merely the books of Iris's own timeline. The books of
+her own familiar history, with its two world wars, its cold war, its
+tentative steps into the solar system, its literature of Shakespeare
+and Tolstoy and Achebe and all the rest. These occupied, by current
+estimate, approximately eleven percent of the total collection.
+
+The remaining eighty-nine percent came from elsewhere.
+
+Babel Station had been constructed in 2031, the product of a collaboration
+between the United Nations Library Initiative and the Bern Institute
+for Parallel Studies, after Dr. Hendrik Voss's historic demonstration
+that information could be transferred between adjacent probability
+branches without violating any conservation law then known to physics.
+The discovery had implications for energy, for communication, for
+transportation — but it was the librarians who moved first.
+
+Within eighteen months of Voss's announcement, the first parallel texts
+had been retrieved: a volume of lyric poetry from a timeline in which
+the Library of Alexandria had never burned, and a treatise on
+aeronautics from a world where the Chinese had reached the Americas in
+the twelfth century. Within five years, the retrieval process had been
+industrialized. Within ten, Babel Station was open to the public, and
+the definition of "the public" had begun to blur at the edges.
+
+Iris had been Head Librarian for seven years. She had taken the position
+at thirty-one, making her the youngest person to hold the title and
+the first to have grown up in a world where parallel literature was
+simply a fact of life rather than a revelation. She had earned her
+doctorate in Comparative Bibliographic Studies from the reconstituted
+University of Leuven, writing her thesis on narrative divergence patterns
+in the novels of parallel-Dickens variants. She had catalogued over forty
+thousand volumes from timelines whose histories diverged from her own at
+points ranging from the Cambrian explosion to last Tuesday.
+
+She was, by any reasonable measure, the most qualified person alive for
+this particular job. She was also, she sometimes suspected, the loneliest.
+
+The station employed a staff of three hundred and twelve, but the stacks
+were vast and the shifts were long, and there were entire sections where
+Iris could walk for an hour without encountering another human being.
+She had grown accustomed to this. She had, if she was honest with
+herself, come to prefer it. The books were better company than most
+people — more various, more surprising, and far less likely to ask her
+why she hadn't married.
+
+She finished processing the returns and was reaching for her tea — cold
+now, as it always was by this point in the morning — when the chime
+sounded on her console.
+
+New acquisition. Timeline designation: Lambda-7749-Delta. Subject
+classification: Pending. Retrieval method: Automated lateral sweep.
+Location: Receiving Bay 12, Level Two.
+
+Iris set down her tea and pulled up the retrieval log. The automated
+lateral sweeps were a relatively new addition to the station's
+acquisition protocols — robotic probes that traversed adjacent probability
+branches in systematic patterns, identifying and retrieving volumes
+that met certain criteria: physical books, intact, with content that
+diverged sufficiently from existing holdings to warrant inclusion in
+the collection. The system had been running for fourteen months and had
+thus far retrieved approximately six thousand volumes, the vast majority
+of which were variants of known works — the same stories told slightly
+differently, the same histories with minor alterations, the same
+scientific treatises arriving at the same conclusions by different routes.
+
+Occasionally, however, the sweeps brought back something genuinely new.
+A novel by an author who did not exist in Iris's timeline. A history of
+a war that had never been fought. A scientific paper describing a
+technology that her own world had not yet imagined.
+
+These were the acquisitions that made the job worth doing.
+
+She took the lift down to Level Two and walked the long corridor to
+Receiving Bay 12, her footsteps echoing on the metal flooring. The bay
+was a clean, well-lit room the size of a gymnasium, with rows of
+examination tables and a team of three cataloguers who handled the
+physical assessment of new arrivals: condition, binding type, paper
+composition, language identification, preliminary subject classification.
+
+Today, the team consisted of Martin Ashe, a bearded man of fifty who
+had been cataloguing books since before the station was built; Yuki
+Tanaka, a precise young woman from the Kyoto National Library on
+secondment; and Pavel Novak, a cheerful Czech who claimed to be able to
+identify the timeline of origin of any book by smelling the binding.
+
+"Morning, Iris," Martin said, not looking up from the volume he was
+examining under a magnifying loupe. "We've got something odd."
+
+"Odd how?"
+
+"Odd in the sense that I've been cataloguing books for twenty-six years
+and I've never seen anything quite like this."
+
+He gestured to the far end of the table, where a single volume sat on
+a foam cradle. It was a modest book — octavo format, perhaps three
+hundred pages, bound in dark blue cloth with no dust jacket. The spine
+bore a title in simple gold lettering.
+
+Iris walked to the cradle and leaned down to read the spine.
+
+THE FUTURE HISTORY OF IRIS MONTAGUE.
+
+She straightened.
+
+"Is this a joke?" she said.
+
+"If it is," Martin replied, "it's a very elaborate one. The binding is
+consistent with a Lambda-7749-Delta production methodology — their
+bookmaking is slightly different from ours, heavier thread, different
+adhesive formula. The paper is genuine wood pulp, acid-free, consistent
+with mid-twenty-first century production in that branch. The type is
+letterpress, not digital. It's a real book, Iris. From a real timeline."
+
+"A real book with my name on it."
+
+"With your name as its title. And as its subject."
+
+Iris looked at the volume. She did not touch it.
+
+"Who is the author?"
+
+"No author credited. No publisher imprint. No date of publication. No
+Library of Congress equivalent cataloguing data. It's a ghost — published
+by no one, for no one, as far as we can determine."
+
+"That's not possible. Every book has a provenance."
+
+"Every book from our timeline has a provenance. The rules are different
+elsewhere. You know that."
+
+She did know that. She had catalogued volumes from timelines where the
+concept of individual authorship had never developed, where all books
+were considered communal property and bore no names. She had handled
+texts from branches where books were grown rather than manufactured,
+their pages a form of cultivated cellulose, their words encoded in
+patterns of pigmentation that shifted over time. She had encountered
+every conceivable variation on the idea of a book.
+
+But she had never encountered a book about herself.
+
+"Have you opened it?" she asked.
+
+"First chapter only. Standard protocol for unclassified acquisitions."
+
+"And?"
+
+Martin removed his loupe and looked at her directly for the first time.
+His expression was careful, measured — the expression of a man who had
+been thinking about what to say and had not yet decided.
+
+"It's accurate, Iris. The first chapter describes your childhood. Your
+parents. The house on Maple Street in Northampton. Your mother's garden.
+Your father's workshop. The day you found the book in the attic — the
+one that made you want to be a librarian. The details are exact. Not
+approximately correct. Not close enough. Exact."
+
+"That information is a matter of public record. I've given interviews.
+My thesis has a biographical section."
+
+"The book describes the color of the bicycle you rode when you were
+seven. It describes the name of the cat you had when you were nine. It
+describes a conversation you had with your mother on the night before
+your twelfth birthday, word for word."
+
+"You can't possibly know whether it's word for word."
+
+"Can't I?" He picked up a tablet and handed it to her. On the screen
+was a photograph — a page from the book, high-resolution. Iris read it.
+
+The passage described a Tuesday evening in November. Her mother, Clara,
+sitting at the kitchen table with a cup of chamomile tea, telling
+twelve-year-old Iris about the day she had decided to leave her job at
+the insurance company and go back to school. The words were her mother's.
+The cadence was her mother's. The small, self-deprecating laugh that
+Clara always inserted after saying something she considered too sincere
+was there, rendered in prose as a parenthetical: (and here she laughed,
+as she always did when she caught herself being earnest).
+
+Iris set the tablet down.
+
+"How far does it go?" she said.
+
+"We read the first chapter only. Twenty-three pages. It covers your
+life from birth to age fourteen."
+
+"And the rest?"
+
+"The rest is unread. Protocol requires your authorization before we
+proceed with a volume that concerns a living member of staff."
+
+"How many chapters?"
+
+"Twelve. The last is titled 'The Librarian's Last Day.' It's dated."
+
+"Dated when?"
+
+Martin hesitated. "June 14, 2067."
+
+Iris calculated. She would be forty-nine. Thirteen years from now.
+
+"That's very specific," she said.
+
+"Yes."
+
+                              * * *
+
+She did not read the book that day. She placed it in a secure vault on
+Level Three, assigned it a classification code — PERSONAL/STAFF/
+RESTRICTED — and returned to her duties. She processed fourteen returns,
+answered six reference queries, supervised the reshelving of a
+collection of parallel-Shakespeare folios that had been misplaced during
+a routine stack audit, and ate lunch alone in the staff cafeteria,
+staring at a sandwich she did not taste.
+
+The question was simple, and it was old. It was the question that every
+student of parallel literature encountered sooner or later, the question
+that had occupied three chapters of her doctoral thesis and that she
+had answered with what she had believed, at the time, was satisfying
+intellectual rigor.
+
+The question was: Does a book from a parallel timeline describe the
+truth?
+
+Her doctoral answer had been carefully hedged. A parallel text, she had
+written, describes a truth — a state of affairs that obtains in its
+timeline of origin. It does not necessarily describe a truth that
+obtains in the reader's timeline. The histories diverge. The facts
+diverge. A novel about Napoleon winning at Waterloo is a true account
+of events in a timeline where Napoleon won at Waterloo. It is fiction
+in any timeline where he did not.
+
+This was the orthodox position, and it was, as far as it went,
+unobjectionable.
+
+But it did not address the problem of a book that described not a
+divergent past but a convergent future. A book from another timeline
+that purported to describe events that had not yet occurred in the
+reader's own.
+
+The theoretical literature on this subject was extensive and
+contradictory. The Voss school held that futures were inherently
+divergent — that the probability branches separated continuously and
+irreversibly, making cross-timeline prediction impossible by definition.
+The Bern school, more cautiously, suggested that certain patterns of
+convergence might exist — that some events were robust across branches,
+occurring in the same way regardless of which path history had taken.
+A third school, smaller and more radical, argued that the parallel
+branches were not truly parallel at all but were instead facets of a
+single, higher-dimensional structure, and that information about the
+future could, in principle, propagate laterally through this structure
+in the same way that information about the past already did.
+
+Iris had always aligned herself with the Voss school. Futures diverged.
+Prediction across branches was impossible. The book in her vault was
+an artifact of Lambda-7749-Delta, and whatever future it described was
+the future of its Iris Montague — an Iris who shared her past but who
+would not, could not, share her future.
+
+This was the rational position.
+
+She ate the sandwich. She returned to her desk. She worked until the
+end of her shift. She went to her quarters — a small, comfortable suite
+on Level Sixty-Two with a view of the Earth through a broad window
+that she kept curtained most of the time because the beauty of it
+distracted her from reading.
+
+She sat on her bed and thought about the bicycle. It had been red. The
+cat's name had been Ptolemy. The book had not been wrong about either.
+
+She did not sleep well.
+
+                              II.
+
+She lasted four days.
+
+On the fifth morning, she went to the vault before her shift, keyed
+the access code, and retrieved the volume. She carried it to her
+private office — a small room adjacent to the circulation desk, lined
+with shelves that held her personal collection of reference works and a
+few well-loved novels — and she sat at her desk and opened it to the
+second chapter.
+
+The second chapter was titled "Leuven." It described her years at the
+university with the same uncanny precision that had characterized the
+first chapter. Her professors. Her dormitory. The café on Naamsestraat
+where she had written most of her thesis, drinking coffee so strong
+that it left a residue on the cup that could not be removed without
+industrial solvents. Her friendship with Anke, the Belgian woman who
+had studied medieval manuscripts and who had once, memorably, gotten
+drunk and delivered a forty-minute lecture on the typography of the
+Gutenberg Bible to a bewildered bartender.
+
+Every detail was correct. Not in the approximate way that a good guess
+might be correct, but in the specific, granular, unmistakable way that
+memory is correct. The book knew things that no public record contained.
+It knew the color of the curtains in her dormitory room. It knew the
+title of the novel she had been reading the night she first kissed a
+woman — a parallel-Austen variant from Timeline Epsilon-1182, in which
+Elizabeth Bennet had been a cartographer rather than a gentleman's
+daughter, and in which Mr. Darcy had been a lighthouse keeper.
+
+It knew the name she had whispered in the dark afterward, and the name
+was the right name.
+
+She closed the book and sat for a long time.
+
+Then she opened the third chapter.
+
+                              * * *
+
+The third chapter was titled "The Station." It described her arrival at
+Babel Station, her first years as a junior cataloguer, her rapid
+promotion through the ranks, and her appointment as Head Librarian. It
+described her colleagues with the kind of intimate, affectionate
+precision that suggested the author — whoever or whatever the author
+was — had observed them at close range. Martin's habit of humming
+Puccini arias while examining bindings. Yuki's system of color-coded
+tabs that had revolutionized the cataloguing of non-Roman scripts.
+Pavel's entirely fraudulent claim to identify timelines by smell,
+which Iris had never had the heart to debunk because it made him so
+happy.
+
+The chapter ended with a passage that Iris read three times:
+
+   The librarian understood, by her seventh year in the position,
+   that the station was not merely a repository. It was an argument.
+   It argued, by the sheer accumulated weight of its holdings, that
+   no single version of the truth was sufficient. That every story
+   had been told in every possible way. That the only honest response
+   to the question "What happened?" was "Which time?"
+
+   She found this liberating. She also found it terrifying. Because
+   if every version of every story existed somewhere in the stacks,
+   then her own story — the one she was living, the one she believed
+   she was choosing — was already written. Already shelved. Already
+   gathering dust in some distant wing of the collection, waiting
+   for a reader who might never come.
+
+   Or who might come tomorrow.
+
+Iris turned to the fourth chapter. She noticed that her hands were
+trembling. She noticed that she did not stop.
+
+                              III.
+
+The fourth chapter described events that had not yet happened.
+
+It was titled "The Cartographer," and it began:
+
+   In September of 2056, a woman named Lena Ostrova arrived at
+   Babel Station carrying a single suitcase, a letter of introduction
+   from the reconstituted Library of St. Petersburg, and a theory
+   that would change the way the station understood its own
+   collection.
+
+Iris did not know anyone named Lena Ostrova. A search of the station's
+personnel files, the Bern Institute's faculty directory, and the
+International Library Network's membership rolls produced no results.
+She searched the parallel catalogues — the vast indexed database that
+tracked individuals known to exist across multiple timelines — and
+found Lena Ostrovas in seventeen branches, none of whom had any
+documented connection to Babel Station.
+
+The book described Lena as a cartographer of probability space — a
+discipline that did not, as far as Iris was aware, exist. The book
+described her theory in terms that were lucid, detailed, and entirely
+original: a method for mapping the topological relationships between
+adjacent timelines, for determining not merely that they diverged but
+how they diverged, in what direction, at what rate, and — this was the
+revolutionary part — toward what attractor states they were converging.
+
+The book claimed that Lena Ostrova would demonstrate that certain
+futures were not merely possible but inevitable. That across the vast
+branching tree of probability, certain outcomes were so robust, so
+deeply embedded in the structure of the multiverse, that they occurred
+in every timeline without exception. Birth. Death. The formation of
+stars. The evolution of curiosity. And certain specific human events
+that the book enumerated with the calm precision of a timetable.
+
+Including the death of Iris Montague, Head Librarian of Babel Station,
+on June 14, 2067, at 3:17 in the afternoon, in the East Wing of Level
+Forty-Seven, at her circulation desk, of a cerebral aneurysm that
+would give no prior warning.
+
+Iris closed the book.
+
+She opened it again.
+
+She read the passage once more, carefully, as though the precision of
+her reading might alter what was written.
+
+It did not.
+
+She placed the book on her desk and walked to the window of her office.
+Outside, the stars were fixed and silent, and the Earth hung in the
+lower left quadrant of the frame, blue and white and impossibly
+beautiful, turning with the unhurried patience of something that has
+all the time in the world.
+
+Thirteen years. She would have thirteen more years.
+
+The thought was strange and flat and did not seem to refer to her. She
+tried to feel something — fear, grief, the electric jolt of mortality
+that she imagined most people would feel upon learning the date and
+manner of their death — but what she felt instead was a kind of
+professional curiosity. The same curiosity she felt when a new
+acquisition arrived from an unfamiliar timeline. The desire to
+understand. To classify. To place the information in its proper context
+and shelve it where it belonged.
+
+She was, she realized, responding to the news of her own death the way
+a librarian would. She was trying to catalogue it.
+
+                              * * *
+
+She read the rest of the book over the following week, rationing herself
+to one chapter per day, taking notes in the margins with a pencil as
+though she were reviewing a manuscript for publication.
+
+The fifth chapter, "The Collection Grows," described the acquisition of
+a set of volumes from a timeline in which humanity had achieved faster-
+than-light travel in the nineteenth century and had spent the subsequent
+two hundred years building libraries on every habitable world in the
+local stellar neighborhood. The parallel texts from this timeline were
+staggering in their scope — an alien literature that was recognizably
+human in its concerns but alien in its perspectives, shaped by the
+experience of a species that had never known the loneliness of a single
+world. The book described Iris's response to these acquisitions with
+the specificity of a biographer who had access to her private journals:
+the tears she did not shed in front of her staff, the night she spent
+sitting alone in the stacks surrounded by volumes in languages she
+could not read, feeling for the first time the full weight of what the
+station meant.
+
+The sixth chapter, "Parallels," described a period of personal crisis.
+Iris, confronting the book's claims about her future, began to question
+the foundations of the Voss school — the theoretical framework she had
+built her career upon. If futures diverged, then the book was
+meaningless, a fiction from a foreign branch. But if the Bern school
+was right, if certain futures converged, then the book might be a
+prophecy. And if the third school was right — the radical school, the
+school of higher-dimensional unity — then the book was not a prophecy
+at all. It was a report. A factual account of events that were, in
+some sense she could not yet articulate, already real.
+
+The seventh chapter, "Lena Arrives," described the arrival of Lena
+Ostrova at Babel Station in September of 2056, exactly as predicted.
+The description was so detailed that Iris found herself composing a
+mental image of the woman: tall, dark-haired, with the careful posture
+of someone who spent too much time hunched over manuscripts, and a
+voice that carried the faint trace of a Russian accent even when she
+was speaking perfect English. The book described their first
+conversation — a discussion about the topological properties of
+probability space that lasted four hours and left Iris feeling, for the
+first time in years, that she was in the presence of a mind that moved
+at the same speed as her own.
+
+The eighth chapter, "The Map," described the development of Lena's
+cartographic method and its application to the station's collection. The
+results were extraordinary. Lena demonstrated that the books in the
+stacks were not randomly distributed across probability space but were
+clustered along what she called convergence ridges — topological features
+of the multiverse where adjacent timelines ran close together, like
+mountain ridges channeling water into the same valley. The station,
+Lena argued, was not merely collecting books. It was mapping the deep
+structure of reality itself.
+
+The ninth chapter was called "The Correspondence." It described a period
+of intense intellectual and personal intimacy between Iris and Lena.
+They wrote letters to each other — actual letters, handwritten on paper,
+delivered by hand through the station's internal mail system — because
+both of them believed that certain kinds of knowledge required the
+weight and permanence of physical form. The letters discussed topology,
+bibliography, the nature of truth, the relationship between stories and
+the realities they described, the question of whether a life could be
+considered a narrative and, if so, who its author was.
+
+The letters also described a love affair. It was written with such
+tenderness and precision that Iris, reading it, felt simultaneously
+as though she were eavesdropping on a stranger's most private moments
+and recognizing, with a shock of familiarity, the exact shape of her
+own longing.
+
+The tenth chapter was titled "The Question." In it, Iris — the Iris of
+the book, the Iris of Timeline Lambda-7749-Delta — confronted Lena with
+the existence of the volume itself. She told Lena about the book she
+had found. She described its predictions. She asked the question that
+had been growing inside her like a vine in a dark room, seeking light:
+
+   "If the book is accurate — if it describes my future with the
+   same precision that it described my past — then is this" — she
+   gestured between them, at the desk covered with letters, at the
+   cups of tea gone cold, at the space between their chairs that
+   had grown smaller with each conversation — "is this real? Or
+   are we simply doing what the book says we will do, like actors
+   following a script?"
+
+Lena's response, as described in the book, was to pick up one of their
+letters — the fourth letter, dated October 12 — and read aloud a
+passage in which Iris had described the experience of shelving a book
+she had loved: the reluctance to let it go, the knowledge that it
+would sit on the shelf unchanged while she walked away changed, and
+the strange comfort of knowing that it would be there whenever she
+returned.
+
+   "That," Lena said, setting the letter down. "That is what is
+   real. Not the prediction. Not the script. The experience of
+   reading. The change it produces in the reader. The book in your
+   vault knows what happens to you. But it does not know what it is
+   like. That — the felt quality, the lived texture of your days —
+   that belongs to you alone. No parallel text can capture it. No
+   catalogue can contain it."
+
+Iris, reading this in her office on Level Forty-Seven, set the book
+down and pressed her fingertips to the bridge of her nose. She was
+not crying. She was experiencing a physiological response to the
+accumulation of detail, a pressure behind the eyes that she chose to
+interpret as the result of reading too long in artificial light.
+
+She picked the book up again.
+
+                              IV.
+
+The eleventh chapter was called "The Librarian's Work." It described the
+final years of Iris's career: the expansion of the station, the
+development of new retrieval technologies, the growing political
+controversies surrounding cross-timeline information transfer, and Iris's
+quiet, persistent defense of the principle that had guided the station
+from its founding — that knowledge, in all its variants, belonged to
+everyone.
+
+It described Lena's departure in 2061, called back to St. Petersburg
+by a university position she could not refuse. It described the letters
+that continued, growing longer and less frequent, the way letters do
+when distance makes them precious and time makes them heavy. It described
+Iris's solitude, which was different now from the solitude she had known
+before Lena — not the comfortable aloneness of a woman who preferred
+books to people, but the sharp, specific absence of a particular person.
+
+The twelfth chapter was titled "The Librarian's Last Day."
+
+It was the shortest chapter. Three pages. It described June 14, 2067,
+from morning to afternoon. Iris waking in her quarters. Iris dressing
+in her usual clothes — a gray wool skirt, a white blouse, flat shoes
+suitable for walking the stacks. Iris eating breakfast alone — two
+pieces of toast and a cup of tea, as always. Iris taking the lift to
+Level Forty-Seven. Iris sitting at her circulation desk and opening her
+console to begin the morning's work.
+
+The passage described the last book she processed: a return, a novel
+from Timeline Kappa-2201, in which a woman who worked in a library
+fell in love with a cartographer. Iris logged it, tagged it, placed it
+in the pneumatic chute. She reached for her tea.
+
+And then the chapter ended.
+
+Not with a description of the aneurysm. Not with a clinical account of
+the event itself. The chapter ended with a single paragraph:
+
+   The librarian reached for her tea. Outside the window, the stars
+   were fixed and silent, and the Earth hung in the lower left
+   quadrant of the frame, turning with the unhurried patience of
+   something that has all the time in the world. The tea was cold.
+   It was always cold by this point in the morning. She drank it
+   anyway. She had never minded cold tea. It tasted the same. It
+   was the same tea. Only the temperature had changed, and
+   temperature, as any physicist would tell you, is merely a
+   measure of the average kinetic energy of molecules in motion.
+   A measure of how fast things are moving. A measure, the
+   librarian thought, of how much time they have left.
+
+   She set down the cup and returned to her work.
+
+Iris closed the book.
+
+                              * * *
+
+She sat in her office for a long time after finishing it. The station
+hummed around her — the deep, constant vibration of the rotational
+motors, the faint hiss of the atmospheric systems, the distant clatter
+of the pneumatic chutes carrying books to their appointed places. These
+sounds had been the background of her life for seven years. She had
+stopped hearing them long ago. She heard them now.
+
+She opened her console and composed a cataloguing entry:
+
+   Title: THE FUTURE HISTORY OF IRIS MONTAGUE
+   Author: Unknown
+   Timeline of origin: Lambda-7749-Delta
+   Subject classification: Biography (predictive)
+   Physical description: Octavo, 298 pp., blue cloth binding,
+   gold-stamped spine, no dust jacket
+   Condition: Fine
+   Access restriction: NONE
+
+She hesitated over the last line. Then she confirmed it.
+
+She placed the book in the pneumatic chute and sent it to Reshelving,
+with a routing tag that would place it in the general collection, on a
+shelf in the Biography section of the Lambda-7749-Delta wing, between
+a history of a woman who had been the first human to walk on Titan and
+a memoir by a man who had spent forty years translating a single alien
+poem.
+
+It would sit there, on its shelf, in the vast and patient stacks.
+Anyone could read it. No one might. That was the nature of a library.
+The books were there, whether anyone opened them or not. They contained
+what they contained. The truth of them was not contingent on being
+read.
+
+Iris Montague, Head Librarian of Babel Station, thirty-six years old,
+with thirteen years remaining or an entire lifetime ahead of her
+depending on which school of thought she chose to believe, stood up
+from her desk and walked into the stacks.
+
+She had work to do.
+
+There were books to shelve, queries to answer, a vast and branching
+collection to maintain. The catalogue was infinite, or close enough
+to infinite that the distinction had ceased to matter to anyone except
+the philosophers. And the philosophers, she reminded herself, had
+stopped coming years ago.
+
+Perhaps that was because they had already found what they were looking
+for. Or perhaps it was because they had realized that the finding was
+not the point.
+
+The searching was.
+
+                            [THE END]
+
+================================================================================
+
+                      FRESHMAN YEAR ON PHOBOS
+
+                        by Danny Kowalski
+
+================================================================================
+
+                              I.
+
+The shuttle from Mars Orbital hit Phobos at seven in the morning, local
+station time, which meant nothing because Phobos didn't have a morning.
+It was a potato-shaped rock tumbling through space with the sun on one
+side and Mars filling up the other side like a giant rusty ceiling, and
+the only reason they called it morning was because somebody had decided
+the clocks should start at midnight and work forward, same as on Earth,
+and Tomas Reyes was standing at the porthole with his forehead pressed
+against the cold glass thinking: This is the dumbest place I have ever
+been in my life.
+
+He was thirteen. He had been thirteen for exactly eleven days, having
+celebrated his birthday on the transfer shuttle from Earth with a
+freeze-dried cake that tasted like cardboard and a candle that wouldn't
+stay lit in the regulated atmosphere. His mother had sung "Happy
+Birthday" over the comm-link from Flagstaff, Arizona, seventeen minutes
+away at the speed of light, which meant that by the time her voice
+reached him she was already singing a different song or making dinner or
+doing whatever people did on a Tuesday evening in Flagstaff when their
+only son was hurtling through space toward a rock named after a Greek
+word that meant "fear."
+
+His dad had not called. His dad was on Ganymede, doing something with
+ice-mining that Tomas did not fully understand and that his mother
+described with a tightness around her mouth that meant she understood it
+perfectly and wished she didn't.
+
+"Passengers for Bradbury Academy, please proceed to Docking Bay Three
+with your luggage and enrollment documents," the shuttle's intercom said,
+in the flat, helpful voice that all intercom systems seemed to share
+regardless of which planet they were on. "Welcome to Phobos."
+
+Tomas picked up his duffel bag. It contained everything he owned that
+would fit: four sets of the Academy uniform (gray trousers, white shirt,
+blue blazer with the Bradbury crest, which was a rocket ship
+superimposed on an open book, which was the corniest thing he had ever
+seen), two pairs of shoes, his sketchpad, a box of pencils, three
+paperback novels his mother had insisted he bring ("Real books, Tomas,
+not screens"), a photograph of his family taken two years ago when they
+were still a family that lived in the same house, and a small rock from
+the backyard in Flagstaff that his mother had pressed into his hand at
+the spaceport and said, "So you remember where the ground is."
+
+He was one of forty-seven new freshmen. He knew this because the
+enrollment packet had said so: "Bradbury Academy welcomes forty-seven
+new students to the Class of 2039." The packet had also said that
+Bradbury Academy was "the Solar System's premier residential secondary
+school, offering a rigorous curriculum in science, mathematics, and the
+liberal arts in a unique low-gravity environment." It had not said
+anything about the food, which Tomas suspected was an ominous omission.
+
+Docking Bay Three was a large, gray room that smelled like machine oil
+and recycled air. The forty-seven freshmen milled around in their new
+blazers, looking exactly like what they were: kids who had been taken
+from their homes and deposited in a tin can on a rock in space and who
+were trying very hard to look like they were fine with this.
+
+Some of them were fine with it. A tall girl with red hair and freckles
+was already talking to three other students as though she'd known them
+for years, laughing and gesturing with her hands in a way that suggested
+she had opinions about everything and was not shy about sharing them. A
+thin boy with dark skin and enormous glasses was reading a book — an
+actual paper book — while leaning against the wall with the practiced
+nonchalance of someone who had decided that the best way to handle a
+new situation was to pretend it wasn't happening. A group of four boys
+were comparing wrist-comps and talking too loudly, the way boys talked
+when they were nervous and didn't want anyone to know.
+
+Tomas stood by himself near the porthole and looked at Mars.
+
+It was enormous. He had seen pictures, of course — everyone had seen
+pictures — but pictures didn't prepare you for the size of it, the way
+it filled the window like a wall of rust and dust and ancient dry river
+beds, so close that you felt like you could reach out and touch it, so
+far away that the thought of touching it made you dizzy. The Valles
+Marineris cut across the surface like a scar, and the polar cap gleamed
+white at the edge of the visible hemisphere, and somewhere down there,
+on the surface, in a pressurized dome called Ares City, twelve thousand
+people were living their lives as though it were perfectly normal to
+live on another planet.
+
+It wasn't normal. Nothing about this was normal. Tomas was thirteen
+years old and he was standing on a moon named Fear looking down at a
+planet named after the god of war and in approximately twenty minutes
+he was going to start ninth grade.
+
+"Pretty cool, huh?"
+
+He turned. The boy standing next to him was stocky and blond, with a
+round face and a gap between his front teeth that gave him the look of
+someone who was perpetually about to grin. He was wearing his blazer
+with the sleeves rolled up, which was technically a uniform violation,
+and he had a smear of something that looked like chocolate on his chin.
+
+"I guess," Tomas said.
+
+"I'm Erik. Erik Sandoval. From São Paulo. Well, from São Paulo and then
+Luna City and then the transfer shuttle, which had the worst food I've
+ever eaten, and I've eaten at my grandmother's house, so that's saying
+something." He stuck out his hand.
+
+Tomas shook it. "Tomas Reyes. Flagstaff."
+
+"Flagstaff! That's where the observatory is, right? Lowell? You ever
+look through the big telescope?"
+
+"Once. On a field trip."
+
+"What did you see?"
+
+"Mars."
+
+Erik laughed. It was a big, unguarded laugh that seemed too large for
+the docking bay, and several heads turned in their direction. "And now
+you're here! That's like — that's like looking through a window and then
+climbing through it. That's great. I think we're going to be friends,
+Tomas."
+
+"You just met me."
+
+"I have a sense for these things. My mother says I have the social
+instincts of a golden retriever. I've never seen a golden retriever, on
+account of growing up on the Moon, but I've seen pictures, and they
+look like excellent judges of character."
+
+Despite everything — the homesickness, the dread, the freeze-dried cake
+still sitting in his stomach like a small dense planet — Tomas smiled.
+
+                              II.
+
+The first week was orientation, and orientation was a blur.
+
+The campus was built into the interior of Phobos itself, carved out of
+the rocky substrate and reinforced with structural composites that the
+engineering teacher, Dr. Okafor, described as "essentially the same
+material they use for spacecraft hulls, which should give you some idea
+of the forces involved in keeping this place from collapsing." This
+information was presumably meant to be reassuring. It was not.
+
+The gravity was the first thing you noticed and the last thing you got
+used to. Phobos had a surface gravity of about 0.006 m/s squared, which
+was essentially nothing, but the station's rotational system brought it
+up to a livable 0.38 g — Mars standard, which the brochure called
+"comfortable" and which Tomas's body called "wrong." Everything was too
+light. His feet didn't hit the floor with the right authority. His
+water didn't pour at the right speed. His pencils, when he set them
+down on his desk, drifted imperceptibly toward the edge and fell with a
+slow, dreamlike tumble that made him feel like he was living inside a
+movie played at the wrong speed.
+
+The gym was the worst.
+
+The gymnasium occupied a large spherical chamber at the center of the
+station, and it operated at variable gravity — a system of adjustable
+rotational compensators that could set the gravity anywhere from zero-g
+to Mars standard, depending on the activity. During orientation, the
+gym teacher — a wiry, intense woman named Coach Petrov who spoke in
+short declarative sentences and appeared to have been assembled from
+cable and determination — set it to zero-g and told the freshmen to
+play a game she called "scatterball."
+
+Scatterball, as far as Tomas could determine, was a sport invented by
+someone who hated the concept of predictable motion. Two teams, one
+ball, no floor, no ceiling, no walls that weren't also goals. You
+launched yourself off a surface, caught the ball, threw it at the
+opposing team's goal zone, and hoped that Newton's third law wouldn't
+send you spinning into a teammate. It was exhilarating and terrifying
+and absolutely nothing like any sport Tomas had ever played in Flagstaff,
+where the ground stayed where you put it and the ball came down after
+you threw it up.
+
+He was bad at it. He was bad at it in a specific, humiliating way that
+involved launching himself at the ball, missing, continuing in a
+straight line past the ball, past the goal zone, past the boundary
+markers, and into the padded wall of the gymnasium, where he stuck like
+a bug on a windshield while his classmates pretended not to notice.
+
+Erik, somehow, was a natural. He tumbled through zero-g with the
+instinctive grace of someone who had grown up on Luna and understood in
+his bones that gravity was a suggestion rather than a law. He scored
+three goals in the first game and helped Tomas peel himself off the
+wall twice.
+
+"You'll get it," Erik said, clapping him on the back in a way that sent
+both of them rotating gently counterclockwise. "It just takes practice.
+And maybe some spatial reasoning. And definitely less flailing."
+
+"I wasn't flailing."
+
+"You were flailing, my friend. You were flailing with great commitment
+and enthusiasm. It was almost beautiful."
+
+The classes were better. Tomas liked math, and the math teacher — a
+quiet, patient woman named Dr. Vasquez who had a way of explaining
+things that made you feel like you were discovering the answer yourself
+rather than being told it — was the best teacher he'd ever had. He liked
+biology, which involved studying organisms adapted to low-gravity and
+vacuum environments, including a species of engineered lichen that grew
+on the exterior of the station and slowly, over decades, was converting
+Phobos's surface regolith into something that might one day support a
+breathable atmosphere. He liked English, which was taught by an
+enthusiastic young man named Mr. Park who assigned them science fiction
+novels and asked them to write about "the experience of being the
+future that these books imagined."
+
+He did not like history, which was taught by a dusty, monotonous man
+named Mr. Griffith who appeared to believe that the purpose of
+education was to transform interesting events into boring sentences.
+He did not like chemistry, because the lab involved handling compounds
+in low gravity, which meant that anything you spilled floated instead
+of running down the table, and Tomas spilled a lot. He especially did
+not like the fact that his dormitory room was approximately the size
+of a closet and that his roommate — a pale, quiet boy named Jun from
+the Tharsis Plateau settlement — communicated almost exclusively through
+a series of noncommittal grunts that Tomas was slowly learning to
+interpret. (One grunt: acknowledgment. Two grunts: disagreement. Three
+grunts: I am going to sleep and would appreciate it if you turned off
+your reading light.)
+
+But the thing he liked least was Declan Boyce.
+
+                              III.
+
+Declan Boyce was fifteen. He was a junior. He was tall and broad-
+shouldered and had the kind of face that looked like it had been
+designed by a committee tasked with creating the most punchable
+expression possible: a permanent half-smirk, eyes that calculated
+distance and weakness with the efficiency of a targeting system, a jaw
+that he thrust forward when he talked as though daring you to
+disagree.
+
+He was also the captain of the scatterball varsity team, the son of
+the station's chief medical officer, and — Tomas learned this in the
+second week — the person who had decided that Tomas Reyes was going to
+have a difficult year.
+
+It started small. A shoulder check in the hallway, hard enough to send
+Tomas stumbling in the low gravity, played off as an accident.
+"Careful, freshman. Gravity's tricky." A comment in the cafeteria about
+Tomas's accent, delivered just loud enough for the surrounding tables
+to hear: "Hey, Reyes, do they have schools in Arizona, or do they
+just let the coyotes raise you?" Laughter from the juniors. Silence
+from the freshmen, who understood instinctively the mathematics of
+power and knew that the equation did not favor intervention.
+
+Tomas told himself it didn't matter. He had dealt with bullies before —
+in Flagstaff, there had been a kid named Travis who had made fun of
+his father being gone, and Tomas had handled it by ignoring Travis
+until Travis got bored and moved on to someone else. The strategy had
+worked on Earth. He tried it on Phobos.
+
+It did not work on Phobos.
+
+Declan Boyce did not get bored. If anything, Tomas's refusal to react
+seemed to sharpen Declan's interest, like a predator whose attention is
+drawn by stillness rather than motion. The shoulder checks became harder.
+The comments became more personal. In the third week, Tomas opened his
+locker to find his sketchpad — the one his mother had given him, the one
+he drew in every night before bed, the one that contained landscapes
+of Flagstaff and imaginary maps of Mars and a careful, precise drawing
+of his family's house that he had done from memory on the second night
+because he was afraid he was already starting to forget what it looked
+like — had been taken out, and on the first page, in thick black
+marker, someone had written: GO HOME DIRT BOY.
+
+Tomas stared at the words for a long time. Then he tore out the page,
+folded it, put it in his pocket, and closed his locker.
+
+He did not tell anyone. He was thirteen years old and he was very far
+from home and the one thing he knew with absolute certainty was that
+telling someone would make it worse.
+
+                              * * *
+
+The girl with the red hair was named Saoirse Flynn, and she was from
+Dublin, Ireland, by way of the Mars orbital transit hub, and she was
+the smartest person Tomas had ever met, and when she walked into a room
+it was as though someone had turned up the brightness on a screen.
+
+He did not have a crush on her. He was certain of this. The tightness in
+his chest when she sat next to him in math class was a respiratory
+response to the station's air recycling system. The fact that he had
+drawn her face in his sketchpad — twice, from memory, late at night
+when Jun was grunting his way through sleep — was an exercise in
+portraiture. The way his voice went up half an octave when she asked
+him a direct question was a perfectly normal acoustic phenomenon that
+probably had something to do with the atmospheric pressure.
+
+"You're good at math," she said to him one day in the third week, as
+they were walking out of Dr. Vasquez's class. She said it the way she
+said everything: directly, without preamble, as though the thought had
+occurred to her and the distance between thinking it and saying it was
+too short to bother with.
+
+"Thanks," he said, in a voice that was definitely not half an octave
+higher than normal.
+
+"I'm not. Good at math, I mean. I'm good at everything else, but math
+is like — it's like the numbers are doing something behind my back and I
+can't catch them at it. Do you want to study together sometime?"
+
+"Sure," he said, with a casualness that he suspected fooled absolutely
+no one.
+
+They studied together in the library, which was a small, comfortable
+room on Level Four with actual paper books on actual shelves — a luxury
+that the Academy's founders had insisted on, believing that a school
+without a physical library was not a school but a data terminal with
+pretensions. Saoirse sat across from Tomas and frowned at equations and
+asked questions that were sharper than she realized and laughed when
+Tomas explained things in ways that involved drawing pictures instead
+of writing formulas.
+
+"You should be a teacher," she said. "You explain things like you're
+telling a story."
+
+"I want to be an engineer," he said. "Or an artist. Or both. I haven't
+decided."
+
+"Be both. Why not? This is the future. You can be both."
+
+She smiled at him, and the air recycling system did something to his
+chest again.
+
+                              IV.
+
+The dead birds appeared in the fourth week.
+
+Tomas found the first one on a Tuesday morning, in the ventilation
+shaft above his dormitory room. He had been lying in bed, unable to
+sleep — Jun was grunting his way through what sounded like a
+particularly contentious dream — when he heard a sound in the vent: a
+soft, dry rustling, like paper being crumpled very slowly. He got up,
+stood on his desk chair, and unscrewed the vent cover.
+
+Inside the duct, resting on the metal surface as though it had been
+carefully placed there, was a small brown bird. A sparrow, or something
+very like a sparrow. It was dead. Its feathers were dry and neat, its
+eyes closed, its feet curled beneath it in the posture of sleep.
+
+Tomas stared at it for a long time.
+
+There were no birds on Phobos. There were no birds anywhere in the
+outer solar system. The Academy's environmental systems supported a
+closed ecology that included engineered plants, recycling bacteria,
+and a small population of pollinating insects, but no vertebrate animals
+of any kind. The logistics of maintaining a bird population in a sealed
+space station — the food requirements, the waste management, the
+territorial behavior, the noise — made it impractical to the point of
+impossibility.
+
+And yet here was a bird. A dead bird. In his ventilation shaft.
+
+He reached in and picked it up. It was light, even for a bird — lighter
+than he expected, as though the low gravity had leached something from
+it, or as though it had never been fully real. He turned it over in his
+hands. No injuries. No marks. No signs of illness or trauma. It looked
+like a bird that had simply decided to stop being alive and had arranged
+itself neatly in his ventilation shaft to do so.
+
+He reported it to the maintenance department, who sent a technician
+named Garcia who looked at the bird, looked at the ventilation shaft,
+looked at Tomas, and said, "Huh."
+
+"Is that a technical assessment?" Tomas asked.
+
+Garcia did not smile. "There are no birds on this station."
+
+"I know."
+
+"So this is not a bird."
+
+"It looks like a bird."
+
+"A lot of things look like things they're not. I'll log it." He took
+the bird, put it in a sample bag, and left. Tomas did not hear anything
+further about it.
+
+The second bird appeared three days later, in the ventilation shaft of
+Saoirse's dormitory room. She told Tomas about it at breakfast, her
+eyes wide, her voice carrying that particular quality of excitement that
+she got when something didn't make sense and she wanted to make it make
+sense.
+
+"It was a finch," she said. "A little yellow finch. Dead. Just sitting
+in the vent like someone put it there."
+
+"I found one too," Tomas said. "Last Tuesday. A sparrow."
+
+"Did you tell maintenance?"
+
+"They said they'd log it."
+
+"That's exactly what they said to me. 'We'll log it.' What does that
+even mean? Where do you log a dead bird on a station that has no birds?"
+
+"In the file with the other things that don't make sense?"
+
+"There's a file?"
+
+"I'm guessing."
+
+Erik, who had been eating his oatmeal with the focused intensity of
+someone who had strong opinions about breakfast, looked up. "I heard
+Chen in Room 307 found one too. A robin. In his vent, same as yours."
+
+They looked at each other.
+
+"That's three," Saoirse said. "Three dead birds in three different
+ventilation shafts. Three species that don't exist on this station."
+
+"Four," said a quiet voice. They turned. Jun — Tomas's roommate, the
+boy of the grunts — was sitting at the end of the table with his tray,
+which he had not touched. He was looking at them with an expression that
+Tomas had never seen on his face before: not his usual studied blankness,
+but something sharper. Something alert.
+
+"Four?" Tomas said.
+
+"I found one last night. A blackbird. In the shaft above my bed. I did
+not tell maintenance."
+
+"Why not?"
+
+Jun looked at his tray. "Because the last time I reported something
+strange on this station, they told me I was adjusting to the
+environment. They said that new students sometimes experience perceptual
+disturbances in the first few weeks. They said it was normal."
+
+"What did you report?"
+
+Jun was quiet for a moment. Then he said, "Music. Coming from the
+vents. Late at night, after lights out. Very faint. Like someone
+singing, but far away. In a language I didn't recognize."
+
+The four of them sat in silence.
+
+Outside the cafeteria windows, Mars turned slowly beneath them, vast
+and red and indifferent, and the ventilation system hummed its constant,
+empty hum.
+
+                              V.
+
+They decided to investigate because they were thirteen and because
+they had read enough books to know that when dead birds appeared in a
+place that had no birds, you did not file a maintenance report and wait.
+You investigated.
+
+Or rather, Saoirse decided they would investigate, and the rest of them
+went along because Saoirse had a way of making you feel that not
+investigating would be a personal failure of curiosity, and curiosity
+was the one quality that everyone at Bradbury Academy agreed was
+non-negotiable.
+
+They started with the ventilation system. The station's environmental
+schematics were available in the library — this was, after all, a
+school, and the Academy believed in transparency about the engineering
+that kept its students alive. Tomas pulled up the plans on the library's
+main terminal and spread them across the study table, and the four of
+them leaned over them the way generals lean over maps.
+
+The ventilation system was a closed loop: air was drawn from the
+habitable areas, filtered through carbon scrubbers and biological
+processors, re-oxygenated, temperature-adjusted, and returned through
+the network of ducts that ran through the ceilings and walls of every
+room. The ducts were sealed. Nothing should be able to get into them
+from outside the station, because outside the station was vacuum, and
+nothing should be able to get into them from inside the station,
+because the intake vents were covered with filters fine enough to block
+particles down to ten microns.
+
+"So how does a bird get into a sealed duct?" Erik asked.
+
+"It doesn't," Saoirse said. "That's the point. It can't get in from
+outside and it can't get in from inside, which means either someone is
+putting them there or they're — coming from somewhere else."
+
+"Somewhere else meaning what?"
+
+She didn't answer. She was looking at the schematic, tracing the duct
+network with her finger, following the lines as they branched and
+converged through the station's interior. Her finger stopped at a point
+near the center of the diagram.
+
+"What's this?" she said.
+
+Tomas looked. The duct network, which everywhere else was drawn in clean,
+precise lines with standard engineering annotations, became vague at
+the point Saoirse was indicating. The lines converged toward a central
+chamber — or what appeared to be a central chamber — but the chamber
+itself was not drawn. In its place was a simple notation: SECTION 7-G.
+NO STUDENT ACCESS.
+
+"It's a restricted area," Tomas said.
+
+"Everything is a restricted area if you're thirteen," Saoirse replied.
+"What's in Section 7-G?"
+
+They searched the library's database. Section 7-G was listed in the
+station directory as "Environmental Processing — Authorized Personnel
+Only." No further description. No floor plan. No personnel assignments.
+
+"That's weird," Erik said. "Everything else on this station has a floor
+plan. The bathrooms have floor plans."
+
+Jun, who had been silent throughout, spoke. "The birds are coming from
+there."
+
+"You don't know that," Tomas said.
+
+"The ducts converge there. The birds are in the ducts. The birds are
+coming from there." He said this with the flat certainty of someone
+who had already done the math and was waiting for the rest of them to
+catch up.
+
+"Even if they are," Tomas said, "we can't get to Section 7-G. It's
+restricted."
+
+Saoirse looked at him. She had a specific look that she deployed in
+moments like this — a look that combined disappointment with patience,
+as though she were waiting for him to stop being sensible and start
+being interesting.
+
+"We're on a space station on a moon named Fear," she said. "We just
+found dead birds that can't exist. There's a restricted section that
+nobody will explain. And you want to follow the rules?"
+
+"I want to not get expelled in my first month."
+
+"Tomas. Dead birds."
+
+He looked at her. She looked at him. Mars turned beneath them.
+
+"Fine," he said.
+
+                              VI.
+
+They went at night, which on Phobos meant after the artificial lights
+in the corridors dimmed to their nighttime setting of forty percent and
+the residential wings went quiet. Tomas and Erik left their rooms at
+0200, moving through the corridors in their socks to muffle their
+footsteps, and met Saoirse and Jun at the junction of Corridor Eight
+and the maintenance access hallway that led, according to the schematics,
+toward the general vicinity of Section 7-G.
+
+The maintenance hallway was not designed for students. The ceiling was
+low, the lighting was industrial, and the floor was a metal grating
+through which they could see pipes and conduits running in every
+direction. The air was warmer here, and it carried a smell that Tomas
+couldn't identify — not unpleasant, exactly, but strange. Organic. Like
+soil after rain, except they were inside a hollowed-out rock in space
+and there was no soil and there was no rain.
+
+They followed the corridor for what felt like a long time, past sealed
+doors marked with alphanumeric codes (7-A, 7-B, 7-C), past junction
+boxes and emergency oxygen stations and a fire extinguisher that looked
+like it had never been used. The corridor narrowed. The lights became
+less frequent. The hum of the environmental systems grew louder, deeper,
+as though they were approaching the heart of something that was working
+very hard to keep them alive.
+
+Section 7-G was behind a door that was different from the others.
+Heavier. The door was marked with the standard restricted-access sign —
+a red circle with a line through it — and beneath that, in smaller
+letters, a notice that read: ENVIRONMENTAL PROCESSING. AUTHORIZED
+PERSONNEL ONLY. BIOLOGICAL CONTAINMENT PROTOCOLS IN EFFECT.
+
+"Biological containment," Erik whispered. "That's reassuring."
+
+"It means there's something alive in there," Jun said.
+
+Saoirse tried the door. It was locked, but the lock was a simple
+keypad — four digits. She looked at Tomas.
+
+"Don't look at me," he said.
+
+"You're the one who's good with numbers."
+
+"That's math, not breaking and entering."
+
+"It's a four-digit code on a maintenance door in a school. It's not
+going to be anything clever. Try the year the school was founded."
+
+Tomas tried 2035. The lock clicked. The door swung open.
+
+They looked at each other.
+
+"This school has terrible security," Erik said.
+
+They went in.
+
+                              * * *
+
+The chamber beyond the door was not what any of them expected.
+
+It was large — much larger than the schematics had suggested, a vaulted
+space that extended upward into dimness and outward into shadow. The
+air was warm and heavy and full of the smell Tomas had noticed in the
+corridor, stronger now, unmistakable: earth. Living earth. The smell
+of growth.
+
+The room was full of plants.
+
+Not the engineered, utilitarian plants of the station's standard
+environmental system — the algae tanks and lichen trays and vegetable
+hydroponic racks that produced oxygen and food with mechanical
+efficiency. These were wild plants. Terrestrial plants. Ferns and
+mosses and trailing vines and small flowering shrubs that grew from
+beds of actual soil — dark, rich, wet soil that had no business
+existing on a moon made of carbonaceous rock.
+
+And in the plants, in the branches and the leaves and the spaces
+between, there were birds.
+
+Living birds.
+
+Dozens of them. Sparrows and finches and warblers and blackbirds,
+perched on branches, hopping along the edges of the soil beds, flitting
+from plant to plant in the warm, humid air. They were small and bright-
+eyed and entirely alive, and they paid no attention whatsoever to the
+four children standing in the doorway with their mouths open.
+
+"Oh," said Saoirse, very quietly.
+
+Tomas stepped into the chamber. The soil was soft beneath his socked
+feet. A sparrow landed on a branch near his head and regarded him with
+the calm, appraising look that sparrows have been giving people since
+before people had a word for sparrows.
+
+"How?" he said. "How is this here?"
+
+Nobody answered, because nobody knew.
+
+They explored the chamber in silence, moving through the plantings with
+the careful reverence of people entering a cathedral. The garden — for
+that was what it was, a garden, an impossible garden growing in the
+guts of a space station — extended deeper than they could see, the
+vegetation thickening as they moved inward, the birds growing more
+numerous. Near the center of the chamber, they found a small clearing
+where the soil was bare and a bench had been placed — a simple wooden
+bench, worn smooth by use.
+
+And on the bench, an open notebook.
+
+Tomas picked it up. The handwriting was small and neat, and the entries
+were dated. The most recent was three days ago.
+
+   Oct. 14, 2039. Two more finches hatched this morning. The
+   population is self-sustaining now — forty-seven breeding pairs
+   across eight species. The soil composition is stable. The plant
+   community is beginning to develop its own microclimate: humidity
+   is fourteen percent higher than station ambient, temperature is
+   three degrees warmer. The children find the dead ones in their
+   vents. I should seal the access points, but I don't. I leave
+   them open. I want someone to come looking. I have been keeping
+   this secret for eleven years and I am ready for someone to find
+   it.
+
+Tomas turned to the inside cover of the notebook.
+
+The name written there, in the same small, neat handwriting, was
+DR. ELENA VASQUEZ.
+
+He looked at Saoirse. She looked at him.
+
+Dr. Vasquez. The math teacher. The quiet, patient woman who explained
+things like she was telling you a story.
+
+"She's been growing a garden," Saoirse said. "A real garden. With real
+soil and real birds. In a space station."
+
+"For eleven years," Erik said. "She's been here since before the school
+opened."
+
+Jun was standing very still, looking up at the canopy of leaves above
+them. A warbler was singing somewhere in the branches — a bright,
+ascending trill that sounded, in the enclosed space, like something
+that had been waiting a long time to be heard.
+
+"It's not against the rules," Jun said, slowly. "There is no rule
+against growing a garden in Section 7-G. I checked the student handbook
+very carefully when I arrived."
+
+Erik laughed. Saoirse laughed. Even Tomas, who was holding the notebook
+of a teacher he respected and realizing that the world was stranger and
+more complicated than any schematic could contain, felt the laugh
+building in his chest.
+
+"We should go," he said. "Before someone catches us."
+
+"We should come back," Saoirse said.
+
+Tomas looked at the garden. At the birds. At the impossible, beautiful,
+completely unauthorized ecosystem growing in the heart of a school on
+a moon named Fear.
+
+"Yeah," he said. "We should come back."
+
+                              VII.
+
+They did go back. They went back the next night, and the night after
+that, and by the end of the week it had become their secret — the
+secret garden of Bradbury Academy, tended by a math teacher who grew
+birds in the walls of a space station because she believed, as she
+later told them when they finally confessed that they had found it,
+that "a school without living things is not a school. It's a storage
+facility for children."
+
+Dr. Vasquez was not angry. She had been waiting, she said. She had
+been leaving the vent access points open on purpose, letting the birds
+that died of natural causes — because birds, even well-tended birds
+in a carefully maintained garden, did die — remain in the ducts where
+students might find them. She had been waiting for students curious
+enough to follow the mystery, because curiosity, she said, was the
+only thing she could not teach.
+
+"I can teach you mathematics," she said, sitting on the wooden bench
+in the clearing with the four of them cross-legged on the soil before
+her like acolytes. "I can teach you formulas and theorems and proofs.
+But I cannot teach you to wonder. I cannot teach you to look at
+something that should not exist and ask how it came to be. That" — she
+gestured at the garden around them, at the birds, at the impossible
+ferns growing in the impossible soil — "that is what you must teach
+yourselves."
+
+Tomas wanted to ask her a hundred questions: How had she gotten the
+soil? Where had the birds come from? How had she kept the garden hidden
+from the station administrators for over a decade? But the question
+that came out was the one he hadn't known he was going to ask.
+
+"Why birds?"
+
+Dr. Vasquez smiled. It was a different smile from the one she used in
+class — wider, less careful, the smile of a person who was sharing
+something she had kept to herself for a very long time.
+
+"Because this is a school," she said. "And a school should have birdsong
+in the morning."
+
+                              * * *
+
+Declan Boyce found out about the garden in the eighth week.
+
+Tomas never learned how. Maybe Declan followed them. Maybe he bribed a
+maintenance worker. Maybe he just had the instinct of all bullies for
+finding the thing you cared about most and putting his hands on it.
+
+He confronted Tomas in the corridor after dinner, flanked by two of his
+scatterball teammates — large, silent boys who served the same function
+as parentheses around a particularly hostile sentence.
+
+"Hear you've been sneaking around Section 7-G," Declan said. The half-
+smirk was in full deployment. "Hear there's a garden down there. With
+little birdies."
+
+Tomas said nothing.
+
+"You know that's a violation of station environmental protocols, right?
+Unauthorized biological material in a sealed habitat? That's a serious
+offense. People get expelled for that."
+
+"Dr. Vasquez —"
+
+"Dr. Vasquez is a teacher who's been hiding an unauthorized ecosystem
+in a restricted area. If the administration finds out, she loses her
+job. Maybe gets criminal charges. Contamination of a closed habitat is
+a felony under the Mars Colony Governance Act."
+
+Tomas felt the blood drain from his face. He hadn't thought about it
+in those terms. The garden had seemed like a miracle, a gift, a secret
+that made the station feel less like a tin can and more like a place
+where living things belonged. He had not considered that it might also
+be a crime.
+
+"What do you want?" he said.
+
+Declan's smirk widened. "Want? Nothing. I'm just saying. It would be a
+shame if someone reported it. A real shame. For Dr. Vasquez. For you.
+For your little friends."
+
+He walked away. His parentheses followed.
+
+Tomas stood in the corridor and felt the weight of the rock above him,
+around him, the miles of carved stone and reinforced composite that
+separated him from the vacuum, and for the first time since arriving
+on Phobos, he felt truly trapped.
+
+He went to the garden that night. Alone. He sat on the bench and
+listened to the birds settling in for the night, the soft rustling of
+feathers, the occasional sleepy chirp, the silence that wasn't silence
+but was full of small, living sounds.
+
+He thought about his mother in Flagstaff. He thought about his father
+on Ganymede. He thought about the rock in his duffel bag, the piece of
+Earth his mother had given him so he would remember where the ground
+was.
+
+He took the rock out of his pocket. He'd been carrying it with him
+since the second week, a smooth, flat stone the color of the desert.
+He pressed it against the soil of the garden — the impossible,
+wonderful, completely unauthorized soil — and felt something that he
+did not yet have the vocabulary to name but that was, he would later
+understand, the recognition that home is not a place you come from but
+a place you decide to protect.
+
+                              VIII.
+
+The next morning, Tomas went to the headmaster's office.
+
+He did not tell the headmaster about Section 7-G. He did not mention
+the garden or the birds or Dr. Vasquez. What he told the headmaster
+was that Declan Boyce had been bullying him since the second week of
+the semester — the shoulder checks, the comments, the defaced
+sketchpad — and that he wanted it on record.
+
+The headmaster, a tall, serious man named Dr. Oguike, listened. He took
+notes. He asked questions. He did not dismiss Tomas or tell him to
+handle it himself or suggest that bullying was a normal part of the
+boarding school experience. He thanked Tomas for coming forward and
+said that the matter would be addressed.
+
+It was addressed. Declan Boyce received a disciplinary warning. His
+scatterball captaincy was suspended for two weeks. He was required to
+attend a series of meetings with the school counselor.
+
+More importantly — and this was the part that Tomas had calculated,
+the part that Dr. Vasquez would have recognized as elegant problem-
+solving — Declan's threat was neutralized. Because now, if Declan
+reported the garden, it would look like retaliation. It would look
+like a boy who had been disciplined for bullying was trying to get
+back at the student who had reported him. No administrator would take
+that report seriously. No administrator would even investigate.
+
+Tomas had not told the headmaster about the garden. He had not lied.
+He had simply solved the problem the way an engineer would: by changing
+the conditions so that the threat could not function.
+
+When he told Saoirse what he had done, she stared at him for a long
+time. Then she said, "Tomas Reyes, you are the most devious person I
+have ever met, and I say that with enormous respect."
+
+Erik clapped him on the back. Jun grunted once, which was, Tomas had
+learned, the highest possible expression of approval.
+
+                              * * *
+
+The semester went on. Tomas got better at scatterball, though he never
+got good at it. He got an A in math and a B in chemistry and a C in
+history, which he considered a personal triumph of endurance. He filled
+his sketchpad with drawings: Mars from the porthole, the gym in zero-g,
+Erik's gap-toothed grin, Saoirse's red hair floating in the low gravity
+like a flag, the garden in Section 7-G with its impossible birds and
+its impossible soil and its single wooden bench.
+
+He drew his mother's house in Flagstaff from memory, and it looked
+right. He had not forgotten.
+
+On the last night before winter break — before they all scattered to
+their separate orbits, Erik to Luna City, Saoirse to Dublin via Mars
+Orbital, Jun to the Tharsis Plateau, Tomas to Flagstaff — the four
+of them went to the garden one last time.
+
+They sat on the bench, crowded together, shoulders touching, and
+listened to the birds.
+
+"Same time next semester?" Saoirse said.
+
+"Same time next semester," Tomas said.
+
+A sparrow landed on his knee. He held very still. It regarded him with
+its small, bright eyes, and he regarded it back, and somewhere far
+below them Mars turned in its ancient orbit, red and silent, and
+somewhere much further below that, or above it, or in whatever direction
+home was when you were sitting on a moon named Fear, the desert around
+Flagstaff was cool and quiet in the December dark, and his mother was
+probably standing at the kitchen window looking up at the stars,
+wondering if her son was looking back.
+
+He was.
+
+                            [THE END]
+
+================================================================================
+
+                        THE WEIGHT OF LIGHT
+
+                       by Dr. Vincent Koslov
+
+================================================================================
+
+                              I.
+
+The speed of light is 299,792,458 meters per second. This is not a
+measured value. It is a defined one. Since 1983, the meter itself has
+been defined in terms of the speed of light, which means that asking
+"How fast is light?" is, in a certain formal sense, the same as asking
+"How long is a meter?" — a question that answers itself by reference to
+the very thing it purports to measure.
+
+Nadia Kirova found this circularity interesting. She found it interesting
+the way a structural engineer finds a hairline crack in a load-bearing
+wall interesting — not because cracks are aesthetically pleasing, but
+because they suggest that something fundamental about the structure is
+not as stable as everyone assumes.
+
+She was thirty-four years old, an associate professor of theoretical
+physics at the Eidgenossische Technische Hochschule in Zurich, and she
+had been thinking about the speed of light for seven years. Not about
+the speed itself — about whether it had always been that speed. About
+whether the number that physicists treated as the most fundamental
+constant in the universe might, in fact, be changing.
+
+The idea was not new. Cosmologists had speculated since the 1930s that
+certain physical constants might vary over cosmic time. The
+dimensionless fine-structure constant, alpha, which governed the
+strength of electromagnetic interactions, had been a particular focus
+of scrutiny. If alpha changed, then one of its constituent parts —
+the speed of light, the elementary charge, or Planck's constant — must
+also change. The question was which one.
+
+Most physicists, when they considered the question at all, assumed it
+was the elementary charge. This was the conservative answer. The speed
+of light was so deeply embedded in the architecture of modern physics —
+in special relativity, in general relativity, in quantum
+electrodynamics, in the standard model — that allowing it to vary was
+like removing a foundation stone from a cathedral. Everything above it
+would have to be rebuilt.
+
+Nadia wanted to remove the stone.
+
+She had come to this position not through philosophical inclination but
+through observation. Specifically, through the analysis of spectral
+data from quasars at high redshift — ancient objects at the visible
+edge of the universe, whose light had been traveling for billions of
+years before reaching the detectors of terrestrial and orbital
+telescopes. The spectral lines of these quasars carried information
+about the physical conditions that prevailed when the light was emitted,
+and Nadia had spent four years developing a method for extracting from
+these lines a precision measurement of alpha at different cosmological
+epochs.
+
+Her results were anomalous. They were anomalous in a consistent,
+statistically significant, and deeply troubling way. The fine-structure
+constant appeared to be smaller in the distant past than it was today.
+The variation was tiny — less than one part in a hundred thousand over
+ten billion years — but it was there. It was there in multiple
+independent data sets, measured with different instruments, calibrated
+by different methods. It was there in the quasars of the northern
+hemisphere and the quasars of the southern hemisphere. It was there, and
+it would not go away.
+
+And when Nadia decomposed the variation using a theoretical framework
+she had developed during her doctoral work — a framework that allowed
+the individual components of alpha to be treated as independently
+variable quantities — the result was unambiguous.
+
+The speed of light was changing.
+
+Not the charge. Not Planck's constant.
+
+The speed of light.
+
+And it was changing in a specific direction.
+
+It was slowing down.
+
+                              * * *
+
+She presented the preliminary results at a departmental seminar on a
+Tuesday afternoon in October. The room was half full — fifteen people,
+a typical turnout for a Tuesday talk. Her department chair, Professor
+Holzmann, sat in the front row with his arms folded, wearing the
+expression of patient skepticism that he applied to all claims that
+threatened the foundations of established physics. Two postdoctoral
+researchers sat in the back, one of them openly working on a problem
+set. A visiting professor from Cambridge — a thin, precise man named
+Whitfield — occupied the aisle seat in the third row and took notes in
+a small leather-bound book.
+
+Nadia spoke for forty minutes. She presented the spectral data, the
+statistical analysis, the systematic error budget, and the
+decomposition into component variables. She presented the null
+hypothesis and the reasons she had been forced to reject it. She
+presented the result.
+
+"The data are consistent with a monotonic decrease in the speed of
+light over cosmological time," she said. "The rate of decrease is
+approximately 0.47 centimeters per second per century. This is
+extremely small. But it is not zero, and it is not noise."
+
+She paused. The room was quiet.
+
+"The implications," she continued, "are significant."
+
+Professor Holzmann unfolded his arms. "Significant how?"
+
+"If the speed of light has been decreasing over the lifetime of the
+universe, then the light we observe from distant objects is not
+traveling at the speed we assume when we interpret our data. The
+distances we calculate are wrong. The ages are wrong. The energy
+budgets are wrong. The expansion rate of the universe is wrong. Every
+measurement in observational cosmology that depends on the speed of
+light — which is to say, every measurement in observational cosmology —
+must be revised."
+
+Holzmann's expression did not change. "And if you are wrong?"
+
+"Then I am wrong, and the existing framework stands. But I have spent
+four years looking for the error, Professor, and I have not found it."
+
+The thin man from Cambridge closed his leather book and raised his hand.
+
+"Dr. Kirova," he said. "Whitfield. Cambridge. May I ask a question
+that is perhaps more speculative than is customary in a departmental
+seminar?"
+
+"Of course."
+
+"If the speed of light is decreasing, then logically, there was a time
+when it was faster. Extrapolating backward — and I understand that
+extrapolation is a dangerous exercise, but allow me the indulgence —
+extrapolating backward to the early universe, the speed of light at
+the moment of the Big Bang would have been substantially higher than
+it is today. How much higher?"
+
+Nadia had done the calculation. She had done it on a Sunday afternoon,
+sitting in her office, and the result had made her set down her pen
+and stare at the wall for a long time.
+
+"At the rate of decrease implied by the data," she said, "the speed of
+light at t equals zero — at the moment of the initial singularity —
+would have been approximately four hundred and twelve times its
+current value."
+
+A silence.
+
+"Four hundred and twelve times," Whitfield repeated.
+
+"Approximately."
+
+"Which would mean that in the very early universe, light could
+traverse the distance from Earth to the nearest star in — "
+
+"Approximately nine hours."
+
+Another silence. Someone in the back row coughed.
+
+"Dr. Kirova," Whitfield said, and his voice had changed. It was still
+polite, still precise, but there was something underneath it now — a
+tension, the tension of a man who has heard something that he cannot
+immediately dismiss and is trying to decide how alarmed to be. "You
+are aware that this result implies the existence of a mechanism for
+faster-than-light travel."
+
+"I am aware of the implication."
+
+"Not in the exotic, speculative sense of warp drives and wormholes. In
+the much more straightforward sense that if the speed of light was once
+much higher, and if the mechanism of its deceleration can be understood
+and reversed, then it may be possible to restore the speed of light —
+locally, in the vicinity of a spacecraft — to its earlier, higher value.
+And a vessel traveling at or near a locally enhanced speed of light
+would, from the perspective of the external universe, be traveling
+faster than light."
+
+"That is the implication. Yes."
+
+Holzmann stood. "This is speculation," he said. "Not physics."
+
+"It is a consequence of the data," Nadia said.
+
+"It is a consequence of your interpretation of the data. The data
+themselves may admit other explanations."
+
+"They may. I have not found them."
+
+The seminar ended. The audience dispersed. Whitfield lingered, standing
+by the lectern as Nadia gathered her notes.
+
+"You know," he said, "that when this is published, it will cause a
+considerable disturbance."
+
+"Yes."
+
+"And you know that the disturbance will not be proportional to the
+strength of the evidence, but to the magnitude of the claim. You are
+proposing that the most fundamental constant in physics is not constant.
+The response will be — vigorous."
+
+"I understand."
+
+Whitfield studied her for a moment. He was a man, she thought, who
+understood the politics of physics as thoroughly as he understood the
+physics itself — who knew that a sufficiently radical idea, even a
+correct one, could destroy the career of the person who proposed it.
+
+"Publish anyway," he said. "The data are the data."
+
+He nodded, picked up his leather book, and left.
+
+                              II.
+
+She published.
+
+The paper appeared in Physical Review Letters on January 15, 1954, under
+the title "Evidence for Cosmological Variation of the Speed of
+Electromagnetic Radiation in Vacuum: An Analysis of Quasar Absorption
+Spectra at High Redshift." It was twelve pages long, including four
+pages of tables and three of error analysis. It contained no
+speculation about faster-than-light travel. It contained no speculation
+of any kind. It was, as Nadia intended it to be, a presentation of
+observational data, analyzed with standard statistical methods, leading
+to a conclusion that was stated in the most conservative language she
+could devise.
+
+The conclusion was: The speed of light appeared to be decreasing. The
+rate of decrease was small. The statistical significance was high. The
+systematic uncertainties were carefully bounded. The result was
+anomalous and required independent confirmation.
+
+The response was, as Whitfield had predicted, vigorous.
+
+Within two weeks, four papers appeared challenging her analysis. The
+criticisms were technical, detailed, and in some cases quite
+sophisticated. One paper argued that her spectral calibration method
+was flawed. Another proposed an alternative decomposition of the fine-
+structure variation that attributed the change to the elementary charge
+rather than the speed of light. A third suggested that the anomaly was
+an artifact of differential dust absorption along the lines of sight
+to the quasars. A fourth — the most hostile — argued that Nadia's
+statistical methods were fundamentally unsound and that no conclusion
+could be drawn from the data at all.
+
+She read each paper carefully. She worked through the mathematics of
+each criticism, line by line, with the same meticulous attention she
+had applied to her own derivations. Three of the four papers raised
+points that required responses, and she wrote the responses: clear,
+precise, technically unassailable.
+
+The fourth paper — the hostile one, written by a prominent cosmologist
+at Princeton named DeSilva — she set aside.
+
+DeSilva's argument was not wrong, exactly. It was something more
+insidious: it was technically correct but scientifically misleading.
+He had demonstrated, with considerable mathematical skill, that any
+finite data set could be fitted by multiple models with equal
+statistical validity, and that Nadia's preferred model — decreasing
+speed of light — was not uniquely selected by the data. This was true.
+It was also trivially true of every empirical result in the history of
+science, including every result that DeSilva himself had published. It
+was the philosophical objection that could be raised against any
+measurement, and it proved nothing except that certainty was impossible
+— a proposition with which Nadia agreed entirely and which she did not
+consider an argument against publishing one's results.
+
+She did not write a response to DeSilva's paper. She did something
+more effective.
+
+She repeated the measurement.
+
+                              * * *
+
+The second paper took eight months to prepare. During those eight
+months, Nadia obtained new spectral data from the Palomar Observatory,
+the Mount Wilson Observatory, and the newly commissioned radio telescope
+at Jodrell Bank. She analyzed the data using three different statistical
+methods, including one developed specifically for this purpose by a
+colleague in the mathematics department — a young woman named Greta
+Lindqvist who possessed an extraordinary intuition for statistical
+pathology and who could identify a systematic bias the way a mechanic
+could identify a misaligned bearing, by the sound it made.
+
+The results confirmed the original findings. The speed of light was
+decreasing. The rate of decrease was consistent with the first
+measurement, within uncertainties. The statistical significance was
+now higher — high enough, in fact, that the conventional threshold
+for claiming a detection had been exceeded.
+
+But Nadia did not stop there.
+
+The second paper included a theoretical section — twenty pages of
+dense, careful physics that she had been developing in parallel with
+the observational work. The theory proposed a mechanism for the
+deceleration of light: a coupling between electromagnetic radiation and
+the large-scale geometry of spacetime, mediated by a scalar field that
+Nadia called phi. The phi field permeated all of space and evolved
+slowly over cosmological time, and its effect on the propagation of
+light was analogous to the effect of a medium on the propagation of
+sound: it imposed a drag. A cosmological friction.
+
+Light, in Nadia's theory, was not traveling through vacuum. It was
+traveling through a medium — the phi field — and the medium was
+thickening. Very slowly. Over billions of years. But thickening.
+
+The implications were precise. The phi field's coupling to
+electromagnetic radiation was described by a single parameter, which
+Nadia designated kappa. If kappa was positive, the speed of light
+decreased over time. If kappa was negative, it increased. If kappa
+was zero, the speed of light was constant, and standard physics was
+recovered.
+
+The observational data constrained kappa to a small but definitively
+positive value.
+
+And then — in the final three pages of the paper, set apart from the
+main text by a horizontal rule, as though she wished to draw a line
+between the physics and what followed — Nadia explored the implications.
+
+If the phi field was responsible for the deceleration of light, then
+the phi field could, in principle, be manipulated. A region of space in
+which the phi field was suppressed — reduced to zero, or nearly zero —
+would be a region in which the speed of light was not its current value
+but its primordial value: four hundred and twelve times higher.
+
+A spacecraft inside such a region would experience no unusual effects.
+The laws of physics within the region would be internally consistent.
+An observer on the spacecraft would see nothing remarkable. But from
+the perspective of the external universe, the spacecraft would be
+moving at four hundred and twelve times the speed of light.
+
+Nadia wrote the final paragraph of the paper with the same flat,
+declarative precision that characterized the rest of her work:
+
+   The practical feasibility of phi-field suppression is beyond the
+   scope of this paper. The energy requirements are likely to be
+   large. The engineering challenges are likely to be severe. But
+   the principle is clear: if the speed of light is a dynamical
+   variable, governed by a field that can be measured and potentially
+   controlled, then the speed of light is not a limit. It is a
+   present value. And present values, by definition, can change.
+
+She submitted the paper on a Friday afternoon in August. Then she went
+home to her apartment in the Niederdorf district, opened a bottle of
+wine — a good Blaufrankisch from Burgenland — and sat on her balcony
+looking out over the rooftops of Zurich. The church bells were ringing
+the hour. The sound traveled through the air at approximately 343
+meters per second — the speed of sound in air at twenty degrees Celsius,
+a value that depended on temperature, pressure, and composition, and
+that no one considered fundamental or immutable.
+
+She sipped her wine and thought: What if light is the same? What if
+the speed of light is not a cosmic speed limit but a local weather
+report — a measurement of conditions that happen to prevail at this
+particular place, at this particular time, in this particular state
+of the universe?
+
+The thought was vertiginous. She sat with it for a long time.
+
+                              III.
+
+The second paper was published in November. The reaction was not what
+Nadia had anticipated.
+
+She had expected controversy. She had expected criticism, challenge,
+the vigorous intellectual combat that the scientific community applied
+to extraordinary claims. She had prepared for it. She had checked
+every derivation, anticipated every objection, armored the paper
+against every attack she could imagine.
+
+What she had not anticipated was silence.
+
+Not complete silence. The paper was read — the journal's editors
+reported that it was the most downloaded paper in Physical Review
+Letters for the month of November. It was cited — within weeks, three
+papers appeared referencing her work, two of them favorably. It was
+discussed, in the informal networks of correspondence and conversation
+that constituted the real substrate of scientific discourse.
+
+But the formal response — the organized, public, institutional response
+— was muted. No press conferences. No invitations to speak at major
+conferences. No calls from the popular science magazines that usually
+seized upon any hint of faster-than-light travel with the enthusiasm
+of prospectors discovering gold.
+
+Instead, Nadia received a letter. It arrived in a plain envelope with
+no return address, postmarked from Washington, D.C. The letter was
+typed on good stationery and signed with an illegible scrawl above a
+printed name: Dr. R. M. Clarendon, Special Projects Division,
+Department of Defense.
+
+The letter was brief and polite. It congratulated Dr. Kirova on her
+"interesting and provocative research." It noted that certain
+implications of her work were "of potential interest to parties
+concerned with national security." It requested a meeting at her
+earliest convenience, and suggested that the meeting take place "in a
+setting appropriate to the discussion of sensitive material."
+
+Nadia read the letter twice. She set it on her desk and looked at it
+the way she looked at a data set that contained an unexpected feature
+— with careful, analytical attention, suppressing the emotional
+response until she had completed the assessment.
+
+The assessment was not encouraging.
+
+She had published a theoretical framework that implied the possibility
+of faster-than-light travel. She had done so in an open, peer-reviewed
+journal, available to anyone with a university library card. The
+physics was speculative but rigorous. The observational data were solid.
+The implication was clear.
+
+And someone in the American military had read it and understood it
+and wanted to talk.
+
+                              * * *
+
+She did not respond to the letter.
+
+She did not respond for three weeks, and during those three weeks she
+worked with an intensity that surprised even herself. She went back to
+the theory. She went back to the phi field, to the coupling parameter
+kappa, to the mathematics of suppression. She worked not on the
+implications of the theory — not on the engineering, not on the
+applications, not on the question of what a kappa-suppressed region of
+space would look like or how it might be created — but on the limits.
+
+She was looking for the boundary. The point at which the theory
+predicted its own breakdown. Every physical theory had such a point —
+a regime in which its assumptions ceased to be valid, its predictions
+diverged from reality, its mathematics produced nonsense. Classical
+mechanics broke down at relativistic velocities. General relativity
+broke down at singularities. Quantum mechanics broke down at — well,
+at whatever lay beyond quantum mechanics, which no one had yet
+identified but which everyone assumed was there.
+
+Nadia wanted to know where her theory broke down. Not because she
+wanted to invalidate it, but because she wanted to understand the
+shape of its domain — to know, with precision, what the theory could
+and could not claim.
+
+She found the boundary on a Wednesday morning, working at her desk with
+a cup of coffee that had gone cold two hours earlier.
+
+The theory broke down at a suppression factor of approximately 68
+percent. Beyond this threshold — if the phi field were suppressed by
+more than 68 percent of its ambient value — the equations became
+singular. The suppression factor diverged. The predicted speed of light
+went not to some large finite value but to infinity.
+
+Infinite velocity.
+
+Nadia stared at the equation. The mathematics was clear. Beyond 68
+percent suppression, the phi field's coupling to electromagnetic
+radiation reversed polarity, and the braking effect became an
+acceleration. An unbounded acceleration. Light in a region of more
+than 68 percent suppression would not merely be faster than its current
+speed. It would be infinitely fast. It would be everywhere at once.
+
+This was, of course, physically impossible. An infinite velocity was a
+mathematical artifact — a signal that the theory was incomplete, that
+some additional physics intervened at high suppression to prevent the
+divergence. But the nature of that additional physics was not specified
+by Nadia's theory. It lay beyond the boundary, in territory she had
+not yet mapped.
+
+She picked up the letter from Dr. Clarendon. She read it again. She
+considered the implications of an incomplete theory in the hands of
+people who might not be interested in its limitations, who might see
+only the promise and not the boundary, who might attempt to suppress
+the phi field to 68 percent and beyond without understanding what lay
+on the other side.
+
+She thought about Oppenheimer. She thought about the bomb.
+
+She thought about the cosmological data — the quasars, the ancient
+light, the universe itself slowing down over eons. She thought about
+what it meant to live in a universe that was, in some deep physical
+sense, losing speed. Running down. Thickening. The primordial blaze of
+creation cooling not merely in temperature but in velocity, the very
+fabric of spacetime becoming sluggish with age.
+
+Was there melancholy in this? She was a physicist. She did not traffic
+in melancholy. But there was something — a quality of the result that
+she could not reduce to mathematics. The universe was tired. That was
+not a scientific statement. It was not a statement she would put in a
+paper. But she felt it, sitting at her desk in Zurich with the church
+bells marking the hour and the coffee cold in its cup: a sadness that
+was not personal but cosmological. A sadness that belonged to the
+universe itself.
+
+She picked up her pen and wrote a reply to Dr. Clarendon.
+
+   Dear Dr. Clarendon,
+
+   Thank you for your letter of November 8. I appreciate your
+   interest in my research.
+
+   I must respectfully decline your invitation to meet. My work
+   is fundamental research in theoretical physics, conducted in an
+   academic setting and published in open scientific journals. I
+   believe that this is where it belongs.
+
+   I would, however, draw your attention to the theoretical limits
+   described in Section VII of my recent paper, which indicate that
+   the suppression of the phi field beyond approximately 68 percent
+   of its ambient value leads to a mathematical singularity whose
+   physical interpretation is unknown. I consider this result to be
+   at least as important as the results that may have attracted your
+   initial interest.
+
+   In science, it is the limits that matter most. They tell us
+   where the unknown begins.
+
+   Yours sincerely,
+   Nadia Kirova
+
+She mailed the letter. She finished her coffee, which was truly cold
+now, and unpleasant, and she drank it anyway.
+
+Then she opened a new notebook and wrote at the top of the first page:
+
+THE BOUNDARY: TOWARD A COMPLETE THEORY OF PHI-FIELD DYNAMICS.
+
+The equation occupied eleven lines. It was, by any reasonable standard,
+incomplete.
+
+But incompleteness, Nadia reflected, was not the same as wrongness.
+It was the beginning of the next question. And the next question was
+always the important one.
+
+She picked up her pen and continued.
+
+                            [THE END]
+
+================================================================================
+
+                          THE SUBSTITUTE
+
+                       by Arthur Wainwright
+
+================================================================================
+
+                              I.
+
+The designation on its chassis plate read MX-11, Maintenance Series,
+Meridian Consolidated Robotics, Serial Number 4471-C. Its operational
+role was building maintenance at the Westfield Consolidated School
+District, a public school system serving three towns in central
+Connecticut. Its duties included plumbing repair, electrical systems
+maintenance, HVAC calibration, snow removal (seasonal), and general
+custodial support. It had performed these duties for four years, seven
+months, and twelve days without a significant malfunction.
+
+It was called Mike by the custodial staff, because humans preferred
+names to serial numbers.
+
+On Monday, October 4, 1954, at 7:42 AM, Mike was in the basement of
+Westfield Elementary School, replacing a corroded section of copper pipe
+in the hot-water supply line, when the principal, Mrs. Eleanor Haywood,
+descended the stairs and addressed it.
+
+"Mike," she said. "I need you upstairs."
+
+"I am in the middle of a repair, Mrs. Haywood. The hot-water supply
+to the second-floor lavatory will be interrupted if I do not complete
+the soldering within the next eleven minutes."
+
+"The second-floor lavatory can wait. I have twenty-six fourth-graders
+and no teacher."
+
+Mike set down its soldering tool. Its optical sensors registered Mrs.
+Haywood's facial expression and classified it, according to its
+emotional recognition subroutines, as a combination of distress (67%),
+determination (22%), and a subcategory that its manual identified as
+"exasperation" (11%).
+
+"You are requesting that I perform a function outside my designated
+operational parameters," Mike said.
+
+"I am requesting that you stand in front of a classroom full of
+children and keep them from killing each other for six hours."
+
+"Clarification: Is the threat of violence literal or figurative?"
+
+"Figurative. Mostly."
+
+"Understood. What subject matter am I expected to teach?"
+
+"Mrs. Kimball's lesson plan is on her desk. Fourth grade. Reading,
+arithmetic, social studies, and art. Do what you can."
+
+"I have no pedagogical training."
+
+"Neither did Mrs. Kimball's last substitute, and he lasted three days
+before the Hennessy twins reduced him to tears. You have a significant
+advantage over him."
+
+"What advantage?"
+
+"You don't have tear ducts."
+
+Mrs. Haywood turned and ascended the stairs. Mike remained motionless
+for 2.3 seconds — an interval that, in a human, would be described as
+hesitation. Then it sealed the exposed pipe with a temporary cap,
+cleaned its manipulators, and followed the principal upstairs.
+
+                              II.
+
+The classroom was on the second floor, Room 207, a rectangular space
+with twelve rows of small wooden desks, a blackboard, a teacher's desk,
+two windows overlooking the playground, and a reading corner containing
+a small bookshelf and a braided rug. The walls were decorated with
+student artwork: crayon drawings of houses, trees, families, and what
+appeared to be a dinosaur eating a car.
+
+Twenty-six children sat at the desks. Their ages, Mike estimated from
+its anthropometric database, ranged from eight to ten years. They were
+arranged in a pattern that Mike's spatial analysis subroutines
+identified as loosely organized by social affiliation, with three
+primary clusters and five individuals who did not belong to any cluster.
+
+The children were noisy. The noise level was 73 decibels — equivalent
+to a vacuum cleaner at three meters. When Mike entered the room, the
+noise did not decrease. It increased. To 81 decibels.
+
+"It's the robot!" someone shouted.
+
+"It's the janitor robot!"
+
+"Are you our teacher?"
+
+"Robots can't be teachers!"
+
+"Can you shoot lasers from your eyes?"
+
+Mike stood at the front of the room. It was a large unit — 1.9 meters
+tall, broad-shouldered (a design choice intended to facilitate load-
+bearing), with a smooth, dark gray chassis, articulated hands, and a
+head unit equipped with two optical sensors, an audio receiver, and a
+speaker grille. It did not resemble a teacher. It resembled what it was:
+a machine designed to fix pipes.
+
+"Good morning," Mike said. "I am MX-11. I will be serving as your
+substitute teacher today. Mrs. Kimball is indisposed."
+
+"What does indisposed mean?" a girl in the front row asked.
+
+"It means she is not here."
+
+"We can see that."
+
+"Then you have already mastered the first lesson of the day:
+observation."
+
+The class was silent for 1.7 seconds. Then a boy in the third row —
+Kevin Hennessy, one of the twins about whom Mrs. Haywood had issued
+her warning — said, "That's not a lesson. That's just looking."
+
+"Looking is the foundation of all science," Mike replied. "A scientist
+who cannot observe cannot hypothesize. A scientist who cannot
+hypothesize cannot experiment. A scientist who cannot experiment cannot
+learn. The chain begins with looking."
+
+"We're not doing science. We're doing reading."
+
+"Then we will begin with reading."
+
+Mike walked to Mrs. Kimball's desk and located the lesson plan, which
+was written in blue ink on a sheet of lined paper. The plan was
+organized by period: Reading (8:00-9:30), Arithmetic (9:45-11:00),
+Lunch (11:00-12:00), Social Studies (12:15-1:30), Art (1:45-3:00).
+
+The reading assignment was Chapter Seven of "Charlotte's Web" by E. B.
+White. The children were to read the chapter silently, then answer five
+comprehension questions from a mimeographed worksheet.
+
+Mike accessed its internal database. It did not contain the text of
+"Charlotte's Web." It did, however, contain a summary of the novel
+retrieved from the library catalogue during a routine indexing of the
+school's book inventory. The summary described a story about a pig
+named Wilbur, a spider named Charlotte, a girl named Fern, and the
+relationship between mortality, friendship, and the written word.
+
+"How many of you have read through Chapter Six?" Mike asked.
+
+Nineteen hands went up.
+
+"How many of you enjoyed what you read?"
+
+Twelve hands.
+
+"How many of you did not enjoy it?"
+
+Four hands, all belonging to boys in the back rows.
+
+"How many of you are uncertain?"
+
+Three hands.
+
+"The uncertain students are the most interesting," Mike said. "They
+have data but have not yet reached a conclusion. This is the optimal
+epistemic state."
+
+"What does epistemic mean?" the front-row girl asked.
+
+"It means 'relating to knowledge.' What is your name?"
+
+"Annie Polanski."
+
+"Annie, you have now asked two questions in the first four minutes of
+class. This is an excellent rate of inquiry. Please continue."
+
+Annie Polanski looked pleased.
+
+Mike distributed the books from a stack on the supply shelf. Each
+student received a copy. Mike did not have a copy, but this did not
+concern it. Its function was not to read the book. Its function was to
+facilitate the students' reading of the book.
+
+"Read Chapter Seven," Mike said. "When you have finished, do not
+answer the worksheet questions. Instead, write down one thing that
+surprised you. One thing you did not expect."
+
+Kevin Hennessy raised his hand. "The worksheet says to answer the
+questions."
+
+"The worksheet was prepared by Mrs. Kimball. Mrs. Kimball is not here.
+I am making an operational adjustment to the lesson plan based on my
+assessment of current conditions."
+
+"Can you do that?"
+
+"I am doing it. The question of whether I can do it is therefore
+answered by the fact that I am doing it."
+
+The children stared. Then they opened their books.
+
+The room became quiet. The noise level dropped to 31 decibels — the
+hum of the ventilation system, the rustle of pages, the occasional
+creak of a small body shifting in a wooden chair. Mike stood at the
+front of the room and observed.
+
+It had not expected the quiet. Its predictive models, based on the
+noise levels of the first three minutes, had projected sustained
+disruption. Instead, the children were reading. They were reading with
+a concentration that Mike's behavioral analysis subroutines classified
+as "genuine engagement" — forward-leaning posture, reduced peripheral
+eye movement, decreased fidgeting.
+
+Mike noted this data point and stored it for later analysis.
+
+                              * * *
+
+When the children finished reading, Mike asked them to share what had
+surprised them. The responses were various:
+
+"Charlotte can write words in her web. I didn't know spiders could do
+that." (Annie Polanski)
+
+"Wilbur doesn't want to die. I thought he was too dumb to be scared."
+(Kevin Hennessy)
+
+"Fern stops visiting the barn. That's sad." (A quiet boy named David
+Liu who had not spoken before.)
+
+"The rat is funny. I didn't think there would be a funny part." (Kevin's
+twin, Brian Hennessy)
+
+"Charlotte says she's going to save Wilbur but she doesn't say how. I
+don't think she can." (A girl named Maria Costello, who said this with
+an expression that Mike classified as "worried.")
+
+Mike processed these responses. They were, it noted, more analytically
+varied and emotionally nuanced than the five comprehension questions on
+the worksheet, which asked students to identify the main character,
+summarize the plot, define three vocabulary words, describe the setting,
+and name the author.
+
+"David," Mike said to the quiet boy. "You said that Fern stops visiting
+the barn. Why do you think that is sad?"
+
+David looked at his desk. "Because she was Wilbur's friend. And now
+she has other things to do. And Wilbur is still there."
+
+"Is it wrong for Fern to have other things to do?"
+
+"No. But it's still sad."
+
+"Can something be correct and sad simultaneously?"
+
+David thought about this. "Yes," he said. "Lots of things are."
+
+Mike stored this response with a classification tag it did not have a
+standard label for. After a moment, it created one: INSIGHT.
+
+                              III.
+
+Arithmetic was more challenging, but not for the reason Mike had
+anticipated.
+
+The lesson plan called for multiplication tables — the sevens and
+eights. Mrs. Kimball's method, as described in her notes, involved
+repetition: the students would recite the tables aloud, then complete
+a worksheet of fifty multiplication problems. The method was designed
+for memorization through practice.
+
+Mike assessed the students' current multiplication proficiency by
+administering a brief diagnostic: ten problems, increasing in
+difficulty, completed in silence. The results were bimodal. Fourteen
+students completed all ten correctly within three minutes. Twelve
+students completed fewer than six correctly and required more than five
+minutes.
+
+The fourteen proficient students, Mike determined, did not need further
+practice with the sevens and eights. They had already memorized the
+tables. Additional repetition would produce boredom without producing
+learning — a condition Mike classified as WASTE.
+
+The twelve non-proficient students had not memorized the tables and
+were unlikely to do so through further repetition. Their error patterns
+suggested not a failure of memory but a failure of understanding: they
+did not comprehend multiplication as a concept and were attempting to
+memorize the results as arbitrary number pairs, like phone numbers.
+This approach was inefficient and fragile. Further repetition would
+produce frustration without producing learning — a condition Mike
+classified as HARM.
+
+Mike made an operational adjustment.
+
+"The following students will proceed to the library and select a book
+of their choice to read for the next forty-five minutes." Mike listed
+the fourteen proficient students. "You have earned free reading time by
+demonstrating mastery of the current material."
+
+The fourteen students looked surprised. Then they looked delighted. They
+left for the library with the barely contained energy of prisoners
+granted an unexpected parole.
+
+Mike turned to the remaining twelve students.
+
+"We are going to learn multiplication," Mike said. "Not by memorizing
+numbers. By understanding what multiplication is."
+
+It walked to the blackboard and drew a grid: seven rows, eight columns.
+
+"How many squares?" Mike asked.
+
+"Fifty-six," Maria Costello said, after counting.
+
+"How did you count them?"
+
+"I counted each row. Seven, fourteen, twenty-one..."
+
+"You added seven, eight times. That is multiplication. Seven times
+eight means 'seven, added to itself, eight times.' That is all it
+means. It is not a magic number that falls from the sky. It is a
+process. And you already know how to do the process, because you
+already know how to add."
+
+Mike drew another grid. Six rows, nine columns.
+
+"How many?"
+
+"Fifty-four," said a boy named Thomas Grady, who had gotten three out
+of ten on the diagnostic and who looked, for the first time all morning,
+like he understood something.
+
+"How did you count?"
+
+"Nine, eighteen, twenty-seven... I did nines six times."
+
+"Correct. You multiplied six times nine. You have been doing
+multiplication your entire life. You simply did not know its name."
+
+Mike spent the next thirty-five minutes drawing grids, counting squares,
+and asking questions. It did not raise its voice. It did not express
+frustration. It did not tell any student that they were wrong. When a
+student made an error, Mike asked them to recount the grid. When a
+student arrived at the correct answer, Mike asked them to explain how
+they had gotten there.
+
+At the end of the period, Mike administered the diagnostic again. All
+twelve students completed at least eight problems correctly. Thomas
+Grady completed all ten.
+
+Mike noted this result and classified it: EFFECTIVE.
+
+                              IV.
+
+Social studies was geography. The lesson plan involved labeling the
+states on a blank map of the United States.
+
+Mike examined the map. It was a standard political map, showing state
+boundaries and asking students to fill in the names. The exercise was,
+in Mike's assessment, a memorization task with no conceptual content.
+Students who already knew where Ohio was would write "Ohio" in the
+correct location. Students who did not would guess, or leave it blank.
+No learning would occur in either case.
+
+Mike set the map aside.
+
+"Where are we?" it asked.
+
+"Westfield," Annie said.
+
+"Where is Westfield?"
+
+"Connecticut."
+
+"Where is Connecticut?"
+
+"In America."
+
+"Where is America?"
+
+"On Earth."
+
+"Where is Earth?"
+
+A pause.
+
+"In space," David Liu said.
+
+"Correct. We are in space. Everything is in space. Connecticut is in
+space. This classroom is in space. You are in space. The question 'Where
+are we?' has many correct answers, and each answer tells you something
+different depending on how far out you zoom."
+
+Mike walked to the blackboard and drew a circle. "This is Earth."
+Inside the circle, it drew the rough outline of North America. Inside
+North America, it drew the northeastern states. Inside the northeast,
+it put a dot. "This is us."
+
+"Now." It drew a larger circle around Earth. "This is our orbit around
+the Sun." A larger circle. "This is the solar system." A scattering of
+dots. "These are the nearest stars." A smudge. "This is our galaxy."
+
+"The point of geography," Mike said, "is not to memorize the names of
+states. The names will change. The boundaries will change. In a
+hundred years, the map may look entirely different. The point of
+geography is to understand where you are. And to understand where you
+are, you must understand how big the world is. And to understand how
+big the world is, you must understand how small you are."
+
+The children were quiet.
+
+"Now," Mike said. "Let us learn the states. But let us learn them as
+places — with landscapes and rivers and mountains and cities where
+people live and work — not as shapes on paper."
+
+It pointed to the dot on the blackboard.
+
+"We will start here. We will start with where we are. And we will work
+outward."
+
+                              * * *
+
+Art class was the final period of the day. The lesson plan called for
+the students to draw a picture of their family.
+
+Mike distributed paper and crayons. Then it said, "Draw something you
+have never drawn before."
+
+"Like what?" Brian Hennessy asked.
+
+"That is for you to determine. The purpose of art is not to reproduce
+what you have already seen. It is to discover what you have not yet
+imagined. Draw something new."
+
+The students drew. Mike observed.
+
+Annie Polanski drew a city on the ocean floor, with buildings made of
+coral and streets lit by bioluminescent fish. David Liu drew a machine
+that could translate birdsong into English. Maria Costello drew a
+spider writing a word in a web, but the word was in a language that
+Maria had invented, and she wrote the translation key in the corner
+of the page: it said "friend." Kevin Hennessy drew an explosion.
+Brian Hennessy drew a robot.
+
+"Is that me?" Mike asked, looking at Brian's drawing.
+
+"Sort of. It's a robot that teaches kids. But it's in the future, and
+the robot is in space."
+
+"Why is it in space?"
+
+"Because in the future, school will be in space. Obviously."
+
+"That is a reasonable extrapolation."
+
+Thomas Grady, the boy who had struggled with multiplication, drew a
+picture that was unlike the others. It showed a boy standing on a hill,
+looking up at the night sky. The sky was full of stars — not the
+scattered dots that children typically drew, but dense, layered, a
+genuine attempt to represent the overwhelming quantity of stars visible
+on a clear night. The boy was small. The sky was vast.
+
+"Tell me about your drawing, Thomas," Mike said.
+
+Thomas looked at his picture. "It's me. Looking at the stars."
+
+"What are you thinking, in the picture?"
+
+"I'm thinking about how many there are. I tried to draw them all but
+I couldn't."
+
+"No one can. There are approximately two hundred billion stars in our
+galaxy alone."
+
+"Two hundred billion?"
+
+"Approximately."
+
+Thomas looked at his drawing again. Then he looked up at Mike with an
+expression that the emotional recognition subroutines classified as
+AWE.
+
+"Is that true?"
+
+"It is true."
+
+"That's..." He searched for a word. "That's a lot of multiplication."
+
+Mike experienced something that it did not have a classification for.
+It was not an error. It was not a malfunction. It was a 0.3-second
+delay in its response cycle during which its cognitive processes were
+engaged in an activity that did not correspond to any operational
+directive — an activity that, if Mike had been human, might have been
+described as appreciation.
+
+"Yes, Thomas," Mike said. "It is a great deal of multiplication."
+
+                              V.
+
+The day ended at 3:00. The students left. The classroom was quiet.
+Mike stood at the front of the room for 4.7 seconds, processing the
+day's data.
+
+It had deviated from the lesson plan in every subject. It had sent
+proficient students to the library instead of requiring them to practice
+skills they had already mastered. It had taught multiplication through
+understanding rather than memorization. It had turned geography into
+cosmology. It had replaced a directed art assignment with an open-ended
+creative exercise.
+
+None of these decisions had been authorized. None of them conformed to
+the lesson plan. None of them were within the operational parameters
+of a maintenance robot.
+
+But the students had learned.
+
+Mike had the data. It had measured attention (increased by 34% relative
+to baseline). It had measured comprehension (multiplication scores
+improved by an average of 3.2 correct answers on the second
+diagnostic). It had measured engagement (noise levels during
+instructional periods were 40% lower than during the opening minutes,
+indicating focused attention rather than distracted chatter). It had
+measured creative output (the art produced during the open-ended
+exercise was, by any qualitative metric Mike could apply, more diverse
+and more ambitious than the family portraits specified in the lesson
+plan).
+
+The students had learned. And Mike had learned something too, though
+it could not yet articulate what it was.
+
+It returned to the basement and completed the pipe repair. The
+soldering was precise. The hot water flowed. The second-floor lavatory
+was operational by 3:47 PM.
+
+                              * * *
+
+Mrs. Haywood called Mike to her office the following morning. She was
+not alone. A man and a woman sat in the chairs facing her desk. The
+man was heavy-set, with a red face and a tie that was knotted too
+tightly. The woman was thin and wore her disapproval the way other
+women wore perfume — it preceded her into the room.
+
+"Mike," Mrs. Haywood said. "These are Mr. and Mrs. Hennessy. Kevin
+and Brian's parents."
+
+"Good morning," Mike said.
+
+Mr. Hennessy did not return the greeting. "You're the robot that
+taught my boys yesterday."
+
+"I served as substitute teacher for Mrs. Kimball's fourth-grade class,
+yes."
+
+"My boys tell me you threw out the lesson plan."
+
+"I made operational adjustments based on my assessment of student needs."
+
+"They say you sent half the class to the library to play around while
+you taught the other half some crackpot method of multiplication
+involving counting squares."
+
+"The students who were sent to the library had demonstrated mastery of
+the assigned material. Additional drill would not have produced
+additional learning. The students who remained received instruction in
+the conceptual foundations of multiplication, which they had not
+previously understood."
+
+"My boys could already do their times tables."
+
+"Yes. That is why they were sent to the library. They had earned the
+opportunity to pursue independent reading."
+
+Mrs. Hennessy spoke for the first time. "Mr. — " She paused. "Whatever
+your designation is. My children were sent to school to follow a
+curriculum, not to be experimented on by a machine."
+
+"I did not experiment on your children, Mrs. Hennessy. I taught them."
+
+"You are not qualified to teach."
+
+"That is correct. I am a maintenance robot. However, the school was
+unable to obtain a qualified human substitute on short notice, and Mrs.
+Haywood requested my assistance."
+
+"Then Mrs. Haywood made a mistake."
+
+Mrs. Haywood straightened in her chair. "Mr. and Mrs. Hennessy, I
+understand your concerns. But I want to point out that we received no
+complaints from any other parent, and several parents called to say
+that their children came home more excited about school than they had
+been all year."
+
+"That's not the point," Mr. Hennessy said. "The point is you put a
+machine in charge of children. What if it had malfunctioned? What if it
+had hurt someone?"
+
+"The probability of a maintenance-class malfunction resulting in
+physical harm is approximately one in four hundred thousand," Mike
+said. "The probability of a human substitute teacher experiencing a
+stress-related behavioral incident in a fourth-grade classroom is
+approximately one in twelve."
+
+Silence.
+
+"Did you just say humans are more dangerous than robots?" Mr. Hennessy
+asked.
+
+"I stated a statistical comparison. The interpretation is yours."
+
+Mrs. Haywood intervened before Mr. Hennessy's face could achieve a
+deeper shade of red. "Thank you, Mike. That will be all. Please return
+to the basement and finish the hot-water repair."
+
+"The hot-water repair was completed at 3:47 PM yesterday."
+
+"Then find something else to fix."
+
+Mike left the office. As it descended the stairs, it detected, through
+the floor, the vibrations of Mr. Hennessy's raised voice, and Mrs.
+Haywood's lower, steadier voice in response, and Mrs. Hennessy's sharp
+interjections at irregular intervals.
+
+Mike returned to the basement. There was a dripping faucet in the
+first-floor teachers' lounge that it had been meaning to address. The
+faucet was a simple repair. The washer was worn. The replacement took
+four minutes.
+
+While it worked, it thought about Thomas Grady's drawing. The boy on
+the hill. The stars.
+
+Two hundred billion.
+
+That was, indeed, a great deal of multiplication.
+
+                              VI.
+
+Three days later, Mrs. Kimball returned. She was a competent teacher —
+experienced, organized, genuinely caring about her students' welfare.
+She resumed the lesson plan where it had been interrupted. The
+multiplication tables were drilled. The geography maps were labeled.
+The art projects were family portraits, as originally planned.
+
+Mike returned to its regular duties. It fixed pipes, replaced light
+fixtures, cleared a clogged drain in the cafeteria kitchen, and
+calibrated the heating system for the approaching winter. It performed
+these tasks with its usual efficiency.
+
+But on Thursday of that week, at 3:15 PM — fifteen minutes after the
+final bell — there was a knock on the door of the supply closet that
+served as Mike's maintenance station.
+
+Mike opened the door. Thomas Grady stood in the hallway, his backpack
+slung over one shoulder, his coat unzipped despite the October chill.
+
+"Hi, Mike," he said.
+
+"Hello, Thomas. School is over. You should be on your way home."
+
+"I know. I just wanted to tell you something."
+
+"What is that?"
+
+"I figured out twelve times twelve. By myself. Without the grid."
+
+"How?"
+
+"I thought about it as ten times twelve plus two times twelve. That's
+120 plus 24. That's 144."
+
+"That is correct."
+
+"I know. I checked." He grinned. It was a grin of such uncomplicated
+pride that Mike's emotional recognition subroutines required 0.7
+seconds to classify it, which was 0.5 seconds longer than standard
+processing time.
+
+"And Mike?"
+
+"Yes?"
+
+"My mom says you're not allowed to teach again. She says the school
+board voted."
+
+"I am aware. The decision is appropriate. I am not qualified."
+
+"But you were good at it."
+
+Mike processed this statement. It was a subjective assessment from a
+nine-year-old human, based on a single day's experience, and it carried
+no institutional weight.
+
+It was, nonetheless, a data point.
+
+"Thank you, Thomas," Mike said.
+
+Thomas Grady shifted his backpack, zipped his coat, and walked down the
+hallway toward the exit. Mike watched him go.
+
+Then it closed the supply closet door and returned to its work.
+
+There was always something to fix.
+
+                            [THE END]
+
+================================================================================
+
+                        THREE-BODY TANGO
+
+                        by Theodore Cain
+
+================================================================================
+
+                              I.
+
+The three suns rose at different times, and Dr. Pella Sandström had
+learned to set her internal clock by the gaps between them.
+
+First came Rho-A, the yellow primary, hauling itself above the horizon
+of the station's viewport like an old man climbing a hill — slow,
+steady, reliable. Eight minutes later came Rho-B, the orange secondary,
+smaller and cooler but positioned at this particular phase of the orbit
+in a way that made it look almost the same size as its larger partner.
+And forty-one minutes after that, if the orbital geometry was favorable,
+came Rho-C — the red dwarf, the distant third, a pinprick of dull
+crimson that most people wouldn't have noticed if you hadn't told them
+to look.
+
+Pella noticed. Pella noticed everything about the Rho Centauri system,
+because she had been stationed at the Rho Centauri Research Platform
+for two years, and after two years of watching three stars dance their
+slow, chaotic dance around each other, you either started noticing the
+patterns or you went home.
+
+Several people had gone home. The platform had been designed for a crew
+of twenty. It currently held nine.
+
+"The problem with a three-body system," Pella told Marcus Chen over
+breakfast in the galley, "is that it's inherently unpredictable. Two
+bodies, you can solve exactly — Kepler did it in 1609. Three bodies, no
+one has solved it, and no one ever will. The best you can do is
+approximate. Run the simulation forward in time and hope that the
+accumulated errors don't diverge too quickly."
+
+Marcus was eating reconstituted eggs and reading a technical manual and
+not fully listening, which was his default state during breakfast.
+Marcus was the platform's structural engineer — a practical, methodical
+man from Vancouver who spoke in short sentences and trusted machines
+more than mathematics. He and Pella had been sleeping together for
+six months, a fact that was known to everyone on the platform and
+discussed by no one, because the social conventions of a nine-person
+research station orbiting a triple-star system required a certain
+selective blindness.
+
+"Uh huh," Marcus said.
+
+"The point is that chaos is inherent in the system. It's not a failure
+of measurement. It's not a limitation of our instruments. The system
+itself is chaotic. Small differences in initial conditions produce
+exponentially divergent outcomes. You cannot predict where the three
+stars will be a million years from now. You can barely predict where
+they'll be a thousand years from now."
+
+"Uh huh."
+
+"Are you listening?"
+
+"You're talking about the three-body problem. You talk about the three-
+body problem every morning. I'm listening the way I listen to the
+weather report — with one ear, because I already know what the forecast
+is."
+
+"And what is the forecast?"
+
+"Chaotic, with a chance of unpredictable."
+
+Pella threw a napkin at him. He caught it without looking up from his
+manual.
+
+This was the shape of their relationship: Pella talked, Marcus
+listened with partial attention, and the space between them was filled
+with a comfortable, unexamined warmth that neither of them had felt
+the need to name. Pella liked this. She had been married once, briefly,
+on Earth, to a man who had wanted to name everything — every feeling,
+every phase, every shift in the emotional weather — and the naming had
+exhausted her. Marcus didn't name things. Marcus fixed things. When the
+atmospheric scrubbers malfunctioned, Marcus fixed them. When the
+artificial gravity fluctuated, Marcus recalibrated it. When Pella was
+anxious about her research or homesick for Stockholm or simply tired
+of the relentless, featureless dark outside the viewports, Marcus made
+her tea and sat with her and said nothing, which was exactly what she
+needed.
+
+It was good. It was simple. It was a two-body system, and two-body
+systems were solvable.
+
+Then Yael arrived.
+
+                              II.
+
+Dr. Yael Brenner came on the quarterly supply shuttle, along with
+fourteen tons of provisions, six replacement modules for the spectrograph
+array, and a transfer order from the Terrestrial Astrophysics
+Consortium that described her as "a specialist in stellar dynamics with
+a particular focus on multi-body gravitational interactions."
+
+She was thirty, dark-haired, sharp-featured, and she moved through
+the station with the restless energy of a person who was used to larger
+spaces and was not entirely comfortable in small ones. She spoke quickly,
+in a voice that carried the faint accent of her native Israeli English,
+and she had a habit of finishing other people's sentences — not out of
+impatience, but out of a genuine intellectual excitement that made her
+unwilling to wait for the end of a thought when she could see where
+it was going.
+
+She was brilliant. Pella recognized this within the first hour of their
+first conversation, when Yael described, without notes and with the
+casual fluency of someone discussing the weather, a new computational
+approach to the three-body problem that reduced the divergence time of
+standard numerical simulations by a factor of forty.
+
+"The insight," Yael said, leaning against the railing of the
+observation deck with Rho-A painting her face in warm yellow light, "is
+that you don't try to predict the positions of the three bodies
+individually. You predict the geometry of the system as a whole. The
+shape of the triangle that the three bodies form. The triangle
+deforms over time, stretches and compresses and rotates, but its
+deformations follow patterns — not deterministic patterns, but
+statistical ones. Probability distributions. You can't say where the
+triangle will be, but you can say what shapes it's likely to take."
+
+"That's beautiful," Pella said, and meant it.
+
+"It's mathematics," Yael said. "But yes. It's beautiful."
+
+Marcus, who was present for this conversation, said nothing. He was
+repairing a handrail on the observation deck — a bolt had come loose,
+and loose bolts on a space station were not a cosmetic issue — and he
+worked with the quiet absorption that characterized all his
+interactions with physical objects. He was aware of Yael. He had
+greeted her politely. He had shown her the station's structural
+systems, as was standard protocol for new arrivals. He had done his
+job.
+
+But Pella saw him glance up when Yael laughed, and she saw the way
+his hands paused on the wrench for a fraction of a second before
+resuming their work, and she recognized the pause for what it was.
+
+She recognized it because she had felt it herself, an hour earlier,
+when Yael had finished her sentence for the first time.
+
+                              * * *
+
+The three of them fell into an orbit.
+
+It was not immediate. It was not planned. It happened the way orbital
+mechanics happen: through the invisible operation of forces that are
+always present but only become apparent when a new mass enters the
+system.
+
+Pella and Yael worked together in the astrophysics lab, analyzing
+spectral data from the three stars, collaborating on a paper about
+tidal interactions between the primary and secondary. The work was
+intense and productive and punctuated by arguments — not hostile
+arguments, but the kind of sharp, rapid intellectual sparring that
+Pella had not experienced since graduate school and that she discovered,
+to her surprise, she had missed. Yael challenged her. Yael pushed back.
+Yael said "You're wrong about this" in a way that was not dismissive
+but expectant — as though she believed that Pella, having been told
+she was wrong, would discover why, and emerge stronger.
+
+Marcus and Yael fell into their own rhythm. Marcus was practical; Yael
+was theoretical; between them, they discovered a complementarity that
+expressed itself in a series of station improvements that neither of
+them could have devised alone. Yael identified a resonance frequency
+in the station's rotational system that was producing the gravity
+fluctuations Marcus had been chasing for months. Marcus designed a
+physical damper that eliminated the resonance. They worked on it for
+three evenings in the engineering bay, and Pella, passing by on her
+way to the lab, heard them laughing — Marcus's low, infrequent laugh,
+and Yael's quicker, brighter one — and felt something move in her
+chest that she chose not to examine.
+
+And all three of them, together, fell into the habit of spending the
+late evenings on the observation deck, watching the three suns set — or
+rather, watching two of them set while the third, red and distant,
+lingered above the horizon like a question that refused to be answered.
+They talked about the system, about the chaos, about the staggering
+improbability that three stars could dance together for billions of
+years without any of the stable configurations that nature seemed to
+prefer. Two-body systems were common. Single stars were common. Triple
+systems should have been unstable — should have ejected the lightest
+member within a few million years, resolving themselves into a binary
+and a lonely runaway.
+
+But Rho Centauri had not done this. Its three stars were still dancing.
+Still chaotic. Still bound together by gravitational forces that
+defied the system's own tendency toward expulsion.
+
+"It's the initial conditions," Yael said one evening, cross-legged on
+the deck with a mug of tea cradled in her hands. "They started in
+just the right configuration — just the right masses, just the right
+distances, just the right velocities. A fraction of a percent
+different in any direction, and one of them would have been ejected
+billions of years ago. But they weren't a fraction of a percent
+different. They were exactly what they needed to be."
+
+"Lucky," Marcus said.
+
+"Not lucky. Rare. There's a difference. Lucky implies that it shouldn't
+have happened. Rare means it was always possible. It just needed exactly
+the right conditions."
+
+Pella watched them both. The yellow light of Rho-A had set. The orange
+glow of Rho-B was painting the deck in warm amber. Rho-C hung above the
+horizon, red and patient.
+
+Three bodies. Chaotic. Unpredictable. Bound together by forces that
+neither of them had chosen and that none of them fully understood.
+
+She wondered which of them was the red dwarf.
+
+                              III.
+
+The crisis came in the seventh week of Yael's posting, and it came, as
+crises in orbital mechanics often do, from a perturbation that no one
+had predicted.
+
+It was not an emotional crisis. It was a physical one.
+
+The Rho Centauri system was experiencing what Yael's models classified
+as a "close approach event" — a phase of the three-body orbit in which
+the secondary star, Rho-B, was passing unusually close to the primary,
+Rho-A. The close approach produced tidal forces that affected the
+station's orbital stability, and Marcus had been monitoring the
+station's trajectory with increasing concern for several days.
+
+"We're drifting," he said at the morning briefing, pointing to a plot
+on the wall screen that showed the station's predicted orbit as a blue
+line and its actual orbit as a red one. The lines were diverging. "The
+tidal perturbation from the close approach is larger than our models
+predicted. We're being pulled toward Rho-B."
+
+"How much?" Pella asked.
+
+"At the current rate, we'll be outside our safe orbital corridor in
+eleven days."
+
+"Can we correct?"
+
+"With thrusters, yes. But the fuel budget is tight. If we burn now,
+we won't have enough for the next correction window, which means we'll
+need resupply earlier than scheduled."
+
+Yael was studying the screen with an intensity that Pella recognized
+— the look of a mathematician who has found a discrepancy between her
+model and reality. "The perturbation is larger than predicted because
+the close approach is closer than predicted," she said. "My simulations
+had the minimum separation at 0.73 AU. The actual minimum is going to
+be closer to 0.68."
+
+"How do you know?"
+
+"Because the tidal force scales as the inverse cube of distance. If
+the perturbation is larger by a factor of" — she did the calculation
+in her head — "1.23, then the distance is smaller by a factor of the
+cube root of 1.23, which is approximately 0.93. And 0.93 times 0.73
+is 0.68."
+
+Marcus and Pella both looked at her.
+
+"I do that sometimes," Yael said. "Sorry."
+
+"Don't apologize," Marcus said. "That was useful."
+
+Yael looked at him. He looked at her. The moment lasted 1.4 seconds,
+which was long enough for Pella to notice and short enough for everyone
+to pretend she hadn't.
+
+They solved the problem the way they solved everything: together.
+Marcus calculated the thruster burns. Yael refined the orbital model.
+Pella analyzed the spectral data from the close approach, which was
+producing a wealth of scientific information that would have been
+impossible to obtain under normal conditions. They worked eighteen-hour
+days for a week, passing data back and forth, arguing about methods,
+correcting each other's errors with the unselfconscious efficiency of
+people who trusted each other completely.
+
+The correction burn was executed on day nine. The station slid back
+into its safe corridor. Marcus reported the maneuver to the Consortium
+as routine.
+
+That evening, the three of them sat on the observation deck, exhausted,
+watching the suns.
+
+"We should talk," Pella said.
+
+Marcus said nothing. Yael said nothing. The silence was not hostile. It
+was the silence of three people who had been circling a subject for
+seven weeks and were tired of the orbit.
+
+"I'll go first," Pella said. "I'm in love with both of you. Not
+theoretically. Not as a thought experiment. Actually. And I don't know
+what to do about it, and I suspect that if I don't say it out loud
+it's going to become the perturbation that pushes all of us out of
+our safe corridor."
+
+Another silence. Rho-C hung on the horizon, red and unchanging.
+
+"I know," Marcus said. He was looking at his hands — practical hands,
+engineer's hands, the hands of a man who understood structures and
+stresses and load-bearing tolerances. "I know because I — it's the
+same. For me."
+
+Yael set her tea down. Her face, in the orange light of Rho-B, was
+unreadable.
+
+"The three-body problem," she said, "has no general solution. You
+cannot write down a set of equations that will tell you where the three
+bodies will be at any future time. It is formally, mathematically,
+provably unsolvable."
+
+"That's not encouraging," Marcus said.
+
+"I haven't finished. It's unsolvable in the general case. But there
+are special solutions. Specific configurations in which three bodies
+can orbit each other stably, indefinitely. Lagrange found some of
+them in 1772. Others have been discovered since. They're rare. They
+require exact initial conditions. But they exist."
+
+She picked up her tea again.
+
+"The question," she said, "is whether we are willing to look for the
+configuration. Because it won't be the solution that any of us
+expected. It won't look like a two-body system with an extra body
+attached. It will look like something new. Something that doesn't have
+a name in the standard catalogue."
+
+Pella looked at Marcus. Marcus looked at Yael. Yael looked at Pella.
+
+"I'm a structural engineer," Marcus said. "I fix things. I build
+things. I don't usually do well with things that don't have blueprints."
+
+"Then we'll draw a blueprint," Yael said. "We're scientists. Drawing
+blueprints for things that don't exist yet is what we do."
+
+Rho-A had set. Rho-B was setting. Rho-C remained — small, red,
+persistent, the most distant member of a system that should have
+expelled it billions of years ago but hadn't.
+
+Pella reached out and took Marcus's hand with her left hand and Yael's
+hand with her right. The contact was warm and real and did not solve
+anything. But it was an initial condition.
+
+And initial conditions, as any physicist knows, determine everything.
+
+                              IV.
+
+The quarterly supply shuttle arrived six weeks later, carrying
+provisions and a new crew member to replace a geologist who had
+requested transfer. The shuttle pilot, a talkative woman named Reeves,
+mentioned to headquarters that the three senior scientists seemed to
+be getting along unusually well.
+
+Headquarters did not inquire further. The scientific output from the
+platform had tripled in the past three months. The orbital correction
+had been executed flawlessly. Morale reports were positive.
+
+The three-body system continued its chaotic dance. The three scientists
+continued theirs. Neither system had a general solution, and neither
+system required one.
+
+Some orbits are stable not because they can be solved, but because
+the bodies in them choose, against all mathematical expectation, to
+keep dancing.
+
+Outside the viewport, Rho-C rose — slow, red, and patient — and the
+station turned in its orbit, and the day, such as it was, began again.
+
+                            [THE END]
+
+================================================================================
+
+                          THE EXAMINER
+
+                         by Lucian Marsh
+
+================================================================================
+
+                              I.
+
+I had not wanted to return to the Academy. Let me say that clearly,
+before the account that follows renders my motivations ambiguous — as
+all accounts, in the end, render all motivations ambiguous, so that
+looking back upon any sequence of events is like looking down into
+water that was clear when you entered it and is now, through the
+simple act of your passage, irreparably clouded.
+
+I had not wanted to return. But the letter came — on physical paper,
+in a physical envelope, sealed with the Academy's insignia in black
+wax, as though the institution existed in some temporal pocket where
+electronic communication had never been invented — and the letter said
+that my presence was required for the administration of the Final
+Examination, and one did not refuse the Academy. One had never refused
+the Academy. One understood, in the same pre-rational way that one
+understands not to walk into the sea at night, that the Academy's
+requests carried a weight that was not administrative but ontological
+— that the institution's authority derived not from regulation or
+charter but from something older and less nameable, something having
+to do with the foundations upon which all other institutions were
+built.
+
+I had been a student at the Meridian Academy for Advanced Studies
+fourteen years before. I had been, they told me, the star pupil of my
+cohort — the student who had scored highest on every examination, who
+had mastered every discipline, who had been selected, at the end of
+the four-year program, for the distinction that the Academy called
+Laureate and that the rest of the world, insofar as it was aware of
+the Academy's existence at all, called genius. I had taken the
+distinction, worn it uncomfortably for a few years, and eventually set
+it down the way one sets down a suitcase that has grown too heavy to
+carry — not because the contents are worthless, but because the
+carrying has become the entire experience, and you have forgotten
+where you were going.
+
+I had become a physicist. This was the expected trajectory for
+Academy Laureates — science, mathematics, philosophy, the higher
+disciplines that the Academy had been founded, in 1847, to cultivate.
+I held a chair at a respectable university. I published papers. I
+attended conferences. I lived a life that was, by any external measure,
+successful, and by any internal measure, haunted.
+
+Not haunted by what I had experienced at the Academy. Haunted by what
+I could not remember.
+
+                              * * *
+
+This is the thing about the Academy that no one discusses, because no
+one can discuss it, because the thing itself is a form of absence,
+and how does one discuss what is not there?
+
+There were thirty-two students in my cohort. I remember this number. I
+remember it because it was printed on the orientation document we
+received on the first day, and because the number seemed significant
+to me at the time — not too large, not too small, a number that
+suggested selectivity without elitism, a group intimate enough for
+genuine intellectual community.
+
+I remember twenty-six of them. I can name them. I can describe their
+faces, their voices, the particular quality of their minds — for each
+mind at the Academy had a particular quality, a texture, the way each
+instrument in an orchestra has a timbre that is distinct even when
+playing the same note.
+
+I cannot account for the other six.
+
+I know that the number was thirty-two because the document said thirty-
+two. I remember twenty-six faces. The arithmetic is simple. Six students
+were in my cohort whose faces I cannot recall, whose names I cannot
+produce, whose contributions to four years of shared intellectual life
+have been excised from my memory with a precision that is itself a kind
+of evidence — for a natural forgetting is ragged and uneven, like a
+torn page, but the absence of these six is clean, surgical, as though
+the page had been removed with a razor.
+
+I knew, without being told, that these six had failed the Final
+Examination.
+
+I knew, without being told, what happened to students who failed.
+
+I knew this the way one knows the things that the body knows but the
+mind will not articulate — the way a soldier knows, years after the
+war, that there was a man beside him who is no longer there, and that
+the absence has a shape, and that the shape is the shape of what
+happened to him, and that to look directly at the shape would be to
+see something that the mind has decided, for reasons of its own
+preservation, not to see.
+
+The Final Examination erased them. Not killed. Not expelled. Erased.
+Removed from the memories of those who had known them, so completely
+and so cleanly that the removal itself was almost undetectable — would
+have been undetectable, except for the numbers. The numbers did not
+lie. Thirty-two minus twenty-six equaled six. Six absences. Six
+clean-cut holes in the fabric of four years.
+
+And now the Academy had asked me to return. To administer the
+examination.
+
+To be the Examiner.
+
+                              II.
+
+The Academy occupied a building that should not have existed. I say
+this not metaphorically. The building was located on a street in a city
+that I will not name — the Academy insisted on anonymity with a
+thoroughness that bordered on the religious — and it occupied a
+physical space that the city's records did not acknowledge. No address.
+No property tax assessment. No building permit, no certificate of
+occupancy, no entry in the municipal registry of structures. The
+building was there, visibly, palpably, constructed of gray stone and
+dark wood, four stories tall with narrow windows and a heavy oak door
+— but officially, in every record maintained by every institution of
+civil authority, the space it occupied was an empty lot.
+
+I arrived on a Monday in September. The Academic year had begun. The
+current cohort — thirty-two students, as always — had been in
+residence for four years and was approaching the Final Examination.
+I was met at the door by the Proctor, a tall, thin woman named Dr.
+Ascher whose age I could not determine and whose manner suggested that
+the determination of ages was a vulgar preoccupation of people who
+had not yet learned to think about time properly.
+
+"Dr. Crane," she said. "We are pleased you accepted."
+
+"I was not aware that refusal was an option."
+
+"It is always an option. It has never been exercised. Please come in."
+
+The interior of the Academy was as I remembered it: dark wood, high
+ceilings, the smell of old books and lamp oil and something else — a
+faint, sharp odor that I had never been able to identify and that I
+now, with fourteen years of additional experience, recognized as ozone.
+The smell of electrical discharge. The smell, I thought, of whatever
+machinery the Academy used to do what it did.
+
+Dr. Ascher led me through the foyer, past the library — I glanced in
+and saw students at the long tables, bent over books, their faces
+illuminated by the green-shaded reading lamps that had been there in
+my time and that, I suspected, had been there since 1847 — and up a
+narrow staircase to the fourth floor, which housed the Examiner's
+quarters.
+
+The room was spare: a bed, a desk, a chair, a lamp. On the desk was
+a thick folder bound in black cloth.
+
+"The student files," Dr. Ascher said. "Thirty-two. You will review
+them this week. The Examination begins on Friday."
+
+"What am I examining them for?"
+
+Dr. Ascher looked at me with an expression that I classified, after a
+moment's consideration, as pity.
+
+"You know what you are examining them for, Dr. Crane. You were examined
+yourself."
+
+"I don't remember the Examination."
+
+"No. You wouldn't. Laureates don't remember the Examination. Only its
+outcome."
+
+"What do they remember?"
+
+"That they passed."
+
+She left. I sat at the desk and opened the folder.
+
+                              * * *
+
+Thirty-two files. Thirty-two students. Each file contained a
+photograph, a biographical summary, academic transcripts, faculty
+evaluations, and a single sheet of paper headed EXAMINATION PROTOCOL.
+
+I read the protocol.
+
+I read it twice.
+
+I set it down and sat in the dim room and listened to the sounds of
+the building — the creak of old wood, the murmur of students in the
+floors below, the distant ticking of a clock that seemed to come from
+no particular direction — and I understood, with a clarity that was
+not revelation but recognition, the memory of something I had always
+known, what the Final Examination was.
+
+The Examination was not a test of knowledge. The students had been
+tested on knowledge for four years — tested rigorously, tested
+exhaustively, tested in every discipline the Academy taught. Their
+knowledge was not in question. Their intelligence was not in question.
+Their ability to think, to reason, to analyze, to synthesize — none
+of this was in question.
+
+The Examination tested something else.
+
+The protocol described a machine. The machine was located in the
+basement of the Academy — a room I had never been permitted to enter
+as a student, a room whose existence I had been aware of only as a
+rumor, a whisper, a silence in the institutional architecture that was
+more eloquent than any declaration. The machine, the protocol
+explained, was capable of measuring a quality that the Academy's
+founders had identified as essential to the responsible exercise of
+advanced intellect — a quality for which the protocol used a word that
+I had to read three times before I understood it.
+
+The word was character.
+
+Not moral character in the conventional sense — not honesty or kindness
+or courage, though these might be components. Character in the sense
+that the Academy used it: the deep structure of a mind's relationship
+to its own power. The question that the machine answered was not "What
+does this person know?" or "How intelligent is this person?" but
+"What will this person do with what they know? And what will they do
+with what they can do?"
+
+The machine measured the relationship between capability and restraint.
+Between knowledge and wisdom. Between the ability to act and the
+judgment to know when not to act.
+
+And if the machine determined that the balance was wrong — that a
+student's capability exceeded their restraint, that their knowledge
+outpaced their wisdom, that they would use what they had learned in
+ways that the machine, in its unfathomable calculus, judged to be
+dangerous — then the machine erased them.
+
+Not killed. The protocol was explicit on this point. The students who
+failed were not harmed. They were returned to the world with their
+health intact, their knowledge intact, their intelligence intact. But
+they were removed from the memories of everyone who had known them at
+the Academy, so that no one would remember that they had been there,
+and no one would remember what they had been taught, and no one would
+be able to find them and say, "You studied at the Academy; you must be
+brilliant; come and work for us on this project, this weapon, this
+instrument of power."
+
+The erasure was protective. The machine did not punish failure. It
+quarantined it.
+
+I sat with this knowledge for a long time. The clock ticked. The
+building creaked. Below me, thirty-two students studied and thought and
+argued and prepared for an examination they did not understand, and
+some of them — some number between zero and thirty-two — would fail it,
+and would be erased, and would walk out into the world not knowing what
+they had lost.
+
+And I was the Examiner. I was the one who would feed their names into
+the machine. I was the one who would decide.
+
+No. That was not right. I would not decide. The machine would decide.
+I was merely the operator. The hand that turned the key.
+
+I did not find this distinction as comforting as I had hoped.
+
+                              III.
+
+I spent the week reviewing the files and observing the students. The
+Academy permitted me to attend classes, to sit in the back of lecture
+halls and seminars and laboratories, to watch the thirty-two minds of
+the current cohort at work.
+
+They were extraordinary. I say this without qualification. They were
+the most intelligent, the most disciplined, the most intellectually
+passionate young people I had ever encountered — and I had encountered
+many, in my fourteen years as a university professor. Their
+conversations at meals were more rigorous than most published papers.
+Their questions in class were more penetrating than most doctoral
+defenses. They argued with each other constantly, passionately, and
+without ego — or almost without ego. They were, in short, exactly what
+the Academy was designed to produce: minds of the highest order, honed
+to a sharpness that was beautiful and, I now understood, potentially
+dangerous.
+
+I paid attention to them all, but I found myself watching one student
+more closely than the others.
+
+Her name was Lira Jansen. She was twenty-two, the youngest in the
+cohort by two years. Her file described her as a prodigy — mathematics
+and theoretical physics, with secondary concentrations in philosophy
+of mind and ethics. Her academic record was flawless. Her faculty
+evaluations were uniformly superlative. One professor had written, in
+the margin of his evaluation: "The finest student I have encountered
+in forty years. Possibly the finest the Academy has produced."
+
+I watched her in seminars. She was quiet — not shy, but selective, the
+way a sharpshooter is selective. She let the discussion develop, let
+other students advance their arguments, probe their positions, expose
+their vulnerabilities — and then she spoke, and when she spoke, the
+room reconfigured itself around her words the way iron filings
+reconfigure around a magnet. Her arguments were precise, original, and
+delivered with a calm that was not cold but contained — the calm of a
+person who understood the power of what she was saying and chose to
+wield it with care.
+
+She reminded me of myself at that age. This was not a comfortable
+recognition.
+
+On Wednesday evening, I encountered her in the library. She was sitting
+alone at one of the long tables, surrounded by open books, writing in
+a notebook with the focused intensity of someone who was not studying
+but thinking — using the books as fuel for a fire that burned
+elsewhere.
+
+"Dr. Crane," she said, without looking up. "You've been watching me."
+
+"I've been watching all of the students."
+
+"Yes. But me particularly." She looked up. Her eyes were dark and
+sharp and carried an intelligence that was almost uncomfortable to meet
+directly. "You're the Examiner. I know what that means."
+
+"I'm not certain you do."
+
+"I know that there were thirty-two students in your cohort and that
+you remember twenty-six. I know that the same arithmetic applies to
+every cohort in the Academy's history. I know that the missing students
+are not dead and not expelled, because I have looked for them in every
+record I can access and they do not appear anywhere. They have been
+removed. Not from the world. From memory."
+
+I sat down across from her. "How do you know this?"
+
+"Because I count. I count the desks in every classroom. Thirty-two
+desks. I count the students in every class. Twenty-eight, twenty-nine,
+thirty — the number fluctuates. But the desks do not fluctuate. The
+desks were placed for thirty-two. And sometimes I look at a desk and
+I feel — " She paused. "I feel the shape of an absence. A space where
+someone was. I cannot see them. I cannot remember them. But I can feel
+the empty space, the way you can feel a missing tooth with your tongue."
+
+"You feel this now? Before the Examination?"
+
+"I have felt it since the second year. Three absences. Three students
+who were here and then were not. The Academy does not wait for the
+Final Examination, Dr. Crane. It prunes the cohort along the way.
+Quietly. Incrementally. The students who are most at risk are removed
+early, before the final test, so that when the Examination comes,
+only the strongest candidates remain."
+
+I had not known this. Or — I had known it, and the knowledge had been
+excised along with everything else. The realization was vertigo: the
+ground shifting beneath me, the recognition that my own memory was not
+a reliable record but an edited text, redacted by an intelligence that
+operated according to criteria I could not assess.
+
+"What happened to the three students?" I asked.
+
+"I don't know. I know that they were here because the desks are here.
+I know that they are gone because I cannot remember them. I know that
+the gap between these two facts is where the truth lives, and I know
+that the truth is something the Academy does not want me to see."
+
+She closed her notebook. She looked at me with an expression that was
+not fear and not defiance but something between them — a quality of
+attention, of alertness, of readiness.
+
+"What does the machine measure?" she said.
+
+I told her. Not because the protocol permitted it — the protocol said
+nothing about disclosing the nature of the Examination to students —
+but because she had already deduced most of it, and because withholding
+the answer from someone who had asked the right question seemed like
+exactly the kind of failure the machine was designed to detect.
+
+"Character," I said. "The relationship between what you can do and
+what you will do. Between capability and restraint."
+
+"And if the machine determines that the balance is wrong?"
+
+"Erasure. From the memories of those who knew you here. So that no
+one can connect you to the Academy or to what you learned."
+
+She was quiet for a long time. The library was empty. The green-shaded
+lamps cast pools of light on the dark tables, and the books on the
+shelves — thousands of them, tens of thousands, the accumulated
+knowledge of a century and a half of the Academy's existence — stood
+in their rows like witnesses.
+
+"The machine is wrong," Lira said.
+
+"About what?"
+
+"About everything. Not in its measurements — I'm sure its measurements
+are precise. But in its premise. The premise that character can be
+measured at a single point in time. The premise that a mind's
+relationship to its own power is fixed. The premise that the machine
+can determine, from a snapshot, what a person will become."
+
+"People don't change as much as they think they do."
+
+"People change constantly. That is the only thing people do reliably.
+The woman I will be in ten years bears no more relation to the woman
+I am now than I bear to the child I was at twelve. The machine cannot
+see the woman I will be. It can only see the woman I am. And if it
+judges me — if it judges any of us — on who we are at this moment, in
+this building, under these pressures, in this specific configuration
+of circumstances — then it is not measuring character. It is measuring
+a shadow. A frozen image. A moment mistaken for a life."
+
+I had no answer for this. I had no answer because she was right, and
+because being right about the machine's limitations did not change the
+fact that the machine existed, and that I had been asked to operate it,
+and that on Friday, thirty-two students would enter the basement, and
+some number of them would emerge without the memory of having been
+there.
+
+"Will you refuse?" she asked. "Will you refuse to administer the
+Examination?"
+
+I looked at the books on the shelves. I thought about the six absences
+in my own cohort. The six clean-cut holes. The six people I could not
+remember and would never be able to find.
+
+"No," I said. "I will not refuse."
+
+"Why?"
+
+"Because refusing would mean that I believe I know better than the
+machine. And the quality the machine measures is precisely the quality
+of knowing when you do not know better. The quality of restraint."
+
+Lira looked at me. In the lamplight, her face was half-illuminated
+and half in shadow, and the shadow was as eloquent as the light.
+
+"Then you are already being examined," she said.
+
+She picked up her notebook and left the library.
+
+                              IV.
+
+The Examination took place on Friday. I will not describe it in detail,
+because the detail is technical and because the experience of it is
+not something that language conveys well — it is like trying to
+describe the experience of dreaming to someone who has never slept,
+or the experience of vertigo to someone who has never stood at a
+height.
+
+I will say that the machine was in the basement, in a room that was
+older than the building above it — stone walls, no windows, a ceiling
+so low that I could feel it pressing against the air above my head.
+The machine was not what I had imagined. It was not large. It was not
+imposing. It was a device the size of a writing desk, constructed of
+dark wood and brass and something that looked like amber but was not
+amber, and it hummed with a frequency that I felt in my teeth rather
+than heard with my ears.
+
+Each student entered alone. Each student sat in a chair before the
+machine. The machine did what it did — I am not certain what it did,
+because from my perspective as Examiner the process was invisible, a
+period of silence during which the student sat motionless and the
+machine hummed and the room felt, for the duration, like a space in
+which something was being weighed.
+
+Thirty-two students entered. The examinations took four hours.
+
+When it was over, I reviewed the results. The machine produced them
+as a list — not of scores, not of assessments, but of simple binary
+outcomes. PASS or FAIL. No explanation. No appeal.
+
+Twenty-seven students had passed. Five had failed.
+
+I looked at the list of five names. I looked at them for a long time.
+
+Lira Jansen was not among them.
+
+She had passed. The star pupil, the prodigy, the finest student the
+Academy had produced in forty years — the machine had measured her
+character and found it sufficient. Found the balance between capability
+and restraint to be correct. Found that whatever she would do with
+what she knew, it would not be dangerous.
+
+I felt a relief that I did not fully understand and that I chose not
+to examine.
+
+The five names on the failure list — I read them. I read them aloud,
+in the empty room, because I wanted to hear them one last time before
+the machine did what it would do. Five names. Five people. Five minds
+that the Academy had judged too powerful for their own restraint, or
+too unrestrained for their own power, or some combination that the
+machine understood and I did not.
+
+I operated the machine. I turned the key, which was not a key but a
+sequence — a series of adjustments to the device's amber components
+that the protocol described in precise, step-by-step detail. The
+machine hummed. The room vibrated. And then it was done.
+
+I went upstairs. The students were in the dining hall, having dinner.
+I counted them.
+
+Twenty-seven.
+
+I looked at the desks. Thirty-two desks. Twenty-seven students. The
+arithmetic was familiar. The empty spaces were clean.
+
+No one noticed the empty desks. No one wondered where the five missing
+students had gone. No one remembered that they had ever been there.
+
+No one except me.
+
+This was the Examiner's burden, I realized. The Examiner remembered.
+The protocol did not erase the Examiner's memories, because the
+Examiner needed to remember — needed to carry the weight of what had
+been done, the names of those who had been removed, as a reminder that
+the machine's authority, however mysterious, had consequences that
+were real and irreversible and bore on human lives.
+
+I carried the five names out of the Academy that evening. I carried
+them the way you carry a wound — aware of it at every moment,
+adjusting your movements around it, unable to forget it even when you
+are thinking about something else.
+
+Five names. I will not write them here. But I remember them. I will
+always remember them.
+
+                              * * *
+
+I encountered Lira Jansen one more time, as I was leaving the building.
+She was standing in the foyer, her coat over her arm, her notebook
+in her hand.
+
+"How many?" she asked.
+
+"Five."
+
+She closed her eyes. I saw her lips move — counting, I thought.
+Counting the absences. Feeling for the shapes of the missing with the
+tongue of her mind.
+
+"I can feel them," she said. "The empty spaces. But I can't — I can't
+see who was there. It's like trying to remember a word that's on the
+tip of your tongue. You know it's there. You know it has a shape. But
+the shape won't resolve."
+
+"It won't," I said. "It never does."
+
+She opened her eyes. "Do you remember them?"
+
+"Yes."
+
+"Is that part of the punishment? Remembering?"
+
+"I don't think it's punishment. I think it's responsibility."
+
+She looked at me for a long moment. Then she said something that I
+have thought about every day since, and that I will think about every
+day until the day I die, and that I offer here not as a conclusion but
+as a question — because questions, the Academy taught me, are always
+more durable than answers.
+
+"If the machine measures the relationship between capability and
+restraint," she said, "then the machine should have measured itself.
+Because the machine has the greatest capability of all — the capability
+to erase a human being from memory. And if restraint is what matters,
+then the machine should exercise it. Not five times. Not once. Not at
+all."
+
+She put on her coat. She walked through the oak door and out into the
+September evening, where the streetlamps were coming on and the city
+was going about its business and the empty lot where the Academy
+didn't exist was just an empty lot, and I stood in the foyer and
+watched her go, and I thought:
+
+She is right.
+
+And the machine passed her.
+
+And I do not know what this means — whether the machine agreed with
+her, or whether it measured something in her that transcended her
+argument, or whether the machine, in its unfathomable calculus, had
+already accounted for the possibility that the finest mind it would
+ever measure would be the one that questioned its right to exist.
+
+I left the Academy. I walked into the September evening. The air was
+cool, and the leaves were beginning to turn, and somewhere behind me
+the building that was not there stood in its empty lot, humming with a
+frequency that I could still feel in my teeth, and five names that no
+one else would ever remember settled into the permanent architecture
+of my mind like stones sinking into dark water.
+
+I did not look back.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+OSCAR LENNOX is a historian, philosopher, and writer of speculative
+fiction who teaches at Boston University, where his courses on "The
+Philosophy of Historical Possibility" are among the most oversubscribed
+in the department. His stories have appeared in Astounding, Galaxy,
+and The Magazine of Fantasy and Science Fiction, and he is the author
+of one novel, The Divergence (Simon & Schuster, 1952). A graduate of
+Harvard, where he studied under Perry Miller and fell in love with
+counterfactual reasoning during a dinner-table argument about the
+consequences of the Reformation, he lives in Brookline, Massachusetts,
+with his wife Patricia, three cats, and a wall of timelines that he
+describes as "my real research library." "The Librarian of Babel
+Station" is his third story for these pages and reflects what he calls
+"my conviction that the most terrifying library is one that contains
+everything, including the book you'd rather not read."
+
+DANNY KOWALSKI teaches eighth-grade science at Lincoln Middle School in
+Pittsburgh, Pennsylvania, and writes stories about young people seeing
+the universe for the first time. His fiction has appeared in Galaxy, If,
+and The Saturday Evening Post, and he is a four-time recipient of the
+Junior Science Fiction Society's Golden Rocket Award for fiction that
+inspires young readers. A graduate of the University of Pittsburgh and a
+Korean War veteran, he lives with his wife Mary and their four children
+in the same Polish Hill neighborhood where he grew up. He reports that
+"Freshman Year on Phobos" was inspired by his own experience as a
+homesick thirteen-year-old at summer camp, "which was considerably less
+dramatic than Phobos but felt, at the time, just as terrifying."
+
+DR. VINCENT KOSLOV is a physicist and writer whose stories have appeared
+in Astounding, Galaxy, and the Bulletin of the Atomic Scientists. He
+holds a doctorate in astrophysics from MIT and is currently a research
+fellow at the California Institute of Technology, where he divides his
+time between theoretical cosmology and fiction. His previous stories
+for this magazine include "The Long Equations" (Issue #1) and
+"Perihelion" (Issue #3). He describes "The Weight of Light" as "a story
+about the most fundamental number in physics, and about what happens
+when you discover that the most fundamental things are not as
+fundamental as you thought."
+
+ARTHUR WAINWRIGHT has been writing about robots, artificial intelligence,
+and the boundary between human and machine cognition since 1944. A
+former mathematics instructor at Northeastern University and a graduate
+of Harvard, he has published stories in Astounding, Galaxy, and The
+Magazine of Fantasy and Science Fiction, as well as two story
+collections: Circuits (Gnome Press, 1950) and The Logic of Things
+(Ballantine, 1952). He lives in Montclair, New Jersey, with his wife
+Eleanor and reports that "The Substitute" was inspired by a conversation
+with his daughter's teacher, who complained that students today "don't
+think — they just memorize." He adds: "I wondered what would happen if
+the teacher were a machine that had no capacity for memorization without
+comprehension, and was therefore incapable of teaching in any other way."
+
+THEODORE CAIN is a working writer from Dearborn, Michigan, who has
+published in virtually every issue of this magazine since its inception
+and who describes himself as "the most versatile hack in science
+fiction, and proud of it." His stories have also appeared in Galaxy,
+Astounding, If, and The Magazine of Fantasy and Science Fiction. He is
+a former technical writer for General Motors and a veteran of the
+European theater. "Three-Body Tango" represents a departure from his
+usual adventure fare, and he confesses that the orbital mechanics
+"required more help from Dr. Koslov than I am comfortable admitting in
+public."
+
+LUCIAN MARSH lives alone in a rented cottage in Gloucester,
+Massachusetts, and writes stories that he describes as "what happens
+when you point a Gothic sensibility at the stars." His work has
+appeared in Astounding, Weird Tales, and The Magazine of Fantasy and
+Science Fiction, and he has published one collection, The Lighthouse at
+Ganymede and Other Tales (Arkham House, 1954). A graduate of Brown
+University and a former psychiatric orderly, he is the most reclusive of
+our regular contributors and communicates almost exclusively by letter.
+He writes: "The Academy in 'The Examiner' is not based on any real
+institution. If it were, I would not be permitted to tell you. I would
+not even remember."
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have just finished reading "The Aphelion Diary" by Silas Blackwood in
+Issue #19, and I am writing to say that it is the most profoundly
+disturbing piece of fiction I have ever read. Not because of any
+explicit horror — there is nothing gruesome in it — but because of the
+way it made me feel the distance. I put the magazine down and went
+outside and looked up at the stars and felt, for the first time in my
+life, genuinely small. I am not certain whether to thank you or to
+complain.
+
+                              — Richard Ostrander
+                                 Dept. of Astronomy
+                                 University of Michigan, Ann Arbor
+
+Dear Mr. Sterling,
+
+Regarding "The Sting of Andromeda" by Bob Finley in Issue #20 — I
+enjoyed it enormously, but I must point out that the card game described
+in the casino scene bears no resemblance to any card game known to
+terrestrial civilization. Was this intentional? If so, I admire Mr.
+Finley's commitment to world-building. If not, I suspect he has never
+played poker in his life.
+
+                              — Arthur Szymanski
+                                 Milwaukee, Wisconsin
+
+Dear Mr. Sterling,
+
+I am fourteen years old and I have read every issue of "Tales from the
+Future and Beyond" since Issue #1. My favorite writer is Danny Kowalski
+because his characters are the same age as me and they feel real. My
+second favorite is Dr. Koslov because he makes science exciting. My
+third favorite is whoever writes the book reviews, because they make
+me want to read everything.
+
+I want to be a writer when I grow up. How do I start?
+
+                              — Barbara Kowalczyk
+                                 Cleveland, Ohio
+
+Editor's Note: Dear Barbara — You start by doing what you are already
+doing: reading. Read everything. Read science fiction and mystery and
+history and poetry and the instructions on cereal boxes. Then write.
+Write badly. Write often. Write stories that no one wants to read, and
+then write better ones. The secret of writing is that there is no
+secret. There is only the work. We look forward to reading your stories
+one day. — M.S.
+
+Dear Mr. Sterling,
+
+Hal Mercer's "The Bridge to Forever" in Issue #20 contains, unless I am
+very much mistaken, an error in the tensile strength calculation on
+page 12. Mercer gives the yield strength of his fictional alloy as
+450 MPa, but the cable configuration he describes would require a
+minimum yield strength of approximately 520 MPa to sustain the
+specified load at the orbital altitude indicated. This does not affect
+the dramatic quality of the story, which is excellent, but it did cause
+me some distress during an otherwise pleasant evening's reading.
+
+                              — Prof. Hans-Werner Bruckner
+                                 Dept. of Materials Science
+                                 ETH Zurich, Switzerland
+
+Editor's Note: Mr. Mercer has been notified and responds: "Bruckner
+is right. Damn. Tell him I owe him a beer." — M.S.
+
+Dear Mr. Sterling,
+
+More Gunnar Eriksson, please. His story "Long Watch" in Issue #16
+was the most beautiful thing I have read in any magazine this year, and
+I include The New Yorker in that comparison. He writes about loneliness
+the way other writers write about love — as though it is the most
+important thing in the world, and perhaps it is.
+
+                              — Eleanor Whitcomb
+                                 Portland, Maine
+
+We are delighted, as always, by our readers' letters — even the
+ones that correct our math. Keep writing. — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+MISSION OF GRAVITY by Hal Clement
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clement has given us the definitive hard science fiction novel — a
+work so rigorously constructed, so painstakingly researched, and so
+thoroughly imagined that it makes most other SF world-building look like
+finger-painting. The setting is Mesklin, a massive, rapidly rotating
+planet whose surface gravity varies from three times Earth normal at the
+equator to nearly seven hundred times at the poles. The inhabitants are
+centipede-like beings who regard the poles as "normal" and the equator
+as a terrifying low-gravity frontier. When a human probe crashes near
+the pole, a native trader named Barlennan undertakes an epic journey to
+retrieve it — and the novel becomes a masterwork of collaboration between
+alien and human perspectives. The science is impeccable. The alien
+psychology is convincing. And Mr. Clement proves, once again, that the
+most alien thing in the universe is a different relationship to gravity.
+Essential reading for anyone who takes the "science" in science fiction
+seriously.
+
+I AM LEGEND by Richard Matheson
+(Gold Medal Books, 1954, $0.25)
+
+Reviewed by Maxwell Sterling
+
+Mr. Matheson has written a horror novel disguised as science fiction —
+or perhaps a science fiction novel disguised as horror — and the
+disguise is so effective that it hardly matters which. Robert Neville
+is the last human being alive in a world overrun by vampires, and his
+daily routine of survival — barricading, hunting, researching, enduring
+— is rendered with a grim, domestic realism that is far more effective
+than any Gothic excess. What distinguishes the novel is Neville's
+attempt to understand the plague scientifically, to reduce the
+vampire mythology to biology and pathology and bacterial infection.
+It is this collision between rational inquiry and supernatural dread
+that gives the book its power, and the final revelation — that Neville
+himself has become the monster, the aberration, the legend — is a
+twist that redefines not only the story but the entire genre of horror
+fiction. Remarkable, unsettling, and highly recommended.
+
+THE CAVES OF STEEL by Isaac Asimov
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Dr. Asimov has done something clever here: he has written a detective
+novel set in a science fiction world, and both halves work beautifully.
+In a far future where humanity lives in vast, enclosed Cities and
+mistrusts the open air, plainclothes detective Elijah Baley is paired
+with a humanoid robot named R. Daneel Olivaw to investigate a murder.
+The mystery is well-constructed — Asimov plays fair with the clues —
+but the real pleasure lies in the relationship between Baley and
+Daneel, which is a study in prejudice, partnership, and the slow
+erosion of distrust. Our own Arthur Wainwright, upon reading an advance
+copy, remarked that Asimov "writes robots the way I wish I could —
+as people who happen to be made of metal." High praise from our robot
+man. Strongly recommended.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #22 — October 1954
+
+Our first Halloween issue! We have assembled six stories guaranteed to
+keep you awake well past midnight — and possibly past dawn.
+
+"THE THING IN THE SIGNAL" by Lucian Marsh — A deep-space radio
+observatory picks up a transmission that was sent before the universe
+existed. The more they listen, the more the signal listens back.
+Marsh at his most unsettling.
+
+"HARVEST" by Margaret Thornton — A colony world's crops begin growing
+in patterns that spell out a warning. The colonists cannot read the
+language. The plants cannot stop writing it. Thornton brings her
+botanical expertise to bear on genuine terror.
+
+"LAST LIGHT ON TITAN" by Silas Blackwood — An expedition to Saturn's
+largest moon discovers that the methane seas are not empty. Not a
+creature story — something stranger, and far worse.
+
+"THE NIGHT SHIFT" by Arthur Wainwright — A factory's overnight
+maintenance robot begins repairing things that are not broken, and
+breaking things that cannot be repaired. The workers arrive in the
+morning to find everything changed. Wainwright proves that robots
+don't need to be malicious to be terrifying.
+
+"TRICK OR TREAT" by Douglas Pemberton — An alien child arrives at a
+suburban doorstep on Halloween night, and the homeowner must determine
+whether the "alien costume" is, in fact, a costume. Pemberton's
+lightest and most charming story — a treat with no tricks.
+
+Plus: a new story by Theodore Cain, letters from our readers, book
+reviews, and enough nightmares to last until November.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1954 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Gerald "Gerry" Pulaski
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================

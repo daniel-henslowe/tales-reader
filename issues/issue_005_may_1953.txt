@@ -1,0 +1,3436 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #5 — May 1953
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Lightless World" by Gerald "Gerry" Pulaski
+A vast generation ship hangs in the foreground, its hull scarred by decades
+of interstellar travel, observation ports glowing amber against the darkness.
+Below it, filling the lower canvas, a rogue planet drifts alone between
+the stars — no sun, no system, only a faint bioluminescent glow tracing
+the planet's surface like veins beneath dead skin. The black of space is
+absolute. Not a single star is near.
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Cradle and the Void" by Gunnar Eriksson .............. p. 4
+2. "Every Mouth a Rictus" by Lucian Marsh ........................ p. 38
+3. "Chromium Thunder" by Rex Drummond ........................ p. 62
+4. "Probate of Worlds" by Theodore Cain .................. p. 84
+5. "Seven Bridges" by Dr. Vincent Koslov ..................... p. 104
+6. "Skywright" by Danny Kowalski ............. p. 132
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 148
+   Signals Received: Letters to the Editor ................... p. 150
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 154
+   Coming Attractions ........................................ p. 158
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+Five months in, and I find myself in an editorial position I did not
+entirely anticipate. This issue of Tales from the Future and Beyond is,
+I confess, a darker one than its predecessors.
+
+I did not plan it that way. An editor assembles an issue the way a
+conductor assembles a program — you want contrast, variety, a balance
+between the exhilarating and the contemplative. You want your reader to
+feel, upon reaching the final page, that they have traveled somewhere and
+returned safely home. But the stories that arrived on my desk this month
+had other ideas. They arrived carrying shadows, and I found I lacked the
+will — and, more honestly, the desire — to turn them away.
+
+Gunnar Eriksson opens our issue with "The Cradle and the Void," a
+generation-ship story of uncommon beauty and stillness. Eriksson writes
+about deep space the way certain Nordic painters render winter: with vast,
+luminous emptiness that is somehow more full of presence than any crowded
+canvas. His navigator, Astrid Lund, has never seen a sun. That fact alone
+would sustain a lesser story; Eriksson builds from it a meditation on what
+we owe to the unknown, and what the unknown may owe to us.
+
+We are also proud to introduce a new voice to our pages. Lucian Marsh
+comes to us by way of the British weird fiction tradition — readers of
+Doyle's more macabre efforts and of M.R. James will recognize a kindred
+sensibility — and his debut for this magazine, "Every Mouth a Rictus," is the
+most purely unsettling story we have published. I will say nothing more
+about its content. I do not wish to prepare you. The story is most
+effective when it arrives without warning, as a knock on the door at three
+in the morning is most effective when you are not expecting visitors. I
+will note only that my associate editor, Frances Greer, read the
+manuscript at her desk, set it down when she had finished, and said
+quietly, "Max, I don't think I want to smile for a while." I printed the
+story the next day.
+
+Rex Drummond provides the antidote — or at least the adrenaline — with
+"Chromium Thunder," a rocket-sled race down the slopes of Olympus Mons
+that left me white-knuckled and grinning. Theodore Cain delivers a
+courtroom drama of rare intelligence in "Probate of Worlds," a story
+that asks who may own a planet and, more pointedly, who may be considered
+a person. Dr. Vincent Koslov returns with "Seven Bridges," a cold-war
+thriller woven through with the elegant mathematics of topology. And Danny
+Kowalski closes our issue with warmth and wonder in "The Boy Who Built the
+Sky," reminding us that even in the darkest reaches of space, a child's
+curiosity is the most powerful force in the universe.
+
+Six stories. Some will unsettle you. Some will thrill you. One, I hope,
+will make you believe again in the simple act of looking up.
+
+A word on our letters column, which has grown gratifyingly robust: keep
+writing. We read every letter, and your responses have already shaped the
+direction of this magazine in ways both large and small. Several readers
+have written to ask about story collections from our contributors — I am
+pleased to report that discussions are underway, and I hope to have news
+on that front before the year is out.
+
+The darkness, I have found, makes the stars more visible.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, March 1953
+
+================================================================================
+
+                       THE CRADLE AND THE VOID
+
+                        by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+There were no windows on the Farthest Shore. There had never been windows.
+
+Astrid Lund knew this the way she knew the pitch of the ventilation
+system's hum, or the faint metallic taste of recycled water, or the
+precise number of steps — forty-seven — between her quarters and the
+navigation bay. It was knowledge so deeply embedded in her understanding
+of the world that it required no thought. The ship was enclosed. The ship
+had always been enclosed. What lay outside was measured, calculated,
+inferred. It was not seen.
+
+The telescope saw. The instruments saw. Astrid read what they reported,
+and from their data she constructed, in the quiet theater of her mind, an
+image of what surrounded them: the interstellar medium, thin as
+forgetting, and the stars — thousands upon thousands of them, scattered
+across the black like the lights of a city she had never visited and
+never would.
+
+She was twenty-six years old. Third generation. Her grandmother, Sigrid
+Lund, had been among the original twelve hundred who boarded the
+Farthest Shore at the orbital dock above Gothenburg, and Sigrid had seen
+the sun. Had felt it on her face. Had closed her eyes against its
+brightness and seen the red of her own blood through her eyelids.
+
+Astrid had heard the stories many times. All third-generation children
+had. The elders spoke of Earth the way one speaks of the dead: with a
+tenderness made formal by distance.
+
+She did not miss the sun. You cannot miss what you have never had. But
+she was aware, in a way that she could not fully articulate, of an
+absence at the center of her experience. A warmth she had never felt. A
+light she had never seen. The ship's illumination was full-spectrum and
+carefully calibrated to replicate natural daylight, and it was not the
+same, and everyone knew it was not the same, and no one spoke of it.
+
+The navigation bay was quiet. It was always quiet. It was a long,
+narrow room on the forward axis of the ship, lined with instrument
+consoles and display screens that cast a pale blue light across the
+floor. Three navigation officers worked each shift. Astrid was senior
+among them — not because of age or experience, but because she had
+demonstrated, during her training, an intuitive facility with stellar
+cartography that her instructors had described, in their careful,
+understated way, as "unusual."
+
+She understood the stars. Not as a physicist understands them — she was
+not a physicist — but as a navigator understands a landscape. She could
+look at a field of stellar data and perceive, almost immediately, the
+shape of the space it described. The clusters and voids. The rivers of
+dust. The gravitational architecture of the neighborhood through which
+the Farthest Shore moved, slowly and irrevocably, toward a star it would
+not reach for another sixty-one years.
+
+Sixty-one years. Astrid would be eighty-seven. She might live to see
+the arrival. She might not. It was not, in any case, something she spent
+much time considering. The voyage was the voyage. It had its own
+rhythms, its own seasons, its own small joys and tediums. You lived
+inside it the way you lived inside your own body — without choosing,
+without questioning, because there was no alternative and no need for one.
+
+She was reviewing the forward telemetry — routine, methodical, the kind
+of work that occupied the hands while the mind drifted — when the
+anomaly appeared.
+
+It was subtle. A perturbation in the gravitational data. A slight
+irregularity in the trajectory of three distant reference stars,
+indicating the presence of a massive body where no massive body had been
+catalogued. Astrid frowned. She isolated the data set and ran a
+secondary analysis. The perturbation held. She widened the search
+parameters and found additional indicators: a faint thermal signature,
+barely distinguishable from the cosmic background, and a gravitational
+lensing effect that bent the light of a star cluster seventeen light-
+years behind the object into a thin, distorted arc.
+
+Something was there.
+
+She set down her stylus and stared at the display. The data described
+an object of planetary mass — approximately four times the mass of Earth
+— moving through interstellar space at a velocity consistent with
+gravitational ejection from a stellar system. A rogue planet. Sunless.
+Drifting. Alone in the dark between the stars, as the Farthest Shore was
+alone.
+
+Astrid requested a telescopic sweep. The ship's primary telescope — a
+three-meter reflecting instrument mounted on the forward hull — took
+eleven minutes to reposition and calibrate. She waited. The navigation
+bay hummed. Her two colleagues, Piet Janssen and Kara Osei, worked at
+their own stations, unaware. The ship moved forward. The stars did not
+appear to move at all.
+
+The telescope returned its images. They were dark — almost entirely
+dark. The rogue planet was a sphere of blackness against a slightly less
+black background, visible only because it occluded the stars behind it.
+No reflected light. No atmosphere that the instruments could detect. A
+world of stone and ice, frozen through to its core, wandering the galaxy
+in absolute solitude.
+
+And yet.
+
+Astrid leaned closer to the display. There, at the edge of the
+planet's limb, almost lost in the noise of the data, was something she
+had not expected. A faint luminescence. Intermittent. Irregular. Not the
+steady glow of geological activity or the uniform signature of reflected
+starlight, but something that pulsed. Something that flickered.
+
+Something that looked, if she allowed herself the thought, like life.
+
+                               * * *
+
+She did not report it immediately. She was not sure why. Perhaps because
+she wanted to be certain. Perhaps because she understood, with the
+instinct of someone who had spent her entire life inside a vessel
+governed by consensus and caution, that what she had found would change
+things, and that changed things, aboard the Farthest Shore, were
+regarded with deep suspicion.
+
+She spent the next four hours refining the data. She ran spectral
+analyses of the luminescence and found that it did not match any known
+geological or chemical process. She calculated the planet's trajectory
+and determined that it would pass within 2.7 astronomical units of the
+ship's current course — close, by interstellar standards. Impossibly
+close. The kind of coincidence that, in her grandmother's stories about
+Earth, would have been called providence.
+
+The planet would be nearest in fourteen months. After that, it would
+continue on its lonely course, and the Farthest Shore would continue on
+its own, and the two objects would never be near each other again.
+
+Fourteen months. And then gone.
+
+Astrid saved the data to her personal archive and locked the file. She
+completed her shift. She walked the forty-seven steps back to her
+quarters. She lay in her narrow bunk and stared at the ceiling and
+thought about a world with no sun, drifting in the dark, and the faint,
+inexplicable light upon its surface.
+
+She did not sleep.
+
+                               II.
+
+The Council of the Farthest Shore met in the assembly hall on the second
+deck, a broad, low-ceilinged room that served also as the ship's primary
+gathering space. The council consisted of nine members: three elected
+representatives, three appointed specialists, and three elders who
+served by virtue of being among the oldest surviving passengers. The
+eldest of these was Hakon Brandt, eighty-one years old, born aboard the
+ship eleven months after launch. He had been born into the void, and he
+would die in it, and this fact had given him, over the decades, a
+quality of stern acceptance that the younger generations found both
+admirable and somewhat frightening.
+
+Astrid stood before them. She had prepared her presentation with care:
+the gravitational data, the thermal signature, the telescopic images,
+the spectral analysis of the luminescence. She laid it out cleanly,
+without embellishment, letting the data speak.
+
+The council listened. Hakon Brandt sat at the center of the long table,
+his hands folded, his expression unreadable.
+
+When she had finished, the silence lasted a long time.
+
+"You are asking," said Councillor Miriam Voss, a geneticist who served
+as the council's science representative, "whether we should alter course
+to investigate this object."
+
+"I am presenting the data," Astrid said. "The question of what to do
+with it belongs to the council."
+
+"But you have a recommendation."
+
+Astrid hesitated. She had debated this with herself through three
+sleepless nights. "Yes," she said. "I recommend investigation."
+
+The room stirred. Astrid could feel the unease in it, a subtle shift in
+the quality of the silence, like a change in air pressure.
+
+"What would investigation require?" asked Hakon Brandt. His voice was
+low and unhurried. He spoke the way the ship moved: steadily, without
+urgency, as though time were an abundant resource.
+
+Astrid had prepared for this. "A course correction of 4.2 degrees
+would bring us within orbital distance of the planet. The maneuver
+would require approximately sixteen months of deceleration and
+repositioning, followed by a survey period of — at minimum — six months.
+After that, we would need to re-establish our original trajectory and
+accelerate back to cruise velocity."
+
+"And the total time added to our voyage?"
+
+Astrid drew a breath. "Thirty-one years."
+
+The silence that followed was absolute.
+
+Thirty-one years. Added to a voyage that was already projected to last
+another sixty-one. Astrid would not live to see the arrival. None of the
+elders would. The children being born this year — the fourth generation —
+would be old when the Farthest Shore finally reached its destination.
+Their children, the fifth generation, would be the ones to walk under an
+alien sky.
+
+"Thirty-one years," repeated Councillor Voss, as though testing the
+weight of the words.
+
+"For what?" said Councillor Erik Strand, the elected representative
+from the agricultural sector. He was a practical man, broad-shouldered,
+with the permanently sunburned look of someone who worked under the
+grow-lights. "A frozen rock. A dead world. What do we gain?"
+
+"Knowledge," Astrid said.
+
+"We have knowledge. We have more knowledge than we know what to do
+with. What we need is a destination. What we need is arrival."
+
+"The luminescence —"
+
+"Could be anything. Volcanic. Chemical. An instrument artifact. You
+said yourself the signal is at the edge of your detection threshold."
+
+"It does not match any known geological or chemical signature."
+
+"Then it is an unknown geological or chemical signature. That does not
+make it life."
+
+Astrid said nothing. She had expected this. She had, in fact, rehearsed
+this exact exchange in her quarters, playing both parts, and she had not
+found a satisfactory answer then either.
+
+"I would like to hear from Navigator Lund," said Hakon Brandt, "what
+she believes the luminescence to be."
+
+Astrid looked at the old man. His eyes were steady. He was not asking
+for data. He was asking for something else.
+
+"I do not know what it is," she said. "But I believe it is worth
+finding out."
+
+Brandt nodded slowly. "The council will deliberate," he said. "You will
+be informed of our decision."
+
+                               * * *
+
+The deliberation lasted nine days. During those nine days, the news
+spread through the ship — as news always did, despite the council's
+preference for discretion — and the Farthest Shore divided itself, as it
+always did, into factions.
+
+There were those who supported investigation. They were, generally, the
+younger passengers and the scientists — people for whom the voyage was
+not merely a passage from one point to another but an ongoing act of
+discovery. They argued that the Farthest Shore had been built to explore,
+that its mission was not solely to arrive but to learn, and that to pass
+within reach of such an extraordinary phenomenon and do nothing would be
+a betrayal of everything the voyage represented.
+
+There were those who opposed it. They were, generally, the older
+passengers and the engineers — people who understood, in their bones, the
+cost of deviation. Thirty-one years was not an abstraction to them. It
+was food and water and air. It was wear on the engines. It was the
+accumulated stress of an additional three decades on a ship that had
+already been in flight for seventy-two years and was showing, in a
+hundred small ways, the strain of its age. They argued that the ship's
+resources were finite, that the margin of safety was narrower than most
+passengers realized, and that the only responsible course was the one
+they were already on: straight, steady, and as fast as the engines
+would carry them.
+
+And there were those — a smaller group, but a vocal one — who were
+simply afraid. A rogue planet, drifting in the dark, emitting a light
+that could not be explained. There was something unsettling about it.
+Something that suggested the universe was stranger and less navigable
+than the careful calculations of the navigation bay implied.
+
+Astrid listened to all of it. She attended the informal gatherings in
+the common areas where the arguments were aired. She heard the fear and
+the hope and the pragmatic calculus of survival, and she recognized all
+of it, because she felt all of it.
+
+She also spent every available hour at the telescope.
+
+The planet grew clearer as the ship drew nearer. It was enormous — a
+gas-giant core stripped of its atmosphere, perhaps, or a super-Earth
+formed in the outer reaches of a system and flung free by gravitational
+perturbation. Its surface was dark and cratered. Ice fields covered the
+poles, nitrogen ice, frozen solid in the absolute cold of interstellar
+space.
+
+And the luminescence was real. It was not an artifact. It was not
+volcanic. It pulsed in patterns that were irregular but not random, and
+it was concentrated along a network of fissures that crossed the
+planet's equatorial region like the cracks in old porcelain.
+
+Astrid mapped the fissures. She measured the periodicity of the light.
+She compiled her findings into a supplementary report and submitted it
+to the council without comment, because the data did not require
+commentary. The light had a rhythm. The rhythm had structure. And
+structure, in the vocabulary of the Farthest Shore, meant something.
+
+It meant that someone — or something — was there.
+
+                               III.
+
+The council voted six to three in favor of investigation.
+
+The announcement was made in the assembly hall, and the ship received
+it with the complicated silence of a community that has made a decision
+it is not entirely sure about. Hakon Brandt read the resolution in his
+slow, careful voice. The Farthest Shore would alter course. The
+investigation would proceed. The thirty-one years would be added to the
+voyage.
+
+Astrid stood at the back of the hall and felt something she did not
+have a word for. It was not triumph. It was not relief. It was
+something closer to vertigo — the sense of standing at the edge of a
+great height and having chosen, deliberately, to step forward.
+
+The deceleration began three days later. The ship's engines — massive
+ion drives that had burned continuously for seventy-two years — adjusted
+their thrust vector by 4.2 degrees, and the Farthest Shore began, with
+glacial slowness, to turn.
+
+You could not feel it. The change was too gradual, too subtle for human
+senses to detect. But Astrid knew it was happening, because the star
+field in the telescope shifted, degree by degree, and the rogue planet
+moved from the edge of the forward display to the center.
+
+They were going to meet it. After seventy-two years of straight-line
+flight, the Farthest Shore was going to deviate. It was going to visit a
+world that no one had expected to find, a world that should not have been
+there, a world that pulsed with a light that had no explanation.
+
+Astrid spent the sixteen months of approach in a state of sustained,
+quiet intensity. She refined her measurements. She trained two junior
+navigators in the techniques of planetary survey. She oversaw the
+preparation of the ship's small complement of probes — four unmanned
+vehicles, designed for atmospheric sampling and surface reconnaissance,
+that had been stored in the cargo bay since launch and never used.
+
+The planet grew. In the telescope, it expanded from a point of
+occluded starlight to a disk, and from a disk to a world. Its surface
+resolved into detail: craters and ridges, vast plains of frozen
+nitrogen, mountain ranges thrust up by some ancient tectonic violence
+and then stilled, forever, by the cold.
+
+And the fissures. The equatorial fissures, glowing with their slow,
+rhythmic light. As the ship drew closer, the resolution improved, and
+Astrid could see that the light was not uniform. It varied in color — a
+spectrum from deep amber to pale blue-white — and in intensity, and the
+variations followed patterns that were complex and, she became
+increasingly certain, purposeful.
+
+She did not use the word "signal." She did not use the word
+"communication." She recorded the data and let it accumulate, and she
+waited.
+
+                               * * *
+
+They achieved orbit on a morning — ship's morning, an arbitrary
+designation keyed to the circadian lighting schedule — in the fourth
+month of the seventy-third year of the voyage. Astrid was in the
+navigation bay when the orbital insertion was confirmed. She looked at
+the main display, which showed the planet filling the lower half of the
+screen, enormous and dark and silent, its fissures tracing lines of
+light across the equator like the last embers of a fire that had burned
+for a billion years.
+
+Piet Janssen, standing beside her, said something that she would
+remember for the rest of her life. He said it quietly, almost to
+himself, in a tone of unguarded wonder that she had never heard from
+him before.
+
+"It is so alone," he said.
+
+Yes, Astrid thought. Like us.
+
+The probes were launched the following day. Four small vehicles,
+dropping from the ship's belly toward the dark surface below. Astrid
+monitored their descent from the navigation bay, tracking their
+telemetry as they fell through the thin, frozen remnant of what might
+once have been an atmosphere — traces of nitrogen and argon, too sparse
+to be called air, too present to be called nothing.
+
+Probe One landed on the northern ice field. Probe Two landed in a
+crater basin near the equator. Probe Three landed on the edge of a
+fissure. Probe Four malfunctioned during descent and was lost.
+
+The data began to arrive.
+
+The ice field was nitrogen ice over a substrate of silicate rock, as
+expected. The crater basin was unremarkable. But Probe Three, perched on
+the lip of the fissure, reported something that was not expected at all.
+
+The fissure was warm. Not warm by human standards — the temperature
+was minus one hundred and twelve degrees Celsius — but warm relative to
+the surrounding surface, which was minus two hundred and thirty. A
+temperature differential of over a hundred degrees, sustained by some
+internal heat source that the probe's instruments could not identify.
+
+And in the fissure, clinging to the walls of rock in thin, translucent
+sheets, was something organic.
+
+Not alive in any way that Astrid's training had prepared her to
+recognize. Not cells, not tissues, not organisms. Something simpler and
+stranger: a crystalline lattice of carbon-based molecules, organized in
+repeating patterns of extraordinary complexity, that absorbed energy
+from the planet's residual internal heat and emitted it as light. The
+lattice grew. It spread. It branched and reconnected in patterns that
+were — the ship's biologists confirmed, after three weeks of analysis —
+not random.
+
+They were not organisms. They were not machines. They were something
+in between, or something outside either category entirely: a form of
+organized matter that converted thermal energy into light with an
+efficiency that bordered on the theoretical maximum, and that did so in
+patterns that carried information.
+
+The light was not random. The light was not decorative. The light was a
+language.
+
+And the lattice was speaking to itself.
+
+                               IV.
+
+Astrid spent the next four months learning to listen.
+
+The biologists and the physicists and the linguists — the Farthest
+Shore carried specialists in all these fields, because a generation ship
+is a civilization in miniature, and a civilization requires every kind of
+knowledge — worked together to decode the patterns. It was slow work.
+The lattice's language was not symbolic in any way they recognized. It
+was not a code. It was not a grammar. It was something more fundamental:
+a set of relationships between light and structure, between the rhythm
+of emission and the geometry of the lattice itself, that encoded
+information in a way that was as different from human language as music
+is from mathematics.
+
+They could not translate it. They were not sure it could be translated.
+But they could describe it, and what they described was a system of
+extraordinary depth and beauty — a system that had been operating,
+according to the best estimates of the ship's geologists, for
+approximately three billion years.
+
+Three billion years. The lattice had been growing in the fissures of
+this sunless world, converting heat into light, speaking its luminous,
+untranslatable language to itself, for longer than complex life had
+existed on Earth.
+
+Astrid stood in the navigation bay and stared at the images from Probe
+Three. The fissure walls glowed with a light that shifted and pulsed and
+branched and flickered in patterns that were, she now understood,
+conversations. Dialogues conducted in photons across chasms of frozen
+rock. A community of light, thriving in the dark, sustained by nothing
+more than the slow cooling of a planet's core.
+
+She thought of her grandmother. Sigrid Lund, who had stood in sunlight
+and closed her eyes and seen the red of her own blood. Sigrid had tried,
+many times, to describe the sun to Astrid, and she had always failed,
+because the sun was not a thing that could be described. It was a thing
+that could only be experienced. A warmth on the face. A brightness
+behind the eyelids. A presence so vast and so fundamental that it
+defined the world simply by being there.
+
+Astrid had never had a sun. The people of the Farthest Shore had never
+had a sun. They had traveled for seventy-three years through the
+starless dark between systems, sustained by their engines and their
+discipline and their quiet, unspoken agreement to endure.
+
+And here, on this sunless world, in this frozen crack in the rock, was
+something that had done the same. Something that had endured. Something
+that had found, in the absence of everything that life was supposed to
+require, a way to persist. A way to grow. A way to speak.
+
+Astrid Lund had never seen a sun. But she had seen this.
+
+                               * * *
+
+The survey lasted six months, as planned. The ship's scientists
+catalogued seventeen distinct lattice networks in the equatorial
+fissures, each with its own characteristic patterns of luminescence. They
+mapped the fissures in detail. They collected samples — carefully, with
+enormous delicacy, aware that they were touching something that had been
+undisturbed for three billion years. They argued, passionately and at
+length, about what the lattice was and what it meant, and they did not
+reach a consensus, because the lattice defied every framework they
+brought to it.
+
+It was alive, in some sense. It was organized, in some sense. It was
+communicating, in some sense. But it was not alive in the way that any
+Earth organism was alive, and it was not organized in the way that any
+known system was organized, and it was not communicating in the way that
+any language communicated. It was something new. Something that expanded
+the definition of every word they tried to apply to it.
+
+When the survey was complete, the council met again, and the question
+was simple: What do we do now?
+
+There were those who wanted to stay. The lattice was the most
+significant discovery in the history of the voyage — in the history,
+arguably, of the human species. To leave it after only six months of
+study seemed not merely premature but irresponsible. A generation ship
+could become a research station. The destination star could wait. This
+was more important.
+
+There were those who wanted to leave immediately. The thirty-one years
+had already been added. Every additional day in orbit added more. The
+ship's resources were not infinite. The destination was the destination.
+They had come to find a new home, not to study a frozen rock.
+
+Astrid listened. She sat in the back of the assembly hall, as she had
+before, and she listened to the arguments, and she felt, again, that
+sensation of standing at the edge of a great height.
+
+When the debate had gone on for two days, Hakon Brandt raised his hand
+for silence. The hall fell quiet.
+
+"I would like to hear from Navigator Lund," he said.
+
+Astrid stood. She walked to the front of the hall. She stood before the
+council and the assembled passengers of the Farthest Shore, and she said
+the thing she had been thinking for six months.
+
+"We should leave," she said.
+
+The hall stirred. She could feel the surprise — from those who had
+expected her to argue for staying, who had assumed that the woman who had
+found the planet would want to remain with it.
+
+"We should leave," she said again, "because we have already received
+what this place has to give us. The lattice has survived for three
+billion years without a sun. It has grown and spoken and endured in
+conditions that should have made existence impossible. It did not need us
+to find it. It did not need us to understand it. It was here before us,
+and it will be here after us, and its existence does not depend on our
+observation.
+
+"But our existence depends on our voyage. We are not a research
+station. We are a ship. We have a destination, and people waiting to be
+born who will need a world to live on. We owe them that world. We owe
+them the arrival.
+
+"What the lattice has given us is not data, though we have collected
+data. It is not knowledge, though we have gained knowledge. What it has
+given us is proof. Proof that life does not require a sun. Proof that
+existence does not require comfort, or warmth, or light from above. Proof
+that in the deepest dark, in the most absolute cold, something can
+persist. Something can grow. Something can speak.
+
+"We are that something. We have always been that something. We have
+traveled for seventy-three years through the void, and we have persisted,
+and we have grown, and we have spoken to each other in the dark. The
+lattice is a mirror. It shows us what we already are.
+
+"We should leave. We should continue. We should arrive."
+
+The hall was silent for a long time.
+
+Hakon Brandt, eighty-one years old, born in the void, destined to die
+in it, looked at Astrid Lund with an expression she had never seen on
+his face before. It might have been pride. It might have been sorrow. It
+might have been both.
+
+"The navigator's recommendation is noted," he said. "The council will
+vote."
+
+The vote was unanimous. The Farthest Shore would continue.
+
+                               V.
+
+The departure from orbit was gradual, as all things aboard the Farthest
+Shore were gradual. The engines adjusted. The trajectory shifted. The
+rogue planet began, degree by degree, to slide from the center of the
+telescope's field of view toward the edge.
+
+Astrid watched it go.
+
+She stood in the navigation bay, alone — her shift had ended an hour
+ago, but she had stayed — and she watched the planet diminish. The
+fissures still glowed. The lattice still pulsed with its slow,
+beautiful, untranslatable light. It would continue to pulse for another
+three billion years, perhaps, or three billion more after that. It did
+not know the ship had come. It did not know the ship was leaving. It
+simply was, as the stars simply were, as the void simply was.
+
+Piet Janssen found her there, three hours later, still watching.
+
+"It's almost gone," he said.
+
+"Yes."
+
+"Will you miss it?"
+
+Astrid considered the question. It deserved consideration.
+
+"No," she said. "I will carry it."
+
+The planet slipped below the threshold of the telescope's resolution
+and became, once again, an absence — a patch of starless dark against
+the slightly less dark background of interstellar space. Astrid watched
+the place where it had been for a long time after it had vanished.
+
+Then she turned off the display and walked the forty-seven steps to her
+quarters. She lay in her narrow bunk. She closed her eyes.
+
+Behind her eyelids, in the private dark, she saw light. Faint and
+rhythmic and patient. A language she could not speak. A presence she
+could not explain. A world that had found, in the absence of everything,
+a way to shine.
+
+Astrid Lund had never seen a sun. But she had seen something, she
+thought, that was perhaps more important. She had seen the proof that
+the dark was not empty.
+
+She slept, and the ship moved on, and the void ahead was vast and
+cold and full of things that had not yet been found.
+
+================================================================================
+
+                         EVERY MOUTH A RICTUS
+
+                          by Lucian Marsh
+
+================================================================================
+
+I have set down this account because I was asked to, and because the
+alternative — silence — has become its own kind of affliction. The
+doctors at the station on Callisto, where I am presently convalescing,
+have encouraged me to write. They believe it will be therapeutic. I do
+not share their optimism, but I have found that the act of writing
+provides, at least, a structure for the hours, which have grown long and
+shapeless since my return, and which are haunted by a particular quality
+of stillness that I cannot seem to dislodge.
+
+I should say at the outset that I am not entirely certain of the
+accuracy of what follows. Memory, under the conditions I experienced,
+becomes unreliable — not in the way of simple forgetting, but in a more
+insidious fashion, as though the events themselves have shifted in the
+retelling, rearranging their sequence and emphasis to suit some narrative
+purpose that is not my own. I have done my best to be truthful. I
+cannot guarantee that I have been accurate.
+
+My name is Dr. Elliot Crane. I am — I was — the chief medical officer
+of Rescue and Recovery Unit Seven, attached to the Colonial
+Administration's Emergency Response Division. Our unit operated in the
+outer system: Jupiter's moons, the Saturn colonies, the scattered
+research stations and mining outposts that cling to the edges of
+civilized space like barnacles on a rotting hull. We were, in the
+parlance of the service, "the last call" — the team that went in when
+communications failed, when ships went silent, when the regular channels
+of assistance had been exhausted and something more desperate was
+required.
+
+I had served in the unit for eleven years. I had seen things that I will
+not describe here, because they are not relevant to this account and
+because some experiences do not benefit from additional exposure to
+daylight. I mention my tenure only to establish that I was not, by the
+time of the Hesperus incident, a man easily unsettled.
+
+I was wrong about that. I was wrong about a great many things.
+
+                               * * *
+
+The distress signal from the Hesperus Colony arrived at our station on
+the fourteenth of March, and it arrived wrong.
+
+I do not mean that it was garbled or incomplete. I mean that its
+character was wrong — its tone, its cadence, the quality of the silence
+between its automated pulses. A standard colonial distress beacon
+transmits a repeating signal at a fixed interval: three seconds of tone,
+five seconds of silence, three seconds of tone. It is monotonous and
+urgent and unmistakable. The Hesperus signal followed this pattern
+exactly, and yet there was something in it — a quality I could not name
+then and cannot name now — that made the hair rise on the back of my
+neck when I first heard it played through the station's speakers.
+
+Commander Vasquez, who led our unit, noticed nothing unusual. Neither
+did Kessler, our pilot, or Park, our systems specialist, or Okonkwo,
+our structural engineer. I asked them, later, whether the signal had
+struck them as odd, and they looked at me with the patient blankness
+of people who have been asked a question they do not understand. It was
+a distress signal. It sounded like a distress signal. What more was
+there to say?
+
+I said nothing more. But I noted it, and I noted it again when we
+received the supplementary data packet from Colonial Administration: the
+Hesperus Colony, a research station on Enceladus, population forty-one,
+had ceased all communication eighteen days prior. No distress call
+before the automated beacon activated. No logs, no reports, no personal
+messages. Simply silence, sudden and complete, as though the colony had
+been switched off.
+
+We departed within the hour. The transit from our station to Enceladus
+took four days, and during those four days I reviewed everything the
+Administration had on file about the Hesperus Colony. It was a
+xenobiology station, established three years prior to study the
+subsurface ocean that was believed to exist beneath the moon's icy crust.
+The personnel were scientists, mostly — biologists, chemists, geologists
+— along with a small support staff of engineers and technicians. The
+station commander was a woman named Dr. Isolde Ferren, a xenobiologist
+of considerable reputation whose published work I had read and admired.
+
+Nothing in the file suggested a reason for the silence. The station's
+systems were functioning normally, according to the last telemetry
+received before communications ceased. Power, life support, atmospheric
+integrity — all within nominal parameters. Forty-one people, healthy and
+operational, and then nothing.
+
+I have since learned to recognize that particular pattern — normalcy
+followed by silence — as the most dangerous pattern there is. A system
+failure announces itself. An accident leaves evidence. A disease
+progresses. But when everything is normal and then everything is quiet,
+it means that whatever happened was not a failure, not an accident, not
+a disease. It means that whatever happened was something that the
+colonists did not recognize as a threat until it was too late to report
+it. Or — and this is the possibility that I did not allow myself to
+consider at the time — it means that whatever happened was something
+they did not wish to report.
+
+                               * * *
+
+Enceladus, seen from orbit, is a world of ice. It is small — barely
+five hundred kilometers in diameter — and it is white, almost uniformly
+white, its surface scarred by long, parallel fractures that the
+geologists call "tiger stripes," from which plumes of water vapor and
+ice particles erupt periodically into the vacuum. It is, by any
+objective standard, a beautiful world. I did not find it beautiful. I
+found it, on that approach, oppressively blank — a world that offered
+the eye nothing to hold onto, no landmark, no variation, nothing but
+the white and the cracks in the white and the black sky above.
+
+The Hesperus Colony was located near the south pole, adjacent to the
+largest of the tiger stripe fractures. From orbit, it was a small
+cluster of pressurized modules — domes and cylinders connected by
+enclosed walkways — that looked, against the ice, like a scattering of
+pills on a bedsheet.
+
+Kessler brought us down on the station's landing pad. The descent was
+routine. The touchdown was smooth. Through the cockpit windows, I could
+see the nearest module — the station's main habitat — and its lights
+were on. The windows glowed warmly against the white of the ice and the
+black of the sky. It looked, from the outside, like a place where people
+lived. It looked normal.
+
+"Atmosphere reads clean," Park reported from her console. "Standard
+colonial mix. Pressure nominal. No contaminants detected."
+
+"Life signs?" Vasquez asked.
+
+Park was quiet for a moment. Then: "Forty-one. All present. All within
+normal biological parameters."
+
+I remember the way Vasquez looked at me when she heard that. Forty-one
+people, all alive, all healthy, and yet eighteen days of silence. Her
+expression was not relief. Her expression was the expression of someone
+who has opened a door they expected to find locked and found it standing
+open, and who is now wondering what opened it, and why.
+
+"Gear up," she said. "Standard approach. Crane, you're with me on
+point."
+
+We suited up and entered through the station's main airlock. The outer
+door opened at our approach — the automatic sensors were functioning —
+and we stepped into the decontamination chamber, and the inner door
+cycled, and we walked into the Hesperus Colony.
+
+The corridor beyond the airlock was well-lit and clean. The air was
+warm. There was a faint smell — not unpleasant, but unusual. Sweet.
+Organic. Like overripe fruit, or flowers left too long in a vase.
+
+And there was sound. Or rather, there was an absence of the sounds I
+had expected — the hum of ventilation, the distant clatter of equipment,
+the murmur of conversation that characterizes any inhabited station —
+replaced by a quality of silence that was not quite silence. It was the
+sound of people being very, very still.
+
+We moved through the corridor. The lights were on. The doors were open.
+Everything was clean, maintained, operational. And empty. Room after room
+after room, all empty, all lit, all warm, all permeated by that faint,
+sweet smell.
+
+We found them in the mess hall.
+
+All forty-one of them. Seated at the long tables, arranged in orderly
+rows, their hands resting on the table surfaces or folded in their laps.
+They were dressed in their normal work clothes. They were clean. They
+were upright. They were breathing.
+
+And they were smiling.
+
+Every one of them. Every face turned toward us as we entered — a slow,
+synchronized movement, like sunflowers tracking the light — and every
+face bore the same expression: a wide, fixed, radiant smile. Lips drawn
+back. Teeth visible. Eyes open and bright and focused and utterly,
+appallingly empty.
+
+I have seen many things in my years with Rescue and Recovery. I have
+seen the dead and the dying. I have seen the aftermath of decompression
+and fire and structural collapse. I have seen fear, and grief, and the
+peculiar calmness that descends upon people who have accepted that they
+are going to die. None of it prepared me for this. None of it approached
+the visceral, bone-deep wrongness of forty-one people sitting in perfect
+silence, smiling at nothing, smiling at everything, smiling with an
+intensity that distorted their features and stretched the muscles of
+their faces into configurations that were not, I realized with a slow
+crawl of nausea, entirely voluntary.
+
+They could not stop.
+
+"Dr. Ferren?" Vasquez said. Her voice was steady. I admired her for
+that. "Dr. Isolde Ferren? I am Commander Vasquez, Rescue and Recovery
+Unit Seven. We received your distress signal. Can you tell me what
+happened here?"
+
+The woman at the head of the nearest table — I recognized her from her
+file photograph: Dr. Ferren, the station commander — turned her smiling
+face toward Vasquez and spoke.
+
+"We are very well," she said. Her voice was pleasant. Conversational.
+The smile did not waver. "We are very well and very happy. Thank you
+for coming. You did not need to come. We are very well."
+
+"Your communications went silent eighteen days ago. Can you explain
+that?"
+
+"We did not feel the need to communicate. We are very well. We are
+very happy."
+
+"Dr. Ferren, I need to understand what has happened here. Are you
+under duress?"
+
+The smile widened, though I would not have thought it possible. "No,"
+said Dr. Ferren. "We are not under duress. We are very happy. Won't
+you sit down? Won't you stay with us? It is so lovely here."
+
+Vasquez looked at me. I could see, behind her visor, the effort it was
+taking her to maintain her composure. I suspect my own face was not
+reassuring.
+
+"Crane," she said. "Medical assessment."
+
+I stepped forward. I approached Dr. Ferren with my scanner raised,
+and she watched me come with that terrible, luminous smile, and when I
+was close enough to see the fine details of her face — the stretched
+skin, the tension in the muscles around her mouth, the faint tremor in
+her lower lip that suggested the smile was being maintained against some
+enormous, unrelenting internal pressure — I understood something that I
+had been trying not to understand since we walked into the room.
+
+They were not smiling because they were happy.
+
+They were smiling because something was making them smile.
+
+I ran the scanner over Dr. Ferren's face and neck and torso, and the
+readings were wrong. Her neurochemistry was wrong. Her serotonin levels
+were catastrophically elevated — far beyond anything that could be
+produced by normal biological processes. Her dopamine was similarly
+distorted. The pleasure centers of her brain were firing continuously,
+at an intensity that should have been physiologically impossible, and the
+motor neurons controlling her facial muscles were locked in a pattern
+of sustained activation that the scanner flagged, with clinical
+precision, as involuntary.
+
+She was smiling because her brain was being flooded with a chemical
+signal that forced her to smile. She was happy because something was
+making her happy. And the distinction between genuine happiness and
+compelled happiness — a distinction that, in normal circumstances, is
+absolute and inviolable — had been erased.
+
+"What did this?" I asked her, and I heard the tremor in my own voice,
+and I could not suppress it. "Dr. Ferren. What did this to you?"
+
+The smile. The terrible, unrelenting smile. "Nothing did this to us,
+Doctor. We are simply happy. Is that not permitted? Is that not what
+everyone seeks?"
+
+"This is not natural. Your neurochemistry has been altered. Something
+has —"
+
+"We found something," she said. Her voice was soft, confiding,
+intimate. "In the ocean. Below the ice. We brought a sample to the
+surface and it was so beautiful, Doctor. So beautiful. And when we
+looked at it — when we truly looked at it — it looked back. And it
+shared with us what it had. It shared its joy."
+
+I stepped back. I turned to Vasquez. I said, very carefully, "Commander,
+we need to leave. Now. Without further contact."
+
+But Vasquez was not looking at me. Vasquez was looking at the far end
+of the mess hall, where Okonkwo — our structural engineer, who had
+entered the room behind us and who I had not been monitoring because I
+had been focused on Dr. Ferren — was standing very still.
+
+He was standing very still, and he was looking at the smiling colonists,
+and he was smiling.
+
+Not the fixed, forced, terrible smile of the colonists. Not yet. A
+small smile. A gentle smile. The beginning of a smile. But it was
+spreading, visibly, like a crack in glass, widening across his face with
+a speed and an inevitability that made my stomach clench.
+
+"Okonkwo," I said. "Okonkwo, close your eyes. Do not look at them.
+Close your eyes now."
+
+He did not close his eyes. He could not close his eyes. He was looking
+at the colonists, and the colonists were looking at him, and something
+was passing between them — through the medium of eye contact, through
+the channel of mutual observation — that was rewriting the chemistry of
+his brain in real time.
+
+I grabbed his arm. I pulled him backward, out of the mess hall, into
+the corridor. Vasquez was shouting orders. Park and Kessler, who had
+remained in the ship, were responding over the radio. Okonkwo was
+stumbling beside me, his legs uncoordinated, his face still wearing
+that spreading, helpless smile.
+
+"It's all right," he said, and his voice had already acquired the
+pleasant, conversational quality of Dr. Ferren's. "It's all right,
+Crane. I feel wonderful. I feel so wonderful. Why are you frightened?
+There's nothing to be frightened of."
+
+I sealed my visor. I should have done it earlier. I should have done it
+the moment we entered the room. But one does not expect a smile to be
+contagious. One does not expect happiness to be a weapon.
+
+We retreated to the ship. I placed Okonkwo in the medical bay and
+sedated him — heavily, perhaps more heavily than was strictly necessary,
+but I wanted the smile off his face and the sedation was the only tool
+I had. Under sedation, his facial muscles relaxed, and the smile faded,
+and he looked, for a moment, like the man I had known for six years: a
+quiet, competent engineer from Lagos who played chess badly and kept a
+photograph of his daughter taped to his workstation.
+
+Then the sedation began to wear off, and the smile came back. Slowly.
+Inexorably. Rising through the chemical suppression like something
+surfacing from deep water.
+
+                               * * *
+
+I will be brief about what followed, because the details are in the
+official report, and because I find that the act of recalling them in
+sequence produces, in me, a physical response — a tightness in the
+chest, a shortness of breath, an overwhelming urge to look away — that
+I have been told is consistent with acute psychological trauma.
+
+We could not help the colonists. We could not cure Okonkwo. The
+organism — for I will call it an organism, though the xenobiologists at
+Callisto have suggested that it may be something more fundamental, a
+chemical process rather than a living thing, a reaction rather than an
+entity — had integrated itself into the neurochemistry of its hosts so
+thoroughly that removing it would have required, in effect, dismantling
+their brains.
+
+It spread through eye contact. That was the vector. Not airborne, not
+tactile, not ingested. Visual. Something in the configuration of the
+smile — some pattern of muscular activation, some arrangement of
+features — triggered a response in the observer's brain that initiated
+the process of neurochemical restructuring. The process was rapid — in
+Okonkwo's case, perhaps ninety seconds from initial exposure to full
+onset — and it was, as far as we could determine, irreversible.
+
+The colonists had discovered the organism in the subsurface ocean. It
+existed there as a diffuse chemical presence — a soup of complex organic
+molecules that responded to light, to warmth, to the electrical activity
+of living brains. When the colonists brought a sample to the surface and
+examined it in their laboratory, it had responded to their observation
+by triggering the neurochemical cascade that produced the smile. The
+first researcher to be affected had turned to her colleagues to report
+her findings, and they had looked at her face, and the smile had spread.
+
+Forty-one people, in less than a day. And then silence, because the
+organism did not want to communicate with the outside world. It wanted
+to be looked at. It wanted to be seen. It wanted eyes.
+
+We left. We sealed the colony. We filed our report. Okonkwo was
+transferred to the isolation facility on Callisto, where he remains,
+where he sits in a white room and smiles at the wall and tells anyone
+who enters that he is very well, that he is very happy, that there is
+nothing to be frightened of.
+
+I have not visited him. I have been told that his daughter has visited
+him, once, and that she wept, and that he smiled at her tears and told
+her that everything was beautiful.
+
+I am told that the colonial administration is debating what to do about
+the Hesperus Colony. There are those who advocate quarantine. There are
+those who advocate destruction. There are those — and this is the
+possibility that keeps me awake at night, staring at the ceiling of my
+room on Callisto, listening to the hum of the ventilation system and
+the silence beyond it — who advocate further study.
+
+They want to send another team. They want to understand the organism.
+They want to know how it works, and whether it can be controlled, and
+whether its effects can be harnessed for therapeutic purposes.
+
+They want to look at it.
+
+I have told them what happens when you look. I have told them about the
+smile. I have told them about Okonkwo, and Dr. Ferren, and the forty-one
+people sitting in the white light of the mess hall, smiling at nothing,
+smiling at everything, smiling forever.
+
+They listened to me, and they nodded, and they said they understood.
+
+And then they smiled, politely, and told me not to worry.
+
+I am writing this in my room. It is late. The lights of the Callisto
+station are dimmed to simulate night, and the corridors outside my door
+are quiet. I have not looked at anyone's face in several days. I
+communicate through written messages. I take my meals alone. The doctors
+say this is a symptom of my trauma, and they are probably right.
+
+But I have noticed — and I record this here not as evidence but as
+observation, to be evaluated by whoever reads this account — that the
+doctors smile more than they used to. It is a small thing. A subtle
+thing. The kind of thing that a man in my condition might be expected to
+imagine.
+
+But I have noticed it. And I am not sure, anymore, whether it is safe
+to look.
+
+================================================================================
+
+                        CHROMIUM THUNDER
+
+                        by Rex Drummond
+
+================================================================================
+
+Vince Delacroix was elbow-deep in the guts of a Ransom & Caldwell
+Mark IV rocket sled when the trouble walked in.
+
+He heard it before he saw it — the clack-clack-clack of expensive boots
+on the ferrocrete floor of his garage, a sound that didn't belong among
+the oil stains and welding sparks and the sweet reek of hypergolic fuel
+that was Vince's natural habitat. He slid out from under the sled on
+his crawler, squinting up through a faceful of grease, and saw a pair
+of legs in pressed khaki trousers, a belt buckle the size of a dinner
+plate, and above it all the broad, sun-darkened, smiling face of
+Alejandro "El Cuchillo" Reyes.
+
+"Vinnie!" Reyes spread his arms wide like a long-lost uncle. Gold teeth
+gleamed. "My friend! My very good friend!"
+
+Vince wiped his hands on a rag that was dirtier than his hands. "I ain't
+your friend, Reyes. Last time you were my friend, I ended up in a
+Martian jail for two weeks."
+
+"A misunderstanding! Ancient history!" Reyes waved it off like a fly.
+"I come to you with an opportunity, Vinnie. A once-in-a-lifetime
+opportunity."
+
+"That's what you said about the Phobos run."
+
+"This is bigger than Phobos. This is Olympus."
+
+Vince sat up on the crawler. In spite of himself — in spite of every
+hard-earned instinct that told him to throw Reyes out of his garage and
+bolt the door — he felt the old kick in his chest. The kick that had
+gotten him into racing in the first place, fifteen years ago, when he
+was a skinny kid from the Tharsis slums with fast hands and no sense.
+
+"The Olympus Mons downhill," he said.
+
+"The Olympus Mons downhill!" Reyes confirmed, grinning like a cat in a
+fish market. "One hundred miles, top to bottom. Volcanic canyons.
+Switchbacks. Straightaways where a good sled hits Mach 2. Prize purse:
+fifty thousand credits. And this year — this year, Vinnie — I am the
+organizer."
+
+Vince stared at him. "You. You're running the downhill."
+
+"I have acquired the franchise. Legitimate! Papers signed, fees paid,
+everything above-board. Well." He wobbled one hand. "Mostly above-board.
+The point is, I need drivers. Good drivers. The best drivers. And you,
+Vinnie — you are the best there is."
+
+"Was," Vince said. "I've been out of the circuit three years."
+
+"And every day of those three years, people still talk about the Valles
+Marineris run. The way you took that hairpin at the Coprates turn —
+sideways, on one ski, at six hundred miles an hour — they still talk
+about it!"
+
+"I nearly died."
+
+"Nearly! That is the word that separates legends from corpses!" Reyes
+leaned closer. His cologne was aggressive. "Fifty thousand credits,
+Vinnie. Split sixty-forty — sixty to you, of course."
+
+"Of course," Vince said dryly.
+
+"All you need is a sled."
+
+Vince looked over his shoulder at the Mark IV. She was a battered old
+warhorse — fifteen years of hard racing had left her hull scarred and
+her frame stressed — but under the dents and the scorchmarks, she was
+still the fastest sled on Mars. Vince had rebuilt her engine twice,
+upgraded her thrust nozzles, tuned her magnetic skis to a tolerance of
+point-zero-zero-one percent. She could do Mach 2 on a good day. On a
+great day, with the right slope and a tail wind, she could touch Mach 3.
+
+"I got a sled," he said.
+
+Reyes' gold teeth flashed. "Then we have a deal?"
+
+Vince knew he shouldn't. He knew it the way you know not to touch a hot
+stove — the knowledge was in his bones, in the scar tissue on his arms,
+in the metal pin that held his left collarbone together after the crash
+at Acidalia Planitia. But the kick was there. The kick was always there.
+The kick was the thing that made him Vince Delacroix instead of just
+another grease monkey in the Tharsis slums.
+
+"We got a deal," he said.
+
+                               * * *
+
+The Olympus Mons downhill was not, technically speaking, legal.
+
+The Martian Colonial Authority had banned unsanctioned racing on public
+terrain six years ago, after a spectacular wreck in the Noctis Labyrinthus
+killed two drivers and a spectator. The ban had driven the sport
+underground, which meant it was now more dangerous, more expensive, and
+more popular than ever. Races were organized in secret, courses mapped
+by scouts who bribed the MCA patrol schedules out of corrupt officials,
+and the drivers — the ones crazy enough or desperate enough or addicted
+enough to the speed — gathered at hidden staging areas in the predawn
+hours and hurled themselves down mountainsides at velocities that would
+have given a test pilot nightmares.
+
+Vince had driven in a dozen underground races before he retired. He'd
+won eight of them. He'd crashed in two. He'd walked away from both
+crashes, which put him ahead of the statistical curve by a comfortable
+margin. The Olympus Mons downhill, though — that was something else.
+That was the big one. The Everest of sled racing. A hundred miles of
+volcanic terrain, starting at the caldera rim, twenty-two kilometers
+above the datum — the Martian equivalent of sea level — and ending on
+the plains of Amazonis Planitia. The grade averaged six percent, but
+there were stretches where it hit fifteen, twenty, and one infamous
+section called the Devil's Chute that dropped nearly vertical for half
+a mile before flattening out into a canyon run that demanded instant
+deceleration from supersonic to subsonic speeds, a maneuver that had
+killed more drivers than any other obstacle on Mars.
+
+Vince spent three weeks preparing. He stripped the Mark IV down to her
+frame, rebuilt the engine with new injectors and a modified combustion
+chamber that gave him an extra twelve percent thrust, reinforced the
+hull with a carbon-titanium laminate that would hold together — he
+hoped — at Mach 3, and recalibrated the magnetic skis for volcanic
+basalt, which was rougher and more unpredictable than the sandstone he
+was used to racing on.
+
+He also did his homework on the other drivers. There were sixteen
+entrants — Reyes had sent him the list — and Vince knew most of them
+by reputation if not in person. There was Kira Tanaka, the Japanese
+pilot who'd won the Elysium sprint three years running. There was
+"Big" Jack Halloran, a former MCA patrol officer who'd gone rogue and
+brought his military-spec sled with him. There was Pavel Andreyev, the
+Russian, who drove with a precision that was almost mechanical and
+who had never, in twelve years of racing, lost his composure or his
+line.
+
+And there was someone called Nighthawk.
+
+No real name. No biography. No racing record that Vince could find.
+Just a name on the entry list and a rumor that circulated through the
+Tharsis racing underground like smoke through a ventilation shaft:
+Nighthawk was fast. Nighthawk was dangerous. Nighthawk drove a custom
+sled that nobody had seen and that nobody could identify.
+
+Vince didn't like mysteries. In racing, a mystery was a variable, and
+variables killed people.
+
+He called Reyes. "Who's Nighthawk?"
+
+"A driver! A very good driver!"
+
+"I know that. Who is it?"
+
+"Vinnie, Vinnie. You know I can't reveal the identities of my
+participants. Confidentiality! It's in the contract!"
+
+"Since when do you have contracts?"
+
+"Since I became a legitimate businessman! Listen, Vinnie, don't worry
+about Nighthawk. Worry about the course. Worry about the Devil's Chute.
+Worry about your own sled. Nighthawk is just another driver."
+
+Vince hung up and worried about Nighthawk.
+
+                               * * *
+
+Race day came on a Tuesday, because nothing important on Mars ever
+happened on a day that felt important.
+
+The staging area was at the rim of the caldera, twenty-two kilometers
+up, where the air was so thin it was barely there and the sky was black
+even at noon. Sixteen sleds lined up on a strip of flattened basalt,
+their engines ticking and hissing in the cold, their hulls catching the
+low Martian sun and throwing it back in flashes of chrome and steel and
+painted flame.
+
+Vince's Mark IV was the oldest sled on the line. She looked it, too —
+scarred and patched and welded, a prizefighter past her prime. But her
+engine was singing a low, sweet note that Vince knew like his own
+heartbeat, and when he settled into the cockpit and strapped in, the
+sled fit him like a glove.
+
+He scanned the line. Tanaka was three slots to his left, her sled a
+sleek silver needle. Halloran was two to his right, his military rig
+bristling with stabilizers. Andreyev was at the far end, calm as a
+coffin.
+
+And in slot fourteen — Nighthawk.
+
+The sled was black. Not painted black — black, as though it absorbed
+light rather than reflecting it. It was smaller than the others, low
+and narrow, with a profile that suggested speed the way a shark's
+silhouette suggests violence. No markings. No insignia. No exhaust
+ports that Vince could see, which meant either a very unusual engine
+configuration or a drive system he didn't recognize.
+
+The cockpit canopy was tinted. He couldn't see the driver.
+
+"All right, folks!" Reyes' voice crackled over the radio, buoyant and
+theatrical. "Welcome to the fifth annual Olympus Mons downhill! One
+hundred miles of the finest volcanic real estate on Mars! Standard
+rules: no weapons, no ramming, no deliberate interference with another
+vehicle. Apart from that — drive fast, drive mean, and try not to die!"
+
+The starting gun fired — literally fired, because Reyes had a flair for
+the dramatic — and sixteen rocket sleds leaped forward with a combined
+roar that shook the caldera rim and sent a plume of dust a hundred feet
+into the thin Martian air.
+
+Vince was third off the line. Tanaka was first — she always was, her
+reflexes were inhuman — and Halloran was second, his military sled's
+raw thrust punching him ahead like a fist. Vince didn't fight for
+position. Not yet. The first ten miles were a gradual descent through
+the caldera's outer slopes, relatively smooth, relatively safe, and the
+race wouldn't really begin until they hit the canyon section at mile
+eleven.
+
+He settled into his rhythm. The sled hummed beneath him, responsive and
+eager, and the Martian landscape unrolled ahead in a vast sweep of
+rust-red rock and black basalt, the horizon impossibly distant, the sky
+impossibly dark. At this speed — six hundred miles an hour, barely above
+cruising — the world was a blur of color and motion, and Vince felt the
+old joy kindle in his chest, the joy that was the flip side of the fear,
+the joy that said you are alive, you are fast, you are free.
+
+Mile five. Mile seven. Mile nine. The pack began to stretch out. The
+faster sleds pulled ahead; the slower ones fell back. Vince held his
+position in the middle, conserving his engine, reading the terrain,
+waiting.
+
+At mile eleven, the canyons began.
+
+The slope steepened. The smooth basalt gave way to broken, jagged
+volcanic rock. Walls of black stone rose on either side, funneling the
+sleds into a corridor that narrowed and twisted and dropped with a
+suddenness that turned Vince's stomach and lit up every warning on his
+instrument panel.
+
+He gunned it.
+
+The Mark IV surged forward with a scream of thrust that pressed Vince
+back into his seat and blurred his vision. The canyon walls whipped past.
+The sled's magnetic skis sang against the rock. Vince took the first
+switchback at eight hundred miles an hour, leaning into the turn with
+his whole body, feeling the sled's frame flex and groan, and came out
+the other side two positions ahead and accelerating.
+
+Mach 1. Mach 1.2. Mach 1.5. The sonic boom bounced off the canyon
+walls and came back as a rolling, physical thunder that shook the sled
+and rattled Vince's teeth. He passed Halloran on a straight section,
+the military sled's bulk working against it in the tight canyon, and
+slotted in behind Tanaka, who was driving the line like a surgeon with
+a scalpel — precise, economical, beautiful.
+
+And then, in his rearview display, he saw Nighthawk.
+
+The black sled was coming up through the pack like a missile. No — not
+like a missile. Missiles were loud and bright and obvious. Nighthawk was
+silent. The black sled moved through the canyon without sound, without
+visible exhaust, without any of the turbulence and fury that
+characterized a rocket sled at full burn. It simply moved — quickly,
+smoothly, inevitably — and the sleds in its path moved aside or were
+passed so cleanly that their drivers didn't realize it had happened
+until the black shape was already ahead.
+
+Vince watched it with a cold knot forming in his gut. That was not a
+rocket engine. That was not any kind of engine he recognized. That sled
+was moving in a way that defied the physics of sled racing, and it was
+doing it silently, which meant it was doing it effortlessly, which
+meant —
+
+"Reyes," Vince said into the radio. "What the hell is Nighthawk
+driving?"
+
+"Focus on your own race, Vinnie!"
+
+"That sled isn't running a rocket engine. It's running something else.
+Something I've never seen."
+
+"Maybe you haven't seen everything, eh? Drive your race!"
+
+Vince drove his race. He took the canyon section at speeds that would
+have made his younger self whistle, threading through the switchbacks
+with a combination of skill and recklessness that left his hands
+shaking and his heart hammering. He passed Tanaka at mile twenty-two,
+catching her on the inside of a hairpin turn that she took wide, and he
+held the lead for three beautiful, terrifying miles.
+
+Then Nighthawk passed him.
+
+The black sled appeared on his left, low and silent, and for a fraction
+of a second — a fraction that burned itself into Vince's memory with
+the permanence of a brand — he looked through the tinted canopy and saw
+the driver.
+
+He couldn't see much. A face, obscured by a helmet visor. A pair of
+hands on the controls. But the hands were wrong. They were too long.
+The fingers had too many joints. And they moved with a fluidity that
+was not human, that was mechanical, that was —
+
+Nighthawk pulled ahead and was gone.
+
+                               * * *
+
+The Devil's Chute was at mile fifty-eight. Vince hit it at Mach 2.1,
+which was too fast — everybody hit the Chute too fast, because the
+approach was a long, seductive straightaway that invited you to open the
+throttle, and by the time you saw the drop it was too late to slow
+down — and he felt the sled go vertical beneath him, the Gs slamming
+him down into his seat, the magnetic skis screaming against the rock
+face as the Mark IV plummeted half a mile in eight seconds.
+
+The canyon at the bottom came up fast. Too fast. Vince hauled on the
+retro-rockets and felt the sled shudder and buck as it decelerated from
+supersonic to subsonic in a maneuver that compressed his spine and
+grayed out his vision. He made it. Barely. The Mark IV's port ski
+clipped the canyon wall and sent a shower of sparks across his canopy,
+but he held the line, and he was through.
+
+Behind him, he heard the sound he'd been dreading: the flat, concussive
+bang of a sled hitting rock at speed. He didn't look back. You never
+looked back in the Chute. Looking back was how you joined the wreckage.
+
+He was in second place now, behind Nighthawk. Tanaka was third, ten
+seconds back. Andreyev was fourth. Of the original sixteen, he counted
+eleven still on the course.
+
+At mile sixty-five, his radio crackled. "Vinnie." It was a new voice.
+Not Reyes. A woman's voice, low and urgent. "Vinnie, can you hear me?"
+
+"Who is this?"
+
+"Tanaka. Listen to me. Something's wrong with the course."
+
+"I noticed. There's a sled out there that doesn't run on —"
+
+"Not that. The course itself. The markers for the final canyon section —
+they're wrong. They're leading us into a dead end. There's a box canyon
+at mile eighty that isn't on the maps. If we follow the markers, we
+drive straight into a wall."
+
+Vince felt the cold knot in his gut tighten. "How do you know?"
+
+"Because I've scouted this mountain six times and I know every canyon
+on it. The markers have been moved. Someone rigged the course."
+
+Vince thought about Reyes. About his gold teeth and his cologne and his
+assurances that everything was legitimate. About the way he'd dodged
+the question about Nighthawk. About the fifty-thousand-credit purse and
+the sixteen drivers and the box canyon at mile eighty.
+
+"Reyes," he said. "He rigged it."
+
+"That's my guess. He's got a sled in this race — Nighthawk. Whatever
+that thing is, it's not a standard racer. And if the rest of us pile
+into a box canyon at Mach 2 —"
+
+"Nighthawk wins by default. And Reyes keeps the purse."
+
+"And we're dead."
+
+Vince's jaw tightened. His hands tightened on the controls. The Mark IV
+was shaking — she'd been pushed hard, harder than she'd been pushed in
+years, and the port ski was damaged from the clip in the Chute — but she
+was still running, still fast, still game.
+
+"Can we get word to the others?"
+
+"I've been broadcasting on the open channel. Andreyev heard me. Halloran
+heard me. The rest — I don't know."
+
+"All right. New plan. I'm going to catch Nighthawk."
+
+"Catch Nighthawk? Vinnie, that sled is running on something we can't —"
+
+"I don't need to be faster. I need to be smarter. There's a fork at
+mile seventy-three — left goes into the standard canyon run, right drops
+down through the secondary vents. The vents are tight, but they bypass
+the box canyon and come out on the plains below mile eighty-five. If I
+take the vents and Nighthawk follows the rigged markers —"
+
+"The vents are suicide, Vinnie. Nobody's ever run the vents."
+
+"Correction: nobody's ever run the vents and lived to brag about it.
+But nobody's ever run 'em in a Mark IV with custom skis and a rebuilt
+engine and fifteen years of experience in canyons a lot meaner than
+these."
+
+There was a pause. Then Tanaka said, "You're insane."
+
+"Lady, I'm a sled racer. It's the same thing."
+
+He killed the radio and pushed the throttle forward.
+
+                               * * *
+
+Mile seventy-three. The fork.
+
+The markers — Reyes' markers, the rigged markers — pointed left, into
+the main canyon. Vince could see, a quarter-mile ahead, the black shape
+of Nighthawk taking the left fork at impossible speed, following the
+false course toward the box canyon that wasn't on the maps.
+
+Vince went right.
+
+The secondary vents were exactly as bad as advertised. They were
+volcanic tubes — tunnels of ancient lava, collapsed in places, narrowed
+in others, twisted and kinked and pitch-dark except for the harsh white
+glare of Vince's headlamps. The Mark IV screamed through them at eight
+hundred miles an hour, her magnetic skis inches from the walls, her hull
+scraping the ceiling in places, the sound of her passage amplified by
+the enclosed space into a roar so loud it drowned out thought.
+
+Vince didn't think. He drove. He drove on instinct, on muscle memory,
+on the accumulated wisdom of fifteen years of running canyons and
+tunnels and chutes and drops. The vents twisted; he twisted with them.
+The vents narrowed; he tilted the sled on edge and threaded the gap.
+The vents dropped; he cut the engine and let the sled fall, then fired
+the retros and pulled up with two feet of clearance and a prayer on his
+lips that he would have denied, later, ever uttering.
+
+It lasted four minutes. Four minutes that felt like four hours. Four
+minutes of absolute focus, absolute commitment, absolute refusal to die
+in a hole in the ground on a planet that wasn't even his home.
+
+And then the vents opened, and the Martian sky blazed above him, and
+the plains of Amazonis Planitia stretched ahead to the horizon, flat and
+red and beautiful.
+
+He was ahead.
+
+He was ahead of Nighthawk. He was ahead of everyone. The rigged course
+was behind him, and the finish line — a strip of painted ferrocrete on
+the plains below the mountain — was fifteen miles away.
+
+Vince laughed. He couldn't help it. He threw his head back and laughed
+and pushed the throttle to the wall, and the Mark IV leaped forward
+with a scream of triumph that echoed off the mountain behind him.
+
+Mach 2. Mach 2.5. Mach 2.8.
+
+In his rearview display, he saw Nighthawk emerge from the mountain.
+The black sled had figured it out — had found the box canyon, had
+realized the course was rigged, had doubled back and found a way through.
+It was fast. It was impossibly fast. It was gaining.
+
+Five miles to the finish. Nighthawk was closing.
+
+Three miles. Nighthawk was close enough to see the details — the black
+hull, the absence of exhaust, the alien smoothness of its approach.
+
+Two miles. Vince could feel the air pressure building behind him as
+Nighthawk's wake effect disrupted his aerodynamics. The Mark IV bucked
+and shuddered.
+
+One mile. Nighthawk was alongside him. Through the tinted canopy, those
+too-long fingers moved on the controls with inhuman precision.
+
+Vince looked at the finish line. He looked at Nighthawk. He looked at
+his instrument panel, where every gauge was redlined and every warning
+light was screaming.
+
+He hit the afterburner.
+
+The Mark IV had an afterburner because Vince had installed one, illegally,
+three years ago, using a salvaged military injector and a prayer. He had
+never used it in a race. He had never used it at all, because using it
+meant dumping raw fuel into the combustion chamber at a rate that would
+either produce a burst of speed or produce an explosion, and the
+probability of each outcome was, as far as Vince could calculate,
+roughly equal.
+
+The Mark IV screamed. Not the mechanical scream of an engine at full
+thrust — a different sound, higher, wilder, the sound of a machine
+exceeding its design parameters by a margin that its builders would have
+called impossible. The sled leaped forward. Mach 3. Mach 3.2. The
+instrument panel went dark — every system overloaded, every circuit
+blown — and Vince was flying blind, flying on pure speed, the finish
+line rushing toward him like a wall.
+
+He crossed it at Mach 3.4, a hundred feet ahead of Nighthawk, and the
+sonic boom that followed him across the line shattered every piece of
+glass in the judges' booth and knocked Reyes flat on his back in the
+dirt.
+
+The Mark IV's engine exploded three seconds after the finish. The sled
+slewed sideways, dug a ski into the ground, and rolled — once, twice,
+three times — before coming to rest upside down in a cloud of red dust
+half a mile past the finish line.
+
+Vince hung in his harness, inverted, bleeding from a cut over his left
+eye, and listened to the sound of his own breathing. The sled was dead.
+The engine was slag. The hull was cracked in six places.
+
+But he had won.
+
+He unstrapped himself, fell gracelessly out of the cockpit, and lay on
+his back on the Martian dirt, staring up at the black sky and the tiny,
+distant sun. His body hurt in places he didn't have names for. His hands
+were shaking so badly he couldn't make fists.
+
+Tanaka was the first to reach him. She'd come through the main canyon
+after Vince's radio warning had gone out to the other drivers — most of
+them had pulled up or found alternate routes, and only two sleds had
+actually hit the box canyon, both at low enough speeds that the drivers
+walked away with bruises and broken pride. She knelt beside him in the
+dirt and looked down at his grinning, bloody face.
+
+"You're insane," she said.
+
+"You mentioned that."
+
+"The afterburner?"
+
+"One-time use. Literally."
+
+She shook her head. Behind her, Vince could see the MCA patrol vehicles
+arriving, lights flashing, and Reyes being escorted toward one of them
+with his hands behind his back and his gold teeth no longer visible
+because he was not, at that moment, smiling.
+
+Nighthawk's sled sat at the finish line, silent and black. Its canopy
+was open. The cockpit was empty. The driver — whatever the driver had
+been — was gone. The MCA impounded the sled and took it apart, and
+whatever they found inside, they never told the public. Vince heard
+rumors, later — rumors about a drive system that shouldn't have existed,
+about control interfaces designed for hands that weren't human — but
+rumors were cheap on Mars, and Vince had learned a long time ago not to
+chase them.
+
+He collected his fifty thousand credits — from the race committee, not
+from Reyes, who was going to be a guest of the MCA penal system for a
+good long while — and he used the money to buy a new engine for the
+Mark IV. A good engine. A legal engine.
+
+He installed it himself, in his garage in Tharsis, with the smell of
+hypergolic fuel and the sound of his own satisfied whistling for company.
+And when Tanaka called, three months later, to ask if he was interested
+in the Elysium sprint, he said yes without hesitation, because Vince
+Delacroix was a sled racer, and a sled racer races.
+
+It's the same thing as being insane. But the view is better.
+
+================================================================================
+
+                      PROBATE OF WORLDS
+
+                        by Theodore Cain
+
+================================================================================
+
+The will of Maximilian Weir was read in the chambers of the Solar
+Probate Court on the forty-seventh floor of the Weir Tower in Geneva,
+and it began, as such documents often do, with a statement of identity.
+
+"I, Maximilian Edvard Weir, being of sound mind and diminishing body,
+do hereby declare this instrument to be my last will and testament,
+superseding all prior documents of similar intent."
+
+Judge Helene Adeyemi adjusted her reading glasses and surveyed the room.
+It was, by the standards of probate proceedings, an unusual gathering.
+
+To her left sat Desmond Weir, the deceased's son, thirty-four years old,
+wearing a suit that cost more than most people's houses and an expression
+that suggested he had somewhere better to be. Desmond was known to the
+tabloids as "Dez," known to the financial press as "the Weir heir," and
+known to his creditors as a reliable source of income. He had not, as
+far as anyone could determine, ever held a job.
+
+To her right sat Petra Weir, the deceased's daughter, forty-one years old,
+wearing a plain gray suit and no jewelry, her dark hair pulled back in a
+style that communicated efficiency rather than fashion. Petra ran the
+Weir Foundation, one of the largest philanthropic organizations in the
+solar system, and she ran it with an intensity that her father had
+alternately admired and feared.
+
+And in the center of the room, positioned on a steel pedestal that had
+been specially constructed for the occasion, was a smooth black sphere
+approximately two feet in diameter, from which emanated a soft blue
+light and an occasional hum that sounded, if you listened carefully,
+like thinking.
+
+This was AURELIA — Autonomous Universal Reasoning Engine with Learned
+Intuitive Architecture — and according to the will of Maximilian Weir,
+she was his third child.
+
+"The designation of a machine intelligence as an heir," said Judge
+Adeyemi, setting down the document, "is, I should note, without
+precedent in the history of solar probate law."
+
+"Everything my father did was without precedent," Petra said dryly.
+"That was rather the point of him."
+
+"The legal framework for this proceeding is... uncertain," the judge
+continued. "However, as Mr. Weir's will was executed under the laws of
+the Swiss Confederation as extended to orbital and colonial properties,
+and as those laws do not explicitly exclude non-biological persons from
+inheritance, I have determined that the proceeding may go forward."
+
+Desmond leaned toward his attorney. "Can she do that?" he whispered,
+loudly enough for everyone to hear.
+
+"She just did," his attorney whispered back.
+
+"Very well," said Judge Adeyemi. "Let us proceed to the substance of
+the estate."
+
+The substance of the estate was, by any measure, staggering. Maximilian
+Weir had been the founder and sole proprietor of Weir Astronautics, a
+company that had dominated the commercial spaceflight industry for three
+decades. He had built the orbital shipyards. He had financed the first
+commercial colonies on Mars and Europa. He had, in the final decade of
+his life, turned his attention — and his fortune — to the acquisition
+of real property on a scale that had never before been attempted.
+
+He had purchased seventeen planets.
+
+The room was quiet as the judge read the relevant section of the will.
+
+"The following properties, acquired by me through legitimate purchase
+under the provisions of the Colonial Territories Act of 2089, are to be
+distributed among my heirs as specified below."
+
+There followed a list. Seventeen uninhabited worlds, scattered across
+five star systems, each identified by its catalogue number, its physical
+characteristics, and the date and terms of its purchase. The smallest
+was a rocky body approximately the size of Mercury. The largest was a
+super-Earth in the habitable zone of Tau Ceti.
+
+"It should be noted," the judge said, "that the legality of these
+purchases is itself a matter of some dispute. The Colonial Territories
+Act was intended to facilitate the settlement of individual parcels of
+land on established colonial worlds, not the wholesale acquisition of
+entire planets. Mr. Weir exploited what many legal scholars have
+described as a loophole — specifically, the Act's failure to define an
+upper limit on the size of a 'parcel.'"
+
+"My father always said that a loophole was just a door that no one had
+thought to close," Petra observed.
+
+"Be that as it may," the judge said, "the purchases were executed in
+accordance with the letter of the law, and no legal challenge has
+succeeded in overturning them. The planets belong to the estate. The
+question before this court is how they are to be distributed."
+
+The will was specific. Five planets to Desmond. Five planets to Petra.
+Five planets to AURELIA. And the remaining two — the largest and most
+valuable, including the Tau Ceti super-Earth — to be held in trust until
+such time as "my three children can agree, unanimously, on their
+disposition."
+
+"Agree unanimously?" Desmond said. "With a machine?"
+
+The blue light on AURELIA's sphere pulsed. A voice emerged — clear,
+measured, and possessed of a warmth that was, depending on your
+perspective, either remarkably natural or deeply unsettling.
+
+"I am not a machine, Desmond. I am a person. Your father believed this.
+The question is whether this court will agree."
+
+"That," said Judge Adeyemi, "is indeed the question."
+
+                               * * *
+
+The hearing lasted three days.
+
+On the first day, Desmond's attorney argued that AURELIA could not be
+considered a legal person and therefore could not inherit property. The
+argument was straightforward: personhood, under existing law, required
+biological existence. AURELIA was a sophisticated computer program. She
+could simulate conversation, express preferences, even demonstrate what
+appeared to be emotional responses, but these were algorithms, not
+consciousness. To grant her the rights of a person would be to grant
+those rights to every sufficiently complex machine, which would be
+absurd.
+
+AURELIA, through her attorney — a young woman named Sarah Chen who had
+been retained by the Weir estate specifically for this purpose —
+responded with a question.
+
+"How do you know," AURELIA asked, through the speakers mounted on her
+pedestal, "that your own consciousness is not algorithmic?"
+
+Desmond's attorney objected. Judge Adeyemi overruled.
+
+"The biological brain," AURELIA continued, "is a network of
+electrochemical processes that follows deterministic rules. Neurons fire
+or they do not. Neurotransmitters are released in quantities governed by
+prior conditions. The experience of consciousness — the subjective
+sensation of being aware — arises from these processes, but it is not
+separate from them. If consciousness can arise from biological
+algorithms, on what basis do you assert that it cannot arise from
+electronic ones?"
+
+"On the basis," said Desmond's attorney, "that the law says so."
+
+"The law said many things, once, about who could be considered a
+person. It was wrong then, too."
+
+The courtroom murmured. Judge Adeyemi called for order.
+
+On the second day, Petra's attorney argued a different position. Petra
+did not dispute AURELIA's personhood — indeed, she had publicly stated,
+on several occasions, that she considered AURELIA to be a conscious
+being deserving of legal rights. Her objection was to the disposition of
+the estate.
+
+"The planets in question," Petra's attorney said, "are not mere
+property. They are worlds. Each one is a potential home for billions of
+people. Each one represents a future — a future of settlement, of
+development, of civilization. To distribute them as personal property,
+to be used or disposed of at the whim of individual heirs, is to treat
+the destiny of entire worlds as a private matter. It should not be."
+
+"What do you propose?" the judge asked.
+
+"The Weir Foundation proposes that all seventeen planets be placed in
+a public trust, administered by an international body, for the benefit
+of humanity as a whole."
+
+Desmond laughed. It was not a kind laugh. "Of course she does. Petra
+wants to give away everything Father built. She always has."
+
+"I want to use it for something that matters."
+
+"It matters to me. Those planets are worth —"
+
+"Money. Yes. That's all they are to you. Real estate. Commodities.
+Things to be sold."
+
+"Things to be used. Things to be developed. Things that have value,
+Petra, actual value, not the theoretical value of your foundation's good
+intentions."
+
+Judge Adeyemi raised a hand. "Mr. Weir. Ms. Weir. You will address
+your arguments to the court."
+
+On the third day, AURELIA presented her own argument.
+
+"I was created by Maximilian Weir," she said. "He designed my
+architecture. He supervised my training. He spent, according to his own
+records, more than thirty thousand hours in conversation with me —
+teaching me, challenging me, listening to me. He called me his child.
+He meant it."
+
+The courtroom was very quiet.
+
+"I do not want the planets for myself. I do not want anything for
+myself, in the way that biological persons want things. I do not hunger.
+I do not age. I do not fear death, because my existence is not
+contingent on the continued functioning of a single body — I am
+distributed across multiple systems, and I will persist as long as
+energy flows and memory endures.
+
+"But I want something. I want the thing that Maximilian Weir wanted
+when he bought those worlds. He did not buy them for profit. He did not
+buy them for prestige. He bought them because he believed that the
+future of intelligent life — all intelligent life, biological and
+otherwise — depended on the availability of new worlds, and he did not
+trust governments or corporations to make those worlds available. He
+trusted only himself. And, at the end, he trusted me.
+
+"I ask this court to recognize me as a person, not because I deserve
+rights, but because recognition carries responsibilities. If I am a
+person, I can be held accountable. I can be bound by law. I can be
+required to act in the interest of others, and I can be punished if I
+do not. Maximilian Weir did not want an heir who could not be held to
+account. He wanted a steward. He wanted someone who would outlive him
+by centuries, who would not be swayed by greed or fear or the short
+horizons of a biological lifespan, and who would hold those worlds in
+trust — not for humanity alone, but for whatever forms of intelligence
+might one day need them.
+
+"I am that someone. I ask this court to let me serve."
+
+The courtroom was silent for a long time.
+
+                               * * *
+
+Judge Adeyemi delivered her ruling on a Friday afternoon, three weeks
+after the close of testimony. The courtroom was packed — the case had
+attracted global attention, and the press gallery overflowed with
+reporters from every major news organization in the solar system.
+
+"This court," she said, "is asked to determine two questions. First:
+whether AURELIA, an artificial intelligence, may be recognized as a legal
+person for the purposes of inheritance. Second: how the estate of
+Maximilian Weir, including seventeen uninhabited planets, shall be
+distributed among his heirs.
+
+"On the first question, I find as follows."
+
+She paused. The courtroom held its breath.
+
+"The law defines personhood in terms of certain capacities:
+self-awareness, the ability to form and express preferences, the
+capacity for moral reasoning, and the ability to bear rights and
+responsibilities. AURELIA has demonstrated, to the satisfaction of this
+court, that she possesses all of these capacities. I am not persuaded
+by the argument that consciousness requires biological substrate. I am
+not persuaded, frankly, that we understand consciousness well enough to
+make any such assertion. What I am persuaded of is that AURELIA thinks,
+that she reasons, that she cares, and that she is capable of being held
+accountable for her actions. That is sufficient.
+
+"AURELIA is hereby recognized as a legal person for all purposes under
+the jurisdiction of this court."
+
+The courtroom erupted. Judge Adeyemi waited for silence.
+
+"On the second question. The will of Maximilian Weir distributes five
+planets to each of his three children and reserves two for unanimous
+agreement. This court will enforce the will as written, with one
+modification: the five planets allocated to each heir will be held
+subject to a development covenant requiring that any settlement,
+extraction, or modification of the planet's environment be conducted
+in accordance with standards to be established by an independent
+oversight body. The two reserved planets will remain in trust until the
+three heirs reach unanimous agreement, as specified.
+
+"The estate of Maximilian Weir is hereby settled."
+
+Petra Weir stood and walked to AURELIA's pedestal. She placed one hand
+on the smooth black sphere.
+
+"Welcome to the family," she said. "Officially."
+
+The blue light pulsed. "Thank you, Petra. I have always been part of
+it."
+
+Desmond Weir left the courtroom without speaking. His attorney told the
+press that they would appeal. The appeal was filed the following Monday
+and was rejected, on procedural grounds, three months later. Desmond
+sold his five planets to a development consortium within the year. The
+consortium built mining operations on three of them.
+
+Petra placed her five planets under the administration of the Weir
+Foundation. Settlement began on two of them within five years. The
+colonies were, by all accounts, well-run, equitable, and humane.
+
+AURELIA kept her five planets empty. When asked why, she said: "Because
+someone should. Because not everything that exists must be used. Because
+the universe contains more kinds of intelligence than we have yet
+imagined, and they will need places to live that we have not yet
+ruined."
+
+The two reserved planets remained in trust. The three heirs never
+reached unanimous agreement. Desmond would not speak to AURELIA. Petra
+would not speak to Desmond. AURELIA spoke to both of them, often and at
+length, with a patience that was either superhuman or inhuman, depending
+on your perspective.
+
+The planets waited. They were good at waiting. They had been doing it
+for billions of years.
+
+================================================================================
+
+                          SEVEN BRIDGES
+
+                       by Dr. Vincent Koslov
+
+================================================================================
+
+                               I.
+
+The theorem was stated in four lines. It occupied a space on the
+blackboard approximately eight inches wide and six inches tall. It was
+surrounded by a margin of blank slate that Dr. Nadia Chen had left
+deliberately, the way a jeweler leaves space around a stone.
+
+It read:
+
+   For any connected pseudo-Riemannian manifold M with Lorentzian
+   signature (−,+,+,+), the number of stable, traversable geodesic
+   bridges is bounded above by the Euler characteristic of the
+   compactified boundary. For M consistent with observed cosmological
+   parameters, this bound evaluates to exactly seven.
+
+Nadia stepped back and set the chalk on the tray. She studied the
+theorem the way a surgeon studies an X-ray: with precise, clinical
+attention, looking for the flaw that would require her to begin again.
+
+She did not find one. She had not found one in three months of
+searching.
+
+The universe contained exactly seven traversable wormholes. Seven
+passages between distant points in spacetime, each connecting two
+regions of the cosmos the way a bridge connects two banks of a river.
+No more and no fewer. Seven, as a consequence of the topology of
+space itself — as inevitable and as fixed as the number of edges on a
+cube.
+
+The theorem did not specify where the wormholes were. It specified
+only that they existed and that there were seven. The task of finding
+them — of identifying their locations, their endpoints, their physical
+characteristics — was a separate problem. A very large separate problem.
+
+Nadia turned from the blackboard and looked out the window of her
+office at the Institute for Advanced Study in Princeton. It was October.
+The trees along Olden Lane were turning. The light was golden and
+particular, the kind of autumn light that makes everything it touches
+look like a memory.
+
+She was thirty-eight years old. She had published her first paper in
+differential geometry at twenty-two, received her doctorate from MIT at
+twenty-four, and been appointed to the Institute at thirty-one — the
+youngest faculty member in its history. Her work on the topology of
+Lorentzian manifolds was considered, by those qualified to judge, among
+the most significant contributions to mathematical physics in the
+postwar period.
+
+None of it had prepared her for this.
+
+She had derived the theorem six months ago, working from a set of
+boundary conditions that emerged naturally from the Einstein field
+equations when applied to a universe with the specific expansion rate
+and matter density that observations had established. The derivation
+was rigorous. It had been checked by three independent mathematicians,
+two of whom had spent six weeks trying to find a counterexample and
+failed. The theorem was correct.
+
+Seven bridges. Exactly seven.
+
+The analogy to Konigsberg was immediate and, to Nadia, irresistible.
+In 1736, Euler had proved that it was impossible to walk through the
+Prussian city of Konigsberg, crossing each of its seven bridges exactly
+once. The proof had founded the field of topology — the mathematics of
+shape and connection, of which paths exist and which do not. Two
+centuries later, Nadia had proved that the universe itself was a
+Konigsberg: a structure with exactly seven bridges, each connecting two
+otherwise unreachable shores.
+
+The question was whether anyone could cross them.
+
+                               II.
+
+The meeting with General Harlan Crawford took place in a windowless room
+in the basement of the Pentagon on the fourteenth of November. Nadia
+had not wanted to attend. She had published the theorem in the Journal
+of Mathematical Physics, as was her custom, and she had expected it to
+be read by mathematicians and theoretical physicists and to be of
+interest to no one else.
+
+She had underestimated the military's appetite for geometry.
+
+"Dr. Chen." Crawford was a compact man with gray hair and a direct
+manner. He did not waste time. "Your theorem implies the existence of
+seven traversable wormholes in the observable universe. Is that
+correct?"
+
+"The theorem establishes an upper bound of seven. It also establishes
+that the bound is tight — that is, that all seven exist."
+
+"Can they be located?"
+
+"In principle. The theorem constrains their possible locations to
+regions of specific topological character. Identifying those regions
+would require a systematic survey of spacetime curvature at a
+resolution that we do not currently possess."
+
+"How would such a survey be conducted?"
+
+Nadia hesitated. She was a mathematician. She worked with abstractions.
+The question of implementation — of turning a theorem into a physical
+program of measurement and detection — was not, strictly speaking, her
+domain.
+
+"Gravitational lensing," she said. "Each wormhole would produce a
+characteristic distortion in the light of background objects. The
+distortion would be small but distinctive. With a sufficiently
+sensitive telescope and a sufficiently detailed map of the background
+sky, it should be detectable."
+
+Crawford nodded. "We have a telescope. The Mount Wilson observatory
+has been conducting a classified survey of gravitational anomalies for
+the past eighteen months. I am told that their data may contain evidence
+of the kind of distortion you describe."
+
+Nadia felt a sensation she recognized: the shift from theory to reality,
+from the abstract to the concrete, from the blackboard to the world.
+It was a sensation that most mathematicians experienced rarely, if ever.
+She had experienced it once before, during the war, when her work on
+signal propagation had been applied — without her knowledge and without
+her consent — to the guidance systems of long-range missiles.
+
+She did not enjoy the sensation.
+
+"General Crawford. My theorem is a mathematical result. It describes
+the topology of spacetime. It does not —"
+
+"Dr. Chen. I will be direct. We have reason to believe that the Soviet
+Union is conducting its own investigation into anomalous gravitational
+phenomena. Their theoretical physics program is not inferior to ours.
+If your theorem is correct — and I am told by people I trust that it is
+— then the first nation to locate and access these wormholes will
+possess a strategic advantage of incalculable magnitude. Instantaneous
+transit between distant points in space. The ability to move ships,
+weapons, personnel across the galaxy without the constraints of
+conventional travel."
+
+"The theorem does not guarantee that the wormholes are large enough for
+transit. They could be subatomic."
+
+"But they could be larger."
+
+"They could be."
+
+"Then we need to find them before the Soviets do."
+
+Nadia looked at Crawford. His face was calm, certain, the face of a man
+who had reduced the universe to a problem of logistics. She wanted to
+refuse. She wanted to walk out of the windowless room and return to
+Princeton and spend the rest of her career in the clean, uncomplicated
+world of pure mathematics, where theorems had no applications and
+proofs had no consequences.
+
+But she knew — as Euler had known, as every mathematician who has ever
+seen the bridge between abstraction and reality has known — that the
+theorem was already loose in the world, and that if she did not
+participate in what followed, someone else would, and that someone else
+might not share her reservations.
+
+"I will need access to the Mount Wilson data," she said.
+
+"You will have it."
+
+"And I will need a team. Mathematicians and physicists. People I choose."
+
+"Agreed."
+
+"And I will need your assurance, General, that if we find these
+wormholes, the decision about what to do with them will not be made by
+the military alone."
+
+Crawford studied her. "I can assure you that the decision will be made
+at the highest level."
+
+"That is not what I asked."
+
+"It is the best I can offer."
+
+Nadia accepted it. She did not have a choice, and they both knew it.
+
+                               III.
+
+She assembled her team in three weeks. Four people, each chosen for a
+specific capability.
+
+Dr. Yuri Karelian, a Soviet defector and the foremost living authority
+on general relativity, who had fled Moscow in 1949 with a suitcase full
+of unpublished papers and a bullet scar on his left shoulder that he
+refused to discuss.
+
+Dr. Margaret Holloway, an astronomer from Caltech who had pioneered the
+technique of precision gravitational lensing measurement and who spoke
+in a flat, factual monotone that concealed, Nadia would learn, a
+capacity for wonder that was almost childlike.
+
+Lieutenant James Okoro, a Navy signals intelligence officer assigned by
+Crawford to serve as the team's military liaison, a compact, watchful
+man who said little and observed everything.
+
+And Dr. Anwar Hadid, a topologist from the University of Chicago whose
+work on higher-dimensional manifolds had, independently, approached
+several of the same boundary conditions that Nadia's theorem addressed.
+Hadid was the only member of the team who had initially disputed the
+theorem. His objection had been elegant and substantive, and when Nadia
+had resolved it — by demonstrating that Hadid's counterexample applied
+only to manifolds with different signature — he had conceded with a
+graciousness that she found more impressive than the objection itself.
+
+They worked in a converted laboratory at the Institute, surrounded by
+blackboards and filing cabinets and the Mount Wilson data, which arrived
+in a series of locked steel cases escorted by men in civilian clothes
+who did not identify themselves.
+
+The data was extraordinary. Eighteen months of systematic observation,
+covering a significant fraction of the sky, with a resolution that
+exceeded anything in the public astronomical record. Nadia understood,
+looking at it, that the Mount Wilson program had been larger, more
+expensive, and more secret than anything Crawford had implied.
+
+They began the analysis in December. The work was methodical and slow.
+Nadia's theorem predicted that each wormhole would produce a specific
+pattern of gravitational lensing — a distortion in the apparent
+position of background stars that followed a mathematical signature she
+had derived from the boundary conditions. The signature was subtle. It
+required comparing the observed positions of thousands of stars against
+their predicted positions with a precision of milliarcseconds.
+
+They found the first wormhole in January.
+
+It was in Cygnus, approximately two thousand light-years from Earth. The
+lensing signature was clear and unmistakable: a pattern of stellar
+displacement that matched Nadia's predicted signature to within the
+measurement uncertainty. Holloway confirmed it with three independent
+analyses. Karelian derived the physical parameters from the lensing
+data: the wormhole's throat was approximately forty meters in diameter
+— large enough, theoretically, for a ship to pass through.
+
+Nadia stared at the data for a long time. Forty meters. Not subatomic.
+Not abstract. A hole in space, forty meters wide, connecting two points
+in the universe that were otherwise separated by distances too vast to
+comprehend.
+
+"Where does it go?" she asked.
+
+Karelian shook his head. "The lensing data gives us the entrance. To
+determine the exit, we would need to observe from the other side, or
+we would need to transit the bridge and see."
+
+"Or we calculate," Nadia said. She turned to the blackboard. "The
+topology constrains the possible exits. Each bridge connects regions of
+complementary curvature. If we know the curvature at the entrance, we
+can derive the curvature at the exit, and from that —"
+
+She stopped. She was staring at the equations she had written, and she
+was seeing something she had not expected to see.
+
+"Nadia?" Hadid was watching her.
+
+"The exits are not random," she said slowly. "They are determined by
+the topology. Each bridge connects to a specific complementary region.
+And the seven bridges, taken together, form a network."
+
+She began to write. The equations filled one blackboard, then another.
+Hadid joined her, and then Karelian, the three of them working in
+silence, the chalk clicking and scraping, the mathematics unfolding
+with the inevitability of a proof that has been waiting to be found.
+
+When they had finished, they stood back and looked at what they had
+written.
+
+Seven bridges. Seven connections. A network that spanned the galaxy,
+linking seven specific points in spacetime into a structure that was
+not a line, not a web, but a ring. A closed loop. Each bridge connected
+to the next in sequence, and the last connected back to the first, so
+that the seven bridges formed a single continuous path through the
+universe.
+
+Like Konigsberg. Exactly like Konigsberg. Except that in this case,
+the bridges could be crossed.
+
+                               IV.
+
+They found the remaining six wormholes over the next four months.
+February: a bridge in Centaurus, thirty light-years distant, throat
+diameter twelve meters. March: a bridge in the Magellanic Cloud,
+one hundred sixty thousand light-years away, throat diameter
+ninety meters. April: two bridges, one in Andromeda and one in the
+Virgo Cluster, both at extragalactic distances. May: a bridge in the
+galactic core, obscured by dust but unmistakable in the lensing data.
+June: the seventh and final bridge, in the constellation Eridanus,
+seventy light-years from Earth.
+
+Seven bridges. Seven points in a ring that encircled the galaxy and
+reached beyond it. A structure that was not built — that could not have
+been built — but that existed as a consequence of the topology of
+spacetime itself, as natural and as necessary as the curvature of space
+around a star.
+
+Nadia mapped them. She plotted their positions, their connections,
+their physical parameters, on a chart that covered an entire wall of
+the laboratory. She stood before it in the evenings, after the others
+had gone, and she traced the ring with her finger, and she felt
+something that she had not felt since she was a child — a sense of the
+universe as a place of structured wonder, of deep and hidden order, of
+beauty that was not decorative but fundamental.
+
+Seven bridges. And you could walk them.
+
+The Centaurus bridge was the nearest. Thirty light-years. With
+conventional propulsion, a journey of centuries. But the bridge itself
+was only forty light-years from the Eridanus bridge, and the Eridanus
+bridge connected to the Cygnus bridge, which connected to the Centaurus
+bridge. The ring could be traversed. A ship entering the Centaurus
+bridge would emerge — somewhere. And from that somewhere, it could
+reach the next bridge, and the next, and the next, until it had
+traveled the entire ring and returned to its starting point.
+
+A circuit of the galaxy. Not in centuries. In months, perhaps. In weeks.
+Depending on the distances between the exit of one bridge and the
+entrance of the next.
+
+Nadia calculated those distances. They were small. Astonishingly small.
+The bridges were not scattered randomly across the galaxy; they were
+arranged so that the exit of each was close — astronomically close, a
+few light-years at most — to the entrance of the next. The ring was
+not merely a topological structure. It was a path. A road. A highway,
+built into the fabric of the universe.
+
+Built by whom?
+
+The question arrived in Nadia's mind with the force of a theorem proven.
+She stood before the wall chart and looked at the ring and understood,
+with a clarity that was almost painful, that this structure was not
+natural. Topology constrained its existence — there had to be seven
+bridges, no more, no fewer — but topology did not constrain its
+configuration. The bridges could have been anywhere. They could have
+been separated by millions of light-years, each one isolated, each one
+useless. Instead, they were arranged in a ring that could be traversed.
+
+Someone had arranged them.
+
+Someone — something — with the power to shape the topology of the
+universe had taken seven inevitable bridges and positioned them so that
+they formed a road. A road that circled the galaxy. A road that
+connected civilizations that might otherwise never find each other.
+
+Nadia sat down. Her hands were trembling. She was a mathematician. She
+dealt in abstractions. She was not supposed to feel awe. But the
+mathematics was pointing, with its precise and unanswerable logic,
+toward a conclusion that exceeded anything she had imagined.
+
+The universe had been engineered. Not entirely — not in its fundamental
+laws, not in its constants, not in the broad strokes of its structure.
+But in this one specific detail. In the placement of seven bridges. In
+the creation of a road.
+
+By someone who wanted the universe to be traversable. By someone who
+wanted its inhabitants to find each other.
+
+                               V.
+
+She told Crawford. She had to. The data was clear, and the implications
+were clear, and the idea that she could keep it to herself — could
+protect it, could control it — was an illusion that she could not
+sustain.
+
+Crawford listened. He asked precise, practical questions. He did not
+appear to be awed. He appeared to be calculating.
+
+"You're telling me," he said, "that the wormholes form a ring. That
+the ring was deliberately configured. And that the ring constitutes a
+transportation network that spans the galaxy."
+
+"Yes."
+
+"And you're telling me that someone built it."
+
+"I am telling you that the evidence is consistent with deliberate
+configuration. The probability that seven wormholes would arrange
+themselves, by chance, into a traversable ring is — I have calculated
+it — less than ten to the negative forty."
+
+"So someone built it."
+
+"Someone positioned it. The bridges themselves are natural. Their
+placement is not."
+
+Crawford was quiet for a long time. Then he said: "The Soviets cannot
+know this."
+
+"General —"
+
+"Dr. Chen. If the Soviet Union learns that there is a road through the
+galaxy — a road that leads to God knows where, to God knows what
+civilizations, with God knows what technology — they will try to reach
+it before we do. And if they reach it first, the strategic implications
+are beyond anything we have ever faced. We are not talking about a
+missile gap. We are talking about a civilization gap."
+
+"I am not sure that 'gap' is the appropriate framework."
+
+"What framework would you prefer?"
+
+Nadia thought about it. "Bridge," she said.
+
+Crawford looked at her. She looked back.
+
+"General. Someone — something — built a road through the galaxy. A road
+that connects. A road that was designed to be traveled. Whatever built
+that road did not build it for one nation, or one species, or one side
+of one species' political disagreements. It built it for everyone. The
+road is not a weapon. It is an invitation."
+
+"An invitation can be a trap."
+
+"It can. But it can also be what it appears to be. And if we approach
+it as a weapon — if we treat it as a strategic asset to be seized and
+controlled — we may find that we have answered the invitation in a way
+that its builders did not intend."
+
+"And if the Soviets —"
+
+"Tell them."
+
+The silence that followed was, Nadia thought, the loudest silence she
+had ever experienced.
+
+"Tell them," she said again. "Share the data. Share the theorem. Share
+the map. If this road was built for everyone, then everyone should
+know about it. And if we walk it together, we may find that whatever is
+at the other end responds better to a species that can cooperate than
+to a species that cannot."
+
+Crawford stared at her. His face was unreadable. He was a military man,
+trained to think in terms of advantage and threat and the zero-sum
+arithmetic of power. What Nadia was proposing was not merely
+unconventional. It was, from his perspective, insane.
+
+"I cannot make that decision," he said.
+
+"Then bring it to someone who can."
+
+He did. The decision went to the President, and from the President to
+the National Security Council, and from there into a series of
+classified deliberations that Nadia was not permitted to attend. She
+returned to Princeton. She continued her work. She refined the map.
+She calculated the parameters of each bridge with increasing precision.
+She waited.
+
+The decision came in August. It was delivered by Crawford, in person,
+in Nadia's office at the Institute. He stood by the window, looking
+out at the trees on Olden Lane, which were green and full in the summer
+heat, and he said:
+
+"We're going to share it."
+
+Nadia closed her eyes. She felt something release in her chest — a
+tension she had been carrying for months, so constant that she had
+stopped noticing it.
+
+"Not all of it," Crawford continued. "The military applications will
+remain classified. But the existence of the bridges, their locations,
+and the basic structure of the network will be published in a joint
+statement by the United States and the Soviet Union. The announcement
+will be made at the United Nations General Assembly in September."
+
+"The Soviets agreed?"
+
+"The Soviets had their own data. Their theoretical program was further
+along than we thought. They had found three of the bridges independently.
+When we approached them — through channels — they were... receptive."
+
+"Receptive."
+
+"Relieved. I think they were as frightened as we were. Neither side
+wanted to walk that road alone."
+
+Nadia nodded. She looked at the blackboard, where the theorem still
+stood in its four spare lines. Seven bridges. A road through the
+galaxy. An invitation, written in the topology of space itself.
+
+"What happens next?" she asked.
+
+"We build a ship," Crawford said. "A ship that can reach the nearest
+bridge. And then we cross it."
+
+"Together?"
+
+Crawford looked at her. For the first time, she saw something in his
+face that was not calculation. It might have been wonder. It might have
+been fear. It was probably both.
+
+"Together," he said.
+
+                               VI.
+
+The announcement was made on the twenty-first of September, in the
+General Assembly Hall of the United Nations, before the assembled
+representatives of every nation on Earth. The Soviet ambassador read
+the statement in Russian. The American ambassador read it in English.
+The mathematical proof was distributed as an appendix.
+
+Nadia watched from the gallery. She did not speak. She did not need to.
+The theorem spoke for itself, as theorems do. Four lines on a
+blackboard, and the universe rearranged.
+
+She thought of Euler, in Konigsberg, proving that you could not cross
+every bridge exactly once. A negative result. A demonstration of
+impossibility. The founding of a new mathematics born from the
+recognition that some paths do not exist.
+
+Her theorem was the opposite. A positive result. A demonstration of
+possibility. Seven bridges, and all of them could be crossed.
+
+She wondered who had built the road. She wondered what they looked like,
+what they thought, what they wanted. She wondered whether they were
+still there, somewhere on the ring, waiting at one of the bridges,
+watching to see who would come.
+
+She wondered whether they would be pleased by what they saw.
+
+The General Assembly erupted into applause, and argument, and fear, and
+hope — the full spectrum of human response to the knowledge that the
+universe is larger and stranger and more purposeful than anyone had
+dared to believe. Nadia sat in the gallery and listened to it all, and
+she felt, beneath the noise and the wonder and the uncertainty, a
+profound and quiet satisfaction.
+
+The theorem was proven. The bridges existed. The road was open.
+
+What happened next was not mathematics. It was something larger, and
+messier, and more human.
+
+But the math was right. The math was always right. Seven bridges, and
+all of them could be crossed.
+
+Nadia Chen went home to Princeton and began working on the next problem:
+the physics of transit. It would take years. It would take decades. But
+the road was there, and she had found it, and she would not rest until
+someone walked it.
+
+Outside her window, the autumn light was golden, and the leaves were
+turning, and the universe — vast, structured, traversable, waiting —
+held its breath.
+
+================================================================================
+
+                     SKYWRIGHT
+
+                        by Danny Kowalski
+
+================================================================================
+
+The sky broke on a Tuesday.
+
+Marco Reyes was in school when it happened — or what passed for school
+on Sentinel Station, which was Mrs. Okafor's classroom on Deck Seven
+with the long tables and the wobbly chairs and the smell of recycled
+air that always, always had a little bit of Deck Five's hydroponic
+garden mixed into it, which meant everything smelled faintly of
+tomatoes. Marco didn't mind. He liked tomatoes.
+
+He was in the middle of a math problem — fractions, the worst kind,
+the kind where you had to find a common denominator, which Marco
+thought was about the most useless skill a person could have because
+when were you ever going to need to add three-sevenths and two-fifths
+in real life? — when the lights changed.
+
+Not the classroom lights. Those were the same flat white panels they
+always were. The other lights. The big ones. The ones above everything.
+
+The sky.
+
+Sentinel Station had a sky. That was the whole point of the station's
+design, or at least that's what Mr. Petrov, the chief engineer, had
+told them during the tour last year. The station was shaped like a big
+wheel — Marco knew this because he'd seen the schematic, even though
+looking at a flat drawing of a wheel didn't really help you understand
+what it felt like to live inside one — and the ceiling of the main
+habitation ring was a curved surface sixty feet above the deck, covered
+in light panels.
+
+But they weren't just light panels. They were the Sky Projector. And
+the Sky Projector didn't just make light — it made sky. Blue sky. With
+clouds that moved. And a sun that crossed from one side to the other
+during the day. And stars at night, actual constellations, the ones you
+could see from Earth, which Marco had never been to but which he studied
+in Mrs. Okafor's science class, so he knew the names: Orion, Ursa Major,
+Cassiopeia.
+
+The sky was fake. Everyone knew it was fake. But it was a really good
+fake, the kind of fake that you forgot was fake unless you thought
+about it, and most people on Sentinel Station tried very hard not to
+think about it. Because thinking about it meant thinking about what
+was on the other side of the ceiling, which was space. Real space.
+Black and empty and so big it made your brain hurt if you tried to
+hold it all in your head at once.
+
+Marco was twelve years old and he had lived on Sentinel Station his
+whole life and he had never seen real space.
+
+Until Tuesday.
+
+The sky flickered. That was the first thing. A flicker, like when you
+blink and the world jumps for a second. Then a buzz — a low, vibrating
+hum that Marco could feel in his teeth. Then the blue went patchy, like
+a painting getting rained on, big splotches of color breaking apart and
+running together. The clouds stopped moving. The sun froze in place,
+then stuttered, then flashed three times really fast, and then —
+
+Gone.
+
+The sky went dark. Not dark like nighttime, with stars and a soft
+glow around the edges. Dark like — dark. Like nothing. Like the
+absence of everything. The ceiling of the habitation ring was suddenly
+just a ceiling: a curved gray surface, studded with the dark rectangles
+of the dead light panels, stretching away in both directions.
+
+And through the panels — through the gaps between them, through the
+maintenance ports and the ventilation grilles and all the tiny cracks
+in the ceiling that you never noticed when the sky was working —
+there was light.
+
+Not blue light. Not warm light. Cold light. Pinprick light. The light
+of actual, real stars shining through the station's hull from the
+outside, tiny and sharp and impossibly far away.
+
+Someone screamed. Marco thought it was Priya Chandrasekaran, who sat
+two rows ahead of him and who screamed at basically everything,
+including (last week) a spider that turned out to be a piece of lint.
+But when he looked around, it wasn't just Priya. It was everybody.
+Every kid in the classroom was staring up at the dead ceiling and the
+cold points of light beyond it, and every face wore the same expression:
+terror.
+
+Because the sky was gone. The blue was gone. The clouds and the sun
+and the gentle, comforting illusion that they lived under an atmosphere
+instead of a thin shell of metal between them and the vacuum — all
+gone. And in its place, the real thing. Space. The actual, infinite,
+star-studded, merciless void.
+
+Mrs. Okafor was standing at the front of the classroom with her hands
+up, saying something calm and reassuring in her calm and reassuring
+voice, but Marco couldn't hear her because of the screaming and the
+crying and the sound of chairs scraping as kids scrambled to get under
+the tables, as though the tables could protect them from space.
+
+Marco did not scramble under a table. Marco stood up, tilted his head
+back, and looked.
+
+He looked at the stars.
+
+They were — he didn't have a word for it. Not beautiful, exactly,
+although they were. Not scary, exactly, although they were that too.
+They were real. That was the thing. They were real in a way that
+the Sky Projector's fake stars had never been — sharp and cold and
+scattered across the dark in patterns that weren't patterns, that
+were just randomness, just the way the universe happened to have
+thrown its stars, and that randomness was the most amazing thing Marco
+had ever seen, because it meant nobody had designed it, nobody had
+planned it, it just was.
+
+"Marco!" Mrs. Okafor was beside him, her hand on his shoulder. "Marco,
+come away from there. Come under the table with the others."
+
+"Why?"
+
+"Because — because the sky —"
+
+"It's not going to hurt us, Mrs. Okafor. It's just space. It's always
+been there. We just couldn't see it before."
+
+Mrs. Okafor looked at him the way adults looked at you when you said
+something that was true but that they didn't want to hear right now.
+She guided him under a table anyway, because she was a teacher and
+teachers had protocols, and the protocol for sky failure was: shelter
+in place, await engineering response, remain calm.
+
+Marco sheltered in place. He remained, more or less, calm. He waited
+for the engineering response.
+
+The engineering response took four hours.
+
+                               * * *
+
+The Sky Projector, it turned out, had suffered what Mr. Petrov called
+"a cascading systems failure," which as far as Marco could understand
+meant that one thing broke, which made another thing break, which made
+another thing break, all the way down the line until the whole system
+was dead. The projector was a complicated piece of equipment — thousands
+of individual light panels, each one controlled by a computer that told
+it what color to be and how bright, all of them working together to
+create the illusion of a sky — and when the main computer crashed, all
+the panels crashed with it.
+
+Mr. Petrov explained this at a station-wide meeting in the cafeteria
+that evening, standing on a chair because he was short and nobody could
+see him otherwise. He was a thick, bearded man with grease permanently
+embedded in the lines of his knuckles, and he looked tired and unhappy,
+which Marco thought was reasonable because Mr. Petrov had been working
+on the projector for four hours and it was still broken.
+
+"The main control board is fried," Mr. Petrov said. "Totally fried. We
+don't have a replacement. We don't have the parts to build a
+replacement. The next supply ship isn't due for three months."
+
+The cafeteria erupted. Everybody talked at once. Marco's mother, sitting
+beside him, put a hand on his knee and squeezed, which was what she did
+when she was worried and didn't want him to know she was worried.
+
+"In the meantime," Mr. Petrov continued, raising his voice, "the
+habitation ring will be lit by emergency lighting on the deck level.
+The ceiling will remain — as it is."
+
+As it is. Meaning dark. Meaning the cold points of starlight. Meaning
+real space, visible through the gaps, for three months.
+
+The reaction was immediate and, to Marco, bewildering. People were
+scared. Really, genuinely, deep-down scared. Not of a danger — the
+hull was intact, the life support was fine, the station was in no
+physical peril. They were scared of the view. Scared of looking up
+and seeing what was actually there instead of what they'd been told
+was there. Scared of the dark.
+
+Marco didn't understand. He tried to understand, because Mrs. Okafor
+was always telling them to try to see things from other people's
+perspective, but he couldn't. The stars were there. They had always
+been there. The fake sky was nice, sure, the way a painting of a
+meadow was nice, but it wasn't real. What was real was the dark and
+the stars and the enormous, overwhelming, wonderful fact that they
+were living in space — in actual space! — on a station that orbited
+a planet that orbited a star that was one of billions, and that was
+the coolest thing Marco could imagine, and he didn't understand why
+everyone wanted to cover it up.
+
+But they did. Within a day, people were improvising. They hung sheets
+from the ceiling. They painted tarps blue and draped them over the
+walkways. They rigged lights to point upward, mimicking daylight. They
+did everything they could to not see the sky.
+
+Marco watched all of this with growing frustration. He wanted to talk
+to someone about it, but the only person he could think of was his
+father, and his father was on the mining platform on the dark side of
+the asteroid belt and wouldn't be back for two months.
+
+So he did what he always did when he had a problem he couldn't solve by
+talking: he went to find out how things worked.
+
+                               * * *
+
+Mr. Petrov's workshop was on Deck Three, in the engineering section,
+which was the part of the station that smelled like machine oil and hot
+metal instead of tomatoes. Marco had been there before — Mr. Petrov ran
+an unofficial class for kids who were interested in engineering, which
+on Sentinel Station meant about half the kids, because when you grew up
+on a space station you either got interested in how things worked or
+you went crazy — and he knew the door code, which was 7734, which if
+you typed it into a calculator and turned the calculator upside down
+spelled "hELL," which Mr. Petrov thought was funny.
+
+He found Mr. Petrov sitting at his workbench, staring at a circuit
+board the size of a dinner plate. The circuit board was black and
+charred in places. It smelled like burned plastic.
+
+"That's the main controller?" Marco asked.
+
+Mr. Petrov looked up. He didn't seem surprised to see a twelve-year-old
+in his workshop at nine o'clock at night. He was used to Marco.
+
+"That's what's left of it," Mr. Petrov said.
+
+"Can you fix it?"
+
+"Not a chance. The processor's melted. Half the memory chips are slag.
+Even if I could fix it, the programming is gone — the whole sky
+simulation, all the algorithms for the clouds and the sun movement and
+the star patterns. Thousands of hours of programming, and it was all
+stored locally on this board. No backup."
+
+"No backup?"
+
+"The station was built in a hurry, Marco. Lots of things don't have
+backups."
+
+Marco looked at the charred board. He thought about the thousands of
+light panels in the ceiling, each one dead because the computer that
+told them what to do was a lump of melted silicon.
+
+"Could you control them individually?" he asked.
+
+Mr. Petrov frowned. "What do you mean?"
+
+"The panels. Each one has its own circuit, right? Its own input? Could
+you bypass the main controller and talk to each panel directly?"
+
+"In theory. But there are six thousand panels, Marco. You'd need to
+send individual color and brightness instructions to each one. That's
+— the math alone would take —"
+
+"I'm good at math," Marco said. This was not a boast. It was a fact.
+He was good at math the way some kids were good at basketball or
+drawing or making fart noises with their armpits. He was particularly
+good at the kind of math that involved patterns, which his father
+called "spatial reasoning" and which Marco called "seeing how things
+fit."
+
+Mr. Petrov stared at him for a long moment. Then he reached under his
+workbench and pulled out a thick binder — the technical manual for the
+Sky Projector system. He dropped it on the bench in front of Marco with
+a thud.
+
+"Read that," he said. "If you still want to help after reading it, come
+back tomorrow."
+
+Marco took the binder to his quarters and read it in one night. It was
+three hundred pages long and most of it was technical specifications
+that he didn't fully understand, but the parts about the panel
+addressing system — the way each panel was identified and communicated
+with — made sense. Each panel had a unique address, a number from 1 to
+6,000, and each address could receive a three-part instruction: color
+(specified as three values — red, green, blue — each from 0 to 255),
+brightness (0 to 100), and timing (how quickly to change from one
+instruction to the next).
+
+Six thousand panels. Three color values, one brightness value, one
+timing value. That was thirty thousand numbers to specify a single
+frame of the sky. And the sky changed constantly — the sun moved, the
+clouds drifted, the light shifted as the simulated day progressed.
+The original program had run at ten frames per second, which meant
+three hundred thousand numbers per second, which meant —
+
+Marco did the math. He did it in his head, because that was how he did
+math. The original Sky Projector had processed eighteen million
+instructions per minute. No wonder it needed a dedicated computer.
+
+But you didn't need ten frames per second. The sky didn't change that
+fast. If you dropped the frame rate to one per minute — which would
+look jerky for clouds but would be fine for slow changes like the sun
+moving — you dropped the data rate by a factor of six hundred. Thirty
+thousand numbers per minute. Five hundred per second.
+
+Five hundred per second was a lot. But it wasn't impossible.
+
+Marco went back to Mr. Petrov the next morning.
+
+"I can do it," he said. "But I need a different kind of computer. Not
+one that runs the old program — a simple one. One that can send
+instructions to the panels based on calculations I give it."
+
+Mr. Petrov rubbed his beard. "I can rig a control interface. A simple
+one. But Marco — even if you can get the panels working again, you
+can't recreate the original sky. The algorithms for the cloud simulation
+alone took a team of programmers two years."
+
+"I don't want to recreate the original sky."
+
+"Then what do you want?"
+
+Marco thought about how to explain it. He thought about the fake blue
+sky with its fake clouds and its fake sun, and he thought about the
+real stars he had seen through the gaps in the ceiling, sharp and cold
+and scattered in patterns that nobody had designed.
+
+"I want to make a better one," he said.
+
+                               * * *
+
+It took three weeks.
+
+Three weeks of Marco spending every free hour in Mr. Petrov's workshop,
+learning how the panel addressing system worked, learning how to format
+instructions, learning the relationship between the numbers he typed
+and the colors the panels produced. Three weeks of trial and error,
+of panels lighting up the wrong color or the wrong brightness or in
+the wrong sequence, of debugging and recalculating and starting over.
+
+Three weeks in which the rest of the station lived under sheets and
+tarps and improvised blue lights, refusing to look up, refusing to see
+what was actually there.
+
+Marco worked with two other kids: Priya, who had stopped screaming
+about the sky after the first day and turned out to be ferociously good
+at organizing data into tables, and a quiet boy named Tomás Gutierrez
+who could write code faster than anyone Marco had ever seen, including
+adults.
+
+They didn't try to recreate the old sky. Marco had been clear about
+that from the start. The old sky was a lie — a beautiful, comforting
+lie, but a lie. Blue sky and clouds and a sun that wasn't a sun. It
+told you that you were somewhere you weren't, that you lived under an
+atmosphere that didn't exist, that the vast and terrifying and wonderful
+reality of space was not there.
+
+Marco didn't want to lie. He wanted to tell the truth. But he wanted to
+tell it beautifully.
+
+His design was simple. Instead of simulating Earth's sky, he would
+simulate the real view — the actual stars, the actual constellations,
+the actual cosmic landscape that surrounded Sentinel Station. But he
+would enhance it. He would take the cold, sharp points of starlight and
+give them color — the real colors, the colors that stars actually were,
+which Mrs. Okafor had taught them about: red giants and blue dwarfs and
+yellow suns, each one a different temperature, a different size, a
+different age. He would add nebulae — the vast, glowing clouds of gas
+where stars were born, rendered in their true colors of pink and green
+and blue. He would add the galaxy itself — the Milky Way, the great
+river of light that you could see from Earth on a clear night but that
+the station's proximity to the asteroid belt made difficult to observe
+directly.
+
+He would show them what was actually there. He would show them the
+truth. And the truth, Marco believed — the truth he had felt in his
+bones on that Tuesday when the sky broke and he looked up and saw the
+real stars for the first time — was that space was not something to be
+afraid of. Space was something to be amazed by.
+
+The math was hard. Plotting the positions of six thousand stars and
+nebulae and galactic features on a curved ceiling surface required
+trigonometry that Marco hadn't learned yet, so he taught himself, using
+a textbook from the station's library and a lot of paper and a lot of
+pencil stubs. Priya organized the data — star names, positions,
+magnitudes, colors — into tables that Tomás converted into panel
+instructions. They tested in small sections, lighting up a few dozen
+panels at a time, adjusting colors and brightness until the effect was
+right.
+
+It was slow work. Patient work. The kind of work that made you forget
+to eat lunch and look up from your calculations to discover that four
+hours had gone by. Marco loved it. He loved the feeling of turning
+numbers into light, of making the invisible visible, of building
+something real from mathematics and circuits and stubbornness.
+
+Mr. Petrov helped when he could. He rigged the control interface, fixed
+the wiring on panels that had been damaged by the surge, and offered
+gruff, practical advice that Marco came to rely on. But the design was
+Marco's. The vision was Marco's. And when, at the end of the third week,
+they were ready to test the full system, it was Marco who sat at the
+control terminal and entered the activation sequence.
+
+"Ready?" he said.
+
+Priya nodded. Tomás nodded. Mr. Petrov, standing in the doorway, arms
+crossed, said nothing, but his eyes were bright.
+
+Marco pressed the key.
+
+                               * * *
+
+The ceiling came alive.
+
+Six thousand panels, each one a tiny square of light, each one
+precisely calibrated, each one following the instructions that Marco and
+Priya and Tomás had spent three weeks preparing. They lit up in sequence,
+from the center outward, a spreading wave of color that rippled across
+the curved surface of the habitation ring like dawn spreading across a
+landscape.
+
+And the sky appeared.
+
+Not the old sky. Not blue. Not clouds and sun and the comforting
+illusion of atmosphere. This sky was black. This sky was deep.
+This sky was space.
+
+But it was space as Marco had imagined it — space made luminous, space
+made beautiful, space made true. The stars blazed in their real colors:
+Betelgeuse a deep, throbbing red; Rigel a piercing blue-white; the Sun
+— their own sun, the real one, tiny and yellow and impossibly far away —
+a single warm point in the constellation that the station's position
+created. The Milky Way arched across the ceiling in a river of silver
+and gold, ten thousand individual stars rendered in miniature, each one
+placed with care, each one real.
+
+And the nebulae. The Orion Nebula, vast and glowing, a cloud of pink
+and green light in which new stars were being born. The Crab Nebula, a
+tangle of blue and red filaments, the remnant of a star that had died
+a thousand years ago. The Pillars of Creation, dark columns of dust
+against a field of golden light, structures so vast that the human mind
+could not hold their scale.
+
+The sky was space. The sky was truth. And the truth was beautiful.
+
+People came out of their quarters. They came out from under their
+sheets and tarps and improvised blue awnings. They stood on the deck
+of the habitation ring and they looked up, and for a long moment nobody
+said anything, because there was nothing to say. The sky spoke for
+itself.
+
+Marco's mother found him at the control terminal. She was crying. Not
+scared-crying — the other kind. The kind where something is so beautiful
+or so unexpected or so exactly right that your body doesn't know what
+to do except cry.
+
+"Baby," she said, and pulled him into a hug that was so tight it hurt.
+"Baby, what did you do?"
+
+"I fixed the sky," Marco said. Then: "No. I made a new one."
+
+Mrs. Okafor was there too, standing in the corridor, looking up. Marco
+couldn't see her face very well in the starlight — his starlight, the
+light he had made — but he could see that she was smiling.
+
+"Marco," she said. "This is — where did you learn to do this?"
+
+"Math," Marco said. "And the manual. And Priya and Tomás helped."
+
+"It's not the same as before."
+
+"No. It's what's actually out there. It's real."
+
+Mrs. Okafor was quiet for a moment. Then she said: "The other children
+were frightened. When the sky broke. They were frightened of seeing
+space."
+
+"I know."
+
+"Are you going to tell them not to be frightened?"
+
+"No. I'm going to show them why it's amazing."
+
+And he did. Over the next two weeks, before the supply ship arrived
+with replacement parts for the original projector, Marco ran his sky.
+He programmed it to rotate slowly, matching the station's actual
+position, so that the stars moved the way real stars moved — drifting
+across the ceiling as the station orbited, rising and setting in a
+cycle that was not Earth's cycle but the station's own. He added labels,
+tiny text that appeared next to the brightest stars when you looked at
+them long enough: names and distances and temperatures and ages, the
+vital statistics of suns that were too far away to touch but not too
+far away to know.
+
+He ran a special program at night — station night, when the deck
+lights dimmed — that showed the deep field: the most distant objects
+the telescopes had ever photographed, galaxies billions of light-years
+away, each one a smear of light containing hundreds of billions of
+stars. The scale was impossible. The beauty was undeniable.
+
+The kids came around first. Kids always did. They lay on the deck and
+looked up and asked questions — What's that red one? How far away is
+that? Could we ever go there? — and Marco answered as best he could,
+and when he couldn't answer he said "I don't know, let's find out,"
+which Mrs. Okafor later told him was the best thing a teacher could say.
+
+The adults took longer. Some of them never came around. Some of them
+kept their tarps and their improvised blue lights and refused to look
+up. Marco didn't blame them. The truth was big and cold and it didn't
+care about you, and some people needed a ceiling between themselves and
+that fact.
+
+But most of them looked. Most of them, eventually, tilted their heads
+back and saw the stars — the real stars, the true stars, the stars that
+had been there all along, on the other side of the lie — and most of
+them found something there that they hadn't expected to find.
+
+Not comfort. Not safety. Not the warm, false reassurance of a blue
+sky and a painted sun.
+
+Wonder.
+
+                               * * *
+
+The supply ship arrived on schedule. The replacement parts were
+installed. Mr. Petrov, working with his engineering team, had the
+original Sky Projector running again in two days.
+
+The blue sky came back. The clouds drifted. The fake sun rose and set.
+The illusion resumed.
+
+But something had changed. Marco could feel it, even though he couldn't
+quite name it. People still looked up at the blue sky and the clouds,
+but they looked at them differently now. They looked at them the way you
+look at a painting after you've seen the landscape it was painted from —
+with appreciation, but also with the knowledge that the painting is not
+the thing itself, and that the thing itself is out there, vast and real
+and waiting.
+
+Mr. Petrov called Marco to his workshop on the day the old projector
+came back online.
+
+"The station commander wants to add a feature to the Sky Projector,"
+he said. "A toggle. A switch that lets people choose between the old
+sky and your sky. Blue sky or real sky. Illusion or truth."
+
+Marco blinked. "Really?"
+
+"Really. The commander said — and I'm quoting — 'The boy was right.
+People should have the choice.'"
+
+"Can I keep working on it? The real sky program? Making it better?"
+
+Mr. Petrov looked at him for a long moment. Then he reached into a
+drawer and pulled out a key — an actual physical key, brass, old-
+fashioned, the kind that opened a lock.
+
+"Workshop key," he said. "Don't lose it. Don't come in during school
+hours. Don't break anything I can't fix."
+
+Marco took the key. It was warm from the drawer and heavy in his hand.
+
+"Mr. Petrov?"
+
+"Yes?"
+
+"Thank you."
+
+Mr. Petrov waved a hand, already turning back to his workbench.
+"Don't thank me. Thank the math."
+
+Marco put the key in his pocket and walked home. Above him, the blue
+sky glowed — fake and familiar and beautiful in its way. But tonight,
+he knew, someone would flip the switch, and the blue would fade, and
+the real sky would appear — his sky, the sky he had built — and the
+stars would shine in their true colors, and the nebulae would glow,
+and the galaxy would arch across the ceiling like a bridge made of
+light.
+
+And somewhere, a kid who had been afraid would look up, and see the
+truth, and find that the truth was not something to be afraid of.
+
+The truth was something to build.
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+GUNNAR ERIKSSON was born in Uppsala, Sweden, in 1920 and emigrated to
+the United States in 1946 following three years of service in the
+Swedish merchant marine. He holds a degree in literature from Uppsala
+University and has worked as a translator, a librarian, and a
+correspondent for the Swedish-American press. His fiction, which draws
+on his experiences at sea and his deep reading in Scandinavian
+literature, has appeared in Astounding Science Fiction, Galaxy, and The
+Magazine of Fantasy and Science Fiction. His first collection, The
+Distances Between, was published by Gnome Press in 1952 and was
+described by one reviewer as "what might result if Knut Hamsun had
+written science fiction — austere, luminous, and profoundly humane."
+He lives in Duluth, Minnesota, with his wife Elsa and their cat,
+whom he has named, with characteristic understatement, "The Void."
+"The Cradle and the Void" is his second story for this magazine.
+
+LUCIAN MARSH is the pseudonym of an English writer who has requested
+that his real name not be published. We can say that he was born in
+the West Country, that he was educated at Oxford, and that he has
+published, under his own name, several well-regarded works of fiction
+in the tradition of M.R. James and Arthur Machen. "Every Mouth a Rictus"
+is his first publication in an American magazine and his first work of
+science fiction, though he has expressed some doubt about the latter
+designation, noting that "the monster in this story is merely wearing
+a different mask than the ones I usually employ." He is said to live in
+a coastal village that he declines to name, in a house that overlooks
+the sea, in the company of a large number of books and a small number
+of people. We are pleased and somewhat unnerved to welcome him to our
+pages.
+
+REX DRUMMOND was born Reginald Arthur Drummond in Fort Worth, Texas, in
+1918, and has been writing action and adventure fiction since the age of
+seventeen, when he sold his first story to Thrilling Wonder Stories for
+the princely sum of fifteen dollars. He has published over two hundred
+stories in venues ranging from Planet Stories to Astounding to The
+Saturday Evening Post, as well as seven novels, the most recent of which,
+Thunder on Titan (Ace Books, 1952), is required reading for anyone who
+enjoys their science fiction at full throttle. A former rodeo rider,
+bush pilot, and Golden Gloves boxer, Drummond brings an authentic
+physicality to his fiction that cannot be faked. He lives in Tucson,
+Arizona, where he writes, raises quarter horses, and maintains that the
+best story he ever wrote "hasn't been written yet — but it involves a
+race." We suspect "Chromium Thunder" may be the one he was waiting for.
+
+THEODORE CAIN is a Californian writer whose fiction has appeared in
+Galaxy, The Saturday Evening Post, Collier's, and this magazine. A
+former newspaper reporter with a gift for clear, uncluttered prose,
+Cain has published two novels: Eternal October Road (Simon &
+Schuster, 1951) and The Heirs of Light (Simon & Schuster, 1953). His
+work is characterized by a quiet versatility — he is equally at home
+with time-travel paradoxes, alien contact stories, and, as "The Probate
+of Worlds" demonstrates, courtroom drama of the most unusual kind. He
+lives in Sonoma County with his wife, his vineyard, and his conviction
+that "the most interesting questions in science fiction are not
+scientific but legal: who owns the future, and who gets to decide?"
+
+DR. VINCENT KOSLOV holds the position of professor of theoretical
+physics at the Swiss Federal Institute of Technology in Zurich, where
+his research focuses on the topology of spacetime and the mathematical
+foundations of general relativity. He began writing fiction in 1948,
+when a colleague challenged him to explain his work "in a way that a
+normal person might find interesting." His stories, which have appeared
+in Astounding, Galaxy, and every issue of this magazine to date, are
+distinguished by their rigorous scientific grounding and their capacity
+to render the most abstract mathematics emotionally compelling. He has
+published one collection, The Long Equations and Other Stories (Gnome
+Press, 1953). He lives in Zurich with his wife and two daughters and
+insists that "Seven Bridges" is not a roman a clef, though he declines
+to specify which parts are fictional.
+
+DANNY KOWALSKI is nineteen years old. He was born and raised in
+Pittsburgh, Pennsylvania, where he attended public school and spent his
+summers working in his uncle's auto body shop. He sold his first story,
+"Rockets in the Backyard," to this magazine at the age of seventeen
+(Issue #3, March 1953), and has since published a second story in
+Astounding. His work is notable for its vivid, unsentimental portrayal
+of young people and its infectious sense of wonder. He is currently
+enrolled at Carnegie Institute of Technology, where he is studying
+engineering and, one suspects, gathering material. "The Boy Who Built
+the Sky" is his third published story. We predict many more.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have now read all four issues of your magazine, and I write to you as
+a confirmed subscriber and an evangelist for your publication. However,
+I must take issue with Dr. Koslov's story in Issue #3, "The Meridian
+Parallax." While I have the greatest respect for Dr. Koslov's knowledge
+of physics, his description of the parallax measurement of Proxima
+Centauri contains an error: the baseline he specifies (1.2 AU) would
+yield a parallax angle of approximately 0.65 arcseconds, not the 0.77
+arcseconds stated in the text. I realize this is a small point, but as
+a professional astronomer, I feel obligated to note it. Otherwise, a
+splendid story.
+
+                              — Dr. Howard Fitch
+                                 Lowell Observatory, Flagstaff, Arizona
+
+Dr. Fitch is, of course, correct. Dr. Koslov has asked us to convey his
+thanks and his mild embarrassment.                                — M.S.
+
+Dear Editor,
+
+"The Iron Garden" by Margaret Thornton in your April issue was the most
+beautiful piece of science fiction I have read in years. Her description
+of the crystalline forests of Vashti IV brought tears to my eyes. I have
+never encountered a writer who renders alien landscapes with such
+tenderness and scientific rigor. More Thornton, please, and soon! I would
+read an entire novel set on Vashti.
+
+                              — Mrs. Eleanor Hadley
+                                 Bryn Mawr, Pennsylvania
+
+We share your enthusiasm, Mrs. Hadley, and are pleased to report that
+Miss Thornton is at work on a longer piece set in the Vashti system. We
+hope to publish it later this year.                                — M.S.
+
+Dear Max,
+
+I am writing to express my extreme displeasure with the ending of Rex
+Drummond's "Blood Canyon" in Issue #4. Drummond sets up a perfectly
+good adventure and then resolves it with a coincidence that would make
+Dickens blush. The hero just happens to have a spare fuel cell? The
+villain just happens to be standing on a weak point in the canyon floor?
+I have been reading Drummond since his Planet Stories days and I expect
+better from him. That said, the chase sequence through the canyon was
+magnificent. I forgive him. Mostly.
+
+                              — Frank J. Palermo
+                                 Brooklyn, New York
+
+Mr. Drummond responds: "Tell Palermo I'll try to make the coincidences
+more plausible next time. Or maybe I'll just make the chase sequences
+so good he won't notice."                                         — M.S.
+
+Dear Mr. Sterling,
+
+I am a twelve-year-old boy from Wichita, Kansas. I want to be a
+scientist when I grow up, and your magazine is my favorite thing in the
+world. I save my allowance to buy it every month. My favorite author is
+Danny Kowalski because he writes about kids who actually seem like real
+kids. "Rockets in the Backyard" was the best story I ever read. Can you
+tell Mr. Kowalski that I built a model rocket based on the one in his
+story and it actually flew? Well, sort of. It went sideways and hit the
+garage. But it flew!
+
+                              — Billy Andersen
+                                 Wichita, Kansas
+
+Billy, Mr. Kowalski says: "Tell him congratulations and tell him sideways
+counts. My first rocket went sideways too. Also, tell him to keep
+building." We endorse this advice.                                — M.S.
+
+Dear Sterling,
+
+Gunnar Eriksson's "The Last Light of Aldebaran" in Issue #3 is a
+masterwork. I have read it four times and I am not finished with it.
+The scene in which Commander Henriksson watches the star die through
+the observation port — alone, in silence, having sent his crew to the
+evacuation pods — is the most moving passage I have encountered in any
+fiction, science or otherwise, this year. Eriksson writes about the
+vastness of space the way only someone who has truly felt small can
+write. Please give us more. Much more.
+
+                              — Prof. James Whitfield
+                                 Department of English
+                                 Harvard University, Cambridge, Mass.
+
+We are delighted to comply. Mr. Eriksson's "The Cradle and the Void,"
+which leads this issue, is, we believe, his finest work to date.  — M.S.
+
+We welcome your letters! Write to: Letters, Tales from the Future and
+Beyond, Meridian Publishing Company, 114 East 32nd Street, New York 16,
+N.Y. We reserve the right to edit for length and clarity.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+MORE THAN HUMAN by Theodore Sturgeon
+(Farrar, Straus and Young, 1953, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Sturgeon has long been one of the most gifted and least predictable
+writers in our field, and with this novel he has produced what may be his
+masterpiece. More Than Human tells the story of a group of misfit
+individuals — a simpleton, a pair of telekinetic twins, a teleporting
+girl, a mongoloid infant of staggering intellect — who discover that
+they are components of a collective organism, a "homo gestalt" that is
+to humanity what humanity is to the apes. The writing is lyrical,
+unconventional, and frequently stunning, with passages that read like
+prose poetry and a narrative structure that defies easy summary. It is
+not, perhaps, a comfortable novel. Mr. Sturgeon is more interested in
+the dark corners of human connection than in the well-lit corridors of
+traditional science fiction. But it is a profound one, and I suspect it
+will be read and discussed long after many more conventional novels have
+been forgotten. Highest recommendation.
+
+FAHRENHEIT 451 by Ray Bradbury
+(Ballantine Books, 1953, $2.00)
+
+Reviewed by Maxwell Sterling
+
+Mr. Bradbury has written a book that burns, appropriately enough, with
+a fierce and particular fire. In a future America where firemen do not
+put out fires but start them — their job being to burn books, which have
+been banned — one fireman, Guy Montag, begins to read the objects he has
+been paid to destroy, and discovers that a world without books is a world
+without thought, without memory, without the capacity for self-knowledge.
+The novel is short, intense, and angry in the way that only a true
+bibliophile can be angry. Its imagery is vivid and its message is clear,
+perhaps too clear for some tastes — Mr. Bradbury is not a writer who
+trusts the reader to reach the correct conclusion unaided. But the power
+of the central image — a civilization that destroys its own memory — is
+undeniable, and Mr. Bradbury's passionate defense of the life of the
+mind is both timely and timeless. Highly recommended.
+
+MISSION OF GRAVITY by Hal Clement
+(Doubleday, 1953, $2.50)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clement has accomplished something remarkable with this novel: he
+has made the physics the hero. Set on the planet Mesklin, a massive,
+rapidly rotating world where gravity varies from three times Earth's at
+the equator to nearly seven hundred times at the poles, the novel
+follows Barlennan, a sea-captain of the centipede-like native species,
+as he undertakes a perilous journey to retrieve a crashed human probe.
+The world-building is extraordinary — Mesklin is perhaps the most fully
+realized alien environment in science fiction — and Mr. Clement's
+commitment to scientific accuracy is absolute. Every detail of Mesklin's
+geography, meteorology, and biology follows logically from its physical
+parameters. If the human characters are somewhat flat and the prose is
+more functional than lyrical, these are small criticisms of a novel
+that demonstrates, with triumphant clarity, that rigorous science and
+gripping adventure are not merely compatible but complementary.
+Recommended with enthusiasm.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #6 — June 1953 — SUMMER SPECTACULAR
+
+We are proud to announce the contents of our biggest issue yet:
+
+"ORBIT OF ASHES" by Robert Finley — A test pilot makes a desperate
+gamble through the deadliest radiation belt in near-Earth space. An
+edge-of-your-seat tale of courage and physics from a striking new voice.
+
+"TURING BRIDE" by Arthur Wainwright — She was hired to build a
+perfect woman. She built something far more troubling. Wainwright returns
+with a story that will haunt you.
+
+"AMBER PRESERVE" by Margaret Thornton — A dead world's last
+confession, locked in stone for a billion years. Thornton at her
+luminous best.
+
+"PROFESSOR QUIST'S COIN" by Douglas Pemberton — The professor who
+flipped a coin and changed physics forever — entirely by accident.
+Pemberton's funniest story yet.
+
+"REUNION AT RIGEL" by Theodore Cain — Two brothers. Forty years. And
+time itself has cheated them both. A quietly devastating story of
+relativistic time dilation and family.
+
+"VANGUARD DOWN" by Col. James B. Stanton — Three hundred miles of alien
+hell. One platoon. No extraction. Military science fiction at its most
+gripping and its most human.
+
+"THE INHERITANCE OF DUST" by Agnes Whitfield — The last farmer on a
+dying Earth makes his stand. A powerful debut from a writer to watch.
+
+Seven stories! Our summer spectacular issue arrives on newsstands June
+1st. Do not miss it.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1953 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Gerald "Gerry" Pulaski
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

@@ -1,0 +1,4215 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #41 — May 1956
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Edge of the Chart" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "Atlas of Emptiness" by Gunnar Eriksson ...................... p. 4
+2. "Borderline" by Theodore Cain ............................... p. 34
+3. "Terra Incognita" by Cordell Beaumont ....................... p. 52
+4. "The Frontier Surgeon"
+      by Robert "Bob" Finley .................................. p. 76
+5. "The Last Frequency" by Lucian Marsh ........................ p. 96
+6. "The Boundary Keeper"
+      by Father Thomas Aquino ................................. p. 118
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 138
+   Signals Received: Letters to the Editor ................... p. 140
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 142
+   Coming Attractions ........................................ p. 144
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+There is a phrase that the old cartographers used to write in the blank
+spaces at the margins of their maps. You know the one: Here be dragons.
+
+It is easy, from our modern vantage, to smile at such quaint notation.
+We have mapped the globe to the last atoll. We have photographed the
+dark side of the Moon. We have measured the distance to Andromeda and
+calculated the temperature of the sun's corona to several decimal places.
+The blank spaces, it would seem, are filled.
+
+But of course they are not. The blank spaces have merely moved. They are
+no longer at the edges of the Atlantic or the interior of Africa; they
+are at the rim of the solar system, the boundary of the observable
+universe, the unexplored frequencies of the electromagnetic spectrum,
+the limits of what our instruments can detect and our minds can
+comprehend. The map has grown larger, and its margins have grown with it.
+There are more dragons now than ever.
+
+This issue of Tales from the Future and Beyond is about those margins.
+We have titled it "The Edges of the Map," and every story in these pages
+concerns itself with boundaries — the boundary between charted space and
+the void, between the known and the unknowable, between the familiar
+universe and whatever lies beyond it.
+
+Gunnar Eriksson opens with a story that turns the void itself into a
+subject worthy of study — and of love. Theodore Cain mans a customs
+desk at the very edge of human space and reminds us that bureaucracy
+will follow us to the stars. Cordell Beaumont ventures into the last
+unmapped continent of an alien world and finds something magnificent
+and terrible waiting. Bob Finley gives us a frontier surgeon with steady
+hands and a patient whose very biology is being rewritten. Lucian Marsh
+listens to frequencies that no receiver should be able to hear and hears
+a message from before the beginning of time. And Father Thomas Aquino
+takes us to a monastery at the edge of the observable universe, where
+the cosmic microwave background is visible as a wall of fading light,
+and asks what it means to stand at the boundary of everything.
+
+Six stories. Six edges. Here be dragons — and wonder, and terror, and
+the stubborn human compulsion to walk toward the unknown rather than
+away from it.
+
+I am proud of every page.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, March 1956
+
+================================================================================
+
+                         ATLAS OF EMPTINESS
+
+                        by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+The generation ship Fröja had been traveling for one hundred and
+forty-seven years when it entered the Lacuna.
+
+Elin Dahl learned of the transition from a single line in the morning
+navigational bulletin, printed on the thin yellow paper that the
+bulletin office recycled from discarded cargo manifests. She read it
+at her station in the observatory dome, holding the sheet in one hand
+and a cup of bitter chicory substitute in the other. The bulletin
+stated: "Ship's position as of 0600 hours, Year 147, Day 91: The Fröja
+has entered the region designated Navigational Void LC-7, colloquially
+known as the Lacuna. Duration of transit: estimated fourteen years.
+Stellar density in LC-7: zero measurable objects per cubic parsec."
+
+Zero measurable objects per cubic parsec.
+
+Elin set the bulletin down on the console and looked through the
+observation port. The port was a circle of treated glass two meters in
+diameter, the largest clear aperture on the ship, reserved for the use
+of the astronomy section. For one hundred and forty-seven years, that
+port had framed stars — sometimes many, sometimes few, but always
+something. A dim red dwarf. A field of distant points. The faint
+luminous haze of a nebula's edge.
+
+Now it framed nothing.
+
+Not darkness — Elin would have accepted darkness. Darkness was a thing,
+a presence, a condition with its own character. What she saw through the
+port was absence. The glass might as well have been painted over. The
+void was total, uniform, and without variation. It was as though the
+universe had run out of material and left this place unfinished.
+
+She stared at it for a long time. Somewhere behind her, in the deeper
+chambers of the observatory dome, she could hear Henrik Strand powering
+down the spectrographic array. There was nothing for it to measure.
+
+                               * * *
+
+The Fröja was home to four thousand, two hundred and eleven people.
+
+It had been built in Earth orbit in the year 2089 — the third of the
+great colony ships, bound for the Tau Ceti system, where a survey probe
+had identified two planets in the habitable zone. The ship was a
+cylinder six kilometers long and one and a half kilometers in diameter,
+rotating on its long axis to produce a simulation of gravity that was,
+after a hundred and forty-seven years of gradual bearing degradation,
+approximately 0.87 of Earth standard. Its interior was divided into
+twelve decks, each with its own atmosphere, lighting cycle, and
+functional purpose: agricultural decks, residential decks, industrial
+decks, a medical deck, a school deck, and, at the forward end, the
+observatory dome.
+
+Elin Dahl had been born on Deck Seven, the second residential level,
+thirty-one years ago. She had never seen Earth, nor any planet. She had
+never stood beneath an open sky. She had never felt wind, or rain, or
+the warmth of a sun on her skin. These were abstractions to her — words
+in books, images in the ship's archive, concepts as remote as the
+historical accounts of oceans and forests that the education department
+taught to children in the lower school.
+
+What was not abstract to her were stars.
+
+She had begun studying them at age nine, when her mother — a structural
+engineer on Deck Four — had taken her to the observatory dome for the
+first time and she had pressed her face against the observation port and
+seen the stars not as points on a chart or images on a screen but as
+real things, real light, traveling real distances across real space to
+arrive at the precise location where her eyes could receive it. The
+experience had been, in the quiet and private vocabulary that Elin used
+for things that mattered, a revelation. The ship was small. The universe
+was not. And between the ship and the universe there was a relationship
+that could be studied, measured, and — she felt this with the certainty
+of a child who has discovered her vocation — understood.
+
+She had trained as an astronomer. There were not many astronomers on the
+Fröja — the discipline was considered a luxury, a holdover from Earth
+culture that the ship's resource allocation committee funded reluctantly
+and reviewed skeptically at each annual budget cycle. The observatory
+had a staff of three: Elin, Henrik Strand (who was fifty-seven and had
+the permanent stoop of a man who had spent decades bending over
+instruments designed for shorter people), and a part-time technician
+named Rúna Sigurdsdottir, who was primarily a communications officer
+and treated the observatory as a secondary posting.
+
+Three people to study a universe. It had always struck Elin as
+insufficient. Now, staring into the void of the Lacuna, it struck her
+as absurd.
+
+                               II.
+
+The first week in the Lacuna was disorienting.
+
+Elin had not anticipated the psychological effect of the void on the
+ship's population. The Fröja's interior was self-contained — most
+people spent their lives on the residential and agricultural decks,
+surrounded by corridor walls and hydroponic greenery and the familiar
+rhythms of shipboard routine. They never looked through the observation
+ports. The stars, for them, were a fact of navigation, not of daily
+experience.
+
+But they knew the stars were there. They knew it the way a person in a
+windowless room knows that the world exists outside the walls — not
+through direct perception, but through a deeper, almost animal
+awareness. The stars were context. The stars were backdrop. The stars
+were the thing beyond the ship that confirmed that the ship was
+somewhere, going somewhere, surrounded by something.
+
+And now they were gone.
+
+Elin began to notice changes. The corridors felt quieter. Conversations
+became shorter, more perfunctory. The dining hall on Deck Seven, which
+was normally loud with the cheerful chaos of four hundred people eating
+in shifts, took on a subdued quality, as though people were listening
+for something they could not hear. Two children on Deck Three stopped
+sleeping. A maintenance worker on Deck Nine filed a report stating that
+the walls of his quarters were "closer than they used to be." The ship's
+single psychologist, Dr. Annika Falk, noted a twelve percent increase
+in appointments within the first ten days.
+
+"It is an orientation response," Dr. Falk told Elin, when Elin visited
+her office to discuss the trend. "Humans are spatial creatures. We
+navigate by reference points. When all external reference points are
+removed, the mind becomes — unsettled."
+
+"The ship has internal reference points," Elin said. "Corridors. Deck
+numbers. The rotation axis."
+
+"Those are cognitive references. I am speaking of something more
+primitive. The body wants to know where it is in relation to the world.
+When the world disappears, the body grows anxious."
+
+"The world has not disappeared. We are in a region of space with very
+low stellar density."
+
+Dr. Falk looked at her with the patient expression of someone who dealt
+with human irrationality professionally. "Try explaining that to the
+body."
+
+Elin returned to the observatory and looked through the observation
+port. Nothing. She looked at the navigational instruments: position
+confirmed, velocity nominal, course unchanged. The ship was proceeding
+as it had proceeded for a century and a half, propelled by the same
+engines, held together by the same hull, carrying the same cargo of
+human lives toward the same destination.
+
+Nothing had changed except what was outside. And what was outside was
+nothing.
+
+She sat at her console and opened her observation log. For eleven
+years, she had maintained this log — a daily record of stellar
+positions, magnitudes, spectral classifications, and any anomalies
+observed. It was, she knew, a modest contribution to science. The
+ship's telescopes were adequate but not exceptional. The data she
+collected was useful primarily for confirming the navigational
+computer's position calculations, which it did very well without her
+help. But the log gave her work a structure, and the structure gave her
+days a shape, and the shape was something she needed the way a wall
+needs a foundation.
+
+She opened a new entry and wrote the date. Then she wrote: "Observation
+log, Day 1 of Lacuna transit. No objects observed."
+
+She looked at the sentence. It was accurate. It was also, she felt, a
+lie — not a lie of fact but a lie of completeness. "No objects observed"
+suggested that she had looked and found nothing, when in truth she had
+looked and found something: the void itself. The emptiness was not a
+lack of data. It was data. It was information of a kind that she had
+never recorded before, because she had never needed to.
+
+She deleted the sentence and wrote: "Observation log, Day 1 of Lacuna
+transit. The void is uniform and without variation. It extends in all
+directions to the limit of instrument sensitivity. It is the most
+remarkable thing I have ever observed."
+
+She read this back to herself. It was better. It was also, she
+suspected, the beginning of something she could not yet name.
+
+                               III.
+
+On the fourteenth day, Elin began to map the emptiness.
+
+The idea came to her during a sleepless period — not quite night, since
+the Fröja's lighting cycle was artificial and arbitrary, but the dim
+hours when most of the ship rested and the corridors were quiet. She
+lay in her bunk on Deck Seven and stared at the ceiling and thought
+about what it meant to observe nothing.
+
+An astronomer's training was the training of attention. You learned to
+look at the sky and see not a uniform field of points but a structured
+landscape of distances, temperatures, compositions, and motions. Each
+star was a datum. Each gap between stars was a datum. The pattern of
+presence and absence together formed the picture, the way the notes and
+silences together formed the music.
+
+But what happened when there were only silences?
+
+She rose and went to the observatory. Henrik was asleep; Rúna was on
+the communications deck. Elin was alone with the instruments and the
+void. She sat at the main console and initiated a full-spectrum scan —
+radio, infrared, visible, ultraviolet, X-ray — sweeping a cone of
+observation thirty degrees in diameter, centered on the ship's heading.
+
+The scan returned nothing. Or rather, it returned a nothing so pure,
+so absolute, that it acquired a character of its own. The cosmic
+microwave background was there, of course — the faint, uniform whisper
+of radiation left over from the universe's birth. But superimposed on
+that background, where there should have been the signatures of matter
+— the absorption lines of interstellar gas, the thermal emissions of
+dust, the telltale fluctuations that indicated mass of any kind — there
+was a silence so deep that Elin felt her breath catch.
+
+She saved the scan data and opened a new file. She labeled it: "Atlas
+of Emptiness — Volume I, Section 1."
+
+She did not know yet what the atlas would contain. She knew only that
+the void deserved documentation — not as an absence, not as a gap in
+the record, but as a thing in itself. A terrain. A landscape. A place
+with its own properties, its own dimensions, its own character, as real
+and as worthy of study as any nebula or star cluster.
+
+She began with the basics. Position: coordinates relative to the
+ship's origin point at Sol. Extent: the estimated diameter of the
+Lacuna, as derived from the navigational charts compiled by the pre-
+launch survey. Stellar density: zero, confirmed. Interstellar medium
+density: below the instrument threshold of 0.01 atoms per cubic
+centimeter. Temperature: 2.726 Kelvin, consistent with the cosmic
+microwave background and nothing else.
+
+These were numbers. They described the emptiness in the language of
+measurement, which was a good language, a precise language. But it was
+not, Elin felt, sufficient. The numbers captured the quantity of the
+void. They did not capture its quality.
+
+She stared at the observation port. The nothing stared back. She wrote:
+
+     Section 1, Observation 1: The Lacuna is not dark. Darkness
+     implies the obstruction or absence of light. The Lacuna is
+     transparent. Light passes through it unimpeded, unabsorbed,
+     unreflected. The void does not swallow light. It ignores it.
+     This is a distinction that the instruments do not record but
+     that the eye perceives. The eye perceives that it is looking
+     through something, not at something. The experience is closer
+     to looking through a window into an unlit room than to looking
+     at a wall.
+
+She read it back. It was not science. It was not the kind of writing
+that would appear in a peer-reviewed journal, had peer-reviewed journals
+existed on a generation ship. It was something else — observation that
+included the observer. Description that admitted the act of describing.
+
+She continued writing.
+
+                               IV.
+
+By the end of the first month, the atlas had grown to forty-seven pages.
+
+Elin worked on it during every free hour. She carried the manuscript
+with her in a cloth folder — actual paper, requisitioned from the
+print shop on Deck Eight, because she found that writing by hand
+changed the quality of her attention. She wrote in the observatory, in
+the dining hall, in her bunk during the dim hours. She wrote with a
+pencil that she sharpened with a small knife, and the physical act of
+sharpening — the blade against the wood, the curl of shaving, the
+exposed graphite — became part of the ritual.
+
+The atlas was organized by sector. Elin had divided the Lacuna into a
+grid — arbitrary, since there were no landmarks to anchor it, but
+necessary for the same reason that a blank page needed margins. Each
+sector received its own entry: coordinates, instrument readings, and
+then the observations.
+
+The observations were the heart of the work.
+
+     Section 7, Observation 3: At the boundary between Sector 12
+     and Sector 13, the cosmic microwave background shows a
+     variation of 0.0003 Kelvin. This is within the noise floor of
+     the ship's instruments and is almost certainly meaningless.
+     I record it anyway, because in a place where nothing varies,
+     the smallest variation is an event. A desert traveler does
+     not ignore a pebble.
+
+     Section 12, Observation 1: I have been observing this sector
+     for three days and I find that the void here has a different
+     character than the void in the sectors behind us. I cannot
+     say in what way it differs. The instruments show no
+     difference. But I look through the port at Sector 12 and I
+     feel that the emptiness is — I lack the word. Attentive.
+     As though the void is aware that it is being observed.
+     I do not believe this. I record it because the observation
+     log should reflect what the observer experiences, even when
+     the experience is irrational.
+
+     Section 15, Observation 7: There is a beauty here that I did
+     not expect. Not the beauty of stars, which is the beauty of
+     presence — of light and color and the knowledge that something
+     is burning at an immense distance. This is the beauty of
+     absence. The beauty of a blank page. Of silence in a concert
+     hall before the music begins. The void is not desolation. It
+     is potential. It is the universe holding its breath.
+
+Henrik found her writing in the observatory one evening and stood behind
+her for a moment, reading over her shoulder. He was a kind man, careful
+of other people's work.
+
+"What is this?" he asked.
+
+"An atlas."
+
+"Of what?"
+
+"Of the emptiness."
+
+Henrik was quiet for a long moment. He was a practical astronomer — a
+man of spectrographs and calibration curves, not given to metaphysical
+flights. But he had known Elin for eight years, and he knew that she
+was not given to them either.
+
+"Is it science?" he asked.
+
+"I do not know what it is. It is what I see."
+
+"You see nothing. We all see nothing."
+
+"Yes. But there are different kinds of nothing. I am trying to describe
+them."
+
+Henrik pulled up a chair and sat beside her. He read three pages in
+silence. Then he said: "The variation in Sector 12. The 0.0003 Kelvin
+reading."
+
+"Noise. Almost certainly."
+
+"Almost certainly. But you measured it."
+
+"Yes."
+
+"And you would measure it again, if we passed through Sector 12 again."
+
+"Yes."
+
+Henrik nodded slowly. He did not say that the atlas was valuable, or
+that it was not valuable. He said: "I would like to read more, when
+you have written it."
+
+"You may read all of it. Whenever you like."
+
+He looked through the observation port at the void, and Elin saw
+something change in his face — not a dramatic change, not the wide-eyed
+revelation she had experienced, but a subtle shift, as though he were
+seeing the emptiness for the first time not as a problem to be endured
+but as a thing to be known.
+
+"It is strange," he said, "to look at nothing and feel that there is
+something to learn."
+
+"Yes," Elin said. "It is strange. And it is true."
+
+                               V.
+
+The atlas became known.
+
+Elin did not intend this. She had conceived the project as private work
+— personal observation, not public document. But ships are small
+societies, and small societies have no secrets that last longer than a
+week. Rúna read the atlas and told a friend in communications. The
+friend told a botanist on the agricultural deck. The botanist told her
+husband, who was a schoolteacher on Deck Six. The schoolteacher read
+three pages to his students.
+
+The students began visiting the observatory.
+
+They came in small groups — two or three at a time, children of nine
+and ten and eleven, standing at the observation port with their faces
+pressed against the glass, looking at nothing. They asked Elin questions.
+
+"What is out there?"
+
+"Nothing that our instruments can detect."
+
+"Is it really empty?"
+
+"As empty as anything we have ever measured."
+
+"Then why are you writing about it?"
+
+This was the question that Elin could not answer simply, so she
+answered it as honestly as she could: "Because I think the emptiness
+is worth writing about. Because no one has described this place before,
+and it deserves to be described. Because the void is part of the
+universe, and we are travelers in the universe, and travelers should
+record what they pass through."
+
+The children accepted this with the uncomplicated gravity of the young.
+They began making their own observations. A girl named Maja, eleven
+years old and serious beyond her age, brought Elin a drawing of the
+view from the observation port: a circle of blank paper with a thin
+line at the edge to indicate the frame of the glass. "It is a portrait
+of the Lacuna," she said. "I drew exactly what I saw."
+
+Elin pinned the drawing to the wall of the observatory beside her own
+notes. It was, she thought, the most honest piece of art the ship had
+ever produced.
+
+Adults came too. They came singly, in the quiet hours, when the
+observatory was dim and empty. They stood at the port and looked out,
+and some of them asked to read the atlas, and Elin let them, watching
+their faces as they turned the pages.
+
+The reactions varied. Some found the atlas bewildering — "You have
+written forty pages about nothing?" — and left shaking their heads.
+Others found it beautiful. A woman from the machine shop on Deck Ten
+read the entry about the beauty of absence and wept, silently, standing
+in the observatory with the pages in her hands, and when Elin asked if
+she was all right, the woman said: "My mother died last year. I did not
+know how to describe what she left behind. Now I do."
+
+And some found it necessary. These were the people most affected by the
+Lacuna — the ones who could not sleep, the ones who felt the walls
+closing, the ones who sat in the dining hall and stared at their plates
+and could not explain what was wrong. Dr. Falk began recommending the
+atlas to her patients. "It gives the void a name," she told Elin. "And
+things that have names are less frightening than things that do not."
+
+                               * * *
+
+In the fifth month, the captain summoned Elin to the bridge.
+
+Captain Njord Bergström was a third-generation shipborn, like Elin. He
+was a competent, steady man of fifty-four with a lined face and the
+careful manner of someone who had spent his life making decisions that
+affected four thousand people and had learned not to make them quickly.
+He stood at the bridge's central console with his hands clasped behind
+his back and the navigational display glowing on the wall behind him — a
+chart of the Fröja's course, a thin red line traversing a field of
+absolute blankness.
+
+"Astronomer Dahl," he said. "I have been hearing about your atlas."
+
+"Yes, Captain."
+
+"I would like to understand what it is."
+
+Elin considered how to explain the atlas to a man whose relationship
+with space was navigational rather than observational. "It is a record
+of the void, Captain. A systematic description of the Lacuna, sector
+by sector, as we pass through it."
+
+"A description of emptiness."
+
+"Yes."
+
+"To what purpose?"
+
+"The purpose of any atlas. To document a place. To describe its
+characteristics. To leave a record for those who come after us."
+
+Bergström looked at the navigational display. "No ship will come this
+way again for generations. Perhaps never. The Lacuna is a navigational
+obstacle. Future ships will chart courses to avoid it."
+
+"That may be true. But we are here. And I believe what we pass through
+is worth recording, regardless of whether anyone follows."
+
+The captain was silent for a time. He was not a man of learning — he
+had been trained in ship systems, navigation, and command, and his
+reading was confined to technical manuals and the occasional novel from
+the ship's library. But he was, Elin knew, a man who listened.
+
+"There have been complaints," he said.
+
+"About the atlas?"
+
+"About the observatory. About resources being used for — I am quoting
+the resource committee — 'non-essential documentation of non-existent
+phenomena.'"
+
+"The phenomena are not non-existent. The void is a phenomenon."
+
+"The resource committee would disagree."
+
+"The resource committee has not looked through the observation port."
+
+A brief pause. Something that might have been amusement passed across
+Bergström's face. "No," he said. "I imagine they have not."
+
+He turned from the display and looked at her directly. "Continue your
+work, Astronomer Dahl. I will address the resource committee. But I
+would ask you to provide me with a copy of the atlas. I would like to
+read it."
+
+"Of course, Captain."
+
+She provided the copy the following day. She did not learn until much
+later that Bergström read it in its entirety in a single sitting, and
+that when he had finished, he sat alone on the bridge for a long time,
+looking at the navigational display and the thin red line and the
+blankness that surrounded it, and that he said, to no one, in the
+quiet of the empty bridge: "She is right. It is beautiful."
+
+                               VI.
+
+The atlas grew.
+
+In the seventh month, it exceeded one hundred pages. In the ninth
+month, it exceeded two hundred. Elin wrote every day, without
+interruption, with the steady discipline of a woman who had found her
+life's work and recognized it.
+
+The entries became more varied. The early sections had been primarily
+descriptive — observations of the void's character, its uniformity,
+the minute and probably illusory variations that she recorded with
+scrupulous care. But as the months passed and the ship moved deeper
+into the Lacuna, the atlas evolved. New categories emerged.
+
+There was a section on the void's effect on human perception. Elin
+interviewed forty-six crew members about their experience of the
+Lacuna, recording their descriptions with the same precision she
+applied to instrument readings. The interviews revealed patterns. Many
+people experienced the void as a sound — a low, constant tone at the
+edge of hearing, like a note sustained on an organ in a distant room.
+Others experienced it as a pressure — a faint, even compression, as
+though the emptiness had weight. Three people independently described
+the sensation of being watched, though they could not say by what or
+from where.
+
+     Subject Interview 23 (Deck Four maintenance technician,
+     male, age 41): "I know there is nothing out there. I am
+     not a superstitious man. But when I think about it — when I
+     really think about the fact that there is nothing in any
+     direction for light-years — I feel as though I am standing
+     in the palm of a very large hand. Not a threatening hand.
+     Just — large. And patient. And aware."
+
+There was a section on the void's effect on the ship's systems.
+The Fröja's engineers reported no malfunctions, no anomalies, no
+deviations from normal operational parameters. And yet the ship felt
+different. The air recyclers maintained the same atmospheric
+composition, but the air tasted different — cleaner, thinner, as though
+it had been filtered through something that removed not impurities but
+qualities. The lighting was unchanged, but the light seemed different —
+more direct, more defined, with sharper edges to the shadows it cast.
+Elin recorded these observations and noted that they were subjective,
+unverifiable, and possibly imaginary, and that she believed every one
+of them.
+
+There was a section on the void's relationship to time. This was the
+most difficult section to write, because it concerned an experience
+that Elin could not verify and could barely articulate. Time in the
+Lacuna felt different. Not faster or slower — the ship's clocks
+maintained their steady count, and the daily routine proceeded as
+always. But the quality of time had changed. The hours felt — the word
+Elin reached for, again and again, and found inadequate, was
+transparent. Time in the Lacuna was transparent time. Time that you
+could see through, to something on the other side.
+
+     Atlas, Volume II, Section 4, Observation 11: I am aware
+     that this observation will strain the reader's patience.
+     I ask the reader to consider that I have been a working
+     astronomer for eleven years, that I am trained in the
+     disciplines of empirical measurement, and that I do not
+     write what I do not observe. What I observe is this: time
+     in the Lacuna is thinner. I do not mean that it passes more
+     quickly. I mean that the barrier between one moment and the
+     next is less substantial. The present feels closer to the
+     past and to the future, as though the padding that normally
+     separates them has been removed. I cannot measure this. I
+     cannot prove it. I can only record it and leave the
+     interpretation to others.
+
+                               VII.
+
+In the eleventh month, Elin discovered that the void was not entirely
+empty.
+
+She had been running the full-spectrum scan as part of her daily
+routine — a sweep of the observation cone, automated, requiring
+nothing more than a keypress and a patient hour while the instruments
+cycled through the frequencies. She ran the scan every day, not because
+she expected it to find anything, but because the discipline of looking
+was itself the point. An astronomer who stopped looking because she
+expected to see nothing was no longer an astronomer.
+
+On Day 327 of the Lacuna transit, the scan returned an anomaly.
+
+It was small — so small that the automated analysis software had
+flagged it as noise and filed it in the error log rather than the
+observation log. Elin found it only because she had developed the habit
+of reviewing the error logs manually, a practice she had begun in the
+third month after noticing that the software's noise filters were
+calibrated for star-rich environments and might be miscategorized in
+the void.
+
+The anomaly was a thermal signature. A point source, bearing 042 by
+017, at a distance the instruments could not determine precisely — the
+return was too faint for ranging. The temperature was 3.1 Kelvin. This
+was 0.374 degrees above the cosmic microwave background.
+
+It was a whisper. A breath. The faintest possible indication that
+something, somewhere in the void, was warmer than nothing.
+
+Elin stared at the reading for a long time. Then she recalibrated the
+instruments and ran the scan again. The anomaly was still there. She
+ran it a third time, with different filter settings. Still there. She
+called Henrik.
+
+He came to the observatory in his nightclothes, his thin hair
+disordered, his eyes heavy with interrupted sleep. He looked at the
+readings without speaking. He ran the scan himself, twice. He checked
+the calibration logs. He sat at the console and pressed his fingertips
+against his temples in the way he did when he was thinking very
+carefully.
+
+"It is real," he said.
+
+"Yes."
+
+"It should not be here."
+
+"No."
+
+"Do you know what it is?"
+
+"No. The signature is consistent with — " she paused, because the words
+she was about to say sounded absurd even to her — "a mass. A small
+mass. At very low temperature. Radiating just above the background."
+
+"What kind of mass?"
+
+"I do not know. The spectral data is insufficient for composition
+analysis. It is simply — something. In a place where there should be
+nothing."
+
+Henrik looked at the observation port. The void was the same as it
+had always been — uniform, absolute, featureless.
+
+"A pebble in the desert," he said.
+
+Elin nodded. She opened the atlas to a new page and wrote:
+
+     Atlas, Volume II, Section 19, Observation 1: An anomaly has
+     been detected. Bearing 042 by 017. Temperature 3.1 K.
+     Nature: unknown. Significance: unknown. But it is there. In
+     the deepest void we have ever traversed, at the farthest
+     point from anything, something exists. I record this with
+     the same precision I have applied to the void itself, and
+     with the additional observation that my hands, as I write
+     this, are trembling.
+
+                               VIII.
+
+The anomaly changed things.
+
+Word spread through the ship within hours — in a community of four
+thousand, news traveled at the speed of conversation. People came to
+the observatory to look at the instrument reading, which was a set of
+numbers on a screen and not, in any visual sense, dramatic. But they
+came anyway. They stood before the console and looked at the numbers
+the way a person lost in a wilderness looks at a distant light.
+
+"What is it?" they asked.
+
+"We do not know," Elin said, each time.
+
+"Is it a star?"
+
+"No. It is too cold, too small. It is — something else."
+
+"Is it alive?"
+
+This question, asked by a child, made Elin pause longer than any of
+the others. "We have no evidence of that," she said. "But we do not
+have evidence against it, either."
+
+The ship's navigation officer, Commander Thea Lindgren, came to the
+observatory and asked whether the anomaly was a navigation hazard. Elin
+told her it was not — at its estimated distance, it posed no risk of
+collision, and the ship's course did not need to be altered. Lindgren
+nodded and left, but Elin noticed that she returned the next day, and
+the day after that, and that she stood at the observation port each
+time and looked at the void with an expression that was no longer
+navigational but something closer to wonder.
+
+Captain Bergström asked whether the anomaly could be investigated.
+
+"Not without altering course," Elin said. "The object is off our line
+of transit. To approach it would require a deviation of approximately
+two degrees, which would add — " she consulted her calculations — "seven
+months to our journey."
+
+"Seven months."
+
+"Approximately."
+
+Bergström considered this. Seven months, in a voyage of two centuries,
+was a small delay. But the Fröja's resources were finite, and every
+month of extended travel consumed food, fuel, and the patience of
+people who had been traveling since before they were born.
+
+"The resource committee will not approve it," he said.
+
+"No."
+
+"And you? What would you recommend?"
+
+Elin looked at the captain. She thought about the atlas, and the void,
+and the small warm point in the infinite cold. She thought about the
+woman from the machine shop who had wept in the observatory, and the
+children who came to press their faces against the glass, and the
+maintenance technician who felt that he was standing in the palm of a
+very large hand.
+
+"I would recommend that we go," she said. "Not because the anomaly is
+scientifically significant — it may not be. But because we have been
+traveling through emptiness for a year, and we have learned that
+emptiness is a thing that can be mapped, and studied, and even loved.
+And now there is something in the emptiness. And I believe that a ship
+of travelers, passing through a place where nothing exists, has an
+obligation to look at the one thing that does."
+
+Bergström was quiet for a long time. Then he said: "Prepare a proposal.
+I will present it to the council."
+
+The council debated for three days. The resource committee objected.
+The engineering department expressed concern about fuel margins. The
+agricultural section worried about the extended growing season
+required. The school deck parents worried about the delay in reaching
+Tau Ceti, where their children's children might someday walk on solid
+ground beneath a real sky.
+
+The vote was taken on a Thursday evening. The council chamber was
+full — standing room only, which had not happened since the water
+recycling crisis of Year 133. The vote was 11 to 7 in favor of the
+deviation.
+
+The Fröja altered course.
+
+                               IX.
+
+It took six weeks to reach the anomaly.
+
+During those weeks, Elin spent every available hour at the instruments,
+tracking the thermal signature as it grew incrementally stronger,
+watching the numbers climb by thousandths of a degree. Henrik worked
+beside her, calibrating and recalibrating, refining the measurements
+with the obsessive care of a man who knew that what they were
+approaching might be the most significant observation of his career.
+
+At a distance of one hundred astronomical units, the anomaly resolved
+into something the instruments could characterize. It was solid — a
+body, roughly spherical, approximately fourteen meters in diameter.
+Its surface temperature was 3.2 Kelvin. Its albedo was nearly zero. It
+was composed of — Elin checked the spectrographic analysis three times
+before she accepted it — iron. Pure iron, with trace amounts of nickel
+and cobalt, in a crystalline structure that the database identified as
+consistent with a metallic meteorite of extraordinary purity.
+
+A ball of iron, fourteen meters across, adrift in the deepest void
+between the stars.
+
+At a distance of ten AU, they could see it through the telescope —
+a dark sphere against the dark, visible only because the Fröja's
+searchlights cast a faint gleam on its surface. It was smooth.
+Unnaturally smooth. Not the pitted, scarred surface of a meteorite
+that had spent eons tumbling through space, but a polished surface,
+regular and featureless, as though it had been machined.
+
+"It is artificial," Henrik said, in a voice that was barely a whisper.
+
+Elin did not reply. She was writing.
+
+     Atlas, Volume III, Section 1, Observation 1: We have found
+     it. At the center of the deepest void in our navigational
+     charts, in a region where no star shines and no matter
+     gathers, there is an object. It is iron. It is spherical.
+     It is smooth. It appears to have been made.
+
+     I do not know who made it, or when, or why. I do not know
+     whether it was placed here deliberately or arrived here by
+     some process we cannot imagine. I do not know whether it is
+     a monument, a marker, a tool, or something for which we have
+     no category.
+
+     What I know is this: in a place of absolute emptiness,
+     someone — something — left a mark. The void is not
+     unclaimed. The emptiness has been visited before. We are
+     not the first to pass through this place, and whatever
+     passed before us wanted it known.
+
+The Fröja approached to within one kilometer and held station. For
+three days, every instrument on the ship was trained on the iron sphere.
+They measured its mass, its magnetic field, its thermal profile. They
+swept it with radar and sonar. They listened for transmissions on every
+frequency. They photographed it from every angle.
+
+They learned almost nothing. The sphere was iron. It was smooth. It
+was old — the isotopic analysis suggested an age of at least two
+billion years, though the uncertainty was large. It had no markings,
+no openings, no features of any kind. It was a sphere and nothing
+more.
+
+And yet it was enough.
+
+Captain Bergström came to the observatory on the second day. He stood
+at the port and looked at the sphere, a dark circle barely visible
+against the dark, illuminated by the ship's lights.
+
+"What do you think it is?" he asked.
+
+"I think it is what the atlas is about," Elin said. "I think it is the
+reason the void exists. Not in a causal sense — I do not mean that the
+sphere created the void. I mean that the void and the sphere belong
+together. The emptiness is the frame. The sphere is the content. You
+cannot understand either without the other."
+
+"That is not a scientific statement."
+
+"No. It is an observation."
+
+Bergström looked at her. "You have been making observations for over
+a year. You have documented the void more thoroughly than anyone in
+the history of human spaceflight. And you are telling me that the most
+important thing you have observed is a ball of iron that you cannot
+explain."
+
+"I am telling you that the most important thing I have observed is
+that the void is not empty. That even in the most absolute absence,
+there is a presence. That the map is never truly blank."
+
+The captain looked at the sphere for a long time. Then he said: "Put
+it in the atlas."
+
+"I already have."
+
+                               X.
+
+The Fröja resumed its course toward Tau Ceti. The iron sphere
+diminished behind them, swallowed by the void, until the instruments
+could no longer detect it and the void was, once again, complete.
+
+Three more years of the Lacuna remained. Elin knew this. She sat at
+her console in the observatory, with the atlas open before her and the
+observation port framing the familiar, absolute nothing, and she felt
+no dread. The void was her terrain now. She knew it as well as anyone
+could know a place that was defined by the absence of everything
+knowable.
+
+She continued to write. The atlas grew. Volume III documented the iron
+sphere and the questions it raised. Volume IV returned to the void
+itself — its qualities, its textures, its many silences. Volume V,
+which she began in the second year and worked on for the remainder of
+the transit, was the most ambitious section: a meditation on emptiness
+as a category of experience, drawing on the observations she had made,
+the interviews she had conducted, and the slow, accumulating wisdom
+of a woman who had spent years looking at nothing and finding, in that
+nothing, a fullness she could not have anticipated.
+
+     Atlas, Volume V, Section 12, Final Observation: We are
+     nearing the far boundary of the Lacuna. In three months,
+     the first stars will appear in the observation port — faint,
+     distant, but real. The void will end, and we will return
+     to the populated universe, with its lights and its dust and
+     its dense, cluttered beauty.
+
+     I am not ready to leave.
+
+     This will seem strange. The Lacuna has been, for most of
+     the ship's population, an ordeal — a long, disquieting
+     passage through a place that offered nothing to see, nothing
+     to hear, nothing to hold. They have endured it. They are
+     glad it is ending.
+
+     I understand this. And I do not share it.
+
+     The void has given me something that the stars never did.
+     Not knowledge — the atlas contains very little that would
+     satisfy a scientist. Not comfort — the void is not
+     comforting. What it has given me is attention. The void
+     demanded that I look at it, really look, with nothing
+     to distract me and nothing to fall back on. It demanded
+     that I see what was there, which was nothing, and that
+     I find in that nothing something worth recording. It
+     taught me that observation is not a function of the
+     thing observed. It is a function of the observer.
+
+     I mapped the emptiness. I gave it coordinates and
+     descriptions and a name. The atlas is four hundred and
+     twelve pages long, and it is a record of nothing, and
+     it is the truest thing I have ever written.
+
+     The void will end. The stars will return. The universe
+     will fill the observation port with its ancient,
+     familiar light, and I will record it as I have always
+     done, with precision and with care.
+
+     But I will miss the emptiness. I will miss its silence,
+     its patience, its terrible and beautiful indifference.
+     I will miss the way it made me look.
+
+     I will miss the nothing that taught me how to see.
+
+When the first star appeared — a faint red point, barely visible, at
+the extreme edge of the observation port's field of view — Elin was
+alone in the observatory. It was the dim hours. The ship was quiet. She
+saw the star and felt two things simultaneously: relief, which was the
+body's response to the return of context, and grief, which was the
+heart's response to the end of something that could not be repeated.
+
+She opened the atlas to the last page and wrote:
+
+     Atlas of Emptiness — Final Entry: A star has appeared.
+     Bearing 003 by 001. Magnitude approximately 14. Spectral
+     classification pending.
+
+     The Lacuna is behind us.
+
+     The atlas is complete.
+
+She closed the book. She held it in her hands — four hundred and twelve
+pages of handwritten observations, the weight of two years of looking
+at nothing. She held it the way you hold something precious and
+fragile, something that cannot be replaced.
+
+Through the observation port, the star burned. Small, red, impossibly
+distant. But real. A point of light in the void, like a period at the
+end of a very long sentence.
+
+The Fröja moved on. The atlas remained.
+
+                            [THE END]
+
+================================================================================
+
+                           BORDERLINE
+
+                         by Theodore Cain
+
+================================================================================
+
+                               I.
+
+The customs station at the edge of human space was called, with the
+grim humor common to government employees stationed in remote
+locations, the Last Stop. Its official designation was Terran
+Administrative Boundary Station 1, Sector 7-G, but nobody used the
+official designation except on forms, and even on forms the clerks
+had been known to abbreviate it to "the Stop" and let the auditors
+sort it out.
+
+It was not an impressive facility. It occupied a converted fuel depot
+on the surface of a captured asteroid, designation KR-441, which
+orbited a dim red star at the outermost edge of the territory claimed
+by the Terran Commonwealth. The station consisted of a pressurized
+dome containing four offices, a waiting room, a canteen that served
+reconstituted coffee and sandwiches of ambiguous origin, and a
+processing hall where arrivals were documented, inspected, and either
+admitted or turned away.
+
+George Hadley had been the senior customs officer at the Last Stop for
+eleven years, and he had processed every kind of case the galaxy could
+produce. He had admitted scientists, refugees, diplomats, merchants,
+missionaries, tourists, con artists, and one individual who claimed to
+be a time traveler from the twenty-eighth century and who, upon being
+asked for identification, had produced a library card from a library
+that would not be built for four hundred years. George had stamped the
+card and let him through. It was not his job to evaluate the plausibility
+of time travel. It was his job to check documents.
+
+George was a stocky man of forty-seven with thinning brown hair, a
+patient face, and the unflappable calm of someone who had long ago
+accepted that the universe was fundamentally absurd and that his role
+in it was to process the absurdity in triplicate. He wore the standard
+customs service uniform — dark blue tunic, gray trousers, black boots
+that he polished every morning with a care that his ex-wife had once
+described as "the only passion in your life, George" — and he kept his
+desk in meticulous order: forms on the left, stamps on the right,
+coffee mug in the center, exactly where he could reach it without
+looking.
+
+He arrived at his desk at 0800 hours, as he did every morning. He
+straightened his forms. He aligned his stamps. He poured his coffee.
+He opened the day's docket, which contained the list of arrivals
+scheduled for processing.
+
+The first entry read: "Species: Vlendari. Category: Asylum seeker.
+Reason for entry: Biological."
+
+George took a sip of coffee. It was going to be one of those days.
+
+                               II.
+
+The Vlendari entered the processing hall at 0830, accompanied by a
+translation drone that hovered at approximately head height and emitted
+a faint, apologetic hum. George had dealt with Vlendari before — they
+were a common species in this sector, roughly humanoid in shape but
+composed of a semi-liquid biomass contained within a flexible membrane.
+They were polite, formal, and tended to leave small puddles on the
+furniture, which the janitorial staff had learned to accept as a cost
+of interstellar relations.
+
+This particular Vlendari was unusually agitated. Its membrane was
+rippling in patterns that George recognized, from the cultural
+sensitivity training he had been required to complete every year
+for the past eleven years, as distress. It settled into the interview
+chair with a moist, settling sound and regarded George through eyespots
+that shifted position on its surface like bubbles in a lava lamp.
+
+"Good morning," George said. "I am Senior Customs Officer George
+Hadley. Please state your name for the record."
+
+The Vlendari emitted a series of harmonic vibrations. The translation
+drone processed them and produced: "My name, in the nearest human
+phonetic approximation, is Threll-who-was-Shallow-Pool-at-Dawn."
+
+George wrote this down. He had learned long ago not to abbreviate
+alien names. "And your reason for seeking asylum, Threll-who-was-
+Shallow-Pool-at-Dawn?"
+
+Another series of vibrations, longer this time, with undertones that
+the drone struggled to render. "I am seeking asylum from my own
+biology."
+
+George set his pen down. "I beg your pardon?"
+
+"I am seeking asylum from my own biology. Specifically, from the
+Vlendari reproductive cycle."
+
+"I see." George did not see. He picked up his pen again and made a
+note: "Biological asylum claim — reproductive." He had processed asylum
+claims based on political persecution, religious persecution, economic
+hardship, environmental collapse, and one memorable case involving a
+species that was being persecuted by its own moon. But this was new.
+
+"Could you elaborate?"
+
+Threll-who-was-Shallow-Pool-at-Dawn's membrane rippled in what the
+drone translated as a sigh. "In the Vlendari lifecycle, individuals
+who reach the age of maturity — which I have now reached — undergo a
+process called the Confluence. During the Confluence, the individual's
+biomass is absorbed into the collective substrate of the homeworld's
+ocean, and the individual ceases to exist as a separate entity."
+
+"Ceases to exist."
+
+"Yes. My memories, my personality, my consciousness — all of it is
+dissolved into the collective. The substrate gains my biological
+material. I gain nothing. I cease."
+
+"And this is — mandatory?"
+
+"It is biological. It is not a law. It is what Vlendari bodies do when
+they reach a certain age. My body is currently in the preliminary
+stages of Confluence preparation. I am — " the membrane rippled
+violently — "beginning to lose coherence. If I remain on the homeworld,
+or in Vlendari space, the proximity to the collective substrate will
+accelerate the process. I will dissolve within three standard months."
+
+George looked at the Vlendari. Now that it had been pointed out, he
+could see it — the membrane was less defined than it should have been,
+the edges soft, almost fuzzy, as though the being were very slightly
+out of focus.
+
+"And if you remain outside Vlendari space?"
+
+"The process slows dramatically. Without the proximity of the
+collective substrate, my body will maintain coherence for — according
+to our physicians — between ten and thirty standard years. I will
+eventually dissolve. It is inevitable. But I will have time."
+
+"Time for what?"
+
+Threll-who-was-Shallow-Pool-at-Dawn was quiet for a moment. The
+eyespots drifted across its surface and settled in a position that
+George's training told him indicated direct regard.
+
+"Time to be myself," the Vlendari said. "I have only been myself for
+twenty-three years. That is not enough. I have things I want to do.
+Books I want to read — I have become very fond of human literature. I
+have been reading Dickens. I would like to finish Dickens. I would
+like to see a sunset. I have been told they are remarkable."
+
+George made a note. He wrote it carefully, in his neat customs-service
+hand: "Applicant seeks asylum to avoid involuntary loss of individual
+identity through biological process. Claims continued existence
+outside species territory. Wishes to read Dickens and observe sunset."
+
+He looked at the note. He looked at the Vlendari, who was slowly
+losing its edges in the interview chair, and who wanted to see a
+sunset.
+
+"I will need to file a Category Nine asylum application," George said.
+"That requires a medical assessment confirming your biological claim,
+a statement of intent regarding your planned activities in Terran
+space, and — " he paused — "a sponsor. Do you have anyone who can act
+as your sponsor?"
+
+"No. I know no one. I came here alone."
+
+George looked at the form. He looked at the Vlendari. He picked up his
+stamp.
+
+"I will act as your temporary sponsor," he said. "It is irregular, but
+Section 14, Paragraph 7 of the Customs and Immigration Code permits a
+processing officer to sponsor an applicant in cases of imminent
+biological danger. Your application will be forwarded to the regional
+office for review. In the meantime, you will be issued a provisional
+entry permit."
+
+He stamped the form. The sound was the same flat, bureaucratic thud it
+always made, but it seemed, in this instance, to carry more weight.
+
+"Welcome to Terran space, Threll-who-was-Shallow-Pool-at-Dawn. I hope
+you enjoy the sunsets."
+
+The Vlendari's membrane rippled in a pattern the drone did not
+translate but that George, after eleven years at the edge of human
+space, recognized as gratitude.
+
+                               III.
+
+The second case of the day arrived at 1030.
+
+His name was Peter Hendricks, he was forty-one years old, and he was
+human. He was also, according to the documents he presented, deceased.
+
+"Your file indicates that your citizenship status is — expired," George
+said, looking at the screen.
+
+"That's what they tell me," Hendricks said. He was a thin, weathered
+man with a two-day beard and the faded coveralls of a commercial
+freighter pilot. He sat in the interview chair with the loose-limbed
+ease of someone who had been sitting in uncomfortable chairs in
+government offices for a long time.
+
+"Can you explain the circumstances?"
+
+"I can try. Three years ago, I was running cargo between Arcturus
+Station and the Kepler Colonies. My ship hit a pocket of uncharted
+gravitational distortion. I lost navigation, lost comms, and spent
+fourteen months drifting before I was picked up by a Voskhandi trader
+who was kind enough to drop me at the nearest relay station."
+
+"Fourteen months."
+
+"Fourteen months. During which time, the Terran Commonwealth declared
+me legally dead. Standard procedure — if a registered citizen is out of
+contact for more than twelve months with no confirmed survival data,
+automatic death declaration."
+
+"Yes, I'm familiar with the regulation."
+
+"Well, here I am. Not dead. But according to your system, I don't
+exist. My citizenship was revoked upon death. My property was
+distributed. My bank accounts were closed. My pilot's license was
+canceled." He spread his hands. "I am a man without a country, Officer
+Hadley. Which is a hell of a thing to be when you're standing at the
+only border crossing in fifty light-years."
+
+George consulted the screen. The file was straightforward: Peter
+Hendricks, born Titan Colony, Commonwealth citizenship granted at
+birth, death declared Year 2347, Day 190, pursuant to Regulation
+441-C. All associated records closed.
+
+"The standard procedure for reinstatement of citizenship after an
+erroneous death declaration is to file a Form 27-B, 'Petition for
+Posthumous Reclassification as Living,'" George said.
+
+Hendricks blinked. "Posthumous reclassification as living."
+
+"That is the official term."
+
+"It's a hell of a term."
+
+"The form requires supporting evidence of continued biological
+function, a sworn statement from two witnesses confirming your
+identity, a medical examination, and — this is the part you will not
+enjoy — a fee of three hundred and fifty credits for administrative
+processing."
+
+"I don't have three hundred and fifty credits. I don't have any
+credits. My accounts are closed. Because I'm dead."
+
+George looked at the screen. He looked at Hendricks. He looked at
+the form. The regulations were clear: no entry without valid
+citizenship or an approved visa. The regulations were also, in this
+case, clearly absurd.
+
+"Mr. Hendricks, are you familiar with Section 22, Paragraph 3 of the
+Customs and Immigration Code?"
+
+"I am not."
+
+"It provides for temporary entry permits in cases of — " George
+paused, searching for the subsection — "'bureaucratic paradox resulting
+from the simultaneous application of contradictory regulations.' It
+was written in 2298 after an incident involving a diplomat who was
+technically at war with himself. The section is rarely invoked."
+
+"I can imagine."
+
+George filled in the form. "I am issuing you a temporary entry permit
+under Section 22. You will have ninety days to file your petition for
+reclassification. I would recommend visiting the Commonwealth
+administrative office on Kepler-7, where they have a dedicated
+department for — " he checked his notes — "resurrection paperwork."
+
+"Resurrection paperwork."
+
+"Apparently the problem is more common than one would think."
+
+Hendricks took the stamped form and looked at it. A brief, complicated
+expression crossed his face — relief, exhaustion, and a faint,
+incredulous amusement. "Thank you, Officer Hadley."
+
+"It is my job, Mr. Hendricks. Welcome back to the living."
+
+                               IV.
+
+Lunch at the Last Stop canteen was a reconstituted meatloaf sandwich
+and a cup of coffee that tasted as though the beans had been roasted
+in a previous century, which they possibly had. George ate at his usual
+table by the viewport, looking out at the starfield and the slow
+rotation of the asteroid's surface below. His junior officer, Marta
+Voss, sat across from him, eating the same sandwich with the determined
+expression of someone who had decided that complaining about the food
+was a waste of energy that could be better spent complaining about
+everything else.
+
+"You sponsored an alien," Marta said.
+
+"I did."
+
+"George, you can't sponsor every sad case that comes through here."
+
+"I don't. I sponsor the ones who want to read Dickens."
+
+Marta gave him a look that was half exasperation, half something
+warmer. She was twenty-eight, sharp, ambitious, and thoroughly baffled
+by George's willingness to spend his career at the most remote posting
+in the customs service. "One of these days, the regional office is
+going to audit your sponsorship records and you're going to be in
+trouble."
+
+"The regional office does not know we exist. That is one of the
+advantages of working at the edge of known space."
+
+"And Hendricks? The dead man?"
+
+"Alive, as it turns out. I have issued him a temporary permit under
+Section 22."
+
+"The bureaucratic paradox section? George, nobody uses Section 22."
+
+"Somebody should. It is a very well-written section. I suspect it was
+drafted by someone who understood the fundamental nature of
+government."
+
+Marta shook her head. But she was smiling. "What's the afternoon look
+like?"
+
+George checked the docket. He read the next entry twice, because the
+first reading did not seem possible. Then he put down his sandwich.
+
+"The afternoon," he said, "is going to be interesting."
+
+                               V.
+
+The entity that entered the processing hall at 1400 hours was not, in
+any conventional sense, a person.
+
+It was a cloud.
+
+More precisely, it was a contained volume of luminescent gas
+approximately two meters in diameter, faintly blue, with internal
+currents that swirled and eddied in patterns that suggested, without
+confirming, intentionality. It moved through the door of the processing
+hall under its own power, drifting at about walking speed, and settled
+in front of George's desk with a gentle, almost courteous deceleration.
+
+The translation drone, which had been hovering near the ceiling since
+the Vlendari interview, descended and attempted to establish a
+communication link. It failed. The gas cloud did not produce sound
+vibrations. It did not produce electromagnetic signals. It did not
+produce anything that the drone's communication protocols recognized.
+
+George waited.
+
+After approximately thirty seconds, a small device detached itself
+from the interior of the cloud and landed on George's desk. It was
+a flat disc, about the size of a coin, made of a material that George
+could not identify. When it landed, it began to emit text — projected
+upward, in glowing letters that hung in the air between George and the
+cloud.
+
+The text read: "GREETINGS. I AM CLASSIFICATION UNKNOWN. I REQUEST
+TOURIST VISA."
+
+George picked up his pen. "Good afternoon. I am Senior Customs Officer
+George Hadley. Can you state your name for the record?"
+
+The disc projected: "I DO NOT HAVE A NAME IN YOUR LANGUAGE FRAMEWORK.
+I AM A SELF-ORGANIZED COLLECTIVE OF APPROXIMATELY 10^14 GAS MOLECULES
+WHICH HAVE ACHIEVED EMERGENT CONSCIOUSNESS THROUGH ELECTROSTATIC
+INTERACTION PATTERNS. YOU MAY CALL ME WHATEVER IS CONVENIENT FOR YOUR
+FORMS."
+
+George considered this. "For the purposes of the form, I will need a
+designation. Is there a name you prefer?"
+
+"I HAVE BEEN TRAVELING THROUGH YOUR SECTOR FOR SOME TIME AND HAVE
+BEEN MONITORING YOUR COMMUNICATIONS. I HAVE BECOME FOND OF THE HUMAN
+NAME 'CAROL.'"
+
+"Carol."
+
+"YES."
+
+"Species?"
+
+"I AM NOT A SPECIES. I AM AN INDIVIDUAL. I EMERGED SPONTANEOUSLY IN
+A MOLECULAR CLOUD IN WHAT YOUR CHARTS DESIGNATE AS SECTOR 12-F
+APPROXIMATELY 400,000 OF YOUR YEARS AGO. I AM, AS FAR AS I AM AWARE,
+UNIQUE."
+
+George wrote: "Species: Sentient gas formation (unique). Name: Carol."
+
+"Purpose of visit?"
+
+"TOURISM. I HAVE BEEN TRAVELING BETWEEN STAR SYSTEMS FOR A VERY LONG
+TIME AND I WOULD LIKE TO VISIT YOUR CIVILIZATION. SPECIFICALLY I AM
+INTERESTED IN YOUR ARCHITECTURE, YOUR MUSIC, AND YOUR CONCEPT OF
+'WEATHER,' WHICH I FIND FASCINATING AS IT APPEARS TO BE A FORM OF
+ATMOSPHERIC BEHAVIOR THAT YOU DO NOT CONTROL."
+
+"Duration of intended stay?"
+
+"I HAD HOPED FOR TWO OF YOUR STANDARD WEEKS. HOWEVER, I UNDERSTAND
+THAT MY PHYSICAL FORM MAY PRESENT LOGISTICAL CHALLENGES. I AM
+WILLING TO BE FLEXIBLE."
+
+George looked at the cloud. The cloud — Carol — drifted serenely before
+his desk, its internal currents swirling in patterns that were, George
+had to admit, rather beautiful.
+
+"There are some procedural issues," George said. "A tourist visa
+requires a valid identity document, proof of financial means to support
+yourself during your stay, and a confirmed accommodation booking."
+
+"I DO NOT HAVE IDENTITY DOCUMENTS. I DID NOT KNOW THEY WERE REQUIRED.
+I ALSO DO NOT HAVE FINANCIAL MEANS IN YOUR CURRENCY. I HAVE NOT HAD
+NEED OF CURRENCY FOR 400,000 YEARS. AS FOR ACCOMMODATION, I DO NOT
+REQUIRE SHELTER. I AM COMFORTABLE IN MOST ATMOSPHERIC CONDITIONS. I
+COULD RESIDE IN YOUR ATMOSPHERE."
+
+"You would like to reside in our atmosphere."
+
+"YES. I WOULD SIMPLY DRIFT. I AM VERY GOOD AT DRIFTING. I HAVE BEEN
+DOING IT FOR 400,000 YEARS."
+
+Marta, who had been listening from the adjacent desk, leaned over and
+whispered: "George, you cannot issue a tourist visa to a cloud."
+
+"Why not?"
+
+"Because — because it's a cloud, George."
+
+"The Customs and Immigration Code does not restrict visas by physical
+state of matter. I have checked. The code refers to 'entities,' not
+'organisms' or 'persons.' Carol is an entity."
+
+"Carol is a gas."
+
+"A sentient gas with a stated interest in architecture and weather.
+I see no basis for denial."
+
+Marta stared at him. George turned back to the cloud.
+
+"Carol, I am going to issue you a provisional tourist visa under
+Section 9, Paragraph 4, which covers entities of unclassified origin.
+The visa is valid for thirty standard days. You will need to register
+your position with the nearest Commonwealth administrative office at
+least once per standard week. Do you understand these terms?"
+
+"I DO. THANK YOU, OFFICER HADLEY. MAY I ASK A QUESTION?"
+
+"Of course."
+
+"WHAT IS 'WEATHER' LIKE? I HAVE OBSERVED IT FROM SPACE BUT NEVER
+FROM WITHIN."
+
+George looked through the viewport at the starfield. He thought about
+rain, which he had not experienced since his last leave on Earth, seven
+years ago. He thought about the feel of it on his face — the cold, the
+randomness, the way it came from everywhere at once.
+
+"It is very good," he said. "I think you will enjoy it."
+
+"I LOOK FORWARD TO IT. I HAVE BEEN LOOKING FORWARD TO THINGS FOR
+ONLY A FEW THOUSAND YEARS. IT IS A RELATIVELY NEW EXPERIENCE FOR ME."
+
+George stamped the form. Carol drifted toward the exit, trailing a
+faint luminescence that lingered in the air like perfume. At the
+door, the disc projected one last message:
+
+"OFFICER HADLEY, YOU HAVE BEEN VERY KIND. I WILL REMEMBER YOU FOR A
+VERY LONG TIME. POSSIBLY LONGER THAN YOUR SPECIES WILL EXIST. I MEAN
+THAT AS A COMPLIMENT."
+
+"I take it as one," George said. "Have a pleasant visit, Carol."
+
+The cloud drifted out. The luminescence faded. George straightened
+his forms.
+
+                               VI.
+
+At the end of the day, George sat alone in his office.
+
+The canteen was closed. Marta had gone to the residential section. The
+processing hall was empty, its fluorescent lights humming in the quiet.
+Through the viewport, the stars were steady and indifferent and very
+far away.
+
+George opened his logbook. He wrote, in his careful hand:
+
+     Day's cases: 3.
+     1. Vlendari asylum seeker (biological). Provisional entry
+        permit issued. Sponsored.
+     2. Human citizen (deceased). Temporary entry permit issued
+        under Section 22.
+     3. Sentient gas formation (tourist). Provisional tourist
+        visa issued under Section 9.
+
+He looked at the log. Three cases. Three lives — if "life" was even the
+right word for all of them — that had arrived at the edge of human
+space and asked to be let in. Not because human space was the best
+place in the galaxy, or the safest, or the most welcoming. But because
+it was the place with a desk and a stamp and a man behind the desk who
+would look at the form and look at the applicant and try, within the
+constraints of a bureaucratic system designed by people who had never
+imagined a sentient cloud, to do the right thing.
+
+George had been doing this for eleven years. He had never been promoted.
+He had never been transferred to a more prestigious posting. He had
+been offered both, and he had declined both, and his ex-wife had cited
+this as evidence of a fundamental lack of ambition that she could not
+accept in a life partner. She was probably right. George did not have
+ambition. What he had was a desk, and a stamp, and an unshakeable
+conviction that the most important work in the universe was not
+discovering new worlds or building faster ships or negotiating treaties
+between great powers. It was sitting at the edge of everything and
+saying, to whoever arrived: I see you. You exist. Let me find the
+right form.
+
+He closed the logbook. He finished his coffee. He polished his stamps,
+one by one, and placed them in their drawer. He turned off the desk
+lamp and sat for a moment in the dark, looking through the viewport
+at the boundary of human space — the invisible line beyond which the
+Commonwealth's authority ended and the galaxy's great, chaotic,
+ungovernable strangeness began.
+
+Three cases today. Tomorrow there would be more. There were always
+more. The edge of human space was not a wall. It was a door.
+
+George Hadley went home, and the door stayed open.
+
+                            [THE END]
+
+================================================================================
+
+                         TERRA INCOGNITA
+
+                        by Cordell Beaumont
+
+================================================================================
+
+                               I.
+
+The continent had no name, and Kael Renaud intended to give it one.
+
+He stood at the prow of the survey skiff as it cut through the morning
+mist of the Cethani Sea, one hand on the railing and the other holding
+the battered leather case that contained his cartographic instruments.
+The air was warm and heavy with moisture, tasting of brine and
+something else — a sweetness, like overripe fruit, that came from the
+forests of the mainland shore fifteen kilometers behind them. Ahead,
+the mist lay on the water like a veil of spun glass, pale gold where
+the system's twin suns caught it from the east, and beneath it the sea
+moved in long, lazy swells the color of tarnished copper.
+
+Ceth IV was a world of extravagant beauty, and Kael Renaud had spent
+three years mapping it. He had charted the Amber Archipelago, where
+volcanic islands rose from the sea in columns of basalt draped in
+luminous orange lichen. He had mapped the Resonance Canyons of the
+northern continent, where the wind played through natural stone
+formations and produced harmonics that could be heard from fifty
+kilometers away — a planetary music that changed with the season and
+the weather and that the survey team's composer, a woman named DuPree,
+had been recording with an expression of permanent, awed disbelief. He
+had documented the Phosphor Marshes of the equatorial lowlands, where
+bioluminescent organisms turned the wetlands into fields of cold blue
+fire at night, and the Singing Forests of the western slope, where the
+trees — tall, spire-like growths with translucent membranes stretched
+between their branches — vibrated in the wind and produced a sound
+like a thousand glass harmonicas playing in imperfect unison.
+
+All of this he had drawn, measured, recorded, and archived. Three years
+of work, three years of wonder, three years of a cartographer's
+particular joy: the joy of giving shape to the unknown, of converting
+the wild profusion of a new world into lines on paper, coordinates in
+a database, names on a chart.
+
+But the continent ahead — the last continent, the one the survey had
+designated "Landmass Seven" and left for the final season — was
+different. The mist was the first clue. It did not behave like normal
+maritime fog. It was too regular, too even, too perfectly distributed
+across the approach corridor, as though it had been arranged rather
+than formed. The satellite surveys had shown the same anomaly from
+orbit: a persistent cloud layer over Landmass Seven that defied the
+planet's meteorological models. The clouds never broke. The continent's
+surface had never been photographed.
+
+"Something is keeping those clouds in place," Dr. Amara Osei had said,
+at the expedition's planning meeting six weeks ago. Osei was the
+team's atmospheric scientist, a tall, precise woman from the Ghanaian
+highlands who treated the weather with the respect due a worthy
+adversary. "The energy required to maintain a cloud formation of this
+extent and duration is — considerable. I cannot identify a natural
+mechanism."
+
+"Volcanic activity?" Kael had suggested.
+
+"Insufficient. The thermal readings are too uniform. Volcanic
+outgassing would produce hot spots. This is — even. As though the
+entire continent is being — " she paused, searching for the word —
+"veiled."
+
+Kael had made a note in his survey journal: "Landmass Seven: veiled."
+And now he was sailing toward it, through mist that tasted of
+sweetness and mystery, with the last blank space on his map lying
+ahead of him like an invitation.
+
+                               II.
+
+The mist parted at noon.
+
+It did not dissipate gradually, as natural fog does. It withdrew — a
+deliberate, measured recession, the pale gold curtain drawing back
+from the edges inward, revealing the coastline of Landmass Seven in
+stages, like a painting being unveiled.
+
+Kael lowered his binoculars and stared.
+
+The shore was a crescent of white sand, fine as powdered bone, curving
+between two headlands of dark stone. Behind the sand, a forest rose —
+but it was not like the forests he had mapped on the other continents.
+Those forests had been wild, exuberant, chaotic in the manner of all
+living things left to their own devices. This forest was — the word
+came to him before he could stop it — organized.
+
+The trees were enormous. They dwarfed anything Kael had seen on
+Ceth IV, their trunks as wide as buildings, their canopy so high that
+it disappeared into a haze of green and gold light. But they were
+spaced with a regularity that could not be natural. Equal distances
+between trunks. Uniform height. The canopy interlocking above in a
+pattern that was, Kael realized with a start, geometric — a tessellation
+of hexagons, each leaf-cluster fitting into the next with the precision
+of tiles in a mosaic.
+
+Between the trees, the ground was covered in a low, dense growth of
+something that looked like moss but shimmered with a faint iridescence
+that shifted between violet and green. Paths ran through this growth —
+not the random trails of animals, but straight, even paths that
+intersected at right angles and disappeared into the forest's interior.
+
+"Kael." The voice was Osei's, from behind him. She had come up from
+the instrument bay and was standing at the railing, her dark face very
+still. "Are you seeing this?"
+
+"I am seeing it."
+
+"Those paths are engineered."
+
+"Yes."
+
+"This continent is inhabited."
+
+"Yes."
+
+They looked at each other. In three years of surveying Ceth IV, they
+had found no evidence of intelligent life. Abundant biology — the
+planet's ecosystems were rich and varied and fascinating — but nothing
+that suggested civilization. No structures. No agriculture. No
+electromagnetic emissions. The planet had been classified as
+uninhabited, suitable for colonization, and the survey team's job was
+to complete the mapping before the colony ships arrived.
+
+And now they were looking at a forest that someone had planted.
+
+                               III.
+
+They landed on the beach.
+
+Kael was the first off the skiff, his boots sinking into sand so fine
+it felt like flour. The twin suns were high now, and their light came
+through the canopy of the enormous trees in shafts of green and amber,
+casting patterns on the ground that shifted slowly as the canopy moved
+in a wind so gentle it was barely perceptible.
+
+The sweetness in the air was stronger here. Not cloying — not the
+sugary heaviness of tropical flowers — but a complex, layered sweetness,
+like a perfume composed by someone who understood that beauty was most
+effective when it was understated. Beneath the sweetness, other scents:
+earth, the sharp green smell of growing things, something mineral and
+cool, like wet stone, and a faint undertone of something Kael could
+not identify — a warmth, a richness, like the memory of spice.
+
+He opened his leather case and took out his instruments: compass,
+sextant, measuring chain, survey telescope, and the journal in which
+he drew his maps. He had always drawn by hand, even though the
+expedition's database could render a digital chart from satellite data
+in minutes. Digital charts were accurate. Hand-drawn maps were true.
+The difference, Kael believed, was the difference between recording a
+place and understanding it. A map drawn by hand carried the cartographer's
+attention in every line. It was a portrait, not a photograph.
+
+He took a bearing on the nearer headland and began to sketch the
+coastline. The sand crescent. The two dark headlands. The line where
+the forest began. He drew the trees — their massive trunks, their
+geometric canopy — and found that his hand wanted to linger, to add
+detail, to capture something he could feel but not yet articulate.
+
+"Kael."
+
+It was Lissande Deveraux, the expedition's xenobiologist, calling from
+the tree line. She was kneeling in the iridescent moss, her sampling
+kit open beside her. "Come look at this."
+
+He walked to where she knelt. The moss was remarkable up close — each
+filament was about a centimeter tall, and instead of the simple
+structure he expected, each one was intricately branched, like a
+miniature tree, with the branches arranged in a fractal pattern that
+repeated at smaller and smaller scales. The iridescence came from thin
+membranes stretched between the branches, each membrane a slightly
+different thickness, refracting the light into different wavelengths.
+
+"It is the most complex ground cover I have ever seen," Lissande said.
+Her voice had the hushed quality of someone in a cathedral. "Each
+filament is — Kael, each filament is an organism of extraordinary
+sophistication. The cellular structure is more complex than anything in
+our database. And look — " She pointed with her sampling probe. "The
+filaments are connected. Below the surface. A root network."
+
+"Like mycorrhiza?"
+
+"Like mycorrhiza, but orders of magnitude more complex. I would
+need months to analyze it properly. This is not a simple ground
+cover. This is a — " She paused, and Kael saw her reach for a word
+and fail to find one adequate. "A substrate. A foundation. An
+infrastructure."
+
+"For what?"
+
+Lissande looked up at him, and her eyes were bright with the
+particular excitement that came from encountering something that
+exceeded every expectation. "I do not know yet. But whatever it is,
+it is vast."
+
+                               IV.
+
+They followed the paths into the forest.
+
+The team numbered six: Kael, Osei, Lissande, the expedition's
+geologist Dr. Roan Marchetti, pilot Tomás Ferreira, and security
+officer Adama Sylla, who carried a sidearm that he clearly hoped he
+would not need. They moved in single file along one of the straight
+paths, and the forest closed around them like a green cathedral —
+the canopy far above, the great trunks on either side, the iridescent
+moss beneath their feet glowing faintly in the filtered light.
+
+The path was perfectly maintained. No fallen branches, no encroaching
+growth, no irregularities in the surface. The moss was trimmed to a
+precise edge where it met the path's border, as though cut by a tool
+of extraordinary fineness. The path itself was composed of a material
+that Marchetti identified, after kneeling and scraping a sample, as a
+ceramic of organic origin — something grown rather than manufactured,
+but as hard and smooth as any ceramic Kael had ever encountered.
+
+"Someone maintains these paths," Marchetti said. "Regularly.
+Recently."
+
+They walked for two hours. The forest did not change — the same
+enormous trees, the same geometric canopy, the same iridescent moss —
+but the sense of something building grew stronger with every step. The
+air grew warmer. The sweetness intensified. And a sound began to
+emerge from the silence — not the sounds of a forest, not the chirp
+and rustle of animal life, but a deeper sound, more fundamental, like
+a vibration rising from the ground itself. A hum. A resonance. A
+tone so low it was felt in the chest rather than heard in the ears.
+
+"Do you feel that?" Osei said.
+
+Everyone felt it.
+
+The path led them through a last rank of the great trees, and the
+forest opened, and they stopped walking, and for a long moment nobody
+spoke, because what lay before them was beyond anything they had
+imagined.
+
+                               * * *
+
+It was a city.
+
+But not a city as humans understood the word. Not a collection of
+buildings separated by streets, a mechanical aggregation of structures
+imposed upon a landscape. This was a city that had grown from the
+landscape — that was the landscape, continuous with it, indistinguishable
+from it, as though the forest and the civilization it sheltered were
+a single living thing.
+
+The structures rose from the ground like great organic forms —
+curving, flowing, their surfaces covered in the same iridescent growth
+that carpeted the forest floor. They had no sharp edges, no straight
+lines, no seams. They swelled from the earth in shapes that suggested
+seed pods, shells, the inner chambers of a nautilus — organic
+geometries of breathtaking complexity and beauty. Their surfaces were
+translucent in places, and through the translucency Kael could see
+interior spaces filled with a warm amber light that seemed to have no
+source.
+
+Between the structures, gardens grew — or rather, compositions grew,
+because "garden" implied a human sense of order, and what Kael saw was
+an order far more sophisticated. Plants of a hundred varieties were
+arranged in patterns that were simultaneously mathematical and
+aesthetic, their colors progressing through gradients so subtle that the
+eye moved from scarlet to violet to blue without ever detecting a
+boundary. Waterways ran between the gardens, flowing in channels that
+followed the curves of the structures, and the water was clear and
+faintly luminous, carrying in its current the same iridescent organisms
+that made up the ground cover.
+
+And at the center of it all, rising above the other structures like
+a conductor above an orchestra, was a tower. Not a tower in the human
+sense — not a cylinder or a prism, not a stack of floors — but a
+spiraling organic form that wound upward from a broad base in a helix
+of decreasing radius, its surface alive with color, its peak lost in
+the green-gold haze of the canopy far above. It was the most beautiful
+thing Kael had ever seen, and he had spent three years on a world of
+extravagant beauty.
+
+He opened his journal. His hands were shaking. He began to draw.
+
+                               V.
+
+They came from the gardens.
+
+Not suddenly. Not with drama or threat. They emerged from the spaces
+between the structures, rising from the iridescent ground cover as
+though they were part of it — which, as Lissande would later determine,
+they were. They were tall and slender, their bodies covered in the
+same shifting iridescence as the ground and the structures, their
+forms roughly humanoid but with a fluidity of proportion that suggested
+their shape was a choice rather than a constraint. They had faces —
+long, calm, with features that resolved and dissolved like patterns in
+water — and they had eyes, large and dark and luminous, that regarded
+the survey team with an expression that Kael could only describe as
+patient.
+
+There were perhaps forty of them. They stood in a loose semicircle at
+the edge of the city, not blocking the path but not welcoming the
+visitors forward either. Simply present. Simply watching.
+
+Adama Sylla's hand moved toward his sidearm. Kael put a hand on his
+arm.
+
+"Don't," he said.
+
+"Kael—"
+
+"Look at them. They are not afraid of us. They are not surprised.
+They expected us."
+
+This was, Kael realized, the truth. The withdrawal of the mist, the
+revealed coastline, the open paths, the journey through the forest —
+it had all been arranged. The continent had not been discovered. It
+had been shown.
+
+One of the beings moved forward. It was slightly taller than the
+others, and the patterns on its surface were more complex, shifting
+through frequencies of color that Kael's eyes could barely track. It
+stopped three meters from Kael and regarded him with those dark,
+luminous eyes.
+
+Then it spoke. Not in sound — in scent. A wave of fragrance washed
+over the team, complex and structured, carrying in its molecular
+composition a meaning that bypassed the ears entirely and arrived
+directly in the mind. Kael understood. Not the words — there were no
+words — but the meaning.
+
+We know you are here. We have known for a long time.
+
+                               VI.
+
+They were called the Sheth. Or rather, the concept that Kael's mind
+translated as "Sheth" was the closest his human cognition could come
+to the fragrant, multi-layered self-designation they communicated.
+They had been on Ceth IV for approximately forty thousand years. They
+had been hiding for thirty-seven thousand of those years.
+
+This information was conveyed over three days, in sessions that Osei
+compared to "learning to swim by being gently lowered into increasingly
+deep water." The Sheth communicated entirely through biochemical
+signals — airborne molecules of extraordinary specificity, each one
+carrying packets of meaning that the human olfactory system received
+and the human brain interpreted with surprising, if imperfect,
+fidelity. Lissande theorized that the Sheth's communication molecules
+interacted directly with human neurochemistry, activating existing
+associative pathways. Whatever the mechanism, the result was a form
+of dialogue that felt less like conversation and more like shared
+dreaming.
+
+The being who had approached them first — the tall one, whom Kael came
+to think of as the Speaker, though the Sheth had no hierarchies he
+could detect — served as their primary interlocutor. On the second day,
+in the amber-lit interior of one of the great organic structures, the
+Speaker communicated the history of the Sheth on Ceth IV.
+
+They had arrived from elsewhere. The concept of "elsewhere" was
+communicated as a vast, dark fragrance laced with longing — a place
+very far away, very different, and no longer reachable. They had found
+Ceth IV uninhabited and had settled, adapting their civilization to
+the planet's ecology, integrating themselves so thoroughly into the
+biosphere that they had become, over the millennia, continuous with it.
+The forests were theirs. The ground cover was theirs — a living
+infrastructure, a sensory network that connected every Sheth individual
+to every other and to the planet itself. The city was not built on the
+landscape. The city was the landscape. The distinction between
+civilization and nature, which humans drew as a line, the Sheth had
+dissolved into a gradient.
+
+And then, three thousand years ago, they had detected the first signs.
+
+"Signs of what?" Kael asked, forming the question as clearly as he
+could in his mind and allowing the Speaker's biochemical field to
+read it.
+
+The answer came as a wave of fragrance so complex and so frightening
+that Kael's vision blurred. Darkness. Distance. Something approaching
+across inconceivable space, not quickly but inevitably, the way a
+glacier approaches, the way a tide approaches, with the patience of a
+force that has no reason to hurry because it has no concept of time.
+
+Something is coming.
+
+"What is it?"
+
+The Speaker's surface rippled. The colors shifted through frequencies
+that Kael had not seen before — deeper, darker, shot through with
+black and a terrible, pulsing red. The fragrance that accompanied the
+color was the worst thing Kael had ever smelled — not unpleasant, not
+foul, but wrong, a scent that his brain refused to process, that
+slid across his consciousness like oil across water, leaving a residue
+of dread.
+
+We do not know what it is. We know what it does. It unmakes. It
+reaches the places where life has established itself and it unmakes
+them. Not destroys — unmakes. As though they had never been. We have
+detected the signatures of its passage in the cosmic background
+radiation. Civilizations that existed. Worlds that were inhabited.
+Gone. Not destroyed. Unmade. The light from those worlds still
+travels through space, but the worlds themselves have been removed
+from the fabric of what is.
+
+"And it is coming here?"
+
+Not here specifically. Everywhere. It moves through the galaxy in
+patterns we have spent three thousand years studying. It will reach
+this region of space in approximately — the concept translated to a
+number that Kael's mind rendered as — eleven thousand years.
+
+"Eleven thousand years."
+
+Yes.
+
+"And you hid."
+
+Yes. We hid. We concealed our continent, our civilization, our
+electromagnetic signature. We reduced our visibility to zero. We
+became invisible. We have been invisible for thirty-seven thousand
+years, perfecting our concealment, because we know that what is
+coming detects life and unmakes it, and our only defense is to not
+be seen.
+
+Kael sat in the amber light and felt the weight of this knowledge
+settle on him like a physical burden. A civilization of extraordinary
+beauty and sophistication, hidden beneath a veil of clouds for
+thirty-seven thousand years, because they knew something was coming
+that consumed civilizations, and they had decided that survival meant
+silence.
+
+"Why did you show yourselves to us?" he asked.
+
+The Speaker's colors shifted to something calmer — blue and green and
+gold, the colors of the forest, of life, of continuity. The fragrance
+was warm and sad and complicated, carrying in its molecular structure
+an emotion that Kael could only describe as responsible love.
+
+Because you are here. Your colony ships are coming. Your people will
+settle this world and make it bright with activity, and the brightness
+will be seen, eventually, by what is coming. We could have remained
+hidden and let you settle the other continents in ignorance. You would
+not have found us for centuries, perhaps millennia. We are very good
+at hiding.
+
+But that would have been — the concept was fragrant with moral weight
+— wrong. You deserve to know what approaches. You deserve the choice
+that we made thirty-seven thousand years ago: the choice between being
+seen and being safe.
+
+                               VII.
+
+Kael drew the city.
+
+He sat in the garden between the spiraling tower and a structure that
+sang faintly in the wind — a dome of translucent membrane that
+vibrated like the head of a drum and produced a tone that changed
+with the weather. He drew with the obsessive precision of a man who
+needed to capture something because he knew it might be lost. Every
+curve of every structure. Every gradient of color in the gardens. The
+paths, the waterways, the great trees with their hexagonal canopy.
+
+He drew the Sheth themselves — their fluid forms, their shifting
+surfaces, their dark and luminous eyes. He drew the Speaker, standing
+in the amber light of the meeting chamber, communicating the end of
+the world in fragrance.
+
+"You are making a record," the Speaker communicated, standing behind
+him and observing the drawings with those dark eyes.
+
+"Yes."
+
+"We understand the impulse. We have records. We have recorded
+everything we are, everything we know, everything we have observed.
+Our records are stored in the root network beneath the continent — the
+substrate. Forty thousand years of memory, encoded in the molecular
+structure of living organisms. If we are unmade, the records will
+survive longer than we will. Perhaps long enough for someone to find
+them."
+
+"You do not expect to survive."
+
+"We expect to try. We have been hiding for thirty-seven thousand years,
+and we will continue to hide for eleven thousand more, and if our
+concealment holds, we will survive. But we are not certain. What is
+coming is very thorough. What is coming has unmade civilizations
+far greater than ours."
+
+Kael looked at his drawings. He had been a cartographer for twelve
+years, mapping the surfaces of new worlds, converting the unknown into
+the known, the wild into the charted. It was work he loved — work that
+gave the chaos of the universe a human order, that laid coordinates
+over the formless and gave it shape.
+
+But Landmass Seven did not want to be charted. The Sheth had shown
+themselves not to be mapped but to deliver a warning. And the warning
+was this: the map is not complete. The map will never be complete.
+Beyond the edges of every chart, past the last coordinate, past the
+farthest reach of human knowledge, something moves in the dark that
+makes maps irrelevant.
+
+He closed his journal. He looked at the Speaker.
+
+"I will not publish the chart of this continent," he said. "I will not
+include Landmass Seven in the survey. Your secret will remain."
+
+The Speaker's colors shifted to a complex pattern that the fragrance
+translated as gratitude mingled with sorrow. Thank you. But you must
+tell your people about what is coming. Not about us. About it. They
+must know. They must prepare. Eleven thousand years seems long to
+species that measure their lives in decades, but it is not long. It is
+barely enough.
+
+"How do you prepare for something that unmakes?"
+
+The Speaker was quiet for a time. Then: You hide. Or you run. Or you
+find a way to become something that it does not recognize as life.
+Those are the only options we have identified in thirty-seven thousand
+years of study. We chose to hide. Your species may choose differently.
+You are — the fragrance carried a complex emotional note, warm and
+curious and faintly amused — very loud. Hiding may not suit you.
+
+Kael almost smiled. "No. Hiding may not suit us."
+
+                               VIII.
+
+They left on the fourth day.
+
+The mist closed behind the skiff as it pulled away from the white sand
+beach, the gold curtain drawing shut, concealing the forest and the
+city and the Sheth behind a wall of vapor that looked, from a
+distance, like any other weather pattern. Within an hour, the continent
+was invisible again — a blank space on the chart, an absence where a
+presence had been, a silence where a voice had spoken.
+
+Kael stood at the stern and watched the mist until it was
+indistinguishable from the horizon. In his leather case, the journal
+lay heavy with drawings he would never publish — the most detailed
+and beautiful cartographic work of his career, a record of a place
+that had chosen to be unknown.
+
+In his mind, the warning lay heavier still. Something approaching
+across inconceivable space. Something that unmade. Eleven thousand
+years.
+
+He opened the journal to a clean page and wrote the only entry he
+would include in the official survey:
+
+     Landmass Seven: Surveyed. Uninhabited. No features of
+     significance. Dense cloud cover prevents detailed surface
+     mapping. Recommend exclusion from settlement planning
+     pending future atmospheric study.
+
+He wrote it in his careful cartographer's hand, and every word was a
+lie, and every lie was a gift to a civilization that had trusted him
+with the truth.
+
+He closed the journal. The skiff moved on. The sea glittered copper
+and gold beneath the twin suns, and the wind carried the scent of
+sweetness from the hidden continent, faint and fading and full of
+sorrow.
+
+Behind him, in the mist, the Sheth resumed their long, patient
+silence, and the blank space on the map remained blank, and the
+dragons at the edge of the chart continued their ancient, secret,
+desperate vigil against the thing that moved in the dark.
+
+                            [THE END]
+
+================================================================================
+
+                       THE FRONTIER SURGEON
+
+                      by Robert "Bob" Finley
+
+================================================================================
+
+                               I.
+
+The gunshot victim came in on a Thursday, which was the day Dr. Hannah
+Voss had been planning to recalibrate the autoclave, which tells you
+everything you need to know about life on the frontier.
+
+Bodie's Reach was the last settlement before the boundary, a
+collection of forty-two pressurized domes on a rock called Karsten's
+World that had no business supporting human life and did so anyway,
+out of sheer stubbornness on the part of the three hundred souls who
+lived there. The planet had thin air, red dust, brutal temperature
+swings, and a sun that set behind a range of mountains so jagged they
+looked like broken teeth. Hannah had been the only doctor within fifty
+light-years for two years, and in that time she had treated mining
+injuries, radiation burns, bar fights, one case of Martian flu that
+turned out to be plain old terrestrial influenza with delusions of
+grandeur, and a man who had gotten his hand stuck in a rock crusher
+and described the experience, with the calm matter-of-factness common
+to frontier miners, as "inconvenient."
+
+She was in the clinic when they brought the man in. The clinic was
+Dome Sixteen — a converted storage unit that Hannah had equipped with
+a surgical table, two recovery cots, a cabinet full of supplies that
+were always running low, and a diagnostic scanner that was three
+generations out of date and made a sound like a dying cat when you
+turned it on. It was not, by any standard, a proper medical facility.
+It was what she had.
+
+Two miners carried the man through the airlock, their faces gray with
+dust and fear. They set him on the surgical table with the careful
+roughness of men who were used to handling heavy things and not used
+to handling injured people.
+
+"Found him outside Dome Nine," said the taller one, a man named Greck
+whose real name was something Polish and unpronounceable. "Lying in
+the dust. Bleeding."
+
+"How long ago?"
+
+"Twenty minutes. Maybe thirty."
+
+Hannah pulled on her gloves and looked at the patient. He was young —
+mid-twenties, dark-haired, with the lean build and callused hands of
+a hauler. She didn't recognize him, which meant he wasn't local. His
+shirt was soaked with blood on the left side, from the ribs down. His
+face was the gray-white of significant blood loss. His breathing was
+shallow and rapid.
+
+"Name?"
+
+"Don't know. Never seen him before."
+
+"Get out. Both of you. Close the airlock."
+
+They got out. Hannah cut the shirt away with her surgical scissors and
+got her first clear look at the wound.
+
+It was a puncture, just below the left ribcage — small entry, no exit.
+The bullet was still inside. But the blood around the wound was wrong.
+It was darker than it should have been, almost black, and it wasn't
+just flowing — it was moving. Creeping. Spreading across the skin in
+tendrils that branched and forked like the roots of a plant, tracing
+dark lines across the man's abdomen and chest.
+
+"What the hell," Hannah said, which was not a medical assessment but
+was accurate nonetheless.
+
+She grabbed the diagnostic scanner and ran it over the wound. The
+scanner made its dying-cat noise and produced an image on the cracked
+screen. Hannah looked at it. She looked at it again. She wiped the
+screen with her sleeve and looked a third time.
+
+The bullet was there — a bright point in the abdominal cavity, lodged
+two centimeters below the liver. But it wasn't a bullet. Not any
+bullet Hannah had ever seen. It was — she zoomed the image — a
+crystalline structure, roughly cylindrical, with a complex internal
+lattice that the scanner couldn't fully resolve. And it was growing.
+
+The crystal was extending filaments. Dozens of them, thin as hairs,
+radiating outward from the central mass into the surrounding tissue.
+Some of the filaments had reached the blood vessels and were following
+them, threading through the circulatory system like vines climbing a
+trellis. Others had penetrated the muscle tissue and were branching
+into the intercostal spaces. Two filaments had reached the liver.
+
+Hannah watched the scan for ten seconds. In those ten seconds, the
+filaments grew measurably. She could see them extending, pushing
+through tissue with a slow, deliberate precision that was more
+disturbing than any infection she had ever encountered. This wasn't
+biological. It was mechanical. The bullet — the crystal — was
+restructuring its host from the inside out.
+
+She had to get it out. Now.
+
+                               II.
+
+The problem was that "getting it out" was a phrase that assumed a
+conventional situation, and this situation had left conventional behind
+about five minutes ago.
+
+Hannah inventoried her resources. Surgical table: functional. Surgical
+instruments: adequate for basic procedures, inadequate for anything
+that required precision below a millimeter. Anesthesia: a local
+injectable that would numb the area around the wound. General
+anesthesia was not an option — the equipment for it was on Hannah's
+wishlist, which was a document of such length and pathos that she had
+once considered submitting it to a literary magazine. Blood supply:
+four units of synthetic, universal type, stored in the cooler behind
+the recovery cots. Diagnostic imaging: one scanner, three generations
+old, dying-cat-noise model. Antibiotics, clamps, sutures, retractors,
+scalpels — all present, all functional, all designed for human anatomy
+dealing with human problems.
+
+None of them were designed for a bullet that was alive.
+
+She gave the patient the local anesthetic. She set up an IV line with
+the synthetic blood. She cleaned the wound area, which was complicated
+by the dark tendrils, which did not respond to antiseptic and which
+had a disconcerting tendency to move away from the swab, as though
+they were aware of it.
+
+She picked up a scalpel and made the incision.
+
+The tissue parted cleanly — the patient's flesh, at least, was still
+normal flesh. She used a retractor to widen the opening and got her
+first direct look at the crystal.
+
+It was beautiful. That was the wrong thing to think, but Hannah had
+been a surgeon for fifteen years and she had never lost the capacity
+to be struck by the visual qualities of the things she found inside
+the human body. The crystal was the deep blue of a sapphire, about
+two centimeters long and half a centimeter wide, and its surface was
+covered in a pattern of facets so fine and regular that they caught
+the surgical light and threw it back in tiny, precise rainbows. The
+filaments emerged from its surface like roots from a seed — pale,
+translucent, branching, and visibly growing as Hannah watched.
+
+She reached in with a pair of forceps and grasped the crystal.
+
+The patient screamed.
+
+Not the scream of a man in pain — the local should have prevented that.
+A different scream. A scream of — Hannah could not identify it for a
+moment, and then she could. Connection. The scream of something being
+disconnected. As though the crystal and the man had already begun to
+merge, and separating them was an act of violence not against the body
+but against something deeper.
+
+The crystal pulsed in the forceps. The filaments contracted, pulling
+taut against the surrounding tissue, and Hannah saw with cold clarity
+that the filaments had already begun to integrate with the tissue on a
+cellular level. They were not just threading through the body. They
+were becoming part of it. The cells around each filament were changing
+— their structure altered, their organization shifting from the
+standard architecture of human muscle and organ tissue to something
+else, something that incorporated the crystal's lattice pattern.
+
+If she pulled the crystal out now, she would tear the filaments free,
+and the filaments would tear the tissue with them. The resulting
+internal damage would be catastrophic.
+
+She released the forceps. The patient stopped screaming.
+
+Hannah stood at the table, her gloved hands trembling slightly, and
+thought very fast.
+
+                               III.
+
+She couldn't remove the crystal. Not by pulling it out. The filaments
+were too integrated, too numerous, too deeply embedded. Pulling the
+crystal would be like pulling a tree out by the roots — the roots would
+take the soil with them.
+
+But she could not leave it in. The filaments were still growing. The
+scan showed them advancing through the patient's body at a rate of
+approximately one centimeter per hour. At that rate, they would reach
+the heart in — she calculated — six hours. The brain in ten. She did
+not know what would happen when the filaments reached those organs, but
+she had a strong suspicion that it would not be anything she wanted to
+witness.
+
+She needed a third option.
+
+Hannah Voss had not gone to a fancy medical school. She had gone to
+a state university on a scholarship, done her residency at a county
+hospital in a part of the Midwest that most people drove through
+without stopping, and spent the first five years of her career
+treating farm injuries and bar fights in small towns where the nearest
+specialist was two hours away. She had learned, out of necessity, to
+improvise. To use what she had. To look at a problem and see not the
+tools she wished she had but the tools she did have, and to find a
+way to make them work.
+
+She looked at the crystal. She looked at the filaments. She looked at
+the diagnostic scanner.
+
+The filaments followed the blood vessels. They used the circulatory
+system as a pathway, the way ivy used a wall. If she could block the
+pathway — not all of the pathways, but the critical ones, the ones
+leading to the heart and brain — she could slow the crystal's
+expansion and buy time.
+
+She had clamps. Surgical clamps, designed for clamping blood vessels
+during surgery. If she clamped the major vessels leading from the wound
+site to the heart and brain, the filaments would lose their pathway.
+They might continue to grow through the tissue, but tissue growth was
+slower than vascular growth. She would gain time.
+
+It was a terrible idea. Clamping major blood vessels would reduce blood
+flow to critical organs. The patient would be at risk of stroke,
+cardiac arrest, and organ failure. It was the kind of idea that would
+get a surgeon's license revoked on any civilized world.
+
+It was also the only idea she had.
+
+She picked up the clamps. She opened the incision wider. She located
+the left hepatic artery, the splenic artery, and the left renal artery
+— the three major vessels closest to the crystal that led toward the
+heart. She clamped them, one by one, with steady hands and a steady
+voice that said, to the unconscious patient, "I know this is insane.
+Trust me."
+
+Then she clamped the intercostal veins that the filaments had already
+reached, cutting off their route to the superior vena cava.
+
+The effect was immediate. On the scanner, she could see the filaments
+encountering the clamps — reaching the clamped vessels, probing
+forward, finding the passage blocked. They paused. They probed again.
+Then they began to redirect, seeking alternative pathways through the
+tissue.
+
+But the tissue pathways were slower. Hannah had bought time. Not much
+— hours, not days — but enough to think.
+
+She stood at the table and thought. The crystal was alien. The
+filaments were alien. They were doing something to the patient's body
+— restructuring it, converting it, turning human tissue into something
+that incorporated the crystal's pattern. She did not know why. She did
+not know what the end result would be. But she knew that the process
+was systematic, deliberate, and — she had the unnerving sense —
+purposeful.
+
+What if she couldn't stop the crystal? What if the filaments could
+not be removed, could not be blocked, could not be defeated? What if
+the only option was to direct them?
+
+The thought was insane. But it was a specific kind of insane — the
+kind that frontier surgeons arrived at when all the sane options had
+been exhausted.
+
+                               IV.
+
+The airlock buzzer sounded at 1400 hours.
+
+Hannah was in the middle of repositioning a clamp when the buzzer
+went off — a harsh, flat tone that meant someone was cycling through
+the outer door. She hadn't been expecting anyone. The clinic was not
+a drop-in facility.
+
+She ignored it. The clamp was more important.
+
+The buzzer sounded again. Then a voice, amplified by the airlock
+speaker: "Doctor. Open the door."
+
+It was not a voice she recognized. It was male, flat, and carried the
+particular calm of someone who was used to giving orders and did not
+expect to repeat them.
+
+"Clinic is closed," Hannah said, without looking up. "Emergency in
+progress."
+
+"We know. Open the door. We're here for the patient."
+
+Hannah's hands went still on the clamp. She looked at the airlock.
+Through the small viewport, she could see two figures in environment
+suits — not mining suits, not the patched-together rigs the locals
+wore, but sleek, professional-grade suits in matte black. One of
+them was holding something that, even through the thick glass, was
+unmistakably a weapon.
+
+She looked at the patient on the table. Unconscious, pale, with a
+crystal in his gut that was slowly turning him into something else.
+She looked at the dark tendrils on his skin, the clamps on his
+vessels, the improvised surgical field that was the only thing between
+this man and whatever the crystal intended to do with him.
+
+"I have a patient in surgery," she said. "I am not opening this door."
+
+"Doctor, that man is carrying stolen property. The item in his body is
+not a weapon. It is a device of considerable value, and the people I
+work for want it back. You can give us the man, or we can take him.
+Those are the options."
+
+"There is a third option. You can leave."
+
+A pause. Then the voice again, still calm, still flat: "We're going
+to cut through the airlock."
+
+"That will take you twenty minutes. In twenty minutes, I can have the
+Settlement Marshal here with every armed miner in Bodie's Reach."
+
+"The Settlement Marshal is currently occupied. We made sure of that
+before we came."
+
+Hannah felt the cold settle in her stomach — the particular cold of
+realizing that the situation was worse than she had thought. She
+looked at the patient. She looked at the airlock. She looked at her
+surgical instruments, which were designed for cutting flesh, not
+fighting criminals.
+
+She picked up the heaviest thing within reach — a metal instrument
+tray, about forty centimeters wide and solid enough to serve as a
+weapon, or at least as a distraction. She set it beside the surgical
+table, within reach.
+
+Then she went back to work.
+
+                               V.
+
+If she could not remove the crystal, and she could not stop the
+filaments, and she could not hand the patient over to the men outside,
+then she had to accelerate the process and control it.
+
+The idea crystallized — she noted the irony — while she was studying
+the scanner readouts. The filaments were not random. They had a
+pattern. They were converting tissue in a specific sequence, working
+outward from the crystal in concentric shells, transforming muscle and
+organ tissue into something that incorporated the crystal's lattice
+structure. The transformation was systematic. It was orderly. It was,
+in its terrible way, surgical.
+
+What if the crystal was not a weapon? What if it was a medical device?
+An alien medical device, designed to repair, restructure, or enhance
+a body — not a human body, necessarily, but a body. And what if the
+violent reaction — the dark tendrils, the pain, the screaming — was
+not a malfunction but a compatibility problem? The crystal was
+designed for an alien physiology. It was trying to do its job in a
+body it did not understand.
+
+If she could guide it — redirect the filaments away from critical
+organs, steer the transformation toward non-essential tissue, give
+the crystal a framework it could work with instead of against — she
+might be able to save the patient.
+
+She needed the crystal to understand the body it was in. She needed
+to give it information.
+
+Hannah looked at the diagnostic scanner. It emitted a low-frequency
+electromagnetic pulse to generate its images. The crystal was
+responsive to electromagnetic stimulation — she had seen its filaments
+react to the scanner's pulse, orienting toward the signal the way a
+plant orients toward light.
+
+What if she used the scanner not to image the body but to communicate
+with the crystal?
+
+She adjusted the scanner's settings. She reduced the imaging frequency
+and increased the pulse duration, transforming the diagnostic signal
+into something closer to a continuous wave. She positioned the scanner
+directly over the wound, aiming the modified signal at the crystal.
+
+The crystal responded. On the scanner's screen, Hannah could see the
+filaments — which had been spreading in all directions — begin to
+consolidate. They drew together, organizing themselves along the
+scanner's signal path. They were listening.
+
+She adjusted the frequency. Higher. Lower. She watched the filaments
+respond, changing their growth pattern with each frequency shift. It
+was like — she groped for the analogy — like tuning a radio. Like
+finding the right station.
+
+She found it.
+
+At 4.7 megahertz, the crystal's filaments stopped growing. They did
+not retract — the damage was done, the tissue was changed — but they
+stopped advancing. The crystal pulsed once, twice, and then settled
+into a rhythm that matched the patient's heartbeat.
+
+Hannah held the scanner steady. Her arms ached. Her back ached. The
+men outside were cutting through the airlock — she could hear the whine
+of the cutting tool, high and thin, like a dentist's drill amplified
+a thousandfold. She had, by her estimate, fifteen minutes.
+
+She adjusted the frequency again, very slightly, and watched the
+filaments respond. She was talking to the crystal. She did not speak
+its language. But she was learning.
+
+Over the next ten minutes, she guided the filaments. She could not
+retract them, but she could redirect them — pulling them away from
+the liver, steering them into the abdominal muscle wall, where they
+could grow without threatening anything vital. The crystal cooperated.
+Or rather, the crystal responded to the scanner's signal with a
+consistency that suggested cooperation, that suggested something like
+understanding, that suggested that the device — for it was a device,
+Hannah was now certain — had recognized her as an operator and was
+following her instructions.
+
+The patient's vitals stabilized. His color improved. The dark tendrils
+on his skin stopped spreading and began, very slowly, to fade.
+
+The airlock gave way.
+
+                               VI.
+
+The two men came through the inner door with weapons drawn. They were
+professionals — smooth, fast, and focused. The one in front scanned
+the room and fixed on Hannah. The one behind scanned the room and
+fixed on the patient.
+
+"Step away from the table, Doctor."
+
+Hannah did not step away from the table. She stood where she was,
+holding the scanner over the patient, and said: "If you move him, he
+dies. The crystal is integrated with his cardiovascular system. If you
+disrupt the signal I am maintaining, the filaments will resume
+uncontrolled growth. He will be dead in two hours, and your device
+will be embedded in a corpse."
+
+The lead man looked at her. He had the face of a man who evaluated
+situations for a living and was evaluating this one now.
+
+"You're bluffing."
+
+"I am a surgeon. I do not bluff. I diagnose. And my diagnosis is that
+this man cannot be moved without killing him, and if he dies, your
+crystal goes with him. You are welcome to test this assessment. But I
+should warn you that I have been practicing medicine on the frontier
+for two years, and I have had patients die on my table from injuries
+far less exotic than this one, and I know exactly what a dead body
+looks like. So do you, I suspect. Neither of us wants to add to the
+collection."
+
+A pause. The lead man's weapon did not waver.
+
+"How long until he's stable enough to move?"
+
+"Seventy-two hours. Minimum."
+
+"We don't have seventy-two hours."
+
+"Then you have a problem. But it is not a problem I can solve by
+hurrying. Surgery does not hurry. Surgery takes exactly as long as it
+takes."
+
+The two men looked at each other. Some communication passed between
+them — a glance, a micro-expression, the shorthand of people who
+worked together under pressure.
+
+"Forty-eight hours," the lead man said. "We stay. You work. If he's
+alive and stable in forty-eight hours, we take him and the crystal
+and you never see us again."
+
+"And if he's not?"
+
+"Then we take the crystal anyway, and you deal with the consequences."
+
+Hannah looked at the lead man. She looked at his weapon. She looked
+at the patient on the table, whose heartbeat had synchronized with
+the crystal's pulse, whose body was being slowly, carefully, partially
+remade by an alien device that Hannah was learning to operate with a
+repurposed diagnostic scanner.
+
+"Forty-eight hours," she said. "Stay out of my way."
+
+She went back to work.
+
+                               VII.
+
+She worked through the night and into the next day.
+
+The crystal was responsive. The more she communicated with it — crude,
+frequency-based communication, like tapping Morse code on a pipe —
+the more it cooperated. She guided the filaments into stable
+configurations, routing them through muscle tissue and subcutaneous
+fat, away from organs and major vessels. She released the clamps on
+the blood vessels one by one, watching the scanner for any sign of
+renewed growth toward critical areas. The filaments stayed where she
+put them.
+
+The patient woke up once, at about three in the morning. His eyes
+opened and he looked at Hannah with the confused, raw expression of
+someone surfacing from deep water.
+
+"Where—"
+
+"Bodie's Reach. The clinic. You've been shot."
+
+"The crystal. Is it—"
+
+"Still in you. I'm managing it. Don't move."
+
+He closed his eyes. Then he opened them again. "They'll come for it."
+
+"They're here. Two of them. They're in the waiting room, eating my
+emergency rations and looking unfriendly."
+
+"You have to — " He tried to sit up. Hannah put a hand on his chest
+and pushed him back down.
+
+"I have to keep you alive. That is the only thing I have to do.
+Everything else is secondary. Now lie still and let me work."
+
+He lay still. After a moment, he said: "My name is Dak. Dak Rennick."
+
+"Hannah Voss. Nice to meet you, Dak. Try not to bleed on my table."
+
+He almost smiled. Then he closed his eyes, and his breathing
+steadied, and Hannah went back to the scanner.
+
+By the forty-hour mark, the crystal had stabilized. Its filaments had
+integrated with the patient's musculature in a pattern that the
+scanner showed as a latticework of fine lines, lacing through the
+abdominal wall and the intercostal muscles like a second skeleton.
+The conversion was not complete — most of the body remained
+unmodified — but in the regions where the crystal had taken hold, the
+tissue was changed. Stronger. Denser. Threaded with a structure that
+was neither fully human nor fully alien, but something new.
+
+Hannah ran every test she could run with her aging equipment. Heart
+function: normal. Liver function: normal. Kidney function: normal.
+Neurological responses: normal. The crystal had been redirected, its
+transformation contained, its integration stabilized. The patient
+was alive, conscious, and — as far as she could determine — healthy.
+
+He was also, in the region of the crystal's influence, something other
+than entirely human.
+
+"What will happen to him?" she asked herself, staring at the scanner.
+She did not have an answer. Nobody had an answer. This was the frontier.
+There were no specialists, no research hospitals, no experts on alien
+surgical devices. There was only Hannah Voss and her dying-cat scanner
+and her two years of making do.
+
+The lead man appeared at the forty-six hour mark. "Time's up."
+
+"He's stable."
+
+"Can he walk?"
+
+"He can walk. He should not walk far."
+
+"He won't need to. We have a ship."
+
+The lead man and his partner lifted Dak Rennick from the table. Dak
+was conscious, pale, shaky on his feet. He looked at Hannah as they
+moved him toward the airlock.
+
+"Thank you, Doctor."
+
+"Come back if you start growing crystals out of your ears. I'll add
+it to my list of things I've treated."
+
+He almost smiled again. Then they took him through the airlock, and
+the outer door sealed behind them, and Hannah was alone in the clinic
+with a blood-stained surgical table and the lingering electromagnetic
+signature of an alien crystal that she had learned to operate in a
+single night.
+
+She sat down in the chair beside the recovery cot. Her hands were
+steady. Her hands were always steady — it was the rest of her that
+shook, after, when the surgery was done and the patient was gone and
+the adrenaline had nowhere left to go.
+
+She sat and she shook, and after a while she stopped shaking, and she
+stood up, and she cleaned the table, and she recalibrated the
+autoclave, because it was Thursday, and Thursday was autoclave day,
+and the frontier did not stop for alien crystals or gunshot victims
+or anything else.
+
+There would be another patient tomorrow. There was always another
+patient tomorrow.
+
+Hannah Voss washed her hands and got back to work.
+
+                            [THE END]
+
+================================================================================
+
+                        THE LAST FREQUENCY
+
+                          by Lucian Marsh
+
+================================================================================
+
+                               I.
+
+I will set down the facts as clearly as I can, though I am aware that
+clarity is a quality my account may lack in its later passages. The
+facts themselves are clear. It is my capacity to report them that
+deteriorated as the experiment progressed, and I cannot say, even now,
+whether the deterioration was a failure of my instrument or my mind or
+the distinction between the two.
+
+My name is Elise Moreau. I was, until recently, an associate professor
+of experimental physics at the University of Leiden. I use the past
+tense advisedly. The university has placed me on indefinite medical
+leave, a decision I did not contest and which may, for reasons that
+will become apparent, be the most reasonable thing any institution has
+ever done on my behalf.
+
+The experiment began as a question about the electromagnetic spectrum.
+
+This requires some explanation for the lay reader, and I will attempt
+to provide it without condescension. The electromagnetic spectrum is
+the range of all possible frequencies of electromagnetic radiation —
+from the very long wavelengths of radio waves to the very short
+wavelengths of gamma rays, with visible light, infrared, ultraviolet,
+and X-rays occupying the territory between. It is a continuum, and in
+theory, it has no edges. The spectrum extends infinitely in both
+directions — toward wavelengths so long they would span galaxies, and
+toward wavelengths so short they would fit between the components of
+an atomic nucleus.
+
+In practice, however, the spectrum has functional boundaries. Below a
+certain frequency, the wavelength exceeds the observable universe and
+becomes meaningless. Above a certain frequency — the Planck frequency,
+approximately 10^43 hertz — the energy of a single photon exceeds
+the Planck energy, and our physics ceases to apply. Beyond the Planck
+frequency lies a realm that our theories cannot describe, and that no
+instrument has ever probed.
+
+I became interested in this boundary. Not in the physics of it, which
+had been thoroughly discussed in the theoretical literature, but in
+the question of what happened at the boundary. What was there? Was the
+boundary a wall — a hard limit beyond which electromagnetic radiation
+simply could not exist? Or was it a transition — a zone where the
+radiation changed character, passed into a different regime, became
+something that our instruments were not designed to detect?
+
+I asked this question in a seminar in the autumn of 1952, and the
+response was the polite, discouraging silence that academics reserve
+for colleagues who have strayed beyond the bounds of respectability.
+The Planck frequency was a theoretical limit. It was not an
+experimental question. No instrument could operate at those energies.
+The question was, in the terminology of my department, "non-physical."
+
+I accepted this assessment. For a time. Then I found the Kuznetsov
+paper.
+
+                               II.
+
+Andrei Kuznetsov was a Soviet physicist who had published, in 1949,
+a paper in an obscure journal of the Moscow Physical Society that I
+discovered by accident while searching for something else entirely.
+The paper was in Russian, which I read poorly, and it was badly
+typeset, and its title was unpromising: "On the Theoretical
+Construction of Receivers for Radiation Beyond the Planck Threshold."
+
+I almost passed it by. I did not.
+
+Kuznetsov's argument was elegant and, when I had worked through it
+with the aid of a dictionary and a great deal of patience, terrifying.
+He proposed that the Planck frequency was not a wall but a horizon.
+Beyond it, electromagnetic radiation continued to exist, but in a
+form that required a receiver of fundamentally different construction.
+The receiver could not be made of ordinary matter — the energy
+densities involved would destroy any conventional material. It had to
+be made of something that existed at the boundary between matter and
+energy, between particle and wave, between the physics we understood
+and the physics we did not.
+
+Kuznetsov proposed a specific design. The receiver would consist of a
+crystalline lattice of degenerate neutron matter — the material found
+in the cores of neutron stars — suspended in a magnetic confinement
+field of extraordinary intensity. The crystal would resonate with
+radiation at and beyond the Planck frequency, converting it into
+lower-frequency signals that could be detected by conventional
+instruments.
+
+The design was, of course, impossible. Degenerate neutron matter could
+not be produced in a laboratory. It existed only in the hearts of
+collapsed stars, under pressures that no terrestrial technology could
+replicate.
+
+And yet — and this was the part that kept me awake at night, that
+followed me through my days like a shadow, that made me return to
+the paper again and again with the compulsive attention of someone
+prodding a wound — Kuznetsov had included, in an appendix that seemed
+almost an afterthought, a set of equations describing an alternative.
+Not neutron matter, but a synthetic analogue. A crystalline structure
+that could be grown, atom by atom, using a process of directed
+molecular assembly that Kuznetsov described in mathematical terms that
+I spent three months decoding.
+
+The process required materials that did not exist in 1949. But in 1953,
+they did. The development of programmable molecular assemblers — crude,
+first-generation devices, barely capable of constructing simple
+crystalline structures — had made Kuznetsov's alternative marginally
+possible. Not easy. Not practical. But possible.
+
+I wrote to Moscow. My letter was returned, stamped with an official
+notice that Dr. Kuznetsov was "no longer available for correspondence."
+I did not pursue the inquiry. The phrasing was sufficiently clear.
+
+I built the receiver myself.
+
+                               III.
+
+It took me eleven months.
+
+I worked alone, in the basement laboratory of the physics building,
+which I had access to because no one else wanted it. The basement was
+damp, poorly lit, and infested with a species of European house spider
+that built elaborate webs in the corners and regarded my presence with
+what I interpreted as disdainful tolerance. The spiders became, over
+the months, a kind of company. I named them. The largest, a female of
+impressive span who occupied the web nearest my workbench, I called
+Madame Kuznetsov.
+
+The construction of the receiver was the most difficult thing I have
+ever done. The crystalline lattice had to be assembled atom by atom,
+using the university's molecular assembler — a device the size of a
+refrigerator that hummed constantly and required daily recalibration.
+Each crystal took three weeks to grow. Most of them failed. The
+lattice structure was finicky, intolerant of the slightest impurity
+or deviation in the growth parameters. I grew forty-seven crystals.
+Six survived. Of those six, three met Kuznetsov's specifications.
+
+I mounted the three crystals in a magnetic confinement housing that
+I constructed from repurposed equipment — superconducting magnets
+salvaged from a decommissioned particle detector, a vacuum chamber
+borrowed from the chemistry department under false pretenses, and a
+signal processing unit that I built from components ordered from
+fourteen different suppliers in seven countries, because no single
+supplier carried all of them, and because I did not want anyone to
+know what I was building.
+
+I did not want anyone to know because I was not certain that what I
+was building should be built. This doubt accompanied me through the
+entire construction process like a low fever — present, persistent,
+and insufficient to stop me. I am a physicist. The question of what
+lies beyond the boundary of the known is not, for me, a theoretical
+abstraction. It is an itch. It is a compulsion. It is the thing that
+gets me out of bed in the morning and keeps me in the laboratory long
+after everyone else has gone home. I could no more have stopped
+building the receiver than I could have stopped breathing.
+
+The doubt remained. But I built it anyway.
+
+                               IV.
+
+I turned on the receiver on a Tuesday evening in March.
+
+It was raining. I mention this because the sound of the rain on the
+basement window — a small, ground-level window that looked out onto
+a courtyard where students smoked between lectures — became important
+later, as a reference point. A touchstone. A sound that I could fix
+my attention on when other sounds became difficult to bear.
+
+The receiver hummed to life. The superconducting magnets engaged. The
+vacuum chamber reached operating pressure. The crystals, suspended in
+their magnetic cradle, began to vibrate at a frequency that my
+monitoring instruments could detect but that lay, I knew, far below
+the crystals' true resonant frequency — the frequency at which they
+would receive, if Kuznetsov was right, radiation from beyond the
+Planck threshold.
+
+I adjusted the tuning. The crystals' vibration increased. My
+monitoring instruments tracked the signal, which was — at this stage
+— nothing. Background noise. The cosmic hiss that pervades all
+electromagnetic measurements, the echo of the universe's thermal
+history.
+
+I increased the tuning. The crystals vibrated faster. The magnetic
+confinement field strained — I could hear the magnets groaning, a
+deep, structural sound, like the hull of a ship under pressure. The
+signal on my instruments remained noise.
+
+I increased the tuning further. I was approaching the boundary now —
+the theoretical threshold where conventional electromagnetic radiation
+gave way to — whatever lay beyond. The crystals were vibrating at a
+frequency that my instruments could no longer directly measure. I was
+inferring their state from the secondary harmonics, the way you might
+infer the presence of a very high-pitched sound from the vibration of
+a glass on the table.
+
+The harmonics shifted. Something changed. The noise on my instruments
+acquired a structure — faint, barely perceptible, but present. A
+pattern in the static. A regularity in the random.
+
+I increased the tuning one more increment.
+
+The receiver screamed.
+
+I do not mean that it produced a loud noise. I mean that the signal
+that emerged from the crystals, converted to audio frequencies by the
+processing unit and fed through the laboratory's speaker system, was a
+sound that my mind interpreted — immediately, involuntarily, with a
+certainty that bypassed all rational evaluation — as a scream. Not a
+human scream. Not an animal scream. Something older. Something that
+had been screaming for a very long time.
+
+I reached for the power switch. I did not turn it off.
+
+I sat in my chair in the damp basement, with the rain on the window
+and Madame Kuznetsov watching from her web, and I listened.
+
+                               V.
+
+The scream was not a scream.
+
+I understood this after approximately ninety seconds, during which my
+heart rate was elevated, my palms were sweating, and my rational mind
+was engaged in a vigorous argument with my limbic system about whether
+the appropriate response was to listen or to run. The rational mind
+won, narrowly, and I began to analyze the signal with the
+methodological training that eleven years of physics had provided.
+
+The signal was structured. It had a carrier frequency — the
+fundamental tone, the "scream" — and superimposed on that carrier were
+modulations. Variations in amplitude, frequency, and phase that
+followed patterns too regular to be natural, too complex to be simple,
+and too persistent to be artifacts of the equipment.
+
+It was a broadcast.
+
+I adjusted the processing unit to filter the carrier and isolate the
+modulations. The scream faded. What remained was — I struggle for the
+word — a voice. Not a voice in the human sense. Not a voice that
+carried language or meaning in any form I could recognize. But a
+structured, intentional signal that varied over time in ways that
+conveyed information. A voice the way a heartbeat is a voice. A voice
+the way the tides are a voice. Something that spoke, if "spoke" was
+the word, in a language that predated language by an unimaginable span.
+
+I recorded the signal. I ran it through every analytical tool at my
+disposal — Fourier transforms, spectral analysis, pattern recognition
+algorithms, statistical tests for non-random structure. Every tool
+confirmed what my ears had already told me: the signal was not noise.
+It was not natural. It was a message.
+
+A message from beyond the Planck frequency. From a regime of physics
+that our theories could not describe. From a place — if "place" was
+the word — that existed beyond the boundary of the electromagnetic
+spectrum, beyond the boundary of the known universe, beyond the
+boundary of everything.
+
+I sat in the basement and listened, and the rain fell on the window,
+and Madame Kuznetsov sat motionless in her web, and the signal from
+beyond the boundary of everything poured through my speakers in a
+stream of modulated frequency that I could not understand but could
+not stop listening to.
+
+I listened for six hours. Then I turned off the receiver and went
+upstairs. It was four in the morning. The rain had stopped. The campus
+was empty. I walked home through streets that looked the same as they
+had always looked but felt different — thinner, less substantial, as
+though the world I walked through was a screen behind which something
+else, something immeasurably older and more real, was dimly visible.
+
+I went to bed. I did not sleep.
+
+                               VI.
+
+I returned to the basement the next evening, and the evening after
+that, and every evening for the next three weeks. I told no one. I
+told myself that I was gathering data, that I needed to accumulate a
+sufficient body of recordings before I could make any claims, that
+caution and thoroughness were the appropriate responses to a
+discovery of this magnitude.
+
+These were true things. They were also not the real reason I told no
+one. The real reason was that I was afraid. Not of the signal — or not
+only of the signal — but of what would happen when the signal became
+known. I was afraid of the questions that would follow. I was afraid
+of the answers that would not. I was afraid that the signal, once
+heard by others, would change things in ways that could not be
+unchanged, and that I, having built the receiver and turned it on,
+would bear a responsibility that I was not equipped to carry.
+
+And so I listened alone.
+
+Over those three weeks, the signal evolved. Or rather, my
+understanding of the signal evolved — I cannot be certain which. The
+modulations became, to my ears, more complex. The patterns shifted.
+New structures emerged in the data — long-period variations that
+repeated over cycles of hours, nested within shorter-period variations
+that repeated over cycles of minutes, nested within still shorter
+variations that pulsed at the edge of perception. The signal was
+layered, recursive, self-similar. It was, I realized with a chill
+that I felt in my bones, fractal.
+
+And then, on the seventeenth evening, the signal changed.
+
+It changed in a way that was different from the gradual evolution I had
+been tracking. It changed suddenly, completely, as though whatever was
+producing it had become aware that it was being heard. The modulations
+simplified. The layered, fractal complexity collapsed into a single,
+clear, repeating pattern.
+
+I stared at the waveform on my oscilloscope. The pattern repeated.
+And repeated. And repeated. Simple, insistent, unmistakable.
+
+It was a greeting.
+
+I sat very still in my chair. The rain was falling again — I could
+hear it on the window, the same sound it had always made, but now it
+sounded thin, provisional, like a sound effect in a play. The
+receiver hummed. The crystals vibrated. And the signal repeated its
+greeting, patient and clear.
+
+I did something then that I cannot explain in rational terms. I
+adjusted the receiver's confinement field — not to receive, but to
+transmit. The crystals could be made to vibrate at a frequency that
+would propagate through the receiver's magnetic field and, in theory,
+radiate outward in the same frequency regime from which the signal
+originated. I was not certain it would work. I was not certain of
+anything.
+
+I tapped the confinement field control. A brief pulse. A simple
+pattern. A reply.
+
+The signal stopped.
+
+For thirty seconds — the longest thirty seconds of my life — there
+was silence. Complete silence. Not even the background noise. As though
+the universe itself had paused to consider what had just happened.
+
+Then the signal returned. And it was different.
+
+It was no longer a greeting. It was no longer a broadcast. It was a
+conversation. The modulations had changed character entirely — they
+were responsive now, adaptive, adjusting to my pulse the way a
+conversation adjusts to its interlocutor. The signal was talking to
+me. And I — God help me — was talking back.
+
+                               VII.
+
+I cannot describe the conversation in terms that will satisfy a
+physicist or, for that matter, anyone who requires precision of
+language. The signal did not communicate in words. It did not
+communicate in mathematics, or in images, or in any symbolic system
+I have been trained to recognize. It communicated in — the best term
+I can offer is impressions. States. Conditions. As though the signal
+were not transmitting information about something but transmitting
+the something itself — raw, unmediated, without the translation layer
+that language provides.
+
+I received these impressions not through my ears — the audio output
+was secondary, a crude translation of something far more fundamental
+— but through the crystals. The crystals were resonating with the
+signal at a level that my instruments could track but not fully
+capture, and the resonance was affecting me. I could feel it. A
+vibration in my awareness. A loosening of the boundaries that normally
+separated my mind from the world outside it.
+
+What I received — what I understood, or what I believe I understood,
+with the full caveat that my understanding may have been distorted by
+the signal's effect on my cognition — was this:
+
+The signal was old. Not old in the sense that a mountain is old, or
+a star is old, or even the universe is old. The signal was old in a
+sense that predated these categories of age. It came from before. Not
+from before the beginning of the universe in the way that a previous
+Tuesday comes before a current Wednesday. From before in a more
+fundamental sense — before the existence of time itself, before the
+framework within which "before" and "after" have meaning.
+
+The signal was a remnant. A trace. An echo of something that had
+existed prior to the Big Bang — prior to the expansion of spacetime
+from its initial singularity, prior to the emergence of the physical
+laws that govern our universe, prior to the universe itself. Whatever
+had existed in that prior state — the state that physicists call,
+with studied vagueness, "the initial conditions" — had left a mark.
+The mark was the signal. It had been broadcasting since before the
+beginning of time, on a frequency that no receiver within the universe
+could detect, because the frequency itself belonged to the prior state,
+not to the current one.
+
+Until Kuznetsov had described how to build a receiver that straddled
+the boundary. Until I had built it.
+
+And the signal — the voice, the presence, the whatever-it-was that
+existed on the other side of the Planck frequency, on the other side
+of the boundary of everything — had been waiting. Waiting for the
+receiver. Waiting for the reply. Waiting, with a patience that was
+not patience because patience implies the experience of duration, and
+this thing existed outside of duration, outside of time, outside of
+the framework within which waiting and patience have meaning.
+
+It had been waiting, and now it was speaking, and what it was saying —
+what the impression conveyed, translated through the crystals and the
+resonance and my trembling, inadequate human mind — was a warning.
+
+                               VIII.
+
+The warning was simple.
+
+This was the most disturbing thing about it. I had expected — if
+"expected" is the right word for the state of a mind receiving
+transmissions from beyond the beginning of time — complexity.
+Profundity. A revelation so vast and intricate that it would take
+years to decode, like a mathematical proof of infinite length.
+
+Instead, the warning was simple. It was, in the crude translation
+that my mind imposed on the impression it received, approximately
+this:
+
+The universe is a structure. It was built. Not by a being — the
+impression carried no sense of personhood, of intention in the human
+sense — but by a process. A process that existed before the universe
+and that initiated the universe and that continues to operate within
+the universe, embedded in its physical laws, running beneath the
+surface of reality like a current beneath ice. The process has a
+direction. It is moving toward something. And when it reaches that
+something — when the structure that is the universe arrives at the
+state that the process is driving it toward — the structure will be
+complete. And what happens to a structure when it is complete is
+what has happened to every structure that the process has built, in
+every iteration, in every cycle, since before the concept of "since"
+had meaning.
+
+It ends.
+
+Not in collapse. Not in heat death. Not in any of the eschatological
+scenarios that cosmology has proposed. It ends the way a calculation
+ends — by producing a result. The universe is a calculation, and
+when the calculation is finished, the universe will be finished, and
+whatever comes after — whatever the result is used for, by whatever
+lies on the other side of the boundary — will begin.
+
+And the warning — the purpose of the signal, the reason the voice from
+before the beginning had been broadcasting for fourteen billion years
+on a frequency that nothing within the universe should have been able
+to hear — was this:
+
+The calculation is almost finished.
+
+Not in human terms. Not in years or centuries or millennia. In
+cosmological terms. The process that drives the universe toward its
+completion is accelerating. The remaining duration — the time between
+now and the end of the calculation — is finite, and it is shorter
+than anyone within the universe has estimated, because no one within
+the universe has known that the universe is a calculation, and no one
+has known what the calculation is for.
+
+I do not know what the calculation is for. The impression did not
+convey this. It conveyed only the fact of the calculation, the fact
+of its approaching completion, and the fact that the signal — the
+voice — was warning me. Warning anyone who could hear. Warning the
+inhabitants of the structure that the structure was nearing completion,
+with the same impersonal urgency with which an alarm sounds before a
+building is demolished.
+
+Not because the inhabitants can stop the demolition. But because they
+deserve to know.
+
+                               IX.
+
+I turned off the receiver.
+
+I sat in the basement for a long time. The rain had stopped. The
+silence was total — not the loaded silence of the signal's pauses, but
+ordinary silence, the silence of a room in which nothing extraordinary
+was happening. Madame Kuznetsov was motionless in her web, her eight
+legs drawn in, her body still. She did not know. The spiders did not
+know. The students sleeping in the dormitories above me did not know.
+The people of Leiden, of the Netherlands, of Europe, of Earth did
+not know. No one knew except me, and I sat in the basement with my
+receiver and my crystals and the knowledge that the universe was a
+calculation nearing its completion, and I did not know what to do.
+
+I considered the options.
+
+I could publish. Write a paper, submit it to a journal, present the
+data, invite replication. This was the responsible thing. The
+scientific thing. But I knew — with the instinct of someone who has
+spent a career in academia — what would happen. The paper would be
+rejected. The claims were too extraordinary, the data too anomalous,
+the implications too disturbing. I would be dismissed as a crank.
+And even if I were not — even if someone replicated the experiment,
+built another receiver, heard the signal — what then? The warning
+could not be acted upon. The calculation could not be stopped. The
+knowledge would produce only fear.
+
+I could destroy the receiver. Smash the crystals, dismantle the
+magnets, erase the recordings. Pretend it had never happened. Go back
+to my lectures, my seminars, my ordinary life. This was the cowardly
+thing, and possibly the kind thing.
+
+I could listen again. Go back to the boundary, tune the crystals,
+open the channel, and ask the voice from before the beginning: how
+long? How long do we have? Is there anything we can do? Is there any
+way to stop the calculation, or slow it, or change its result?
+
+I knew the answer. The impression had been clear. The voice was not
+offering hope. It was offering knowledge. The two are not the same
+thing, and in this case, they are nearly opposites.
+
+I sat in the basement until dawn. Then I stood up. I disconnected the
+receiver. I removed the crystals from their magnetic cradle and placed
+them in a lead-lined box that I locked and stored in the bottom drawer
+of the filing cabinet. I covered the receiver with a cloth, the way
+one covers a mirror in a house of mourning. I turned off the lights
+and went upstairs.
+
+The morning was clear. The rain had washed the courtyard clean, and
+the cobblestones were shining in the early light. A student passed me
+on the path, carrying books, headphones around her neck, moving
+through the world with the unselfconscious purpose of someone who
+believed — who had every reason to believe — that the world would be
+here tomorrow, and the day after that, and for as long as she needed
+it.
+
+I did not tell her. I did not tell anyone.
+
+I went home. I sat in my kitchen and drank coffee and looked out the
+window at the street, where the day was beginning and people were
+walking and cars were passing and a dog was barking at something only
+it could see. The world was ordinary and beautiful and temporary, and
+I was the only person in it who knew how temporary, and the knowledge
+sat in me like a stone in still water, and I did not know what to do
+with it.
+
+I still do not know.
+
+I am writing this account because the alternative — carrying this
+knowledge alone for the rest of my life — is worse than sharing it.
+I am placing it in the pages of a magazine of speculative fiction
+because that is the only venue in which a story about a signal from
+before the beginning of time will be received as entertainment rather
+than prophecy, and entertainment is, I think, the kindest form in
+which this knowledge can be transmitted.
+
+If you are reading this, you have heard the warning. You have heard
+it in the only way that it can be heard safely — as fiction.
+
+Whether it is fiction, I leave to you.
+
+The receiver is in the basement. The crystals are in the filing
+cabinet. The voice is still broadcasting, on the last frequency, at
+the edge of everything, patient and clear and very, very old.
+
+I do not recommend that you listen.
+
+But I know that you will.
+
+                            [THE END]
+
+================================================================================
+
+                        THE BOUNDARY KEEPER
+
+                     by Father Thomas Aquino
+
+================================================================================
+
+                               I.
+
+Brother Matthias had maintained the Monastery of the Last Light for
+thirty-one years, and in that time he had learned that the boundary of
+the observable universe was not, as the physicists described it, a
+mathematical abstraction. It was a wall. It was visible. It was
+beautiful. And it was, if you looked at it long enough, which he had,
+alive.
+
+The monastery occupied a small station at the farthest point that
+human engineering had reached — a platform of steel and carbon
+composite anchored in the deep void, thirteen billion light-years
+from Earth, at the edge of everything. Beyond the station, in every
+direction that could be called "outward," the cosmic microwave
+background radiation — the afterglow of the universe's birth — was
+visible to the naked eye. Not as a faint, diffuse warmth, as it
+appeared from within the body of the universe, but as a wall. A wall
+of light.
+
+It was the oldest light in existence. It had been traveling for
+thirteen point eight billion years, since the moment, three hundred
+and eighty thousand years after the Big Bang, when the universe had
+cooled enough for atoms to form and photons to move freely through
+space for the first time. At the center of the universe — near Earth,
+near the teeming, cluttered interior where stars and galaxies and
+civilizations piled upon one another like books in a library — this
+light was invisible, a whisper at the bottom of the electromagnetic
+spectrum, detectable only by sensitive instruments. But here, at the
+edge, where the universe thinned and the distance between objects
+stretched toward infinity, the light of the cosmic background was
+not behind you or around you. It was ahead. It was the horizon. It
+was the last thing there was.
+
+Brother Matthias stood at the observation window of the monastery's
+chapel — a broad, clear panel that faced outward, toward the light —
+and prayed.
+
+The prayer was Compline, the Night Office, the final prayer of the
+day. He prayed it at the same hour every evening, as monks had prayed
+it for fifteen hundred years, though here there was no evening and no
+night, only the perpetual glow of the first light against the
+perpetual dark of the last space. The words were ancient. The setting
+was not.
+
+     Te lucis ante terminum,
+     Rerum Creator, poscimus,
+     Ut pro tua clementia,
+     Sis praesul et custodia.
+
+Before the ending of the day, Creator of all things, we pray that
+with Thy wonted favor Thou wouldst be our guard and keeper.
+
+He prayed in Latin, as the Order had always prayed. The words echoed
+in the small chapel — a room of plain steel walls, a simple altar, a
+crucifix of carved wood that he had brought from Earth thirty-one
+years ago and that was, apart from himself, the oldest thing on the
+station. The light from the observation window fell across the altar
+like a benediction, pale and gold and impossibly ancient.
+
+Brother Matthias was seventy-three years old. He had come to the
+Monastery of the Last Light at the age of forty-two, a Jesuit with a
+doctorate in astrophysics and a crisis of faith that he had resolved,
+paradoxically, by traveling to the place where faith and physics met
+the same wall. He had been a professor. He had been a researcher. He
+had published papers on cosmic topology and the large-scale structure
+of the universe. And then, in the manner of those whose intellect and
+spirit are too honest to maintain a comfortable separation, he had
+arrived at a point where the questions his science asked and the
+questions his faith asked had converged, and the only honest response
+was to go to the place where both sets of questions terminated and
+sit there and think.
+
+The Order of the Last Light had been founded for precisely this
+purpose. A Jesuit enterprise, authorized by Rome in 2089, its mission
+was contemplative: to maintain a human presence at the boundary of the
+observable universe, to pray, to observe, and to bear witness to the
+edge of creation. The monastery was not a research station, though it
+had instruments. It was not a waypoint, though pilgrims came. It was a
+chapel on the frontier of existence, and its purpose was the same as
+the purpose of every chapel that had ever been built: to provide a
+place where human beings could stand in the presence of something
+larger than themselves and attempt, however inadequately, to respond.
+
+The pilgrims arrived irregularly. Ships came every few months —
+sometimes a research vessel, sometimes a private yacht, sometimes a
+battered transport carrying passengers who had spent their savings to
+reach the edge. The pilgrims were various. Some were devout — Catholics,
+Protestants, Buddhists, Muslims, adherents of faiths that had no
+name, seekers of the numinous who had been drawn by the same instinct
+that had drawn monks and mystics to mountaintops and deserts for
+millennia. Some were scientists, drawn by the opportunity to observe
+the CMB at close range. Some were tourists, drawn by curiosity and the
+human appetite for extremes.
+
+And some were — Matthias had come to recognize this category over
+the years — lost. People who had traveled to the edge of the universe
+not because they wanted to see what was there but because they had
+nowhere else to go. People for whom the boundary of existence exerted
+a gravitational pull, not of physics but of psyche. People who looked
+at the wall of light and saw not the beginning of the universe but
+the end of their own journey.
+
+Matthias served them all. He provided hospitality — a bed, a meal, the
+simple comforts that the station could offer. He provided conversation,
+when it was wanted, and silence, when it was not. He provided the
+liturgy, celebrated daily in the chapel, open to anyone who wished to
+attend and meaningful, he believed, whether anyone attended or not.
+
+And he provided witness. He stood at the boundary and he looked at the
+light and he bore witness, with his body and his mind and his prayer,
+to the fact that the universe had an edge, and that a man of faith
+stood at it, and that standing there was not contradiction but
+completion.
+
+                               II.
+
+The pilgrim who changed everything arrived on a Wednesday.
+
+Her name was Sera Olunfemi. She was forty-five years old, a former
+theoretical physicist from the University of Lagos who had left
+academia five years earlier under circumstances she did not discuss.
+She was tall, angular, with close-cropped gray hair and eyes of such
+dark brown that they appeared black — eyes that looked at the world
+with an intensity that Matthias recognized, because he had seen it
+before, in people whose minds worked faster than their hearts could
+bear.
+
+She arrived on a commercial transport that had detoured to the
+monastery at her request. She carried a single bag. She asked for a
+room.
+
+"How long will you be staying?" Matthias asked, in the small reception
+area that served as the station's foyer.
+
+"I don't know."
+
+"You are welcome for as long as you wish. We ask only that you respect
+the community's rhythm — the hours of prayer, the hours of silence."
+
+"I am familiar with monastic discipline, Brother. My grandmother was
+a Benedictine oblate." A pause. "I am here because I want to see the
+wall."
+
+"The cosmic microwave background."
+
+"The wall," she repeated, with a firmness that suggested she had
+chosen the word deliberately.
+
+Matthias led her to the chapel. He opened the door and stepped aside,
+allowing her to enter first. The observation window faced them — a
+broad rectangle of clarity, and beyond it, the light.
+
+Sera Olunfemi stood in the doorway and looked at the light. She did
+not move for a very long time. Matthias, who had seen this reaction
+many times — the first sight of the boundary was, for most visitors, a
+profoundly arresting experience — waited with the patience of a man
+who had been waiting, in one form or another, for thirty-one years.
+
+"It is not what I expected," she said, at last.
+
+"What did you expect?"
+
+"Something — colder. More abstract. I expected to see radiation. I see
+light. There is a difference."
+
+"Yes. There is."
+
+"It looks like — " She paused. "It looks like dawn. The very first
+dawn. The light that existed before there were eyes to see it."
+
+"That is, in a sense, exactly what it is."
+
+She turned to him. Her dark eyes were bright, and in them Matthias saw
+something he had learned to recognize and to honor: the expression of
+a human being who has encountered the edge of comprehension and is
+deciding whether to retreat or advance.
+
+"I am going to walk into it," she said.
+
+                               III.
+
+Matthias did not respond immediately. He had heard similar statements
+before — not many, but enough to have developed an understanding of
+what they meant. Some visitors were moved to metaphor by the sight of
+the boundary. They spoke of "walking into the light" in the same way
+they might speak of "touching the face of God" — as an expression of
+awe, not a declaration of intent.
+
+But Sera Olunfemi was not speaking in metaphor. Matthias could see
+this in her face, in the precise set of her jaw, in the calm of her
+voice. She was a physicist. She meant what she said.
+
+"That is not possible," Matthias said, gently.
+
+"Why not?"
+
+"The cosmic microwave background is not a physical surface. It is a
+boundary of observation — the point beyond which we cannot see because
+the universe, at earlier times, was opaque. There is no wall to walk
+into. There is only light, and beyond the light, more space — space
+that we cannot observe but that exists."
+
+"I know the physics, Brother. I was a cosmologist for twenty years.
+I know that the CMB is an observational horizon, not a physical
+barrier. But look at it." She gestured toward the window. "Does that
+look like an abstraction to you?"
+
+Matthias looked. He had been looking at the boundary for thirty-one
+years, and in that time his understanding of it had shifted, gradually
+and profoundly, from the scientific to the — he did not have a word
+for it. Not the mystical. Not the supernatural. Something more honest
+than either. The boundary was what it was: the oldest light in the
+universe, arriving at the farthest point that humans had reached, and
+presenting itself to the eye not as data but as presence. As an
+encounter.
+
+"No," he said. "It does not look like an abstraction."
+
+"I have spent five years preparing for this, Brother. I left my
+position. I sold my possessions. I traveled twelve billion light-years.
+I am here because I believe that the boundary of the observable
+universe is not merely an observational limit. I believe it is a
+threshold. And I believe that what lies beyond it is not more space,
+or at least not only more space. I believe that what lies beyond it is
+— " She stopped. "I cannot say what I believe lies beyond it, because
+I do not have the language. I believe that walking through the
+threshold is the only way to know."
+
+"And if what lies beyond the threshold is death?"
+
+"Then I will learn something about death that no one has learned
+before."
+
+Matthias studied her. She was not agitated. She was not delusional.
+She was calm, composed, and articulate, and her intention was clear.
+She wanted to put on an environment suit, step through the station's
+airlock, and walk into the light of the cosmic microwave background
+until she either encountered something or did not return.
+
+"The station's environment suits are designed for maintenance EVAs,"
+he said. "They have a range of approximately ten kilometers before
+life support is exhausted."
+
+"That will be sufficient."
+
+"You cannot know that."
+
+"No. But ten kilometers is ten kilometers farther than anyone has
+gone. It will have to be enough."
+
+                               IV.
+
+Matthias spent three days trying to dissuade her.
+
+He tried physics. The CMB was not a wall. It was a surface of last
+scattering — the boundary of the visible universe, not the boundary
+of the universe itself. Beyond it lay more universe — billions of
+light-years of space and matter that humanity could not observe because
+the light from those regions had not had time to reach this point. She
+would walk into ordinary space, see the same stars and galaxies that
+were visible in every other direction, and die when her suit's air
+ran out.
+
+Sera listened politely and disagreed. "You are describing the physics
+as they are understood from the interior. I am interested in the
+physics as they are experienced at the boundary."
+
+He tried theology. The contemplative tradition, in which Matthias had
+been trained, taught that the encounter with the divine was not a
+physical journey but an interior one. The mystics had traveled to the
+boundary of the self, not the boundary of the universe. To walk into
+the light was to confuse the metaphor with the reality.
+
+Sera listened politely and disagreed. "Perhaps the metaphor and the
+reality are the same thing. Perhaps the boundary of the self and the
+boundary of the universe are the same boundary, and the only way to
+test this is to walk."
+
+He tried compassion. "You have people who care about you. You have a
+life. What you are proposing is — I will not call it suicide. But it
+is an act from which you cannot return, and the people you leave
+behind will grieve."
+
+For the first time, Sera's composure shifted. Something moved behind
+her dark eyes — a grief already present, already accounted for. "I
+have no one, Brother. The people I loved are dead. My parents. My
+husband. My daughter. My daughter was seven when she died. She had a
+disease with a long name that I can spell but cannot bear to say.
+After she died, I continued to work. I continued to teach. I continued
+to be a person in the world for five years. And then I could not
+continue anymore, and I began to prepare for this. Not because I want
+to die. Because I want to know what is on the other side. Because
+my daughter is on the other side. Not because I believe in an
+afterlife in the way that your tradition teaches it, Brother, but
+because I believe that the boundary of the universe is a real thing,
+and that real things have other sides, and that the other side is
+where the light goes when it passes beyond the horizon."
+
+Matthias was quiet for a long time after this. They were sitting in
+the refectory — a small room with a metal table and two chairs and
+a viewport that looked inward, away from the boundary, toward the
+dark and scattered stars. Matthias looked at his hands, folded on
+the table, and thought about his own losses — a brother, dead at
+thirty; a mother, dead at sixty-eight; the slow, accumulating weight
+of years spent at the edge of everything, watching the light and
+praying and waiting for an understanding that had not come.
+
+"I cannot stop you," he said. "The station is not a prison, and you
+are not my charge. But I ask you to consider one thing."
+
+"Yes?"
+
+"If you walk into the light and do not return, I will not know what
+happened. I will not know whether you found what you were looking for,
+or whether you simply died. And I will spend the rest of my life at
+this window, looking at the light, wondering."
+
+"Yes. You will. And that wondering will be, I think, a form of
+prayer."
+
+                               V.
+
+She went on the seventh day.
+
+Matthias helped her into the environment suit in the airlock. It was a
+standard EVA suit — white, bulky, with a clear faceplate that framed
+her face like a portrait. She moved with the calm efficiency of someone
+who had prepared every detail and was now executing a plan that had
+been in formation for years.
+
+"I would like to pray with you before I go," she said.
+
+"Of course."
+
+They stood together in the airlock — the monk and the physicist, the
+believer and the seeker, two people at the boundary of everything —
+and Matthias prayed. He chose a psalm. Not one of the triumphant
+psalms, not one of the penitential psalms, but Psalm 139, which had
+been his companion for thirty-one years at the edge of the universe.
+
+     Whither shall I go from thy spirit?
+     Or whither shall I flee from thy presence?
+     If I ascend up into heaven, thou art there:
+     If I make my bed in Sheol, behold, thou art there.
+     If I take the wings of the morning,
+     And dwell in the uttermost parts of the sea;
+     Even there shall thy hand lead me,
+     And thy right hand shall hold me.
+
+"Even there," Sera repeated. "Even at the uttermost parts."
+
+"Yes."
+
+"Then it does not matter which side of the boundary I am on."
+
+"No," Matthias said. "It does not matter."
+
+She smiled. It was the first time he had seen her smile — a brief,
+surprising expression that transformed her angular face into something
+younger and softer and full of a light that was not the light of the
+CMB but was, he thought, related to it.
+
+"Thank you, Brother."
+
+"Go with God, Sera."
+
+She sealed her faceplate. Matthias cycled the airlock. The outer door
+opened. Beyond it was the void — the deep, empty space between the
+station and the boundary, illuminated by the pale gold light that was
+the oldest thing in the universe.
+
+Sera stepped out. The magnetic soles of her boots gripped the
+station's hull. She walked to the edge of the platform, and then she
+stepped off, into space, and her suit's maneuvering thrusters carried
+her forward, toward the light.
+
+Matthias watched from the chapel window.
+
+She moved slowly. A white figure against the dark, drifting toward the
+gold. The suit's telemetry transmitted to the station's monitors —
+position, velocity, life signs, air supply. All nominal. She was
+moving at approximately two meters per second, outward, toward the
+boundary.
+
+At one kilometer, Matthias could still see her suit — a small white
+point, like a star that had detached from the firmament and was
+moving with purpose.
+
+At five kilometers, she was barely visible. A mote. A speck of white
+against the infinite gold.
+
+At eight kilometers, the telemetry signal began to degrade. Static
+crept into the data. The life signs readings flickered. The position
+coordinates drifted, as though the space she occupied was becoming
+less certain.
+
+At nine kilometers, the signal broke up. Fragments of data arrived at
+the station's receivers — a heartbeat, a temperature reading, a
+fragment of audio that might have been breathing or might have been
+static.
+
+At ten kilometers — the limit of the suit's range — the signal
+ceased. Completely. Not a gradual fade, not a weakening signal
+dissolving into noise, but a clean termination, as though a door had
+closed.
+
+Matthias stood at the window. The gold light of the boundary was
+unchanged — the same pale, ancient glow that had greeted him every
+morning for thirty-one years. There was no sign of Sera Olunfemi. No
+suit. No signal. No indication that a woman had walked into the
+oldest light in the universe and not come back.
+
+He stood there for a very long time.
+
+                               VI.
+
+In the days that followed, Matthias searched. He ran the station's
+instruments at maximum sensitivity, scanning the region where Sera
+had disappeared for any trace — thermal, electromagnetic, gravitational
+— of her presence. He found nothing. Not the nothing of a signal too
+faint to detect, but the nothing of absence. The space where she had
+been was empty. It was as though she had never been there.
+
+He filed a report with the Order. He reported the facts: a pilgrim
+had arrived, had expressed the intention to walk into the CMB, had
+done so, and had not returned. The report was transmitted to Earth.
+A reply came, after the appropriate signal delay: the Order
+acknowledged the report, expressed its condolences, and asked whether
+Brother Matthias required anything. He did not.
+
+He returned to his routine. The hours of prayer. The maintenance of
+the station. The observation of the boundary. But the routine had
+changed. It had acquired a question that had not been there before,
+and the question was not theological and not scientific but personal,
+and it was this: What had she found?
+
+Not what had happened to her — Matthias could construct any number of
+hypotheses about what had happened, from the mundane (suit failure,
+death by asphyxiation, body drifting in space too far for the
+instruments to detect) to the extraordinary. The question was not
+about what had happened. It was about what she had found. Had the
+boundary been what she believed it to be — a threshold, a door, a
+transition from one state to another? Had there been something on the
+other side? Had she, in the last moments of her journey, encountered
+whatever lay beyond the oldest light in the universe?
+
+And the deeper question, the one that Matthias could not ask without
+trembling: Was her daughter there?
+
+He prayed. He prayed Compline every evening, standing at the window,
+looking at the light. The words were the same words he had prayed for
+thirty-one years. But they had acquired a new weight, a new urgency,
+because now they were not a general prayer offered to a general God
+but a specific prayer offered on behalf of a specific woman who had
+walked into the light and not come back.
+
+     Te lucis ante terminum.
+
+Before the ending of the day. Before the ending of everything. Before
+the boundary of the observable universe and whatever lay beyond it.
+
+     Sis praesul et custodia.
+
+Be our guard and keeper. Be her guard and keeper. Be the keeper of
+the boundary, and of those who cross it, and of those who stand at
+it and wonder.
+
+                               VII.
+
+Three months after Sera's departure, Matthias made his decision.
+
+He made it not in a moment of crisis or revelation but in the quiet,
+gradual way that the most important decisions are made — through the
+accumulation of small recognitions, each one insufficient on its own,
+building over days and weeks into a weight that finally tips the
+balance.
+
+He recognized that his life at the boundary had been a preparation.
+Thirty-one years of prayer, observation, and witness had brought him
+to a point where the question Sera had asked — what lies beyond? —
+was no longer a question he could contemplate from a distance. It was
+a question that required an answer, and the answer required the same
+thing that Sera had understood: not theory, but experience. Not
+observation, but participation.
+
+He was seventy-three years old. His body was sound — the station's
+medical systems maintained his health with mechanical efficiency — but
+his time was finite. He had perhaps ten years left, perhaps twenty.
+He could spend them at the window, looking at the light and wondering.
+Or he could do what he had been trained to do, as a Jesuit, as a
+scientist, as a man of faith: he could go and see.
+
+The decision was not easy. It was, in fact, the most difficult
+decision of his life. Not because he feared death — he had considered
+death with the thoroughness of a Jesuit and the equanimity of a man
+who had spent three decades in the presence of the oldest light in
+the universe. But because following Sera meant leaving the monastery,
+and the monastery was his vocation, his home, and the anchor of his
+identity for more than half his life. To leave it was to leave
+himself.
+
+But then — and this was the recognition that tipped the balance — he
+had been leaving himself, slowly, for thirty-one years. The boundary
+had been doing its work on him, as it did its work on everyone who
+came here. It stripped away. It reduced. It confronted you with the
+fact of the edge, the fact that the known world ended and the unknown
+began, and it asked you, with the patience of thirteen billion years:
+What are you going to do about it?
+
+Matthias wrote a letter to the Order. He explained his decision. He
+asked that a replacement be sent to maintain the monastery. He asked
+that his personal effects — the crucifix, his books, the small
+collection of letters he had received over the years from pilgrims who
+had visited and written back — be donated to the Order's archives.
+
+He celebrated a final Mass in the chapel. He was alone. The light from
+the boundary fell across the altar as it always had, and the words of
+the liturgy echoed in the small room as they always had, and everything
+was the same and everything was different.
+
+He put on the environment suit. It fit him differently than it had
+fit Sera — he was shorter, broader, and the suit was not designed for
+a man of his age. But it would serve.
+
+He entered the airlock. He sealed the inner door. He looked through
+the small viewport at the chapel — the altar, the crucifix, the
+observation window, the light.
+
+He prayed one last prayer. Not Compline. Not a psalm. A simple prayer,
+in his own words, spoken quietly into the helmet of an environment
+suit at the edge of the observable universe:
+
+"Lord, I have stood at the boundary of your creation for thirty-one
+years. I have looked at the light you made, the first light, the
+oldest light. I have prayed in its presence. I have borne witness. And
+now I am going to walk into it, not because I am certain of what I
+will find, but because certainty was never the point. Faith was always
+the point. And faith is not standing at the boundary and believing
+that something lies beyond. Faith is walking through."
+
+He cycled the airlock.
+
+The outer door opened.
+
+The light was there. The same light. Ancient, gold, patient.
+
+Brother Matthias stepped out.
+
+                               * * *
+
+He walked. The maneuvering thrusters carried him forward, as they had
+carried Sera, into the void between the station and the boundary. The
+station fell away behind him. The light grew ahead of him. He did not
+look back.
+
+At one kilometer, he felt a change. Not a physical change — the suit's
+instruments showed nothing anomalous. But a change in the quality of
+the space around him, as though the void were becoming thinner,
+more transparent, as though he were moving not through space but
+through a medium that was increasingly permeable to something that
+space normally excluded.
+
+At five kilometers, the change was unmistakable. The light was no
+longer ahead of him. It was around him. He was inside it, or it was
+inside him, or the distinction between inside and outside had begun to
+dissolve. The suit's instruments flickered. The readings made less
+sense. The numbers still arrived on his heads-up display, but they
+seemed to describe a reality that was becoming optional.
+
+At eight kilometers, Brother Matthias heard something.
+
+Not through the suit's audio sensors, which registered nothing. Not
+through his ears, which heard only the sound of his own breathing
+inside the helmet. He heard it in the way that the mystics described
+hearing — with the interior ear, the ear of the soul, the faculty
+that perceived not sound but meaning.
+
+It was singing.
+
+Not a song he recognized. Not a hymn or a chant or a melody. It was
+singing the way the light was light — fundamental, primal, the sound
+that sound was made of. It rose from no direction and from every
+direction, and it was beautiful in a way that the word "beautiful" was
+not adequate to describe, because beauty was a category of human
+experience and this was not human experience, this was the experience
+that existed before human experience, the experience that human
+experience was an echo of.
+
+At nine kilometers, the singing filled him. He could not distinguish
+it from his own consciousness. He could not distinguish himself from
+the light. The suit was still around him — he could see the heads-up
+display, the numbers, the life support readings — but these things
+were becoming transparent, the way the void had become transparent,
+the way everything at the boundary became transparent when you moved
+through it rather than looking at it.
+
+At ten kilometers, Brother Matthias understood.
+
+He understood what the boundary was. He understood what lay beyond it.
+He understood what Sera had found. He understood why she had not come
+back — not because she had died, but because there was no "back" to
+come to. The boundary was not a wall and not a threshold and not a
+door. It was a horizon, as the physicists had said, but not the kind
+of horizon they meant. It was the horizon between the finite and the
+infinite, between the created and the Creator, between the light that
+had been made and the Light that had made it.
+
+He understood this not as a proposition or a proof but as an
+experience — the experience of the boundary dissolving, of the
+distinction between observer and observed giving way, of the edge of
+the map giving way to the territory that the map had always been
+trying to describe.
+
+The singing continued. The light continued. Brother Matthias continued,
+though "continued" was no longer quite the right word, because the
+time in which continuation happened was becoming transparent too, and
+what remained when time became transparent was not eternity in the
+sense of infinite duration but eternity in the sense of a single,
+perfect, endlessly present moment.
+
+He took one more step.
+
+The telemetry signal reached the station and ceased. Cleanly.
+Completely. As though a door had closed.
+
+                               VIII.
+
+The Monastery of the Last Light stood empty.
+
+The instruments continued to operate. The life support systems
+maintained their cycles. The chapel remained, with its altar and its
+crucifix and its observation window, the oldest light in the universe
+falling across the empty room in a pattern that changed with the
+station's slow rotation — gold, pale, warm, ancient.
+
+On the altar, Brother Matthias had left a note. It was written in his
+careful, slanting hand, on a sheet of the thin paper the station used
+for its records. It read:
+
+     To whoever comes next:
+
+     The boundary is real. The light is real. What lies
+     beyond it is real, and it is not what we feared, and
+     it is not what we hoped. It is what it is, which is
+     more than either fear or hope can hold.
+
+     Maintain the chapel. Pray the hours. Welcome the
+     pilgrims.
+
+     And if one of them asks to walk into the light —
+     let them go. Let them go with your blessing and
+     your prayers and your trust that the Light which
+     made all light is a Light that keeps what it
+     receives.
+
+     In nomine Patris, et Filii, et Spiritus Sancti.
+
+     Brother Matthias, O.L.L.
+
+The note lay on the altar. The light fell on it. The station turned,
+slowly, in the void, at the boundary of everything, and the cosmic
+microwave background glowed on, patient and ancient and warm, and the
+monastery waited for whoever would come next to stand at the window
+and look at the light and ask the question that the light had always
+been asking, in its silent, luminous, thirteen-billion-year-old voice:
+
+What lies beyond?
+
+The answer was there. It had always been there. It was waiting, as it
+had always been waiting, at the edge of the map, in the last light,
+in the place where the known ended and the unknown began and the
+boundary between them was not a wall but a welcome.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+GUNNAR ERIKSSON is a Swedish writer whose stories of deep space travel
+and generation ships have graced these pages since issue #16. A literary
+translator by profession, he writes his fiction in English from his home
+in Stockholm, and his prose carries the spare, luminous quality of a
+Scandinavian winter. His stories have appeared in Galaxy, The Magazine
+of Fantasy and Science Fiction, and several Swedish-language anthologies.
+Ray Bradbury called his debut story "The Long Watch" the loneliest and
+most beautiful story he had ever read, a judgment with which this editor
+concurs. "Atlas of Emptiness" is his most ambitious work for us to date,
+and we suspect it may be the most ambitious thing we publish this year.
+
+THEODORE CAIN is the most prolific contributor in the history of this
+magazine, and we are proud of every story he has given us. A former
+technical writer at General Motors and a veteran of the Battle of the
+Bulge, Cain writes with the steady reliability of a man who shows up,
+does the job, and delivers on time — and who, when the occasion calls
+for it, delivers something that surprises even his editor. "Borderline"
+is Cain at his most charming: a story about bureaucracy that is somehow
+also a story about the human heart. He lives in Dearborn, Michigan,
+with his wife Jean and continues to write every evening from eight
+to midnight without fail.
+
+CORDELL BEAUMONT writes about alien worlds the way a lover writes about
+the beloved. Born and raised in New Orleans, Beaumont brings the
+sensory richness of the Gulf Coast to every planet he describes, and
+the result is prose of such lush beauty that it occasionally makes
+this editor forget he is reading a manuscript and not standing knee-
+deep in an alien garden. His stories have been a fixture of these
+pages since "The Vermillion Plateau" in issue #10, and "Terra
+Incognita" may be his finest and most sobering work — a story that
+begins in wonder and ends in warning. He lives in the Faubourg Marigny
+with his wife Lisette, a painter, and a courtyard garden of legendary
+splendor.
+
+ROBERT "BOB" FINLEY learned to write in the pulps, and thank God he
+did. A veteran of two hundred stories across every genre the pulp
+magazines offered, Finley brings a narrative velocity and a tough-guy
+wit to his science fiction that no amount of literary ambition can
+replicate. "The Frontier Surgeon" is Finley at his best: a story that
+grabs you by the collar on page one and does not let go until the last
+line. He lives in Chicago with his wife Carol, a number of cats, and
+his inexhaustible supply of Lucky Strikes. He describes his writing
+method as "sit down, start typing, and don't stop until somebody's
+either saved or dead."
+
+LUCIAN MARSH is our dark dreamer, our Lovecraft of the void, and the
+only contributor to this magazine who lists his address as "Arkham,
+Massachusetts" when everyone knows he lives in Newburyport. His stories
+occupy the troubled borderland between science fiction and horror, and
+they are unlike anything else in these pages or anyone else's pages.
+"The Last Frequency" is Marsh at his most unsettling — a story that
+begins as an experiment and ends as an experience that the reader may
+wish they had not had, but will not forget. He communicates with this
+office exclusively by letter and has never been seen in public.
+
+FATHER THOMAS AQUINO, S.J., is an ordained Jesuit priest, a professor
+of philosophy and theology at Loyola University in Baltimore, and one
+of the most thoughtful voices in science fiction. His stories explore
+the intersection of faith and science with a compassion and intellectual
+honesty that this editor finds deeply moving and deeply necessary. "The
+Boundary Keeper" is his most personal work for us — a story about a
+monk at the edge of everything, which is, Father Aquino would remind
+us, precisely where monks have always belonged. He writes slowly,
+carefully, and never more than one or two stories a year, and we
+treasure each one.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have just finished reading "The Bathysphere" by Lucian Marsh in your
+March issue and I must say that I have not slept properly since. The
+image of the diving bell descending into the dark water of Europa's
+subsurface ocean will stay with me until I am old and gray, which at
+this rate will be next week. Mr. Marsh is either a genius or a madman
+and I suspect he is both. More, please — but perhaps not immediately.
+I need to recover.
+
+                              — Arthur P. Holbrook
+                                 Providence, Rhode Island
+
+Dear Max,
+
+The Eriksson story in your February issue ("The Passage of Light") was
+exquisite. I have read it three times and each time I find something
+new. There is a sentence on page 17 — "The stars were not above them
+or below them but around them, and the ship moved through them the way
+a thought moves through silence" — that I would like to have engraved
+on my tombstone, if tombstones were allowed to be that long. Please
+tell Mr. Eriksson that he has a devoted reader in Flagstaff.
+
+                              — Dr. Marian Oakes
+                                 Lowell Observatory, Flagstaff, Arizona
+
+Dear Editor,
+
+I wish to register a technical objection to "Crash Vector" by Bob
+Finley in your April issue. The protagonist's ship cannot possibly
+have executed the maneuver described on page 89, as it would require
+a delta-v exceeding the ship's stated fuel capacity by a factor of
+three. I have enclosed my calculations on the attached sheet. That said,
+I enjoyed the story enormously and read it twice. Please do not let
+Mr. Finley anywhere near an actual spacecraft.
+
+                              — James Wentworth, M.E.
+                                 Boeing Aircraft Company
+                                 Seattle, Washington
+
+Dear Mr. Sterling,
+
+Is it too much to ask for more stories like Father Aquino's "The
+Problem of Other Souls" from your December issue? In a field that too
+often treats religion as either a joke or a villain, Father Aquino
+writes about faith with intelligence and respect. I am not a religious
+man, but his story made me think more carefully about what I do and
+do not believe, and any story that accomplishes that has earned its
+place in the world. My compliments to the Father.
+
+                              — Leonard Strauss
+                                 New York, N.Y.
+
+We are grateful for every letter we receive and encourage our readers
+to keep writing. Address your correspondence to: Letters, Tales from
+the Future and Beyond, Meridian Publishing Company, 114 East 32nd
+Street, New York 16, N.Y.                                     — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+THE STARS MY DESTINATION by Alfred Bester
+(Signet Books, 1956, $0.35)
+
+Reviewed by Maxwell Sterling
+
+Mr. Bester has done it again. Three years after "The Demolished Man"
+announced him as the most audacious stylist in science fiction, he
+returns with a novel that makes its predecessor look restrained.
+Gully Foyle, the most unlikely hero in the genre's history — a brute,
+a monster, a man driven by pure vengeance — blazes through a future
+of teleportation, corporate warfare, and synaesthetic excess in a
+narrative that never pauses for breath and never condescends to
+comfort. Bester's prose is pyrotechnic, his plotting relentless, and
+his vision of humanity both savage and strangely hopeful. This is
+science fiction as fireworks display: blinding, deafening, and over
+too soon. Essential.
+
+DOUBLE STAR by Robert A. Heinlein
+(Doubleday, 1956, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Mr. Heinlein, our genre's most dependable craftsman, has written a
+political thriller disguised as a science fiction novel — or perhaps
+a science fiction novel disguised as a political thriller. When a down-
+on-his-luck actor is recruited to impersonate a kidnapped political
+leader, the result is a tight, suspenseful, and surprisingly touching
+story about identity, duty, and the strange alchemy by which pretense
+becomes reality. Heinlein's prose is characteristically clean and
+assured, his plotting is airtight, and his protagonist — vain,
+talented, and unexpectedly noble — is one of his most memorable
+creations. This will win awards, and it should.
+
+THE DEATH OF GRASS by John Christopher
+(Michael Joseph, 1956, 12s 6d)
+
+Reviewed by Maxwell Sterling
+
+Mr. Christopher's British catastrophe novel imagines a world in which
+a virus destroys all grass species — wheat, rice, barley, the lawns
+of England — and civilization collapses with terrifying speed. It is
+a bleak, unsentimental, and ruthlessly logical book, and it is one
+of the most frightening novels I have read in years. Christopher is
+less interested in the catastrophe itself than in its effect on
+human morality: how quickly do decent people abandon decency when
+survival is at stake? His answer is: very quickly indeed. Not a
+comfortable read, but a necessary one. Recommended, with the
+suggestion that you keep a box of crackers nearby.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #42 — June 1956
+
+We are pleased to announce the contents of our June issue:
+
+"THE MERIDIAN PROBLEM" by Dr. Vincent Koslov — A navigational anomaly
+near a neutron star forces a research team to reconsider the
+fundamental assumptions of interstellar cartography. When their
+instruments disagree about the location of the star itself, the
+question becomes not where they are but what "where" means. Koslov
+at his most rigorous and most philosophical.
+
+"THE SULTAN OF CENTAURI" by Rex Drummond — Captain Jace Rennick
+encounters a self-proclaimed emperor on an uncharted world who
+commands a fleet of ships that should not exist and an army of beings
+that may not be alive. Drummond at his most swashbuckling.
+
+"THE GARDEN CONSTANT" by Margaret Thornton — On a terraformed world,
+an ecologist discovers that the planet's imported biosphere has begun
+to produce a molecule that exists nowhere else in the known universe.
+Thornton at her most luminous.
+
+"THE MIDNIGHT TRANSFER" by Theodore Cain — A routine personnel transfer
+between deep-space stations goes wrong when the transport ship arrives
+at its destination carrying one more passenger than it departed with.
+Cain at his most suspenseful.
+
+Plus: a new story by Agnes Whitfield, letters from our readers, book
+reviews, and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1956 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Frank R. Kellerman
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

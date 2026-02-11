@@ -1,0 +1,6289 @@
+{
+  "title": "Tales from the Future and Beyond",
+  "total_issues": 78,
+  "era_i_count": 48,
+  "era_ii_count": 30,
+  "years": [
+    1953,
+    1954,
+    1955,
+    1956,
+    1964,
+    1965,
+    1966,
+    1967,
+    1968
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "number_padded": "001",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1953,
+      "date": "January 1953",
+      "era": "I",
+      "filename": "issue_001_jan_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Star Ladder",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Long Equations",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Doublecross on Deimos",
+          "author": "Rex Drummond",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "Nanny Mark IV",
+          "author": "Arthur Wainwright",
+          "page": 46
+        },
+        {
+          "number": 4,
+          "title": "Tomorrow's Vintage",
+          "author": "Theodore Cain",
+          "page": 64
+        },
+        {
+          "number": 5,
+          "title": "Greenfall",
+          "author": "Margaret Thornton",
+          "page": 78
+        },
+        {
+          "number": 6,
+          "title": "Lunar Liquidation",
+          "author": "Douglas Pemberton",
+          "page": 100
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 114
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 116
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 118
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 120
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 2,
+      "number_padded": "002",
+      "month": "February",
+      "month_abbr": "feb",
+      "year": 1953,
+      "date": "February 1953",
+      "era": "I",
+      "filename": "issue_002_feb_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Signal from Beyond",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Signal from the Abyss",
+          "author": "Harrison Blackwood",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Thirty Days to Mercury",
+          "author": "Robert \"Bob\" Finley",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "The Cartographer's Confession",
+          "author": "Oscar Lennox",
+          "page": 48
+        },
+        {
+          "number": 4,
+          "title": "Steel Harvest",
+          "author": "Theodore Cain",
+          "page": 70
+        },
+        {
+          "number": 5,
+          "title": "Siege on the Red Mountain",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 84
+        },
+        {
+          "number": 6,
+          "title": "Wednesday's Child",
+          "author": "Phyllis Crenshaw",
+          "page": 104
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 122
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 124
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 127
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 130
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 3,
+      "number_padded": "003",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1953,
+      "date": "March 1953",
+      "era": "I",
+      "filename": "issue_003_mar_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Greening",
+        "artist": "Vincent Napoli"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Greening of Acidalia",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Loyalty Suite",
+          "author": "Franklin Hoyt",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "The Pirate Queen of the Asteroids",
+          "author": "Rex Drummond",
+          "page": 46
+        },
+        {
+          "number": 4,
+          "title": "Progeny",
+          "author": "Theodore Cain",
+          "page": 64
+        },
+        {
+          "number": 5,
+          "title": "Dust and Cinders",
+          "author": "Agnes Whitfield",
+          "page": 76
+        },
+        {
+          "number": 6,
+          "title": "The Last Saturnalia",
+          "author": "Cordell Beaumont",
+          "page": 90
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 106
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 108
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 110
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 112
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 4,
+      "number_padded": "004",
+      "month": "April",
+      "month_abbr": "apr",
+      "year": 1953,
+      "date": "April 1953",
+      "era": "I",
+      "filename": "issue_004_apr_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Egg Rebellion",
+        "artist": "Frank R. Paul"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Illegal Egg",
+          "author": "Douglas Pemberton",
+          "page": 3
+        },
+        {
+          "number": 2,
+          "title": "Weapons Free",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "Replicant's Garden",
+          "author": "Arthur Wainwright",
+          "page": 48
+        },
+        {
+          "number": 4,
+          "title": "Causality Loop de Loop",
+          "author": "Phyllis Crenshaw",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Black Sky Psalms",
+          "author": "Father Thomas Aquino",
+          "page": 91
+        },
+        {
+          "number": 6,
+          "title": "Europa Bones",
+          "author": "Theodore Cain",
+          "page": 114
+        },
+        {
+          "number": 7,
+          "title": "Moonrise over Valeria",
+          "author": "Cordell Beaumont",
+          "page": 131
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 158
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 161
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 164
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 167
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 5,
+      "number_padded": "005",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1953,
+      "date": "May 1953",
+      "era": "I",
+      "filename": "issue_005_may_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Lightless World",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Cradle and the Void",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Every Mouth a Rictus",
+          "author": "Lucian Marsh",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Chromium Thunder",
+          "author": "Rex Drummond",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "Probate of Worlds",
+          "author": "Theodore Cain",
+          "page": 84
+        },
+        {
+          "number": 5,
+          "title": "Seven Bridges",
+          "author": "Dr. Vincent Koslov",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "Skywright",
+          "author": "Danny Kowalski",
+          "page": 132
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 148
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 150
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 154
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 158
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 6,
+      "number_padded": "006",
+      "month": "June",
+      "month_abbr": "jun",
+      "year": 1953,
+      "date": "June 1953",
+      "era": "I",
+      "filename": "issue_006_jun_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Orbit of Fire",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Orbit of Ashes",
+          "author": "Robert \"Bob\" Finley",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Turing Bride",
+          "author": "Arthur Wainwright",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "Amber Preserve",
+          "author": "Margaret Thornton",
+          "page": 48
+        },
+        {
+          "number": 4,
+          "title": "Professor Quist's Coin",
+          "author": "Douglas Pemberton",
+          "page": 68
+        },
+        {
+          "number": 5,
+          "title": "Reunion at Rigel",
+          "author": "Theodore Cain",
+          "page": 86
+        },
+        {
+          "number": 6,
+          "title": "Vanguard Down",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 104
+        },
+        {
+          "number": 7,
+          "title": "The Inheritance of Dust",
+          "author": "Agnes Whitfield",
+          "page": 124
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 142
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 144
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 146
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 148
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 7,
+      "number_padded": "007",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1953,
+      "date": "July 1953",
+      "era": "I",
+      "filename": "issue_007_jul_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Mirror Between Stars",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Alena's Divergence",
+          "author": "Dr. Vincent Koslov",
+          "page": 3
+        },
+        {
+          "number": 2,
+          "title": "Gunslinger's Moon",
+          "author": "Rex Drummond",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "Bottled Days",
+          "author": "Theodore Cain",
+          "page": 49
+        },
+        {
+          "number": 4,
+          "title": "Moth and Flame",
+          "author": "Lucian Marsh",
+          "page": 66
+        },
+        {
+          "number": 5,
+          "title": "Twelve of Pete",
+          "author": "Danny Kowalski",
+          "page": 84
+        },
+        {
+          "number": 6,
+          "title": "A Sermon in Starlight",
+          "author": "Father Thomas Aquino",
+          "page": 98
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 116
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 118
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 122
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 125
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 8,
+      "number_padded": "008",
+      "month": "August",
+      "month_abbr": "aug",
+      "year": 1953,
+      "date": "August 1953",
+      "era": "I",
+      "filename": "issue_008_aug_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Climbing the Sky",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Beanstalk",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Dead Man's Hand on Titan",
+          "author": "Robert \"Bob\" Finley",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Bootstrap",
+          "author": "Phyllis Crenshaw",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Spoils of the Red Planet",
+          "author": "Theodore Cain",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Iron Tide",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 98
+        },
+        {
+          "number": 6,
+          "title": "Coral Laughter",
+          "author": "Cordell Beaumont",
+          "page": 118
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 150
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 142
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 146
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 152
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 9,
+      "number_padded": "009",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1953,
+      "date": "September 1953",
+      "era": "I",
+      "filename": "issue_009_sep_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Blackboard Equation",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Forbidden Questions",
+          "author": "Franklin Hoyt",
+          "page": 3
+        },
+        {
+          "number": 2,
+          "title": "Professor Chronos and the Freshman Paradox",
+          "author": "Phyllis Crenshaw",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "Singing Sands",
+          "author": "Dr. Vincent Koslov",
+          "page": 46
+        },
+        {
+          "number": 4,
+          "title": "Blood and Rocket Fuel",
+          "author": "Rex Drummond",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Old Pedagogue",
+          "author": "Theodore Cain",
+          "page": 94
+        },
+        {
+          "number": 6,
+          "title": "What Grows in the Dark",
+          "author": "Margaret Thornton",
+          "page": 110
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 134
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 137
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 140
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 143
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 10,
+      "number_padded": "010",
+      "month": "October",
+      "month_abbr": "oct",
+      "year": 1953,
+      "date": "October 1953",
+      "era": "I",
+      "filename": "issue_010_oct_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Lantern Between the Stars",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "House Between Stars",
+          "author": "Harrison Blackwood",
+          "page": 3
+        },
+        {
+          "number": 2,
+          "title": "Hollow Astronaut",
+          "author": "Lucian Marsh",
+          "page": 28
+        },
+        {
+          "number": 3,
+          "title": "Jack O'Lantern Junction",
+          "author": "Theodore Cain",
+          "page": 48
+        },
+        {
+          "number": 4,
+          "title": "The Ghost in the Machine",
+          "author": "Arthur Wainwright",
+          "page": 63
+        },
+        {
+          "number": 5,
+          "title": "Things Undone",
+          "author": "Agnes Whitfield",
+          "page": 82
+        },
+        {
+          "number": 6,
+          "title": "Séance in the Static",
+          "author": "Robert \"Bob\" Finley",
+          "page": 97
+        },
+        {
+          "number": 7,
+          "title": "Masquerade at the End of Time",
+          "author": "Oscar Lennox",
+          "page": 111
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 1
+        },
+        {
+          "title": "About the Authors",
+          "page": 130
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 133
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 137
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 140
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 11,
+      "number_padded": "011",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1953,
+      "date": "November 1953",
+      "era": "I",
+      "filename": "issue_011_nov_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Cathedral Among the Stars",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Cathedral of Ice",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Ledger of War",
+          "author": "Theodore Cain",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Feast of the Forgotten",
+          "author": "Cordell Beaumont",
+          "page": 52
+        },
+        {
+          "number": 4,
+          "title": "Rust and Remember",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 76
+        },
+        {
+          "number": 5,
+          "title": "Confessional Protocol",
+          "author": "Robert \"Bob\" Finley",
+          "page": 98
+        },
+        {
+          "number": 6,
+          "title": "A Light in November",
+          "author": "Danny Kowalski",
+          "page": 116
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 132
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 134
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 137
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 140
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 12,
+      "number_padded": "012",
+      "month": "December",
+      "month_abbr": "dec",
+      "year": 1953,
+      "date": "December 1953",
+      "era": "I",
+      "filename": "issue_012_dec_1953.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Star Over Bethlehem Station",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Bethlehem Run",
+          "author": "Father Thomas Aquino",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Twelve Parsecs of Christmas",
+          "author": "Theodore Cain",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Nutcracker Protocol",
+          "author": "Arthur Wainwright",
+          "page": 52
+        },
+        {
+          "number": 4,
+          "title": "Winter on Worlds Without End",
+          "author": "Dr. Vincent Koslov",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Gift of the Magi, Interstellar",
+          "author": "Douglas Pemberton",
+          "page": 100
+        },
+        {
+          "number": 6,
+          "title": "Midnight Clear",
+          "author": "Agnes Whitfield",
+          "page": 116
+        },
+        {
+          "number": 7,
+          "title": "Comet's Tale",
+          "author": "Phyllis Crenshaw",
+          "page": 134
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 152
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 155
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 158
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 160
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 13,
+      "number_padded": "013",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1954,
+      "date": "January 1954",
+      "era": "I",
+      "filename": "issue_013_jan_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "First Light on a New World",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Planetfall",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "First House on Mars",
+          "author": "Theodore Cain",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Iron Marshal",
+          "author": "Rex Drummond",
+          "page": 50
+        },
+        {
+          "number": 4,
+          "title": "The Widow's Walk",
+          "author": "Harrison Blackwood",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Reset",
+          "author": "Robert \"Bob\" Finley",
+          "page": 96
+        },
+        {
+          "number": 6,
+          "title": "Transmutation Lessons",
+          "author": "Margaret Thornton",
+          "page": 112
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 136
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 138
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 142
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 146
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 14,
+      "number_padded": "014",
+      "month": "February",
+      "month_abbr": "feb",
+      "year": 1954,
+      "date": "February 1954",
+      "era": "I",
+      "filename": "issue_014_feb_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Two Stars Entwined",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Letters Across Light-Years",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "My Husband, the Martian",
+          "author": "Phyllis Crenshaw",
+          "page": 30
+        },
+        {
+          "number": 3,
+          "title": "Heart of Iron Wire",
+          "author": "Arthur Wainwright",
+          "page": 50
+        },
+        {
+          "number": 4,
+          "title": "Cupid's Orbital",
+          "author": "Theodore Cain",
+          "page": 70
+        },
+        {
+          "number": 5,
+          "title": "Twilight Courtship",
+          "author": "Cordell Beaumont",
+          "page": 88
+        },
+        {
+          "number": 6,
+          "title": "Foxhole Valentine",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 108
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 124
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 126
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 128
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 130
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 15,
+      "number_padded": "015",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1954,
+      "date": "March 1954",
+      "era": "I",
+      "filename": "issue_015_mar_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Sunbuilders",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Dyson Initiative, Part I",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Obedience Index",
+          "author": "Franklin Hoyt",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Treasure of the Sunken Fleet",
+          "author": "Rex Drummond",
+          "page": 52
+        },
+        {
+          "number": 4,
+          "title": "Forking Paths",
+          "author": "Oscar Lennox",
+          "page": 70
+        },
+        {
+          "number": 5,
+          "title": "Sandcastle Empires",
+          "author": "Theodore Cain",
+          "page": 92
+        },
+        {
+          "number": 6,
+          "title": "Beneath the Rust",
+          "author": "Agnes Whitfield",
+          "page": 106
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 124
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 126
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 128
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 132
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 16,
+      "number_padded": "016",
+      "month": "April",
+      "month_abbr": "apr",
+      "year": 1954,
+      "date": "April 1954",
+      "era": "I",
+      "filename": "issue_016_apr_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Sky-Whale Armada",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Cloud Kingdoms of Nephele",
+          "author": "Cordell Beaumont",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Silicon Dreams",
+          "author": "Dr. Vincent Koslov",
+          "page": 30
+        },
+        {
+          "number": 3,
+          "title": "The Taxman Cometh",
+          "author": "Douglas Pemberton",
+          "page": 52
+        },
+        {
+          "number": 4,
+          "title": "Tidal Lock",
+          "author": "Theodore Cain",
+          "page": 68
+        },
+        {
+          "number": 5,
+          "title": "Children of the Magnetic Field",
+          "author": "Margaret Thornton",
+          "page": 86
+        },
+        {
+          "number": 6,
+          "title": "The Siege of Fortress Luna",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 106
+        },
+        {
+          "number": 7,
+          "title": "World Without Shadows",
+          "author": "Robert \"Bob\" Finley",
+          "page": 126
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 142
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 144
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 147
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 150
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 17,
+      "number_padded": "017",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1954,
+      "date": "May 1954",
+      "era": "I",
+      "filename": "issue_017_may_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Mutiny at Midnight",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Mutineer's Equation",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Rust Belt Rebellion",
+          "author": "Rex Drummond",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "A Funny Thing Happened on the Way to Alpha Centauri",
+          "author": "Theodore Cain",
+          "page": 54
+        },
+        {
+          "number": 4,
+          "title": "The Dissident's Frequency",
+          "author": "Franklin Hoyt",
+          "page": 70
+        },
+        {
+          "number": 5,
+          "title": "Queen's Gambit on Ganymede",
+          "author": "Robert \"Bob\" Finley",
+          "page": 92
+        },
+        {
+          "number": 6,
+          "title": "The Cartographer's Daughter",
+          "author": "Danny Kowalski",
+          "page": 112
+        },
+        {
+          "number": 7,
+          "title": "Bloom",
+          "author": "Margaret Thornton",
+          "page": 128
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 152
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 154
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 157
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 160
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 18,
+      "number_padded": "018",
+      "month": "June",
+      "month_abbr": "jun",
+      "year": 1954,
+      "date": "June 1954",
+      "era": "I",
+      "filename": "issue_018_jun_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Lunar Sabotage",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Thunder Over Tranquility",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Pleasure Gardens of Procyon",
+          "author": "Cordell Beaumont",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "The Time Traveler's Cookbook",
+          "author": "Phyllis Crenshaw",
+          "page": 64
+        },
+        {
+          "number": 4,
+          "title": "Salvage Rights",
+          "author": "Theodore Cain",
+          "page": 86
+        },
+        {
+          "number": 5,
+          "title": "The Equation That Ate Chicago",
+          "author": "Douglas Pemberton",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "Solar Wind",
+          "author": "Robert \"Bob\" Finley",
+          "page": 120
+        },
+        {
+          "number": 7,
+          "title": "The Bone Orchard",
+          "author": "Lucian Marsh",
+          "page": 144
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 168
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 172
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 176
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 180
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 19,
+      "number_padded": "019",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1954,
+      "date": "July 1954",
+      "era": "I",
+      "filename": "issue_019_jul_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Parliament of Steel",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Robot Republic",
+          "author": "Arthur Wainwright",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Orchid Equation",
+          "author": "Margaret Thornton",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "The Coyote Run",
+          "author": "Robert \"Bob\" Finley",
+          "page": 54
+        },
+        {
+          "number": 4,
+          "title": "Yesterday's Tomorrow",
+          "author": "Phyllis Crenshaw",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "The Quiet After",
+          "author": "Agnes Whitfield",
+          "page": 94
+        },
+        {
+          "number": 6,
+          "title": "Colosseum of the Stars",
+          "author": "Rex Drummond",
+          "page": 118
+        },
+        {
+          "number": 7,
+          "title": "The Inheritance",
+          "author": "Theodore Cain",
+          "page": 140
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 158
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 162
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 166
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 170
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 20,
+      "number_padded": "020",
+      "month": "August",
+      "month_abbr": "aug",
+      "year": 1954,
+      "date": "August 1954",
+      "era": "I",
+      "filename": "issue_020_aug_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Spanning the Void",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Bridge to Forever",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Confession Booth",
+          "author": "Father Thomas Aquino",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Counterfeit Cosmos",
+          "author": "Theodore Cain",
+          "page": 60
+        },
+        {
+          "number": 4,
+          "title": "The Doomsday Caucus",
+          "author": "Franklin Hoyt",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "The Wanderer's Rest",
+          "author": "Gunnar Eriksson",
+          "page": 102
+        },
+        {
+          "number": 6,
+          "title": "Dead Run to Pluto",
+          "author": "Robert \"Bob\" Finley",
+          "page": 126
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 142
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 144
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 147
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 150
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 21,
+      "number_padded": "021",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1954,
+      "date": "September 1954",
+      "era": "I",
+      "filename": "issue_021_sep_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Infinite Stacks",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Librarian of Babel Station",
+          "author": "Oscar Lennox",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Freshman Year on Phobos",
+          "author": "Danny Kowalski",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "The Weight of Light",
+          "author": "Dr. Vincent Koslov",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "The Substitute",
+          "author": "Arthur Wainwright",
+          "page": 90
+        },
+        {
+          "number": 5,
+          "title": "Three-Body Tango",
+          "author": "Theodore Cain",
+          "page": 116
+        },
+        {
+          "number": 6,
+          "title": "The Examiner",
+          "author": "Lucian Marsh",
+          "page": 138
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 166
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 168
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 171
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 174
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 22,
+      "number_padded": "022",
+      "month": "October",
+      "month_abbr": "oct",
+      "year": 1954,
+      "date": "October 1954",
+      "era": "I",
+      "filename": "issue_022_oct_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Skin Merchant Calls",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Skin Merchant",
+          "author": "Lucian Marsh",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Phantom Frequency",
+          "author": "Harrison Blackwood",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "The Pumpkin Patch Paradox",
+          "author": "Phyllis Crenshaw",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "Harvest Moon",
+          "author": "Theodore Cain",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "The Dollmaker's Apprentice",
+          "author": "Agnes Whitfield",
+          "page": 100
+        },
+        {
+          "number": 6,
+          "title": "Something in the Walls",
+          "author": "Robert \"Bob\" Finley",
+          "page": 120
+        },
+        {
+          "number": 7,
+          "title": "All Hallows' Parallax",
+          "author": "Oscar Lennox",
+          "page": 140
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 166
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 170
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 174
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 178
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 23,
+      "number_padded": "023",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1954,
+      "date": "November 1954",
+      "era": "I",
+      "filename": "issue_023_nov_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Autumn of Stars",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Archivist of Endings",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Last Campaign",
+          "author": "Franklin Hoyt",
+          "page": 30
+        },
+        {
+          "number": 3,
+          "title": "Indian Summer on Io",
+          "author": "Theodore Cain",
+          "page": 52
+        },
+        {
+          "number": 4,
+          "title": "The Thanatos Gambit",
+          "author": "Rex Drummond",
+          "page": 68
+        },
+        {
+          "number": 5,
+          "title": "The Giving Trees of Centauri",
+          "author": "Margaret Thornton",
+          "page": 90
+        },
+        {
+          "number": 6,
+          "title": "The Weight of Tomorrow",
+          "author": "Father Thomas Aquino",
+          "page": 110
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 130
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 132
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 134
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 136
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 24,
+      "number_padded": "024",
+      "month": "December",
+      "month_abbr": "dec",
+      "year": 1954,
+      "date": "December 1954",
+      "era": "I",
+      "filename": "issue_024_dec_1954.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Christmas Among the Stars",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Starlight Express",
+          "author": "Theodore Cain",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Midwinter Night's Dream",
+          "author": "Douglas Pemberton",
+          "page": 36
+        },
+        {
+          "number": 3,
+          "title": "The Magi Protocol",
+          "author": "Dr. Vincent Koslov",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "Ghosts of Christmas Yet to Come",
+          "author": "Phyllis Crenshaw",
+          "page": 96
+        },
+        {
+          "number": 5,
+          "title": "Silent Night, Frozen World",
+          "author": "Agnes Whitfield",
+          "page": 126
+        },
+        {
+          "number": 6,
+          "title": "The Gift Unasked",
+          "author": "Arthur Wainwright",
+          "page": 156
+        },
+        {
+          "number": 7,
+          "title": "Homecoming",
+          "author": "Robert \"Bob\" Finley",
+          "page": 192
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 214
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 217
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 220
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 224
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 25,
+      "number_padded": "025",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1955,
+      "date": "January 1955",
+      "era": "I",
+      "filename": "issue_025_jan_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Builders",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Dyson Initiative, Part II",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Emissary",
+          "author": "Theodore Cain",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "The Prometheus Verdict",
+          "author": "Dr. Vincent Koslov",
+          "page": 64
+        },
+        {
+          "number": 4,
+          "title": "The Foxhound of Mars",
+          "author": "Rex Drummond",
+          "page": 94
+        },
+        {
+          "number": 5,
+          "title": "The Memory Palace",
+          "author": "Lucian Marsh",
+          "page": 118
+        },
+        {
+          "number": 6,
+          "title": "Sanctuary",
+          "author": "Father Thomas Aquino",
+          "page": 144
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 166
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 168
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 171
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 174
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 26,
+      "number_padded": "026",
+      "month": "February",
+      "month_abbr": "feb",
+      "year": 1955,
+      "date": "February 1955",
+      "era": "I",
+      "filename": "issue_026_feb_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Two Hearts in Freefall",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "A Marriage of Gravities",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Love in the Time of Light-Lag",
+          "author": "Theodore Cain",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "The Doppelganger's Wife",
+          "author": "Oscar Lennox",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Heart of Iron",
+          "author": "Arthur Wainwright",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Siren Song",
+          "author": "Robert \"Bob\" Finley",
+          "page": 112
+        },
+        {
+          "number": 6,
+          "title": "Two Hundred Valentines",
+          "author": "Phyllis Crenshaw",
+          "page": 134
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 152
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 156
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 160
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 164
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 27,
+      "number_padded": "027",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1955,
+      "date": "March 1955",
+      "era": "I",
+      "filename": "issue_027_mar_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Chain of Worlds",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Orbital Archipelago",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "When Coins Land on Edge",
+          "author": "Dr. Vincent Koslov",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Captain Kane's Honor",
+          "author": "Rex Drummond",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Codebreaker",
+          "author": "Theodore Cain",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "The Petition",
+          "author": "Franklin Hoyt",
+          "page": 96
+        },
+        {
+          "number": 6,
+          "title": "Last Garden Standing",
+          "author": "Agnes Whitfield",
+          "page": 118
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 140
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 143
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 146
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 148
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 28,
+      "number_padded": "028",
+      "month": "April",
+      "month_abbr": "apr",
+      "year": 1955,
+      "date": "April 1955",
+      "era": "I",
+      "filename": "issue_028_apr_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Tea with the Tentacled",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Nine Thousand Pages of Manners",
+          "author": "Douglas Pemberton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Upgrade",
+          "author": "Arthur Wainwright",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Stowaway",
+          "author": "Danny Kowalski",
+          "page": 68
+        },
+        {
+          "number": 4,
+          "title": "Retrograde Man",
+          "author": "Phyllis Crenshaw",
+          "page": 94
+        },
+        {
+          "number": 5,
+          "title": "Operation Looking Glass",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 120
+        },
+        {
+          "number": 6,
+          "title": "Spore",
+          "author": "Margaret Thornton",
+          "page": 150
+        },
+        {
+          "number": 7,
+          "title": "The Penny Dreadful of Planet X",
+          "author": "Robert \"Bob\" Finley",
+          "page": 184
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 206
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 210
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 213
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 216
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 29,
+      "number_padded": "029",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1955,
+      "date": "May 1955",
+      "era": "I",
+      "filename": "issue_029_may_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Boundary",
+        "artist": "Gerald \"Gerry\" Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Beyond the Heliopause",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Mapmaker's Folly",
+          "author": "Cordell Beaumont",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "The Last Patrol",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 68
+        },
+        {
+          "number": 4,
+          "title": "The Collector",
+          "author": "Theodore Cain",
+          "page": 92
+        },
+        {
+          "number": 5,
+          "title": "The Prophet of Proxima",
+          "author": "Harrison Blackwood",
+          "page": 114
+        },
+        {
+          "number": 6,
+          "title": "Binary",
+          "author": "Danny Kowalski",
+          "page": 146
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 170
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 173
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 176
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 180
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 30,
+      "number_padded": "030",
+      "month": "June",
+      "month_abbr": "jun",
+      "year": 1955,
+      "date": "June 1955",
+      "era": "I",
+      "filename": "issue_030_jun_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Crimson Nebula",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Zara Cole and the Crimson Nebula",
+          "author": "Rex Drummond",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Patent on the Universe",
+          "author": "Douglas Pemberton",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Crucible",
+          "author": "Theodore Cain",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "Greenhouse Effect",
+          "author": "Margaret Thornton",
+          "page": 76
+        },
+        {
+          "number": 5,
+          "title": "Lighthouse at the Edge",
+          "author": "Gunnar Eriksson",
+          "page": 100
+        },
+        {
+          "number": 6,
+          "title": "Tin Soldier",
+          "author": "Robert \"Bob\" Finley",
+          "page": 124
+        },
+        {
+          "number": 7,
+          "title": "The Whispering Gallery",
+          "author": "Lucian Marsh",
+          "page": 144
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 168
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 174
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 178
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 182
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 31,
+      "number_padded": "031",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1955,
+      "date": "July 1955",
+      "era": "I",
+      "filename": "issue_031_jul_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Ambassador's Arrival",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Ambassador's Ball",
+          "author": "Cordell Beaumont",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Bohr Maneuver",
+          "author": "Dr. Vincent Koslov",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Man's Best Friend, Mark VII",
+          "author": "Theodore Cain",
+          "page": 64
+        },
+        {
+          "number": 4,
+          "title": "Turncoat",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Midnight Shift",
+          "author": "Robert \"Bob\" Finley",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "Echo Garden",
+          "author": "Harrison Blackwood",
+          "page": 124
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 150
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 153
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 156
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 158
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 32,
+      "number_padded": "032",
+      "month": "August",
+      "month_abbr": "aug",
+      "year": 1955,
+      "date": "August 1955",
+      "era": "I",
+      "filename": "issue_032_aug_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Governing Light",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Governing Light",
+          "author": "Arthur Wainwright",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Palace Revolution",
+          "author": "Franklin Hoyt",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Babel Bazaar",
+          "author": "Theodore Cain",
+          "page": 60
+        },
+        {
+          "number": 4,
+          "title": "Thunderhead",
+          "author": "Rex Drummond",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Librarian's Secret",
+          "author": "Oscar Lennox",
+          "page": 112
+        },
+        {
+          "number": 6,
+          "title": "One Small Step",
+          "author": "Danny Kowalski",
+          "page": 140
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 164
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 167
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 170
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 174
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 33,
+      "number_padded": "033",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1955,
+      "date": "September 1955",
+      "era": "I",
+      "filename": "issue_033_sep_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Forbidden Classroom",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Forbidden Lecture",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Apprentice",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Professor Paradox",
+          "author": "Phyllis Crenshaw",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Unwritten",
+          "author": "Theodore Cain",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "Test of Fears",
+          "author": "Lucian Marsh",
+          "page": 96
+        },
+        {
+          "number": 6,
+          "title": "Field Trip to the Fossil Fields",
+          "author": "Danny Kowalski",
+          "page": 120
+        },
+        {
+          "number": 7,
+          "title": "Scholar's Dilemma",
+          "author": "Father Thomas Aquino",
+          "page": 140
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 166
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 168
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 171
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 173
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 34,
+      "number_padded": "034",
+      "month": "October",
+      "month_abbr": "oct",
+      "year": 1955,
+      "date": "October 1955",
+      "era": "I",
+      "filename": "issue_034_oct_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Face in the Void",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Thing in the Walls of the World",
+          "author": "Harrison Blackwood",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Preservation Society",
+          "author": "Lucian Marsh",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "The Jack-o'-Lantern Nebula",
+          "author": "Theodore Cain",
+          "page": 72
+        },
+        {
+          "number": 4,
+          "title": "The Inheritance of Teeth",
+          "author": "Agnes Whitfield",
+          "page": 96
+        },
+        {
+          "number": 5,
+          "title": "Nightwatch",
+          "author": "Robert \"Bob\" Finley",
+          "page": 122
+        },
+        {
+          "number": 6,
+          "title": "The Séance Machine",
+          "author": "Phyllis Crenshaw",
+          "page": 146
+        },
+        {
+          "number": 7,
+          "title": "The Masked Ball",
+          "author": "Oscar Lennox",
+          "page": 174
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 206
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 209
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 213
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 216
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 35,
+      "number_padded": "035",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1955,
+      "date": "November 1955",
+      "era": "I",
+      "filename": "issue_035_nov_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Frozen Garden",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Seed Vault",
+          "author": "Margaret Thornton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Debts Unpaid",
+          "author": "Theodore Cain",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "The Veterans' Hospital",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 50
+        },
+        {
+          "number": 4,
+          "title": "Calories of Gratitude",
+          "author": "Dr. Vincent Koslov",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Ancestor Simulation",
+          "author": "Arthur Wainwright",
+          "page": 96
+        },
+        {
+          "number": 6,
+          "title": "Homefire",
+          "author": "Gunnar Eriksson",
+          "page": 116
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 138
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 140
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 142
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 144
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 36,
+      "number_padded": "036",
+      "month": "December",
+      "month_abbr": "dec",
+      "year": 1955,
+      "date": "December 1955",
+      "era": "I",
+      "filename": "issue_036_dec_1955.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Peace in No-Man's-Land",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Christmas Armistice",
+          "author": "Col. James \"Buck\" Stanton (Ret.)",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Toymaker's Theorem",
+          "author": "Arthur Wainwright",
+          "page": 30
+        },
+        {
+          "number": 3,
+          "title": "Solstice on the Long Night",
+          "author": "Theodore Cain",
+          "page": 54
+        },
+        {
+          "number": 4,
+          "title": "Reindeer Station",
+          "author": "Douglas Pemberton",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Promethean Gift",
+          "author": "Father Thomas Aquino",
+          "page": 90
+        },
+        {
+          "number": 6,
+          "title": "Auld Lang Syne, Interstellar",
+          "author": "Robert \"Bob\" Finley",
+          "page": 118
+        },
+        {
+          "number": 7,
+          "title": "Snow Globe",
+          "author": "Harrison Blackwood",
+          "page": 136
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 166
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 168
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 172
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 174
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 37,
+      "number_padded": "037",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1956,
+      "date": "January 1956",
+      "era": "I",
+      "filename": "issue_037_jan_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Folded Stars",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Manifold Engine",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Interpreter",
+          "author": "Theodore Cain",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Cass Blackwell's Pardon",
+          "author": "Rex Drummond",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "The Probability Garden",
+          "author": "Margaret Thornton",
+          "page": 76
+        },
+        {
+          "number": 5,
+          "title": "Long Count",
+          "author": "Oscar Lennox",
+          "page": 98
+        },
+        {
+          "number": 6,
+          "title": "Embers",
+          "author": "Robert \"Bob\" Finley",
+          "page": 120
+        },
+        {
+          "number": 7,
+          "title": "Penitent Machine",
+          "author": "Father Thomas Aquino",
+          "page": 136
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 156
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 158
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 161
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 164
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 38,
+      "number_padded": "038",
+      "month": "February",
+      "month_abbr": "feb",
+      "year": 1956,
+      "date": "February 1956",
+      "era": "I",
+      "filename": "issue_038_feb_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Two Stars Burning",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Species Barrier",
+          "author": "Margaret Thornton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "My Darling Clementine 9000",
+          "author": "Douglas Pemberton",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Ghost and Mrs. Nakamura",
+          "author": "Phyllis Crenshaw",
+          "page": 50
+        },
+        {
+          "number": 4,
+          "title": "Letter from a Distant Star",
+          "author": "Gunnar Eriksson",
+          "page": 72
+        },
+        {
+          "number": 5,
+          "title": "Dueling Hearts",
+          "author": "Rex Drummond",
+          "page": 98
+        },
+        {
+          "number": 6,
+          "title": "Valentine Virus",
+          "author": "Theodore Cain",
+          "page": 120
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 140
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 142
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 144
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 146
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 39,
+      "number_padded": "039",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1956,
+      "date": "March 1956",
+      "era": "I",
+      "filename": "issue_039_mar_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Great Wall",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Great Wall of Sol",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Breaking the Seal",
+          "author": "Rex Drummond",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Flickering Boards",
+          "author": "Agnes Whitfield",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Architect's Confession",
+          "author": "Theodore Cain",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Why Bother?",
+          "author": "Franklin Hoyt",
+          "page": 100
+        },
+        {
+          "number": 6,
+          "title": "Stellar Crucible",
+          "author": "Dr. Vincent Koslov",
+          "page": 120
+        },
+        {
+          "number": 7,
+          "title": "Lily's Extra Planet",
+          "author": "Danny Kowalski",
+          "page": 144
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 160
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 162
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 165
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 168
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 40,
+      "number_padded": "040",
+      "month": "April",
+      "month_abbr": "apr",
+      "year": 1956,
+      "date": "April 1956",
+      "era": "I",
+      "filename": "issue_040_apr_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Impossible Descent",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Infinite Staircase",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Forty-Year War",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Auctioneer",
+          "author": "Theodore Cain",
+          "page": 54
+        },
+        {
+          "number": 4,
+          "title": "Butterfly Ballot",
+          "author": "Douglas Pemberton",
+          "page": 74
+        },
+        {
+          "number": 5,
+          "title": "Whose Skill Is This?",
+          "author": "Arthur Wainwright",
+          "page": 94
+        },
+        {
+          "number": 6,
+          "title": "Sargasso of Souls",
+          "author": "Harrison Blackwood",
+          "page": 118
+        },
+        {
+          "number": 7,
+          "title": "Red Planet Rodeo",
+          "author": "Robert \"Bob\" Finley",
+          "page": 146
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 162
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 164
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 167
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 169
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 41,
+      "number_padded": "041",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1956,
+      "date": "May 1956",
+      "era": "I",
+      "filename": "issue_041_may_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Edge of the Chart",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Atlas of Emptiness",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Borderline",
+          "author": "Theodore Cain",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Terra Incognita",
+          "author": "Cordell Beaumont",
+          "page": 52
+        },
+        {
+          "number": 4,
+          "title": "The Frontier Surgeon",
+          "author": "Robert \"Bob\" Finley",
+          "page": 76
+        },
+        {
+          "number": 5,
+          "title": "The Last Frequency",
+          "author": "Lucian Marsh",
+          "page": 96
+        },
+        {
+          "number": 6,
+          "title": "The Boundary Keeper",
+          "author": "Father Thomas Aquino",
+          "page": 118
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 138
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 140
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 142
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 144
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 42,
+      "number_padded": "042",
+      "month": "June",
+      "month_abbr": "jun",
+      "year": 1956,
+      "date": "June 1956",
+      "era": "I",
+      "filename": "issue_042_jun_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Rings of Fire",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Regatta of the Rings",
+          "author": "Rex Drummond",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Improbable Museum",
+          "author": "Douglas Pemberton",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "The Coral Armada",
+          "author": "Margaret Thornton",
+          "page": 60
+        },
+        {
+          "number": 4,
+          "title": "Fortune's Fool",
+          "author": "Theodore Cain",
+          "page": 88
+        },
+        {
+          "number": 5,
+          "title": "The Long Patrol",
+          "author": "Col. James \"Buck\" Stanton (Ret.)",
+          "page": 110
+        },
+        {
+          "number": 6,
+          "title": "The Clockwork Jungle",
+          "author": "Cordell Beaumont",
+          "page": 136
+        },
+        {
+          "number": 7,
+          "title": "Double or Nothing",
+          "author": "Robert \"Bob\" Finley",
+          "page": 168
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 190
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 194
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 198
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 202
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 43,
+      "number_padded": "043",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1956,
+      "date": "July 1956",
+      "era": "I",
+      "filename": "issue_043_jul_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "Lunar Foundry",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Engines of Creation",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Ninth Life",
+          "author": "Theodore Cain",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "The Admiral's Gambit",
+          "author": "Col. James \"Buck\" Stanton (Ret.)",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "Dreaming Reef",
+          "author": "Margaret Thornton",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "Confidence Man",
+          "author": "Oscar Lennox",
+          "page": 100
+        },
+        {
+          "number": 6,
+          "title": "Speed of Dark",
+          "author": "Dr. Vincent Koslov",
+          "page": 120
+        },
+        {
+          "number": 7,
+          "title": "Paper Rockets",
+          "author": "Danny Kowalski",
+          "page": 148
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 164
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 166
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 170
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 174
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 44,
+      "number_padded": "044",
+      "month": "August",
+      "month_abbr": "aug",
+      "year": 1956,
+      "date": "August 1956",
+      "era": "I",
+      "filename": "issue_044_aug_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Defendant",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Trial of Unit Seven",
+          "author": "Arthur Wainwright",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Embargo",
+          "author": "Franklin Hoyt",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Cartographer's Last Map",
+          "author": "Cordell Beaumont",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "Third Shift",
+          "author": "Theodore Cain",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Stolen Happiest Day",
+          "author": "Phyllis Crenshaw",
+          "page": 98
+        },
+        {
+          "number": 6,
+          "title": "Voices in the Trees",
+          "author": "Lucian Marsh",
+          "page": 118
+        },
+        {
+          "number": 7,
+          "title": "Patchwork Planet",
+          "author": "Robert \"Bob\" Finley",
+          "page": 142
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 160
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 162
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 165
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 168
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 45,
+      "number_padded": "045",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1956,
+      "date": "September 1956",
+      "era": "I",
+      "filename": "issue_045_sep_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Last Lecture Hall",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Lecture to an Empty Room",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Correspondence Course",
+          "author": "Arthur Wainwright",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Sewers of Free Thought",
+          "author": "Franklin Hoyt",
+          "page": 54
+        },
+        {
+          "number": 4,
+          "title": "Examination Day",
+          "author": "Theodore Cain",
+          "page": 76
+        },
+        {
+          "number": 5,
+          "title": "Lengthening Shadows",
+          "author": "Harrison Blackwood",
+          "page": 92
+        },
+        {
+          "number": 6,
+          "title": "Gymnasium",
+          "author": "Danny Kowalski",
+          "page": 114
+        },
+        {
+          "number": 7,
+          "title": "Socratic Subroutine",
+          "author": "Phyllis Crenshaw",
+          "page": 128
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 146
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 148
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 150
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 152
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 46,
+      "number_padded": "046",
+      "month": "October",
+      "month_abbr": "oct",
+      "year": 1956,
+      "date": "October 1956",
+      "era": "I",
+      "filename": "issue_046_oct_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Cathedral",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Cathedral of Fear",
+          "author": "Harrison Blackwood",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Replacement",
+          "author": "Lucian Marsh",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "Witch of Waystation Nine",
+          "author": "Phyllis Crenshaw",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "Tooth and Claw",
+          "author": "Theodore Cain",
+          "page": 74
+        },
+        {
+          "number": 5,
+          "title": "The Passenger",
+          "author": "Agnes Whitfield",
+          "page": 90
+        },
+        {
+          "number": 6,
+          "title": "Dead Satellites Spelling",
+          "author": "Robert \"Bob\" Finley",
+          "page": 108
+        },
+        {
+          "number": 7,
+          "title": "Masque of the Red Shift",
+          "author": "Oscar Lennox",
+          "page": 122
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 148
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 150
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 153
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 156
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 47,
+      "number_padded": "047",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1956,
+      "date": "November 1956",
+      "era": "I",
+      "filename": "issue_047_nov_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Last Light",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Last Library",
+          "author": "Gunnar Eriksson",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Final Repair Run",
+          "author": "Arthur Wainwright",
+          "page": 34
+        },
+        {
+          "number": 3,
+          "title": "November Country",
+          "author": "Agnes Whitfield",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "The Retreat",
+          "author": "Theodore Cain",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "Jack Corvus's Last Run",
+          "author": "Rex Drummond",
+          "page": 94
+        },
+        {
+          "number": 6,
+          "title": "What We Leave Behind",
+          "author": "Dr. Vincent Koslov",
+          "page": 118
+        },
+        {
+          "number": 7,
+          "title": "The Vigil",
+          "author": "Father Thomas Aquino",
+          "page": 144
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 164
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 167
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 170
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 173
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 48,
+      "number_padded": "048",
+      "month": "December",
+      "month_abbr": "dec",
+      "year": 1956,
+      "date": "December 1956",
+      "era": "I",
+      "filename": "issue_048_dec_1956.txt",
+      "publisher": "Meridian Publishing Company, New York",
+      "editors": "Maxwell Sterling",
+      "cover_price": "35¢",
+      "cover_art": {
+        "title": "The Long Tomorrow",
+        "artist": "Frank R. Kellerman"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Long Tomorrow",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Builder's Rest",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "Vanishing Act",
+          "author": "Theodore Cain",
+          "page": 70
+        },
+        {
+          "number": 4,
+          "title": "Christmas Star",
+          "author": "Father Thomas Aquino",
+          "page": 92
+        },
+        {
+          "number": 5,
+          "title": "All the Tomorrows",
+          "author": "Phyllis Crenshaw",
+          "page": 118
+        },
+        {
+          "number": 6,
+          "title": "Homeport",
+          "author": "Robert \"Bob\" Finley",
+          "page": 142
+        },
+        {
+          "number": 7,
+          "title": "Stars Remember",
+          "author": "Gunnar Eriksson",
+          "page": 162
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 198
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 204
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 208
+        },
+        {
+          "title": "Farewell and Forward",
+          "page": 212
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 49,
+      "number_padded": "049",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1964,
+      "date": "January 1964",
+      "era": "II",
+      "filename": "issue_049_jan_1964.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Return to the Abyss",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Asymptote of Return",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Cartography of Scars",
+          "author": "Theodore Cain",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Empire of Whispers",
+          "author": "Cassandra Voss",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "A Canticle for Transistors",
+          "author": "Father Thomas Aquino",
+          "page": 88
+        },
+        {
+          "number": 5,
+          "title": "Geometry of Absence",
+          "author": "Miriam Blackwell",
+          "page": 108
+        },
+        {
+          "number": 6,
+          "title": "Fortress Sol",
+          "author": "Col. James \"Buck\" Stanton (Ret.)",
+          "page": 128
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 152
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 156
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 160
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 164
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 50,
+      "number_padded": "050",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1964,
+      "date": "March 1964",
+      "era": "II",
+      "filename": "issue_050_mar_1964.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Glass Garden",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Orchid Thief of Ganymede",
+          "author": "Margaret Thornton",
+          "page": 6
+        },
+        {
+          "number": 2,
+          "title": "Transparent Power",
+          "author": "Julian St. Croix",
+          "page": 30
+        },
+        {
+          "number": 3,
+          "title": "Skin Game",
+          "author": "Theodore Cain",
+          "page": 60
+        },
+        {
+          "number": 4,
+          "title": "Weight of Wings",
+          "author": "Danny Kowalski",
+          "page": 80
+        },
+        {
+          "number": 5,
+          "title": "Ancestral Algorithms",
+          "author": "Arthur Wainwright",
+          "page": 98
+        },
+        {
+          "number": 6,
+          "title": "Codex Stellarum",
+          "author": "Dolores Reyes",
+          "page": 120
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 142
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 146
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 150
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 154
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 51,
+      "number_padded": "051",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1964,
+      "date": "May 1964",
+      "era": "II",
+      "filename": "issue_051_may_1964.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Mind's Horizon",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Interpretation of Storms",
+          "author": "Miriam Blackwell",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Folded Man",
+          "author": "Julian St. Croix",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Seven Masks for the End of the World",
+          "author": "Zara Nix",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "Memory Palace of Phobos",
+          "author": "Theodore Cain",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "Pilgrim's Regression",
+          "author": "Father Thomas Aquino",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "No Frequency Response",
+          "author": "Lucian Marsh",
+          "page": 126
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 148
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 152
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 156
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 160
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 52,
+      "number_padded": "052",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1964,
+      "date": "July 1964",
+      "era": "II",
+      "filename": "issue_052_jul_1964.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Elevator to Heaven",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Bridge to Everywhere",
+          "author": "Harold \"Hal\" Mercer",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Cartographer's Confession",
+          "author": "Cassandra Voss",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Pollen Count",
+          "author": "Margaret Thornton",
+          "page": 64
+        },
+        {
+          "number": 4,
+          "title": "Blueprints for a Better Bomb",
+          "author": "Franklin Hoyt",
+          "page": 86
+        },
+        {
+          "number": 5,
+          "title": "Resonance Engine",
+          "author": "Dr. Vincent Koslov",
+          "page": 112
+        },
+        {
+          "number": 6,
+          "title": "Salvage Rights",
+          "author": "Rex Drummond",
+          "page": 142
+        },
+        {
+          "number": 7,
+          "title": "Smile Under Surveillance",
+          "author": "Douglas Pemberton",
+          "page": 166
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 184
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 188
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 192
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 196
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 53,
+      "number_padded": "053",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1964,
+      "date": "September 1964",
+      "era": "II",
+      "filename": "issue_053_sep_1964.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "First Words",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Ambassador's Tongue",
+          "author": "Sanjay Mukherjee",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Velocity of Ghosts",
+          "author": "Theodore Cain",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "What the Thunder Said",
+          "author": "Phyllis Crenshaw",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "What They All Saw",
+          "author": "Lucian Marsh",
+          "page": 84
+        },
+        {
+          "number": 5,
+          "title": "Green Noise",
+          "author": "Margaret Thornton",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "The Silicate Argument",
+          "author": "Arthur Wainwright",
+          "page": 132
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 158
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 161
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 164
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 167
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 54,
+      "number_padded": "054",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1964,
+      "date": "November 1964",
+      "era": "II",
+      "filename": "issue_054_nov_1964.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Long Shadow",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Escalation Protocols",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Probability Garden",
+          "author": "Dr. Vincent Koslov",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Burning Lexicon",
+          "author": "Dolores Reyes",
+          "page": 68
+        },
+        {
+          "number": 4,
+          "title": "Tomorrow's Vintage",
+          "author": "Theodore Cain",
+          "page": 94
+        },
+        {
+          "number": 5,
+          "title": "Phantom Continents",
+          "author": "Oscar Lennox",
+          "page": 116
+        },
+        {
+          "number": 6,
+          "title": "Nightwatch",
+          "author": "Gunnar Eriksson",
+          "page": 148
+        },
+        {
+          "number": 7,
+          "title": "Nobody Believes Anything",
+          "author": "Franklin Hoyt",
+          "page": 170
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 204
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 208
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 212
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 216
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 55,
+      "number_padded": "055",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1965,
+      "date": "January 1965",
+      "era": "II",
+      "filename": "issue_055_jan_1965.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Acceleration",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Dialectic of Stars",
+          "author": "Cassandra Voss",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Meridian",
+          "author": "Theodore Cain",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Scalpel and Soma",
+          "author": "Elaine Prescott",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Seventh Son",
+          "author": "Lucian Marsh",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "After the Deluge",
+          "author": "Agnes Whitfield",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "Shape of Her Absence",
+          "author": "Miriam Blackwell",
+          "page": 130
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 148
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 150
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 154
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 156
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 56,
+      "number_padded": "056",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1965,
+      "date": "March 1965",
+      "era": "II",
+      "filename": "issue_056_mar_1965.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Lost Tomorrows",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Cartographer of Lost Tomorrows",
+          "author": "Julian St. Croix",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Blood Soil",
+          "author": "Margaret Thornton",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "Tin Soldiers",
+          "author": "Arthur Wainwright",
+          "page": 64
+        },
+        {
+          "number": 4,
+          "title": "Messages in Deep Time",
+          "author": "Phyllis Crenshaw",
+          "page": 88
+        },
+        {
+          "number": 5,
+          "title": "What the Dead Know",
+          "author": "Theodore Cain",
+          "page": 110
+        },
+        {
+          "number": 6,
+          "title": "Color of Her Sky",
+          "author": "Dolores Reyes",
+          "page": 130
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 148
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 152
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 156
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 160
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 57,
+      "number_padded": "057",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1965,
+      "date": "May 1965",
+      "era": "II",
+      "filename": "issue_057_may_1965.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Empathy Weapon",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Pacifist's Arsenal",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Borders",
+          "author": "Sanjay Mukherjee",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Dispatches from a Fabricated Front",
+          "author": "Franklin Hoyt",
+          "page": 68
+        },
+        {
+          "number": 4,
+          "title": "Lullaby for a Dying Star",
+          "author": "Dr. Vincent Koslov",
+          "page": 96
+        },
+        {
+          "number": 5,
+          "title": "Glass Children",
+          "author": "Theodore Cain",
+          "page": 118
+        },
+        {
+          "number": 6,
+          "title": "The Mercenary's Garden",
+          "author": "Rex Drummond",
+          "page": 142
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 164
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 168
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 172
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 176
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 58,
+      "number_padded": "058",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1965,
+      "date": "July 1965",
+      "era": "II",
+      "filename": "issue_058_jul_1965.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Endless City",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Mapmaker's Daughter",
+          "author": "Cassandra Voss",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Symbiosis",
+          "author": "Margaret Thornton",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Architecture of Light",
+          "author": "Theodore Cain",
+          "page": 68
+        },
+        {
+          "number": 4,
+          "title": "Entomologist's Ball",
+          "author": "Douglas Pemberton",
+          "page": 96
+        },
+        {
+          "number": 5,
+          "title": "The Boy Who Counted Stars",
+          "author": "Danny Kowalski",
+          "page": 118
+        },
+        {
+          "number": 6,
+          "title": "Communion",
+          "author": "Father Thomas Aquino",
+          "page": 136
+        },
+        {
+          "number": 7,
+          "title": "Ten Thousand Years of Building",
+          "author": "Cordell Beaumont",
+          "page": 162
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 186
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 190
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 194
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 198
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 59,
+      "number_padded": "059",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1965,
+      "date": "September 1965",
+      "era": "II",
+      "filename": "issue_059_sep_1965.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Shifting Self",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Palindrome Conspiracy",
+          "author": "Julian St. Croix",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Chrysalis",
+          "author": "Elaine Prescott",
+          "page": 36
+        },
+        {
+          "number": 3,
+          "title": "The Rememberers",
+          "author": "Theodore Cain",
+          "page": 62
+        },
+        {
+          "number": 4,
+          "title": "Skin Deep",
+          "author": "Dolores Reyes",
+          "page": 86
+        },
+        {
+          "number": 5,
+          "title": "Probability Engine",
+          "author": "Dr. Vincent Koslov",
+          "page": 110
+        },
+        {
+          "number": 6,
+          "title": "Many-Colored Glass",
+          "author": "Zara Nix",
+          "page": 138
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 156
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 160
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 164
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 168
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 60,
+      "number_padded": "060",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1965,
+      "date": "November 1965",
+      "era": "II",
+      "filename": "issue_060_nov_1965.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Fading Light",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Archivist of Babel",
+          "author": "Arthur Wainwright",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Lighthouse at the Edge of Time",
+          "author": "Phyllis Crenshaw",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Eternal October",
+          "author": "Theodore Cain",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "Weight of a Photon",
+          "author": "Dr. Vincent Koslov",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "Last Songs of the Leviathan",
+          "author": "Gunnar Eriksson",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "The Inheritance",
+          "author": "Franklin Hoyt",
+          "page": 126
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 152
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 155
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 158
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 161
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 61,
+      "number_padded": "061",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1966,
+      "date": "January 1966",
+      "era": "II",
+      "filename": "issue_061_jan_1966.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Roots of Tomorrow",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Ambassadors of Entropy",
+          "author": "Julian St. Croix",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Root Systems",
+          "author": "Margaret Thornton",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "The Wages of Light",
+          "author": "Theodore Cain",
+          "page": 78
+        },
+        {
+          "number": 4,
+          "title": "The Confession Machine",
+          "author": "Arthur Wainwright",
+          "page": 108
+        },
+        {
+          "number": 5,
+          "title": "Contraband Frequencies",
+          "author": "Zara Nix",
+          "page": 140
+        },
+        {
+          "number": 6,
+          "title": "The Cartographer's Lament",
+          "author": "Cordell Beaumont",
+          "page": 160
+        },
+        {
+          "number": 7,
+          "title": "Sons and Fathers",
+          "author": "Danny Kowalski",
+          "page": 184
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 210
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 214
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 218
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 222
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 62,
+      "number_padded": "062",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1966,
+      "date": "March 1966",
+      "era": "II",
+      "filename": "issue_062_mar_1966.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Signal",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Heretic's Frequency",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Flaying of Marsyas",
+          "author": "Julian St. Croix",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "The Last Signal",
+          "author": "Gunnar Eriksson",
+          "page": 72
+        },
+        {
+          "number": 4,
+          "title": "Sanctuary",
+          "author": "Theodore Cain",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "The Greenhouse Directive",
+          "author": "Agnes Whitfield",
+          "page": 110
+        },
+        {
+          "number": 6,
+          "title": "The Translator's Paradox",
+          "author": "Sanjay Mukherjee",
+          "page": 140
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 168
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 172
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 176
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 180
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 63,
+      "number_padded": "063",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1966,
+      "date": "May 1966",
+      "era": "II",
+      "filename": "issue_063_may_1966.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Circuit Madonna",
+        "artist": "guest artist Yuriko Tanaka"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Woman Who Became an Equation",
+          "author": "Elaine Prescott",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Right to Fail",
+          "author": "Cassandra Voss",
+          "page": 36
+        },
+        {
+          "number": 3,
+          "title": "Feedback Loop",
+          "author": "Theodore Cain",
+          "page": 72
+        },
+        {
+          "number": 4,
+          "title": "The Forbidden Fruit of Procyon",
+          "author": "Margaret Thornton",
+          "page": 102
+        },
+        {
+          "number": 5,
+          "title": "Children of the Lens",
+          "author": "Arthur Wainwright",
+          "page": 134
+        },
+        {
+          "number": 6,
+          "title": "The Auction of Souls",
+          "author": "Lucian Marsh",
+          "page": 168
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 196
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 200
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 204
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 208
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 64,
+      "number_padded": "064",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1966,
+      "date": "July 1966",
+      "era": "II",
+      "filename": "issue_064_jul_1966.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Gemini Dreams",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Orbital Rapture",
+          "author": "Dr. Vincent Koslov",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Garrison Suburb",
+          "author": "Franklin Hoyt",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Beekeeper of Titan",
+          "author": "Theodore Cain",
+          "page": 60
+        },
+        {
+          "number": 4,
+          "title": "Signal and Noise",
+          "author": "Miriam Blackwell",
+          "page": 82
+        },
+        {
+          "number": 5,
+          "title": "Customs Officer",
+          "author": "Sanjay Mukherjee",
+          "page": 104
+        },
+        {
+          "number": 6,
+          "title": "Three Prayers for a Machine God",
+          "author": "Father Thomas Aquino",
+          "page": 130
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 152
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 155
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 158
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 161
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 65,
+      "number_padded": "065",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1966,
+      "date": "September 1966",
+      "era": "II",
+      "filename": "issue_065_sep_1966.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The New Flesh",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Flesh Artisan",
+          "author": "Miriam Blackwell",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Ashes of Alien Knowledge",
+          "author": "Oscar Lennox",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Appetite",
+          "author": "Theodore Cain",
+          "page": 72
+        },
+        {
+          "number": 4,
+          "title": "Mothering Instinct",
+          "author": "Elaine Prescott",
+          "page": 98
+        },
+        {
+          "number": 5,
+          "title": "Ember Season",
+          "author": "Agnes Whitfield",
+          "page": 124
+        },
+        {
+          "number": 6,
+          "title": "The Duel",
+          "author": "Rex Drummond",
+          "page": 154
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 178
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 182
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 188
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 192
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 66,
+      "number_padded": "066",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1966,
+      "date": "November 1966",
+      "era": "II",
+      "filename": "issue_066_nov_1966.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Language of Stars",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Tongue of Angels",
+          "author": "Sanjay Mukherjee",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Last Broadcast",
+          "author": "Franklin Hoyt",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Palimpsest",
+          "author": "Julian St. Croix",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "The Whispering Gallery",
+          "author": "Arthur Wainwright",
+          "page": 84
+        },
+        {
+          "number": 5,
+          "title": "Babel Reversed",
+          "author": "Theodore Cain",
+          "page": 106
+        },
+        {
+          "number": 6,
+          "title": "Morse",
+          "author": "Zara Nix",
+          "page": 124
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editor's Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 138
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 140
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 144
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 146
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 67,
+      "number_padded": "067",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1967,
+      "date": "January 1967",
+      "era": "II",
+      "filename": "issue_067_jan_1967.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Conversation",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Consensus Engine",
+          "author": "Cassandra Voss",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Ecologist's Lament",
+          "author": "Margaret Thornton",
+          "page": 32
+        },
+        {
+          "number": 3,
+          "title": "Penultimate Truth",
+          "author": "Franklin Hoyt",
+          "page": 56
+        },
+        {
+          "number": 4,
+          "title": "What the AIs Dream",
+          "author": "Arthur Wainwright",
+          "page": 80
+        },
+        {
+          "number": 5,
+          "title": "Cartography of Grief",
+          "author": "Theodore Cain",
+          "page": 102
+        },
+        {
+          "number": 6,
+          "title": "Tidal",
+          "author": "Dolores Reyes",
+          "page": 120
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 138
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 140
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 144
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 148
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 68,
+      "number_padded": "068",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1967,
+      "date": "March 1967",
+      "era": "II",
+      "filename": "issue_068_mar_1967.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "Altered States",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Pharmacist of Last Resort",
+          "author": "Lucian Marsh",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Invisible College",
+          "author": "Julian St. Croix",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Resonance Cascade",
+          "author": "Dr. Vincent Koslov",
+          "page": 72
+        },
+        {
+          "number": 4,
+          "title": "Mirage Merchants",
+          "author": "Theodore Cain",
+          "page": 108
+        },
+        {
+          "number": 5,
+          "title": "The Gardener's War",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 136
+        },
+        {
+          "number": 6,
+          "title": "Singer in the Dark",
+          "author": "Dolores Reyes",
+          "page": 168
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 192
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 196
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 200
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 204
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 69,
+      "number_padded": "069",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1967,
+      "date": "May 1967",
+      "era": "II",
+      "filename": "issue_069_may_1967.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Garden Moon",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Communes of Ganymede",
+          "author": "Margaret Thornton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Alchemy of Distance",
+          "author": "Julian St. Croix",
+          "page": 30
+        },
+        {
+          "number": 3,
+          "title": "Quality of Mercy",
+          "author": "Theodore Cain",
+          "page": 58
+        },
+        {
+          "number": 4,
+          "title": "Forty-Eight Hours of Paradise",
+          "author": "Douglas Pemberton",
+          "page": 78
+        },
+        {
+          "number": 5,
+          "title": "Slow Growth in Secret",
+          "author": "Agnes Whitfield",
+          "page": 100
+        },
+        {
+          "number": 6,
+          "title": "Contact High",
+          "author": "Miriam Blackwell",
+          "page": 122
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 140
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 142
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 146
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 150
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 70,
+      "number_padded": "070",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1967,
+      "date": "July 1967",
+      "era": "II",
+      "filename": "issue_070_jul_1967.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Wall Between",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Divided City",
+          "author": "Franklin Hoyt",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Paralyzed by Both Sides",
+          "author": "Theodore Cain",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "Feral Algorithms",
+          "author": "Arthur Wainwright",
+          "page": 72
+        },
+        {
+          "number": 4,
+          "title": "Born Among Aliens",
+          "author": "Sanjay Mukherjee",
+          "page": 106
+        },
+        {
+          "number": 5,
+          "title": "The Fire This Time",
+          "author": "Cassandra Voss",
+          "page": 138
+        },
+        {
+          "number": 6,
+          "title": "Peacekeeper's Withdrawal",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 176
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 208
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 212
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 216
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 220
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 71,
+      "number_padded": "071",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1967,
+      "date": "September 1967",
+      "era": "II",
+      "filename": "issue_071_sep_1967.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Atlas of Unborn Futures",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Cartographer of Lost Tomorrows, Part II: The Atlas of Unborn Futures",
+          "author": "Julian St. Croix",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Seed Vault",
+          "author": "Margaret Thornton",
+          "page": 78
+        },
+        {
+          "number": 3,
+          "title": "Accountant of Souls",
+          "author": "Theodore Cain",
+          "page": 110
+        },
+        {
+          "number": 4,
+          "title": "Null Set",
+          "author": "Dr. Vincent Koslov",
+          "page": 140
+        },
+        {
+          "number": 5,
+          "title": "Comfort of Strangers",
+          "author": "Phyllis Crenshaw",
+          "page": 170
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 196
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 200
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 204
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 208
+        }
+      ],
+      "story_count": 5
+    },
+    {
+      "number": 72,
+      "number_padded": "072",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1967,
+      "date": "November 1967",
+      "era": "II",
+      "filename": "issue_072_nov_1967.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "75¢",
+      "cover_art": {
+        "title": "The Darkening",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Propaganda Engine",
+          "author": "Franklin Hoyt",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Chrysanthemum and the Sword",
+          "author": "Cassandra Voss",
+          "page": 48
+        },
+        {
+          "number": 3,
+          "title": "Machine Elegy",
+          "author": "Arthur Wainwright",
+          "page": 92
+        },
+        {
+          "number": 4,
+          "title": "The Fever Dream",
+          "author": "Lucian Marsh",
+          "page": 128
+        },
+        {
+          "number": 5,
+          "title": "Architecture of Forgetting",
+          "author": "Theodore Cain",
+          "page": 160
+        },
+        {
+          "number": 6,
+          "title": "Mercy of Distances",
+          "author": "Gunnar Eriksson",
+          "page": 192
+        },
+        {
+          "number": 7,
+          "title": "The Dissident's Frequency",
+          "author": "Zara Nix",
+          "page": 222
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 248
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 254
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 260
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 266
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 73,
+      "number_padded": "073",
+      "month": "January",
+      "month_abbr": "jan",
+      "year": 1968,
+      "date": "January 1968",
+      "era": "II",
+      "filename": "issue_073_jan_1968.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "$1.00",
+      "cover_art": {
+        "title": "Far Horizons",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Cartography of Empire",
+          "author": "Cassandra Voss",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Gardener of Forking Paths",
+          "author": "Theodore Cain",
+          "page": 38
+        },
+        {
+          "number": 3,
+          "title": "Ice Sermon",
+          "author": "Dr. Vincent Koslov",
+          "page": 60
+        },
+        {
+          "number": 4,
+          "title": "New Prometheus",
+          "author": "Elaine Prescott",
+          "page": 86
+        },
+        {
+          "number": 5,
+          "title": "What the Stars Remember",
+          "author": "Phyllis Crenshaw",
+          "page": 110
+        },
+        {
+          "number": 6,
+          "title": "The Interpreter's Silence",
+          "author": "Sanjay Mukherjee",
+          "page": 130
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 150
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 152
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 156
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 160
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 74,
+      "number_padded": "074",
+      "month": "March",
+      "month_abbr": "mar",
+      "year": 1968,
+      "date": "March 1968",
+      "era": "II",
+      "filename": "issue_074_mar_1968.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "$1.00",
+      "cover_art": {
+        "title": "The Weight of Numbers",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Fictitious Numbers",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Ecology of Fear",
+          "author": "Margaret Thornton",
+          "page": 44
+        },
+        {
+          "number": 3,
+          "title": "Dreamers' Republic",
+          "author": "Julian St. Croix",
+          "page": 80
+        },
+        {
+          "number": 4,
+          "title": "Unlicensed Feeling",
+          "author": "Theodore Cain",
+          "page": 118
+        },
+        {
+          "number": 5,
+          "title": "Librarian of Ruins",
+          "author": "Oscar Lennox",
+          "page": 148
+        },
+        {
+          "number": 6,
+          "title": "Frequency of Mercy",
+          "author": "Miriam Blackwell",
+          "page": 184
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 214
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 218
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 222
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 226
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 75,
+      "number_padded": "075",
+      "month": "May",
+      "month_abbr": "may",
+      "year": 1968,
+      "date": "May 1968",
+      "era": "II",
+      "filename": "issue_075_may_1968.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "$1.00",
+      "cover_art": {
+        "title": "The Barricade",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Occupation of Paradise",
+          "author": "Franklin Hoyt",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Prisoner's Aria",
+          "author": "Julian St. Croix",
+          "page": 46
+        },
+        {
+          "number": 3,
+          "title": "Speciation Event",
+          "author": "Margaret Thornton",
+          "page": 86
+        },
+        {
+          "number": 4,
+          "title": "Philosopher's Stone",
+          "author": "Theodore Cain",
+          "page": 118
+        },
+        {
+          "number": 5,
+          "title": "Unbearable Intimacy",
+          "author": "Arthur Wainwright",
+          "page": 144
+        },
+        {
+          "number": 6,
+          "title": "Morning Star",
+          "author": "Cassandra Voss",
+          "page": 178
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 218
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 222
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 228
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 232
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 76,
+      "number_padded": "076",
+      "month": "July",
+      "month_abbr": "jul",
+      "year": 1968,
+      "date": "July 1968",
+      "era": "II",
+      "filename": "issue_076_jul_1968.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "$1.00",
+      "cover_art": {
+        "title": "The Dreaming City",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Mourning Algorithm",
+          "author": "Arthur Wainwright",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The City That Dreamed Itself",
+          "author": "Theodore Cain",
+          "page": 42
+        },
+        {
+          "number": 3,
+          "title": "The Diplomat's Funeral",
+          "author": "Cassandra Voss",
+          "page": 78
+        },
+        {
+          "number": 4,
+          "title": "A Taxonomy of Ghosts",
+          "author": "Lucian Marsh",
+          "page": 120
+        },
+        {
+          "number": 5,
+          "title": "Curious Cosmos",
+          "author": "Dr. Vincent Koslov",
+          "page": 152
+        },
+        {
+          "number": 6,
+          "title": "Summer Country",
+          "author": "Danny Kowalski",
+          "page": 190
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 218
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 222
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 228
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 232
+        }
+      ],
+      "story_count": 6
+    },
+    {
+      "number": 77,
+      "number_padded": "077",
+      "month": "September",
+      "month_abbr": "sep",
+      "year": 1968,
+      "date": "September 1968",
+      "era": "II",
+      "filename": "issue_077_sep_1968.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "$1.00",
+      "cover_art": {
+        "title": "The Last Light",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "Republic of Letters",
+          "author": "Franklin Hoyt",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "Geometer of Night",
+          "author": "Julian St. Croix",
+          "page": 48
+        },
+        {
+          "number": 3,
+          "title": "The Preservation Society",
+          "author": "Theodore Cain",
+          "page": 96
+        },
+        {
+          "number": 4,
+          "title": "Cascade Failure",
+          "author": "Elaine Prescott",
+          "page": 130
+        },
+        {
+          "number": 5,
+          "title": "Pollinator's Path",
+          "author": "Margaret Thornton",
+          "page": 168
+        },
+        {
+          "number": 6,
+          "title": "Veteran's Garden",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 210
+        },
+        {
+          "number": 7,
+          "title": "Last Equation",
+          "author": "Dr. Vincent Koslov",
+          "page": 244
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 280
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 286
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 292
+        },
+        {
+          "title": "Coming Attractions",
+          "page": 298
+        }
+      ],
+      "story_count": 7
+    },
+    {
+      "number": 78,
+      "number_padded": "078",
+      "month": "November",
+      "month_abbr": "nov",
+      "year": 1968,
+      "date": "November 1968",
+      "era": "II",
+      "filename": "issue_078_nov_1968.txt",
+      "publisher": "Constellation Press, New York",
+      "editors": "Maxwell Sterling & Diana Foxworth",
+      "cover_price": "$1.00",
+      "cover_art": {
+        "title": "Permanent Morning",
+        "artist": "Gerald Pulaski"
+      },
+      "stories": [
+        {
+          "number": 1,
+          "title": "The Cartographer of Lost Tomorrows, Part III: The Country of Permanent Morning",
+          "author": "Julian St. Croix",
+          "page": 4
+        },
+        {
+          "number": 2,
+          "title": "The Seed Ship",
+          "author": "Margaret Thornton",
+          "page": 52
+        },
+        {
+          "number": 3,
+          "title": "A Useful Lie",
+          "author": "Theodore Cain",
+          "page": 88
+        },
+        {
+          "number": 4,
+          "title": "Armistice",
+          "author": "Col. James \"Buck\" Stanton",
+          "page": 118
+        },
+        {
+          "number": 5,
+          "title": "Her Lungs Are Changing",
+          "author": "Dolores Reyes",
+          "page": 152
+        },
+        {
+          "number": 6,
+          "title": "Field, Sky, Wonder",
+          "author": "Dr. Vincent Koslov",
+          "page": 184
+        },
+        {
+          "number": 7,
+          "title": "Tomorrow, and Tomorrow, and Tomorrow",
+          "author": "Theodore Cain",
+          "page": 224
+        }
+      ],
+      "features": [
+        {
+          "title": "Transmissions from the Editors' Desk",
+          "page": 2
+        },
+        {
+          "title": "About the Authors",
+          "page": 260
+        },
+        {
+          "title": "Signals Received: Letters to the Editor",
+          "page": 264
+        },
+        {
+          "title": "The Bookshelf of Tomorrow: Book Reviews",
+          "page": 268
+        },
+        {
+          "title": "Colophon",
+          "page": 274
+        }
+      ],
+      "story_count": 7
+    }
+  ]
+}

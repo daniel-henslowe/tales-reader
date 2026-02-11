@@ -1,0 +1,4284 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #39 — March 1956
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Great Wall" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "Great Wall of Sol" by Harold "Hal" Mercer .............. p. 4
+2. "Breaking the Seal" by Rex Drummond ........................ p. 38
+3. "Flickering Boards" by Agnes Whitfield ....................... p. 58
+4. "Architect's Confession" by Theodore Cain ............... p. 82
+5. "Why Bother?" by Franklin Hoyt ............... p. 100
+6. "Stellar Crucible" by Dr. Vincent Koslov ........................... p. 120
+7. "Lily's Extra Planet" by Danny Kowalski ...................... p. 144
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 160
+   Signals Received: Letters to the Editor ................... p. 162
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 165
+   Coming Attractions ........................................ p. 168
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+We are, all of us, builders and destroyers. I do not mean this as metaphor
+— or rather, I do not mean it only as metaphor. I mean it as a fundamental
+observation about the species. We are the animal that raises cathedrals
+and then sets fire to them. We are the civilization that invents concrete
+and dynamite with roughly equal enthusiasm. We lay foundations and we swing
+wrecking balls, and if you press us on why, we will tell you with perfect
+sincerity that both are necessary.
+
+This issue of Tales from the Future and Beyond is, I confess, a meditation
+on that duality — the twin impulses that drive civilization forward and
+tear it apart. I did not set out to build a themed issue. But when I
+assembled the stories that had accumulated on my desk over the past several
+months, I found that they spoke to each other in ways I had not planned.
+They were all, in their various idioms and registers, asking the same
+question: What does it mean to build? What does it mean to take apart?
+And is there, somewhere in the space between those acts, a meaning that
+neither alone can provide?
+
+Hal Mercer opens our pages with the largest construction project in human
+history — a wall across the solar system itself, built from comets and
+ice to shield us from the void. It is Mercer at his most ambitious, and
+that is saying something. Rex Drummond follows with a demolition job that
+goes spectacularly wrong, in the way that Drummond's assignments always
+go spectacularly wrong, to our great delight and his characters' great
+distress. Agnes Whitfield gives us a woman building a house on a world
+where reality itself cannot be trusted — a story so quiet and so powerful
+that I found myself rereading it twice before I could bring myself to send
+it to the typesetter. Theodore Cain delivers a thriller about a fatal
+flaw in a perfect building, and the confession that explains it. Franklin
+Hoyt asks what happens when a perfectly rational society decides that
+civilization is no longer worth the effort — a story that will make you
+argue with your friends, which is exactly what Hoyt intends. Dr. Vincent
+Koslov gives us a furnace that burns at stellar temperatures and the
+element it creates — Promethean myth dressed in laboratory whites. And
+Danny Kowalski closes the issue with a child's drawing that contains a
+secret the universe was keeping.
+
+Seven stories. Seven acts of building, of breaking, of making something
+new from the rubble. I am proud of every one.
+
+We received a record number of letters last month, and I have printed as
+many as space allows. Keep writing. Tell us when we are wrong, tell us
+when we are right, and tell us what you want to see in these pages. This
+magazine belongs to you as much as it does to us.
+
+Build something today. Even if someone tears it down tomorrow.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, January 1956
+
+================================================================================
+
+                        GREAT WALL OF SOL
+
+                    by Harold "Hal" Mercer
+
+================================================================================
+
+                               I.
+
+The comet arrived on schedule, which was the only thing that went right
+that day.
+
+Amara Okoye stood in the observation gallery of Farwatch Station, three
+hundred astronomical units from the sun, and watched the chunk of ice and
+rock drift into position on the construction grid. It was a medium-sized
+body — roughly eleven kilometers on its long axis, five on the short —
+and it had been nudged out of its natural orbit in the Oort Cloud four
+months ago by a constellation of gravity tugs working in tandem. The tugs
+were still attached, their ion drives casting faint blue halos against
+the body's dark surface, making micro-corrections as they eased the comet
+into alignment with the seven hundred and twelve other bodies already
+locked into the grid.
+
+Seven hundred and thirteen, now.
+
+"Grid lock confirmed on body seven-one-three," said Tomás Reyes from the
+operations console behind her. He was her chief construction engineer, a
+compact man from Ecuador with twenty years of deep-space construction
+experience and a voice that remained precisely the same whether he was
+reporting nominal status or catastrophic failure. "Drift is within
+tolerance. Fusing sequence can begin on your mark."
+
+"Hold fusing," Okoye said. She pressed her fingers against the gallery
+window — not glass but a composite three centimeters thick that could
+withstand a micrometeorite strike — and studied the grid.
+
+The Wall.
+
+From this vantage point, it looked like a vast, irregular mosaic laid
+against the absolute darkness of interstellar space. Each tile was a
+comet or asteroid, some as small as a few hundred meters across, others
+stretching dozens of kilometers. They had been brought here from across
+the Oort Cloud, selected for composition and structural integrity, and
+arranged in an interlocking pattern that the engineering team called the
+"honeycomb" — each body fitted against its neighbors, the gaps between
+them filled with a matrix of water ice and silicate dust fused into a
+rigid lattice by directed-energy beams.
+
+The Wall was currently four thousand six hundred kilometers across and
+growing by an average of twelve kilometers per day. When complete, it
+would be nine thousand kilometers in diameter — roughly the width of the
+Earth — and positioned directly in the path of the Alderson Cloud.
+
+The Alderson Cloud. Even after two years of working to stop it, Okoye
+found the name inadequate. It was named for the astronomer who had
+discovered it — Patricia Alderson, at the Mauna Kea Observatory, in 2031
+— and it was not, strictly speaking, a cloud. It was a dense stream of
+interstellar debris: dust, ice, rock, and shattered remnants of cometary
+bodies, stretching across twelve light-years of space and traveling at
+roughly six hundred kilometers per second relative to the sun. It was not
+large by interstellar standards. It was not even particularly unusual.
+The galaxy was full of such streams, the litter of ancient stellar
+collisions and supernova shocks, drifting through space on timescales
+that made human history look like a blink.
+
+But this particular stream was aimed at the solar system. Not at the
+Earth specifically — the targeting was far broader than that. The leading
+edge of the cloud, when it arrived, would sweep through the entire inner
+solar system over a period of approximately nine years, bombarding every
+planet, every moon, every orbital station, and every asteroid mining
+colony with a sustained barrage of high-velocity debris. The models
+varied in their severity. The optimistic projections estimated casualties
+in the tens of millions. The pessimistic projections did not bother with
+numbers.
+
+The leading edge was twelve years away. Okoye had been given ten years to
+build the Wall.
+
+She was in year two, and she was behind schedule.
+
+"What's the structural assessment on seven-one-three?" she asked.
+
+Reyes consulted his display. "Composition is consistent with the survey
+data. Seventy-two percent water ice, eighteen percent silicate, ten
+percent organics. Structural integrity is nominal. Fusing protocols are
+standard."
+
+"And the bodies adjacent?"
+
+"Seven-one-one and seven-one-two are fully locked and fused. Seven-one-
+four is on approach — ETA six hours."
+
+Okoye nodded. The process was relentless. Every day, new bodies arrived.
+Every day, the fusing crews welded them into the lattice. Every day, the
+Wall grew. And every day, the Alderson Cloud was twelve hours closer.
+
+"Begin fusing," she said.
+
+Through the gallery window, she watched the directed-energy beams ignite
+— pale blue lances that played across the contact surfaces between body
+713 and its neighbors, heating the ice and rock to their melting points,
+allowing them to flow together and then refreeze into a unified mass. The
+process took forty minutes per junction. Body 713 had nine junctions. By
+this time tomorrow, it would be part of the Wall, indistinguishable from
+the structure around it.
+
+One more tile in a mosaic the size of a world.
+
+                               * * *
+
+The operations center of Farwatch Station was a large, circular room
+dominated by a holographic display table that showed the Wall in
+three-dimensional miniature — a curved disk of interlocking bodies,
+slowly rotating, with color-coded indicators showing construction status,
+structural integrity, and projected growth rates. Around the table, a
+dozen engineers and technicians worked at consoles, monitoring the
+hundreds of simultaneous operations that kept the project moving.
+
+Okoye stood at the table's edge and studied the growth projections. The
+numbers were not good.
+
+"We're running seventeen percent behind the revised schedule," said
+Dr. Lian Zhou, her chief structural analyst, a tall woman from Shanghai
+with a habit of delivering bad news in the same matter-of-fact tone one
+might use to order lunch. "The primary bottleneck is gravity tug
+availability. We have sixty-four tugs operational, and we need at least
+eighty to maintain the projected delivery rate."
+
+"The last shipment from the inner system was supposed to include twelve
+new tugs," Okoye said.
+
+"It included eight. Four were diverted to the Ceres station for routine
+maintenance on the asteroid mining infrastructure."
+
+"Routine maintenance."
+
+"That is what the manifest says."
+
+Okoye felt the familiar tightness in her jaw that accompanied
+bureaucratic frustration. The Wall was the largest construction project in
+human history, funded by a consortium of every government on Earth and
+authorized by a unanimous vote of the United Nations General Assembly.
+And still — still — she had to fight for equipment. The inner system had
+its own priorities, its own budgets, its own politics. The fact that
+those politics might become irrelevant if the Alderson Cloud arrived and
+they were all dead did not, apparently, carry sufficient weight in the
+allocation meetings.
+
+"I'll take it up with the Consortium board," she said. "Again."
+
+"There is another issue," Zhou said. She touched the display, and a
+section of the Wall's lower quadrant pulsed red. "Sector Fourteen.
+We've detected anomalous stress readings in a cluster of fused bodies
+near the southern edge. The readings suggest a subsurface fracture in
+body six-two-nine — one of the early placements."
+
+"How bad?"
+
+"If the fracture propagates, we could lose structural integrity across a
+section approximately two hundred kilometers wide. That section would
+need to be rebuilt."
+
+"Rebuilt."
+
+"Extracted, replaced, and re-fused. Estimated setback: three weeks."
+
+Okoye stared at the red section on the display. Three weeks. She did not
+have three weeks. She barely had three days. Every delay cascaded forward,
+pushing the completion date closer to the cloud's arrival, narrowing the
+already thin margin between done and not done.
+
+"Send an inspection crew to Sector Fourteen," she said. "Full diagnostic.
+I want to know the exact extent of the fracture and whether it can be
+repaired in place."
+
+"Understood."
+
+"And Zhou? The next time someone in the inner system diverts my
+equipment, I want to know about it before it happens, not after."
+
+Zhou allowed herself a thin smile. "I will endeavor to intercept the
+paperwork."
+
+                               II.
+
+The message came in at 0300 station time, routed through the secure
+channel reserved for communications from the Consortium Board of
+Directors in Geneva. Okoye was asleep when it arrived. She was not asleep
+for long.
+
+"Director Okoye," the message began. It was text only, marked PRIORITY
+ALPHA. "We have received intelligence from the Security Directorate
+indicating a credible threat to the Wall project. A group identifying
+itself as the Outer Sovereignty Movement has claimed responsibility for
+acts of sabotage against project infrastructure, including the disruption
+of gravity tug supply lines and the possible compromise of construction
+materials. The Security Directorate assesses this threat as serious. A
+security liaison team will arrive at Farwatch Station within seventy-two
+hours. You are instructed to cooperate fully with this team and to
+implement enhanced security protocols immediately. Details follow."
+
+Okoye read the message twice. Then she got dressed, went to the
+operations center, and called a senior staff meeting.
+
+They gathered around the holographic table at 0400 — Okoye, Reyes, Zhou,
+Chief of Security Priya Nair, Communications Officer Henrik Dahl, and
+Dr. James Okoro, the project's chief scientist and the man responsible
+for the physical models that determined where each body needed to be
+placed for maximum shielding effect.
+
+Okoye briefed them on the message. When she finished, the room was
+quiet for a moment.
+
+"The Outer Sovereignty Movement," Nair said. She was a small, precise
+woman who had spent fifteen years in the Indian Space Defense Force
+before transferring to civilian security work. "I've read their
+manifestos. They believe the Wall is not a shield. They believe it's a
+weapon."
+
+"A weapon," Reyes said. "A wall of frozen comets."
+
+"Their argument is that the directed-energy infrastructure being built
+to fuse the Wall could be reconfigured as a weapons array — that the
+Wall is, in effect, a massive orbital gun platform aimed outward toward
+the stars. They believe the Alderson Cloud threat has been exaggerated
+or fabricated to justify the construction of a military installation in
+the outer system."
+
+"That's insane," said Okoro, who was a mild man but felt strongly about
+the integrity of his data. "The Alderson Cloud is the most thoroughly
+documented astronomical phenomenon of the century. Every major
+observatory on Earth and in space has confirmed its trajectory, its
+composition, and its velocity. The threat models have been peer-reviewed
+by—"
+
+"I am not endorsing their position," Nair said. "I am explaining it.
+These people are not interested in peer review. They are interested in
+sovereignty. Their core belief is that the inner system governments are
+using the Wall project to extend military control into the outer system
+— their territory, as they see it."
+
+"Their territory," Okoye said. "The Oort Cloud."
+
+"They have a point, legally speaking," Nair said. "The Outer System
+Treaty of 2028 established that territories beyond the Kuiper Belt are
+not subject to any single nation's jurisdiction. The Wall project
+operates under a Consortium mandate, but the Consortium is dominated by
+inner-system governments. The OSM sees this as colonial expansion."
+
+"I don't care what they see it as," Okoye said, and the flatness of
+her voice made the room go very still. "I care about the Wall. What
+kind of sabotage are we talking about?"
+
+"The intelligence report mentions three categories," Nair said.
+"Supply line disruption — which may explain some of our equipment
+shortages. Material compromise — the introduction of structurally
+deficient bodies into the construction stream, which could create
+hidden weaknesses in the Wall. And direct action — physical attacks on
+project infrastructure."
+
+"Body six-two-nine," Zhou said quietly.
+
+Everyone looked at her.
+
+"The fracture in Sector Fourteen," she said. "I assumed it was natural
+— a stress failure in the ice matrix. But if someone deliberately
+introduced a compromised body into the construction stream..."
+
+"We'd need to verify," Okoye said. "How?"
+
+"Deep scan. Spectral analysis of the fracture surfaces. If the body
+was weakened deliberately — drilled, heated, chemically treated — there
+will be signatures."
+
+"Do it. Today."
+
+                               III.
+
+The inspection crew reached Sector Fourteen at 0900 and reported back
+by noon. The news was not good.
+
+"It's sabotage," Zhou said, standing at the holographic table with the
+scan results displayed before her. The fracture surfaces were shown in
+enhanced color — false-color spectral images that revealed, with
+damning clarity, a series of bore holes drilled into the body's
+interior and filled with a compound that, over time, had weakened the
+ice matrix from within. The compound was ammonium nitrate — a common
+industrial chemical, readily available on any mining station, and
+utterly out of place inside a comet body.
+
+"Someone drilled into this body before it was placed," Zhou continued.
+"They packed the bore holes with a slow-acting destabilizer and sealed
+the entry points. It was designed to fail gradually, over weeks or
+months, so the structural collapse would look natural."
+
+"And we wouldn't know the Wall had a weak point until the Cloud
+arrived and punched through it," Okoye said.
+
+"Precisely."
+
+Okoye looked around the table. The faces were grim. Reyes, who rarely
+showed emotion, had a muscle working in his jaw. Nair was already
+making notes on her tablet, her expression focused and cold. Okoro
+looked stricken — the idea that someone had corrupted the data, had
+turned his carefully calculated placements into vulnerabilities, was
+a violation that went deeper than politics for him.
+
+"How many other bodies could be compromised?" Okoye asked.
+
+Zhou hesitated. "We've placed seven hundred and thirteen bodies. If
+the saboteurs had access to the construction stream at any point in
+the past two years, the answer is: any of them. All of them."
+
+"We'd have to scan every body in the Wall."
+
+"Yes."
+
+"How long?"
+
+"With our current scanning equipment, operating around the clock —
+approximately eight months."
+
+The number landed in the room like a dropped wrench. Eight months.
+They were already behind schedule. An eight-month scanning operation
+would effectively halt new construction, or at best slow it to a
+crawl. The completion date would slip past the cloud's arrival. The
+Wall would not be finished in time.
+
+Okoye was quiet for a long moment. She stood at the table, her hands
+flat on its surface, her eyes on the rotating image of the Wall — her
+Wall, the thing she had been building for two years, the thing that
+stood between every human being alive and the indifferent violence of
+the interstellar medium.
+
+"We're not stopping construction," she said.
+
+"Director—" Zhou began.
+
+"We're not stopping. We scan while we build. Split the crews. Half on
+construction, half on inspection. Reyes, I need you to redesign the
+work schedules — double shifts, staggered rotations, whatever it takes
+to keep both operations running simultaneously."
+
+"That will put enormous strain on the crews," Reyes said.
+
+"I know. Talk to them. Explain the situation. Every person on this
+station volunteered for this project because they understood what was
+at stake. Trust them to understand this too."
+
+"And the compromised bodies?" Nair asked.
+
+"Every body that scans dirty gets extracted and replaced. Zhou, I want
+a priority list — which sections are most critical to the Wall's
+structural integrity? We scan those first."
+
+"I'll have it by tonight."
+
+"Nair, I want the security team expanded. I want background checks on
+every crew member, every tug pilot, every contractor who's been within
+fifty AU of this station. And I want to know how the compromised
+bodies got into the construction stream. Someone had physical access
+to those bodies between the time they were surveyed and the time they
+were placed. Find out who."
+
+"Understood."
+
+Okoye straightened up. She was a tall woman — one hundred and eighty
+centimeters — with close-cropped hair and the broad shoulders of
+someone who had spent her early career doing physical construction work
+in orbital habitats. Her face was angular and striking, the face of a
+woman who made decisions quickly and did not revisit them. She had been
+born in Lagos, educated at MIT, and had built bridges, stations, and
+habitats across the inner system before being chosen to lead the
+largest engineering project in human history. She was forty-seven
+years old, and she had not seen her family on Earth in two years.
+
+"One more thing," she said. "I'm calling Geneva. I'm requesting
+authorization to arm this station."
+
+The room went very quiet.
+
+"We're a construction project," Reyes said. "Not a military
+installation."
+
+"We're a construction project that is under attack. I'm not going to
+wait for someone to blow a hole in the Wall while I'm filling out
+requisition forms."
+
+She left the operations center and walked to her office — a small
+compartment with a desk, a chair, and a window that looked out on the
+Wall. She sat down, opened the secure channel to Geneva, and began
+composing her message.
+
+Through the window, the Wall stretched across the darkness, massive
+and incomplete. A monument to human stubbornness and engineering skill,
+growing one comet at a time, against the clock.
+
+She would finish it. She had to finish it. There was no second option.
+
+                               IV.
+
+The security liaison team arrived three days later aboard a fast
+courier from the inner system: a ship that had burned at high-g for
+the entire transit and arrived with its crew looking gray and
+compressed. The team leader was a woman named Colonel Ada Osei,
+Ghanaian-born, career military intelligence, with a reputation for
+being thorough, uncompromising, and almost entirely devoid of small
+talk.
+
+Okoye met her at the docking bay. They shook hands.
+
+"Director Okoye. I've read your file. Impressive construction record."
+
+"Colonel Osei. I've read yours. Impressive arrest record."
+
+Osei almost smiled. "I'm told you've already identified one compromised
+body."
+
+"One confirmed. We're scanning the rest. It's going to take time."
+
+"Show me."
+
+Okoye showed her. They spent four hours in the operations center,
+reviewing the scan data, the construction logs, the personnel records.
+Osei asked questions — many questions, specific questions, questions
+that revealed a mind accustomed to finding patterns in noise. She was
+particularly interested in the supply chain: the sequence of events
+between a body being identified in the Oort Cloud, surveyed, selected
+for construction, transported to the grid, and fused into the Wall.
+
+"Your supply chain has thirty-seven discrete steps," Osei said, at the
+end of the review. "The body could have been compromised at any of
+twelve of those steps. That's too many vulnerability points."
+
+"We designed the supply chain for efficiency, not security," Okoye
+said. "When the project started, nobody expected sabotage."
+
+"Somebody should have."
+
+Okoye let the rebuke pass. She had thought the same thing herself, in
+the small hours of the night.
+
+"My team will need access to everything," Osei said. "Personnel
+files, comm logs, transport manifests, docking records. Everything."
+
+"You'll have it."
+
+"And I'll need to interview your crew. All of them."
+
+"All fifteen hundred?"
+
+"We'll start with anyone who had physical access to the bodies between
+survey and placement. That should narrow it down."
+
+"To about three hundred."
+
+"Then we start with three hundred."
+
+                               * * *
+
+The interviews began the next morning and continued for two weeks. Osei
+and her team were methodical and relentless, working through the crew
+in groups of twenty, cross-referencing testimony against the logs,
+building a picture of who had been where and when.
+
+The work of the station continued around them. Construction proceeded
+at reduced speed — the split between building and scanning had cut the
+placement rate by nearly half, and Okoye watched the growth
+projections slide further behind schedule with each passing day. The
+scanning crews found two more compromised bodies in the first week,
+both in Sector Fourteen. The sabotage pattern was consistent:
+bore holes, ammonium nitrate, sealed entry points. Whoever had done
+this knew what they were doing.
+
+On the ninth day, Osei came to Okoye's office.
+
+"We have a lead," she said. She sat down across from Okoye's desk
+without being invited — a habit of hers. "Three of the compromised
+bodies passed through a secondary staging point called Depot Seven,
+approximately forty AU from here. It's a small facility — six crew,
+used as a waystation for bodies in transit from the outer cloud. All
+three compromised bodies were processed through Depot Seven during the
+same three-month period."
+
+"Who's stationed there?"
+
+"Six crew, rotating on ninety-day cycles. During the relevant period,
+the station chief was a man named Mikhail Volkov. Russian-born,
+naturalized Consortium citizen, twelve years of deep-space experience.
+Clean record."
+
+"But."
+
+"But his communications logs show encrypted transmissions to a relay
+node in the outer Kuiper Belt that does not appear on any official
+network map. The transmissions began four months before the first
+compromised body was processed through his depot."
+
+Okoye leaned back in her chair. "Can you decrypt them?"
+
+"Working on it. In the meantime, I've ordered Volkov brought here for
+questioning. He arrives tomorrow."
+
+"And if he's not working alone?"
+
+"He almost certainly is not. The OSM is a distributed organization —
+cells, not hierarchy. Volkov is probably one node in a network. If we
+can get him to talk, we can find the others."
+
+"And if he doesn't talk?"
+
+Osei's expression did not change. "Everyone talks, Director. The
+question is how long it takes."
+
+                               V.
+
+Mikhail Volkov arrived at Farwatch Station the following afternoon
+under escort. He was a thin, quiet man in his mid-fifties with
+pale eyes and the slightly hunched posture of someone who had spent
+too many years in low-gravity environments. He did not resist. He
+did not protest. He sat in the interview room with his hands folded
+on the table and waited.
+
+Okoye watched the interview from the observation room next door,
+through a one-way window. She did not like watching interrogations.
+She was an engineer, not an intelligence officer. But this was her
+project, and these were her people, and she needed to understand
+what was happening.
+
+Osei sat across from Volkov and placed a tablet on the table between
+them.
+
+"Mr. Volkov. You know why you're here."
+
+"I can guess."
+
+"The encrypted transmissions. Who were you communicating with?"
+
+Volkov was silent for a moment. Then he unfolded his hands and laid
+them flat on the table, palms down, and looked directly at Osei.
+
+"I will tell you everything," he said. "But first, I want Director
+Okoye to understand something."
+
+He looked at the one-way window. He could not see Okoye, but he
+knew she was there.
+
+"I do not want the Wall to fail," he said. "I want it to be what it
+was promised to be — a shield. Not a weapon. That is all any of us
+want."
+
+"Then why sabotage it?" Osei asked.
+
+"Because a shield that can be turned into a weapon is not a shield.
+It is a threat. And threats must be opposed."
+
+He talked for three hours. The story that emerged was at once
+familiar and infuriating. The OSM was not a fringe group of cranks
+and anarchists, as the inner-system media portrayed them. It was a
+loose coalition of outer-system workers, scientists, and settlers
+who had watched the Wall project with growing alarm — not because
+they doubted the Alderson Cloud, but because they had seen the
+engineering specifications for the directed-energy systems that were
+being installed as part of the fusing infrastructure.
+
+Those systems — the beams that melted ice and rock into a unified
+structure — were powerful. Far more powerful than the fusing operation
+alone required. The specifications called for energy outputs that
+could, with relatively minor modifications, be reconfigured as
+weapons. The OSM had obtained these specifications through a
+sympathizer in the Consortium's engineering division and had concluded
+that the Wall was being designed with a dual purpose: shield first,
+weapon second.
+
+"Your fusing arrays have a maximum output of forty terawatts per
+beam," Volkov said. "Fusing operations require a maximum of eight.
+Why is the system rated for five times its operational requirement?"
+
+Okoye, watching from the observation room, felt a cold weight settle
+in her stomach. She knew the answer. She had asked the same question
+herself, two years ago, when she had first reviewed the engineering
+specifications. The Consortium's response had been that the excess
+capacity was a safety margin — that the fusing operations might
+encounter unusually dense or refractory materials that required
+higher energy inputs.
+
+She had accepted that explanation. It had seemed reasonable.
+
+Now, watching Volkov's quiet, determined face through the glass, she
+was no longer certain.
+
+                               VI.
+
+Okoye spent the next forty-eight hours in her office, reviewing the
+engineering specifications with fresh eyes.
+
+The excess capacity in the fusing arrays was real. Forty terawatts per
+beam, thirty-two beams, positioned around the Wall's circumference —
+a total of over a petawatt of directed energy, most of it surplus to
+the project's stated requirements. The power generation systems were
+similarly oversized: the fusion reactors feeding the arrays were rated
+for outputs that far exceeded the construction budget's energy
+projections.
+
+She ran the numbers. She was an engineer; numbers were her language.
+The excess capacity could, in theory, be redirected. Not easily — the
+beams were designed for short-range fusing operations, not long-range
+targeting — but the modifications were not impossible. A team of
+competent engineers, given six months and access to the system
+architecture, could reconfigure the fusing arrays into a weapons
+platform capable of directing concentrated energy at targets across
+a significant volume of space.
+
+A wall that was also a gun.
+
+She sat at her desk and stared at the numbers on her screen. She was
+a builder. She had been a builder her entire life — bridges, stations,
+habitats, and now this, the Wall, the largest thing any human being
+had ever constructed. She had taken this project because she believed
+in it. Because the Alderson Cloud was real and the threat was real
+and the Wall was the only thing standing between humanity and a slow-
+motion catastrophe.
+
+But if the Wall was also a weapon — if the governments that funded it
+intended, once the cloud had passed, to retain a military installation
+in the outer system — then Volkov was right. The shield was also a
+threat. And every person who lived beyond the Kuiper Belt had reason
+to fear it.
+
+She picked up the secure comm and called Geneva.
+
+The call took eighteen hours, round-trip, with lightspeed delay. She
+used the time to prepare.
+
+                               * * *
+
+The response came from Consortium Director Elodie Marchetti, a
+French diplomat who chaired the board with the cool efficiency of a
+woman accustomed to managing crises by committee.
+
+"Director Okoye. We have received your inquiry regarding the fusing
+array specifications. The excess capacity is, as you were informed at
+the outset, a safety margin. The engineering division has confirmed
+this. I understand your concern, but I must remind you that the
+security situation requires your full attention to construction
+progress, not to speculation about system design."
+
+Okoye listened to the message twice. Then she composed her reply.
+
+"Director Marchetti. With respect, a safety margin of five-to-one is
+not a safety margin. It is a capability. I need a direct answer to a
+direct question: does the Consortium intend to retain the Wall's
+energy infrastructure after the Alderson Cloud has passed?"
+
+The reply took another eighteen hours.
+
+"Director Okoye. The Consortium's post-cloud plans are not within
+the scope of your operational authority. Your mandate is to complete
+the Wall within the specified timeline. Please focus your efforts
+accordingly."
+
+Okoye read the non-answer and understood it perfectly. She had built
+things for governments before. She knew what a non-answer meant.
+
+                               VII.
+
+She called a meeting of her senior staff. Not in the operations
+center — in the station's mess hall, after hours, with the doors
+shut. It was an unusual choice, and the staff noticed.
+
+"I'm going to tell you something," she said, standing at the head
+of a long table around which sat Reyes, Zhou, Nair, Okoro, Dahl,
+and four other section chiefs. "And then I'm going to ask you to
+help me do something that the Consortium board has not authorized."
+
+She told them about the fusing array specifications. She showed them
+the numbers. She showed them Geneva's non-answer.
+
+When she finished, Reyes was the first to speak.
+
+"You're saying the saboteurs might have a point."
+
+"I'm saying they have a legitimate concern that has been met with
+evasion. I am not saying that sabotage is the right response. Sabotage
+endangers every person in the solar system. But the concern is real,
+and if we don't address it, someone else will — and their methods
+will be worse."
+
+"What are you proposing?" Zhou asked.
+
+"A redesign. We modify the fusing array architecture so that the
+excess capacity cannot be weaponized. We reduce the maximum output
+to twelve terawatts per beam — fifty percent above operational
+requirements, which is a genuine safety margin — and we hardwire the
+reduction into the system. Not software. Hardware. Physical limiters
+that cannot be removed without disassembling the entire array."
+
+"Geneva won't authorize that," Nair said.
+
+"Geneva won't know about it until it's done."
+
+The silence that followed was very thorough.
+
+"You're talking about insubordination," Nair said, slowly.
+
+"I'm talking about building a shield that is only a shield. I was
+hired to build a wall, not a weapon. If the Consortium wants a
+weapons platform, they can build it themselves, somewhere else, on
+their own time."
+
+She looked around the table. "I need to know if you're with me. All
+of you. This has to be unanimous, or it doesn't happen."
+
+Reyes leaned back in his chair and crossed his arms. He was quiet
+for a moment — a moment that stretched until Okoye could hear the
+ventilation system cycling.
+
+"I came out here to build something," he said, finally. "Something
+worth building. Something I could tell my daughters about. I'm not
+building a gun." He unfolded his arms. "I'm with you."
+
+Zhou nodded. Okoro nodded. Dahl nodded. Nair was last, and she took
+the longest, and her face was the hardest to read. But in the end,
+she nodded too.
+
+"Then we start tonight," Okoye said. "Zhou, I need revised
+specifications for the limiter hardware. Reyes, I need fabrication
+schedules. Nair, I need you to ensure that our communications with
+Geneva don't include any details about the modifications until they're
+complete."
+
+"And Osei?" Nair asked. "She's Consortium military intelligence. She's
+going to notice."
+
+"I'll handle Osei," Okoye said.
+
+                               VIII.
+
+She found Osei in the station's small gymnasium at 2200, running on a
+treadmill at a pace that suggested either exceptional fitness or
+serious anger. Okoye waited until she finished, then handed her a
+water bottle and said, "I need to talk to you."
+
+They sat on a bench by the viewport. The Wall filled the sky outside,
+a dark mosaic against deeper darkness. Somewhere out there, beyond
+the Wall, the Alderson Cloud was coming — invisible, patient,
+indifferent.
+
+Okoye told Osei everything. The array specifications. The excess
+capacity. Geneva's evasion. The planned modifications.
+
+Osei listened without interrupting. When Okoye finished, Osei was
+quiet for a long time, her water bottle held loosely in one hand,
+her eyes on the Wall.
+
+"You know I should report this," Osei said.
+
+"I know."
+
+"My mandate is to protect the project. What you're describing could
+be interpreted as compromising the project."
+
+"My mandate is to build a shield. That's what I'm doing. I'm making
+sure that's all it ever is."
+
+Osei looked at her. Her face was neutral, but something moved behind
+her eyes — something that Okoye recognized, because she had felt it
+herself: the slow, grinding conflict between duty and judgment, between
+orders and conscience.
+
+"Volkov's people will keep sabotaging if they think the Wall is a
+weapon," Osei said.
+
+"Yes."
+
+"And if the Wall isn't finished in time, everyone dies."
+
+"Yes."
+
+"So you're proposing to remove their reason for sabotage by removing
+the thing they're afraid of."
+
+"Yes."
+
+Osei set her water bottle on the bench beside her. She stared at it
+for a moment, as though it contained a very complicated problem.
+
+"I need twenty-four hours," she said. "Don't start the modifications
+until I give you a signal."
+
+"What kind of signal?"
+
+"You'll know."
+
+                               * * *
+
+The signal came the next morning, in the form of Osei walking into
+the operations center and announcing, in her flat, professional
+voice, that her security assessment of the station was complete and
+that she had found no evidence of internal collaboration with the
+OSM. She recommended that the station return to full construction
+operations immediately and that the scanning program be accelerated
+using a statistical sampling method rather than the exhaustive
+body-by-body approach.
+
+"Additionally," she said, looking directly at Okoye, "I recommend
+that the station's engineering staff conduct a comprehensive review
+of all energy systems to ensure they are optimized for their stated
+purpose. Any excess capacity that is not required for construction
+operations should be eliminated to reduce power consumption and
+improve efficiency."
+
+It was, Okoye reflected, the most beautifully bureaucratic
+authorization she had ever received.
+
+"Thank you, Colonel," she said. "We'll begin immediately."
+
+                               IX.
+
+The modifications took three months. They were conducted alongside
+ongoing construction, which continued at an accelerating pace as the
+scanning program cleared sections of the Wall and released crews
+back to building. The statistical sampling method identified four
+more compromised bodies — all processed through Depot Seven during
+Volkov's tenure — and all were extracted and replaced without
+significant delay.
+
+The limiter hardware was fabricated on-station from standard
+materials: tungsten carbide housings, ceramic insulators, mechanical
+interlocks that physically prevented the fusing arrays from exceeding
+twelve terawatts. Each limiter was the size of a briefcase and
+weighed approximately forty kilograms. Installing them required
+taking each array offline for six hours — a process that Reyes
+scheduled into the regular maintenance rotation so smoothly that
+no one outside the senior staff noticed anything unusual.
+
+When the last limiter was installed, Okoye stood in the gallery
+and looked at the Wall. It was six thousand kilometers across now,
+more than halfway to completion. The fusing arrays glowed with their
+pale blue light, welding ice to rock, building the shield one body
+at a time.
+
+A shield. Only a shield. A wall, not a weapon.
+
+She opened a channel to the outer system — a broad-spectrum broadcast
+that anyone with a receiver could pick up.
+
+"This is Director Amara Okoye, Farwatch Station, Wall Project
+Command. I am transmitting the engineering specifications for the
+Wall's directed-energy systems as they now stand, including all
+recent modifications. These specifications are being made available
+to all interested parties in the outer system. The fusing arrays
+have been physically limited to a maximum output of twelve terawatts
+per beam — sufficient for construction, insufficient for weapons
+applications. This limitation is hardwired and cannot be reversed
+without disassembling the arrays.
+
+"The Wall is a shield. It was always meant to be a shield. We are
+building it to protect everyone in the solar system — inner and
+outer, Earth-born and space-born, citizen and settler. If there are
+those among you who doubted this, I hope this transmission
+addresses your concerns. If there are those among you who have been
+working to stop us, I ask you to stop. We have eight years to finish
+this Wall. We need every hand, and every hour.
+
+"The cloud is coming. Let us face it together."
+
+She closed the channel.
+
+                               * * *
+
+Marchetti's response from Geneva arrived forty hours later. It was
+terse, furious, and contained phrases like "unauthorized modification
+of Consortium assets," "potential court-martial proceedings," and
+"grave consequences."
+
+Okoye read it once and filed it.
+
+Two days later, the sabotage stopped.
+
+A week after that, four new gravity tugs arrived from the outer
+system — not from the Consortium supply chain, but from independent
+operators in the Kuiper Belt who had heard the broadcast and
+volunteered their equipment. A note accompanied the shipment: "For
+the Wall. From the people it protects."
+
+Okoye put the note on her desk, next to the growth projections.
+Then she went back to work.
+
+                               X.
+
+The Wall was completed on March 12, 2043, seven months ahead of the
+revised schedule. It was nine thousand one hundred kilometers in
+diameter — slightly larger than planned, to accommodate additional
+volunteer bodies provided by outer-system mining operations. It
+contained four thousand eight hundred and twelve individual cometary
+and asteroidal bodies, fused into a single structure that was, by
+any measure, the largest object ever constructed by human beings.
+
+The Alderson Cloud arrived on schedule, eighteen months later. The
+leading edge struck the Wall at six hundred kilometers per second
+and was deflected.
+
+Not stopped. Deflected. The Wall was never meant to stop the cloud
+— that would have required a structure of impossible size. It was
+meant to redirect the densest part of the debris stream away from
+the inner system, scattering it into the interstellar void. The
+physics were simple: an object in the path of a stream diverts the
+stream. The engineering was not simple at all. But it worked.
+
+The bombardment lasted nine years. During that time, the Wall
+absorbed impacts that would have devastated every inhabited world
+in the solar system. It cracked, it fractured, it lost sections
+that had to be repaired by crews working in conditions that made
+the original construction look like a vacation. Seventeen workers
+died during the bombardment years. Their names were engraved on the
+Wall itself, in letters visible from orbit.
+
+When the cloud passed, the Wall remained — battered, scarred,
+magnificent. It stood in the outer darkness like a monument to
+what human beings could do when they agreed that something needed
+to be built, and when they trusted the builders to build only what
+was needed.
+
+Amara Okoye returned to Earth in 2053, at the age of sixty-seven.
+She had spent twelve years at Farwatch Station. The Consortium
+had long since dropped its charges against her — the political
+winds had shifted, as political winds do, and the woman who had
+defied Geneva was now the woman who had saved the solar system.
+She declined three medals and two honorary doctorates.
+
+She took a teaching position at MIT, in the civil engineering
+department. On her first day, a student asked her what the most
+important principle of engineering was.
+
+She thought about it for a moment.
+
+"Build what you promised," she said. "Nothing more. Nothing less."
+
+Through her office window, the sky was clear and blue, and somewhere
+beyond it, three hundred AU from the sun, the Great Wall of Sol
+stood in the darkness, doing exactly what it had been built to do.
+
+                            [THE END]
+
+================================================================================
+
+                         BREAKING THE SEAL
+
+                         by Rex Drummond
+
+================================================================================
+
+The station was big enough to have its own weather.
+
+Jack Reese stood on the hull of the demolition ship _Crowbar_ and
+stared at the thing they'd been sent to take apart, and for the
+first time in twenty-three years of wrecking, he felt the urge to
+turn around and go home.
+
+Fortuna Station hung in the void like a small, ugly moon — a mass
+of interconnected modules, domes, gantries, and structural plating
+that had been accreting for the better part of a century. It had
+started life as a research platform in orbit around Titan, grown
+into a shipyard, mutated into a trading hub, and finally been
+decommissioned twelve years ago when the trade routes shifted and
+the corporate consortium that owned it decided the maintenance costs
+weren't worth the revenue. They'd pulled out the crew, locked the
+doors, and left it to drift.
+
+Twelve years of drift. Twelve years of vacuum and radiation and the
+slow, cold decay that ate everything in space if you gave it enough
+time.
+
+Now someone had decided to scrap it, and Jack Reese's Wrecking Crew
+had drawn the contract.
+
+"That," said Enid Chavez from beside him, "is the biggest damn thing
+I've ever seen."
+
+"Bigger than Kessler Platform?"
+
+"Kessler was six modules. This is — what, a hundred?"
+
+"One hundred and forty-seven, according to the manifest." Reese
+pulled up the station schematics on his helmet display and whistled
+through his teeth. "Plus external structures. Total mass is
+approximately eighteen million metric tons."
+
+"How long did they give us?"
+
+"Six months."
+
+Chavez laughed. It was not a happy laugh. "Six months. For eighteen
+million tons. Tell me you negotiated hazard pay."
+
+"Double rate."
+
+"Not enough."
+
+"I know."
+
+Reese took one more look at Fortuna Station, imprinting it on his
+memory the way he always did before a job. In six months — if
+everything went right, which it never did — this thing would be a
+cloud of sorted materials: metals to the smelters, composites to
+the recyclers, everything else to the void. That was the job. That
+was what the Wrecking Crew did. They took things apart.
+
+"All right," he said. "Let's go introduce ourselves."
+
+                               * * *
+
+The crew assembled in the _Crowbar's_ mess hall for the pre-entry
+briefing. There were twelve of them — the standard complement for a
+Class IV demolition contract, which was the biggest classification
+there was, short of "call the military."
+
+Reese stood at the head of the table, the station schematics
+projected on the wall behind him. He was a big man — six-one, broad
+across the chest, with hands like shovels and a face that looked
+like it had been assembled from leftover parts: heavy jaw, flat nose,
+deep-set eyes the color of ball bearings. He'd been wrecking since he
+was nineteen, starting as a cutter on a salvage barge in Earth orbit
+and working his way up to foreman by the time he was thirty. He was
+forty-two now and had taken apart everything from orbital labs to
+derelict warships to a luxury liner that had suffered a catastrophic
+hull breach and needed to be cut up before it became a navigation
+hazard.
+
+This was the biggest job he'd ever seen.
+
+"Listen up," he said. The chatter died. "Fortuna Station. Built
+between 1987 and 2034. Decommissioned 2041. Twelve years dark. Our
+contract is to reduce the structure to component materials for
+recycling and salvage. Standard demolition protocols apply, with the
+following exceptions."
+
+He tapped the schematic. "Exception one. The station's reactor
+section — here, in the central hub — contains three fusion reactors
+that were shut down but not decommissioned. That means residual
+radiation in the surrounding compartments. Nobody goes near the
+reactor section without full rad gear and a dosimeter check every
+thirty minutes."
+
+"What kind of levels are we talking about?" asked Kofi Mensah, the
+crew's radiation specialist, a wiry Ghanaian who had spent a decade
+cleaning up hot zones on Luna.
+
+"The pre-survey says moderate. Nothing lethal at short exposure, but
+accumulated dose is a concern. We'll pull the reactors first, before
+we start structural demolition."
+
+"Exception two," Reese continued. "The station's decommissioning
+report flags several sections as 'sealed — do not access.' These are
+compartments that were locked and pressurized when the crew left. The
+report doesn't say why."
+
+"That's helpful," said Chavez.
+
+"Isn't it? Standard protocol for sealed compartments: we scan before
+we open. If the scan is clean, we proceed. If it's not, we flag it
+and move on."
+
+"And exception three?" asked Lev Petrov, the crew's demolitions
+expert, a mountainous Russian who had the disconcerting habit of
+humming show tunes while setting explosive charges.
+
+"Exception three is the station's size. This thing has its own
+internal gravity — centrifugal sections, spin habitats. Some of those
+may still be rotating. If they are, we've got inertial hazards in
+addition to the usual structural concerns. Nobody moves through a
+spinning section alone. Buddy system at all times."
+
+He looked around the table. Twelve faces looked back — experienced,
+professional, and just slightly apprehensive. Good. Apprehension
+was healthy in this line of work. It was the guys who weren't
+apprehensive who got killed.
+
+"We start with entry and assessment. Four teams of three. Map the
+station, verify the schematics against actual conditions, flag
+anything that doesn't match the paperwork. Full entry report by end
+of day two. Questions?"
+
+"Yeah," said Chavez. "What's that?" She pointed to a section of the
+schematic that was shaded gray — no internal detail, just a blank
+rectangle in the station's lower hemisphere. "The schematics don't
+show anything inside that module."
+
+Reese frowned. She was right. Module 142, according to the index,
+was designated "Storage — Restricted Access." No interior layout. No
+systems data. No decommissioning notes.
+
+"It's probably classified," said Mensah. "Corporate stations always
+have a few locked rooms where the suits kept their secrets."
+
+"Probably," Reese agreed. "We'll scan it with everything else. If
+it's just storage, we pop it open and scrap it like the rest."
+
+"And if it's not just storage?"
+
+"Then it becomes somebody else's problem. We're wreckers, not
+detectives."
+
+                               * * *
+
+The entry teams went in the next morning.
+
+Reese took Team One — himself, Chavez, and a young cutter named
+Darnell Washington who had been with the crew for two years and was
+shaping up to be one of the best structural demolition specialists
+Reese had ever trained. They entered through the main docking port
+on the station's north face, cycling through an airlock that still
+worked — atmospheric seals holding, lights activating on entry,
+internal air registering breathable if stale.
+
+"Station's in better shape than I expected," Reese said, moving
+through the docking corridor. The walls were clean, the floor
+panels intact, the overhead lighting functional. It looked like the
+crew had walked out yesterday, not twelve years ago.
+
+"That's because nobody's been here to trash it," Chavez said.
+"Vacuum is a great preservationist."
+
+They moved deeper, following the schematic's corridor layout toward
+the central hub. The station was enormous — it took them forty
+minutes just to traverse the distance from the docking port to the
+first major junction, passing through habitat modules, storage bays,
+and a cafeteria that still had trays stacked in the dispensing racks.
+Reese noted everything, marking his digital map with structural
+assessments. Wall integrity: good. Floor panels: secure. Ceiling
+mounts: three percent corrosion.
+
+At the central junction, the corridors branched in six directions.
+Reese sent Chavez and Washington down the port-side branch toward
+the engineering section and took the starboard branch himself, heading
+for the sealed compartments that the decommissioning report had
+flagged.
+
+He found the first one two hundred meters down the corridor. A
+heavy blast door — not the standard pressure doors that separated
+the rest of the station's compartments, but a reinforced barrier of
+the kind used in military installations. It was sealed with
+electronic locks and a mechanical dead bolt. A sign on the door
+read: RESTRICTED — AUTHORIZED PERSONNEL ONLY — DO NOT BREACH.
+
+"Charming," Reese muttered. He pulled out his scanner and ran it
+over the door and the compartment beyond. The readings were
+unremarkable — standard atmosphere inside, ambient temperature, no
+radiation, no biological hazards. Just an empty room behind a very
+heavy door.
+
+He noted it on his map and moved on. There would be time to open
+it later.
+
+He found the second sealed compartment three corridors down, and
+the third around a bend. Same doors. Same locks. Same signs. Same
+clean scans.
+
+The fourth sealed compartment was different.
+
+The door was the same — heavy, reinforced, locked. The sign was
+the same. But the scan was not clean. Reese frowned at his
+scanner display, ran the scan again, and got the same result.
+
+The compartment behind the door was cold. Not station-temperature
+cold, but deep cold — minus one hundred and seventy degrees Celsius.
+Colder than the ambient exterior. Something inside was actively
+refrigerated, drawing power from somewhere even though the station
+had been dark for twelve years.
+
+And the scan showed a mass reading that didn't match an empty room.
+Something was in there. Something large, dense, and very, very cold.
+
+Reese stared at the scanner. Then he keyed his comm.
+
+"Chavez. Reese. I need you at my position. Bring Washington. And
+bring the heavy cutter."
+
+"What've you got, boss?"
+
+"I've got a locked room with something in it that somebody went to
+a lot of trouble to keep frozen. And I've got a bad feeling."
+
+"Copy. On our way."
+
+                               * * *
+
+It took them thirty minutes to cut through the blast door. The heavy
+cutter — a plasma-arc tool designed to slice through ship hulls —
+went through the reinforced steel in a shower of sparks and molten
+metal that spattered across the corridor floor and cooled into bright
+orange beads. Reese stood back and let Washington work; the kid had
+the steadiest hands on the crew, and a blast door was no place for
+impatience.
+
+The door fell inward with a boom that echoed through the empty
+corridors. A wave of cold air rushed out — not air, exactly, but
+supercooled gas that condensed instantly into a fog of ice crystals,
+swirling around their ankles and biting through their suits.
+
+Reese stepped through.
+
+The compartment was large — maybe twenty meters square and ten high.
+The walls were lined with refrigeration units, industrial-grade,
+humming with a low, steady vibration that explained where the power
+was coming from: they had their own dedicated fuel cells, separate
+from the station's main reactor grid. Someone had installed an
+independent power supply to keep this room cold, and it had been
+running for twelve years.
+
+In the center of the room, mounted on a raised platform, was a
+containment vessel.
+
+It was cylindrical, about four meters tall and two in diameter,
+made of a dark, matte material that Reese didn't recognize. It was
+covered in frost, the surface white and crystalline, and it was
+anchored to the platform by a framework of heavy clamps that
+looked like they were designed to withstand significant force.
+Not to keep the vessel still — to keep it from getting out.
+
+"What the hell is that?" Washington said.
+
+"Nothing good," Reese said. He moved closer, scanning the vessel
+with his handheld. The readings were strange — the mass was right
+for a solid object of that size, but the density was uneven,
+fluctuating in a way that suggested the contents were not solid,
+not liquid, not gas, but something that was shifting between states.
+
+"Boss," Chavez said. She was at one of the refrigeration units,
+reading the diagnostic panel. "These units are set to maintain
+interior temperature at minus one-seventy. There are failsafe
+protocols — if the temperature rises above minus one-fifty, the
+system triggers an alarm. If it rises above minus one hundred, the
+system triggers a—" She stopped.
+
+"Triggers a what?"
+
+"A purge. Thermite charges. Built into the platform under the
+vessel. If the contents warm up past minus one hundred, the whole
+thing incinerates."
+
+The three of them stood in the cold room, looking at the frost-
+covered vessel with its clamps and its thermite charges and its
+independent power supply, and nobody said anything for a long
+moment.
+
+"We didn't just break a seal," Reese said, finally. "We opened a
+cage."
+
+"A cage for what?" Washington asked.
+
+Reese looked at the vessel. The frost on its surface was already
+beginning to thin — the open door had let warm air in, and the
+refrigeration units were struggling to compensate. The temperature
+display on the nearest unit was climbing. Minus one-sixty-eight.
+Minus one-sixty-five.
+
+"Chavez, get on the comm. Contact the Consortium emergency line.
+Tell them we've found something on Fortuna Station that somebody
+went to a lot of trouble to keep contained, and we need someone
+who knows what it is. Now."
+
+"And us?"
+
+"We seal this room back up. Whatever's in that vessel, it's been
+frozen for twelve years for a reason, and I'm not going to be the
+idiot who defrosts it."
+
+                               * * *
+
+They couldn't reseal the blast door — the plasma cutter had destroyed
+the locking mechanism. Reese improvised: they welded a sheet of hull
+plating across the opening, using the cutter in low-power mode,
+and packed the seams with spray insulation from the _Crowbar's_
+stores. It wasn't elegant, but it would hold the cold in.
+
+Then they waited.
+
+The Consortium response came six hours later — fast, by bureaucratic
+standards, which told Reese more than the actual content of the
+message. Someone in the Consortium's records division knew what was
+in Module 142. Someone had been expecting this call.
+
+The message was brief: Do not approach the containment vessel. Do
+not attempt to open or examine it. Do not allow the room temperature
+to rise above minus one hundred and fifty degrees. A specialized
+team is being dispatched. ETA: ninety-six hours.
+
+"Ninety-six hours," Chavez said. "Four days."
+
+"Four days to sit on our hands while the meter's running," Reese
+said. He was not happy. Breaking the Seal was a small operation —
+twelve people, one ship, and a reputation that lived or died on
+completing contracts on time and on budget. Four days of dead time
+meant four days of crew salaries with no progress, and the contract
+had no provision for mysterious frozen objects in sealed rooms.
+
+"What do you think it is?" Washington asked. He was young enough to
+be more curious than cautious, which was a quality that Reese
+planned to break him of before it got him killed.
+
+"I think it's not our problem," Reese said. "I think we've got one
+hundred and forty-six other modules to tear apart, and that's
+exactly what we're going to do while we wait for the experts."
+
+"But—"
+
+"Darnell. Listen to me. In this line of work, you will occasionally
+find things that somebody hid. Sometimes it's contraband. Sometimes
+it's a body. Once, on the Kessler job, it was fourteen hundred
+kilograms of refined plutonium in a false bulkhead. Every single
+time, the right move is the same: call it in, step back, and let
+somebody else deal with it. We are wreckers. We are not heroes, we
+are not scientists, and we are not qualified to handle whatever is
+in that vessel. Clear?"
+
+"Clear, boss."
+
+"Good. Now go help Petrov with the survey on the upper decks. I
+want a structural map of the habitat ring by tonight."
+
+Washington went. Chavez lingered.
+
+"You're worried," she said.
+
+"I'm always worried. It's why I'm still alive."
+
+"More worried than usual."
+
+Reese looked at the welded plate that covered the opening to Module
+142. The spray insulation was already developing a skin of frost, the
+cold inside fighting to get out.
+
+"The thermite charges," he said. "They're not a failsafe. They're a
+last resort. Somebody built a self-destruct into that containment
+system because they believed that whatever's in that vessel is
+worse than losing the vessel entirely. You don't build a self-
+destruct for a science experiment. You build it for something
+dangerous."
+
+"So we stay away from it."
+
+"We stay away from it. And we hope the Consortium's experts get here
+before the refrigeration units run out of fuel."
+
+"How long do the fuel cells have?"
+
+Reese checked his scanner notes. "At current draw, approximately
+eleven days."
+
+"That's cutting it close."
+
+"Yeah," Reese said. "It is."
+
+                               * * *
+
+The experts did not arrive in four days.
+
+On day two, the Consortium sent an updated message: the specialized
+team had been delayed due to a scheduling conflict. New ETA: seven
+days.
+
+On day four, another update: eight days. A "logistics issue."
+
+On day five, Reese sent a message of his own: "The independent fuel
+cells powering the refrigeration units in Module 142 have an
+estimated remaining operational life of six days. If your team does
+not arrive before the fuel cells are exhausted, the containment
+vessel's temperature will rise to ambient, and either the thermite
+failsafe will engage or the contents will thaw. Please advise."
+
+The response came in three hours — the fastest turnaround yet.
+"Maintain containment. Supplement power if possible. Team is being
+expedited."
+
+"Supplement power," Reese said to Chavez. "With what? We're a
+demolition ship, not a power station."
+
+"We could run a line from the _Crowbar's_ reactor," Chavez said.
+"Patch it into the refrigeration units."
+
+"That would mean tapping our main power supply to keep their
+mystery box frozen."
+
+"You got a better idea?"
+
+He didn't. They ran the line.
+
+                               * * *
+
+The specialized team arrived on day nine — two days past the original
+deadline, three days past the revised one, and roughly twelve hours
+before the _Crowbar's_ power tap would have started affecting the
+ship's own operational systems.
+
+They came in a ship with no markings, crewed by people who wore
+uniforms with no insignia and carried equipment in sealed cases
+that they refused to open in the presence of the Wrecking Crew.
+The team leader introduced herself only as "Dr. Kessler" — Reese
+suspected it was not her real name — and asked to be taken to
+Module 142 immediately.
+
+Reese took her. They cut away the improvised seal, and Dr. Kessler
+and her team entered the cold room while Reese and Chavez waited
+in the corridor. Through the open doorway, they could see the team
+working around the containment vessel — scanning it, measuring it,
+conferring in low voices that didn't carry.
+
+After an hour, Dr. Kessler came out.
+
+"Thank you, Mr. Reese. Your power supplementation was well-timed.
+The containment is stable. My team will take over from here."
+
+"Happy to hear it. You want to tell me what's in there?"
+
+"No."
+
+"Didn't think so. It's going to be in my report, though. The whole
+thing — the sealed room, the containment vessel, the thermite
+charges, all of it."
+
+"I would strongly advise against that."
+
+"And I would strongly advise you to be straight with me, Doctor,
+because I've got a crew of twelve people who spent two weeks babysitting
+your frozen mystery, and they deserve to know whether they were in
+danger."
+
+Kessler studied him. She was a small, sharp-featured woman with gray
+eyes and the manner of someone who was accustomed to being obeyed.
+
+"They were not in danger," she said, carefully, "as long as the
+containment held."
+
+"And if it hadn't?"
+
+"Then danger would be an understatement."
+
+She went back into the cold room and closed the improvised door
+behind her.
+
+                               * * *
+
+Breaking the Seal finished the Fortuna Station demolition in five
+months and eighteen days — twelve days ahead of schedule, despite
+the two-week delay. Module 142 was not included in the demolition.
+It was detached from the station intact by Dr. Kessler's team,
+loaded onto their unmarked ship, and taken somewhere that Reese was
+not told about and did not ask.
+
+He filed his report with the Consortium, including a full account
+of Module 142. The report was accepted without comment. A week
+later, he received a rider to his contract adding a "security
+compliance bonus" of twice the original contract value.
+
+"Hush money," Chavez said.
+
+"Hazard pay," Reese corrected. "For a hazard we didn't know about."
+
+"Same thing."
+
+"Yeah," he admitted. "Same thing."
+
+He stood at the viewport of the _Crowbar_ and watched the last
+fragments of Fortuna Station drift apart — eighteen million tons
+of steel, composite, and mystery, reduced to sorted scrap and
+catalogued salvage. A century of human construction, taken apart
+in six months by twelve people with plasma cutters and shaped
+charges.
+
+Somewhere out there, in a ship with no name, Module 142 was
+traveling to a destination he would never know, carrying a secret
+he would never learn. That was fine. He was a wrecker. His job was
+to take things apart, not to understand them.
+
+But late at night, in the quiet hours between jobs, when the
+_Crowbar_ was cruising dark and the crew was asleep, Jack Reese
+sometimes thought about that frost-covered vessel in its cold
+room, with its clamps and its thermite charges and its twelve years
+of silent, patient waiting.
+
+And he wondered what would have happened if they had been one day
+later.
+
+                            [THE END]
+
+================================================================================
+
+                         FLICKERING BOARDS
+
+                        by Agnes Whitfield
+
+================================================================================
+
+                               I.
+
+Clara drove the last nail at sunset, and by morning it was gone.
+
+Not the nail. The board. The entire eastern wall of what she had,
+with cautious optimism, begun calling the kitchen. Twelve boards,
+each one cut from timber she had milled herself from the trees at
+the edge of the settlement — trees that were themselves only
+occasionally present — fitted together with mortise-and-tenon joints
+because nails, she had learned, vanished faster than wood. The joints
+had held. The boards had not.
+
+She stood in the pale orange light of the Vashta morning and looked
+at the gap where the wall had been. The remaining three walls stood
+solid, framing a rectangle of packed earth floor with one open side,
+like a stage set missing a wing. Her tools were where she had left
+them — saw, plane, hammer, level — laid out on the workbench she had
+built from a single slab of rock that had, so far, proven stable.
+The rock was from deep underground. The deep things lasted longer.
+Nobody knew why.
+
+She picked up her saw and went to cut more boards.
+
+                               * * *
+
+The planet was called Vashta, and the people who had come to settle
+it called themselves, with the dark humor of the desperate, the
+Builders. There were four hundred and twelve of them, down from the
+five hundred and thirty who had landed eighteen months ago. The
+missing hundred and eighteen had not died — or at least, most of
+them had not. They had left. Gone back up to the colony ship in
+orbit, the _Perseverance_, which still had power and air and
+artificial gravity and, most importantly, walls that stayed where
+you put them.
+
+Vashta was a world where reality was unreliable. That was the
+technical assessment. The survey team's report, filed before
+colonization was approved, had used phrases like "localized
+ontological instability" and "intermittent material coherence loss"
+and "spontaneous object demanifestion." What these phrases meant,
+in practical terms, was that things on Vashta disappeared.
+
+Not everything. Not all the time. The ground stayed. The sky stayed.
+The air, the water, the big geological features — mountains, rivers,
+the basalt formations along the southern coast — these were stable.
+They had been here for millions of years and showed no signs of
+going anywhere. But smaller things — objects below a certain mass
+threshold, objects above a certain complexity, objects that had been
+recently changed or moved — these flickered. They were here, and
+then they were not, and then sometimes they were here again, and
+sometimes they were not.
+
+The pattern, such as it was, had been studied by the colony's
+scientists with the frantic attention of people whose equipment
+kept disappearing. Dr. Yuen, the settlement's physicist, had
+developed a theory involving quantum coherence fields and probability
+gradients that Clara did not pretend to understand. What she
+understood was the practical reality: anything you built on Vashta
+might vanish overnight. A wall. A roof. A fence. A chair. A cup
+left on a table. A blanket on a bed.
+
+The bed itself.
+
+Some things lasted longer than others. Heavy things. Simple things.
+Things made from local materials, especially stone and the dense,
+dark wood of the basin trees that grew in the valleys. Things that
+had been in place for a long time seemed to accumulate a kind of
+stability — Dr. Yuen called it "coherence momentum" — as though
+the universe gradually accepted their existence and stopped trying
+to take them back.
+
+But there was no guarantee. Nothing was certain. You built, and you
+waited, and you woke up in the morning and looked to see what was
+still there.
+
+Clara had been building for eighteen months, and she was not done
+yet.
+
+                               II.
+
+She had chosen her homestead site with care. It was on a low rise
+at the edge of the settlement, overlooking the river valley to the
+south. The ground was stable — dense basalt bedrock, according to
+the geological survey, part of a formation that was billions of
+years old and showed perfect coherence. The trees in the nearby
+grove were old-growth basin timber, deep-rooted, their trunks as
+wide as a person was tall. They flickered less than the younger
+trees. They had been here long enough that the world had accepted
+them.
+
+Clara planned to be accepted too.
+
+Her house was a simple structure — or would be, when it was
+finished. Four rooms: kitchen, bedroom, workroom, and a front room
+with a window facing the valley. Stone foundation, timber frame,
+timber walls, timber roof. No machinery, no electronics, no
+composite materials brought down from the ship. Everything local.
+Everything simple. Everything heavy and dense and deeply rooted in
+the planet's own substance.
+
+She had learned the hard way what worked and what didn't. In the
+first month, she had tried to build with the prefabricated panels
+from the colony's supply store — lightweight polymer sheets designed
+for rapid shelter construction. They vanished within hours, sometimes
+while she was still attaching them. She tried steel framing next.
+It lasted three days.
+
+Then she tried wood.
+
+The first timber wall lasted a week before it disappeared. But it
+came back — four days later, in the middle of the night, with a
+soft thump that woke her from sleep. She went outside and found it
+standing exactly where she had built it, every board in place, as
+though it had never left.
+
+That was when she began to understand. The planet was not hostile.
+It was not trying to stop her. It was — testing was too purposeful a
+word, but it was the closest she could find. The planet was testing
+the coherence of what she built, the way a river tested the banks
+that contained it. If the thing she built was solid enough, simple
+enough, rooted enough, the planet would eventually accept it. But
+it had to prove itself first.
+
+She began building with that understanding. She cut her timber from
+the oldest trees, with their permission — she had started talking to
+the trees, she knew this was not entirely rational, she did not care
+— and she let the cut wood season in the open air for two weeks
+before she used it, allowing it to adjust to its new form. She sank
+her foundation stones deep into the basalt, anchoring them with
+their own weight. She built slowly, one board at a time, checking
+each morning to see what had survived the night.
+
+And gradually, stubbornly, the house grew.
+
+                               * * *
+
+Clara was not the only Builder who had stayed. In the settlement
+below her rise, forty-seven others were engaged in the same patient,
+maddening work — constructing homes, workshops, fences, storage
+buildings, a meeting hall. The settlement looked, from a distance,
+like a town that was being built and demolished simultaneously:
+walls half up, roofs missing, doorframes standing alone in empty
+lots where the walls around them had vanished.
+
+Marcus Hale was building a blacksmith's forge. He was a metallurgist
+by training, a squat, quiet man from the Welsh mining valleys, and
+he had taken to Vashta with the grim determination of someone who
+understood that shaping resistant materials was the whole point of
+his existence. His forge was built from stone — quarried basalt,
+dressed by hand, fitted without mortar — and it was the most stable
+structure in the settlement. The anvil had been there for six
+months without flickering once.
+
+"The trick," he told Clara, over a cup of coffee at the meeting
+hall — the meeting hall being a roofless rectangle of stone walls
+that had been rebuilt three times — "is to make the planet forget
+that you changed anything. Take the stone. Shape it. Put it back.
+If you do it right, the planet thinks it's still just stone. It
+doesn't notice."
+
+"You're anthropomorphizing a planet," Clara said.
+
+"I'm anthropomorphizing reality. It's a bad habit. But it works."
+
+Dr. Yuen, when Clara asked her about this, was less colorful but
+not entirely dismissive. "There is a pattern in the coherence data
+that is consistent with Mr. Hale's intuition," she said. She was
+a precise, careful woman who wore the same gray jumpsuit every day
+— she had given up on varied clothing after her wardrobe vanished
+for the third time — and she spoke with the measured caution of
+someone who knew her data was incomplete. "Objects that are
+minimally transformed from their source state show higher coherence
+persistence. A stone block that still resembles a stone persists
+longer than a polymer panel that resembles nothing in the local
+environment. The planet — the coherence field — appears to have a
+bias toward continuity."
+
+"A bias toward things that belong," Clara said.
+
+"That is one way to interpret the data. I would note that we do
+not have sufficient data to confirm this interpretation."
+
+"But it's the interpretation that works."
+
+"It is the interpretation that is consistent with the observed
+construction outcomes, yes."
+
+Clara went home and built another wall. This time, she left the
+bark on the boards.
+
+It was still there in the morning.
+
+                               III.
+
+The winter came early.
+
+On Vashta, winter meant cold — not the moderate chill of the
+settlement's first months, but a deep, penetrating freeze that
+dropped temperatures well below zero and sent frost creeping across
+every surface. The river froze. The trees shed their leaves — the
+leaves, being small and recently detached, vanished almost
+immediately, creating the unsettling spectacle of a forest that
+was simultaneously autumnal and bare.
+
+Clara's house was not finished. She had three walls on the kitchen,
+two on the bedroom, and a partial roof that covered about half the
+structure. The front room and workroom existed only as foundation
+stones and a few upright posts.
+
+It was not enough.
+
+She worked through the short winter days with a concentration that
+bordered on fury, cutting timber in the gray morning light, fitting
+boards in the pale afternoon, collapsing into her bedroll at
+nightfall and rising before dawn to see what had survived. The cold
+helped, in a strange way. Cold things were more stable than warm
+things — Dr. Yuen theorized that reduced molecular motion improved
+coherence — and Clara's winter-built walls lasted longer than her
+summer ones. The kitchen gained its fourth wall on the third day
+of winter and kept it. The bedroom walls went up in a week.
+
+The roof was harder.
+
+A roof was complex. It was many pieces joined at angles, supported
+by joists that had to bear weight without direct contact with the
+ground. It was, in the language of the planet's physics, highly
+transformed — wood that had been cut, shaped, lifted, and arranged
+into a configuration that bore no resemblance to anything that had
+ever existed on Vashta before. The coherence field resisted roofs
+the way water resisted being held in an open hand.
+
+Clara lost three roofs in two weeks. Each time, she woke to find
+the sky above her, the stars visible through the gap where the
+timbers had been, and her blankets — when she still had blankets —
+dusted with frost.
+
+The fourth time, she tried something different.
+
+She didn't build a roof. She grew one.
+
+She transplanted a basin tree sapling — a young tree, barely taller
+than herself, its trunk as thick as her wrist — into the gap
+between her bedroom walls. She staked it in place, watered it, and
+waited. The sapling, being a living thing rooted in the planet's
+own soil, had excellent coherence. It stayed. It grew. Slowly, over
+the course of two weeks, its branches spread outward, extending
+over the bedroom walls, creating a canopy of dense, dark leaves
+that shed water and blocked wind.
+
+It was not a conventional roof. It leaked in heavy rain. It rustled
+in the wind. Small insects lived in it, and occasionally one would
+drop onto her face while she was sleeping.
+
+But it stayed. It was part of the planet, growing in the planet's
+soil, doing what trees did. The coherence field accepted it without
+question.
+
+Marcus came to see it and stood for a long time, staring up at the
+tree growing through the middle of Clara's bedroom.
+
+"You're insane," he said.
+
+"I'm warm," she said.
+
+"Those are not mutually exclusive."
+
+"No. But one of them matters more right now."
+
+                               IV.
+
+Spring came. The ice on the river broke with a sound like a
+gunshot, and the trees put out new leaves, and the air warmed, and
+some of the settlers who had gone back to the _Perseverance_ came
+down again to try once more.
+
+Clara's house survived the winter with all four kitchen walls, three
+bedroom walls (the fourth had vanished and returned twice), the
+living tree roof over the bedroom, and the beginnings of a stone
+chimney that Marcus had helped her build. It was, by the standards
+of the settlement, a mansion. It was, by the standards of any
+other world, a hovel — a ramshackle collection of bark-covered
+boards and mismatched stones, with a tree growing through the
+middle of it and gaps in the walls that she had stuffed with dried
+river grass.
+
+She did not care. It was hers. She had built it, board by board,
+stone by stone, day after day, in the face of a universe that kept
+trying to take it apart. And it was still standing.
+
+That was enough.
+
+                               * * *
+
+New settlers arrived in the spring — not from the _Perseverance_,
+but from Earth. A second colony ship, the _Endurance_, had been
+dispatched with three hundred additional settlers and a cargo hold
+full of supplies. They landed on a bright morning, their shuttle
+kicking up dust as it settled on the flat ground west of the
+settlement, and they emerged blinking into the Vashta sunlight with
+the expressions of people who had read the reports but had not
+quite believed them.
+
+Clara was among the original settlers who met them. She stood in
+the welcoming line, her hands calloused, her clothes patched, her
+hair cut short with a knife because scissors vanished too quickly
+to be worth keeping, and she watched the new arrivals look around
+at the settlement — the half-built houses, the missing walls, the
+roofless meeting hall — with a mixture of curiosity and poorly
+concealed dismay.
+
+A young woman named Priya, an architect by training, broke away
+from the group and walked up to Clara's house. She studied it for
+a long time — the bark-covered walls, the stone foundation, the
+tree growing through the roof.
+
+"You built this?" she asked.
+
+"Yes."
+
+"It's — unconventional."
+
+"It's standing."
+
+Priya touched the nearest wall, running her fingers over the rough
+bark surface. "The walls are unskinned timber. No treatment, no
+sealant."
+
+"Sealant vanishes. The bark stays."
+
+"And the tree?"
+
+"The tree is my roof."
+
+Priya was quiet for a moment. She was a tall woman, precise and
+composed, with the posture of someone who had spent years learning
+how buildings were supposed to be built. Clara could see her
+processing — could see the conflict between her training and the
+evidence of her eyes.
+
+"I've been studying the survey reports on the transit," Priya said,
+slowly. "The coherence field dynamics. I have some ideas about how
+to build structures that might resist demanifestion more effectively.
+New techniques. Better materials."
+
+"Such as?"
+
+"Composite local materials — stone and timber, but processed in
+specific ways to maximize coherence momentum. And architectural
+forms that mimic natural structures — arches, curves, shapes that
+the planet's systems might recognize as consistent with the local
+environment."
+
+Clara looked at her. "You want to build things that look like they
+grew here."
+
+"Essentially, yes."
+
+"That's what I've been doing."
+
+Priya looked at the house again. At the bark walls. At the tree.
+At the moss that had started growing on the north-facing stones.
+
+"Yes," she said. "I can see that." She paused. "Would you be
+willing to work with me? I have the theory. You have the practice."
+
+Clara considered this. She looked at her house — her stubborn,
+imperfect, still-standing house — and she looked at the settlement
+around it, its buildings rising and falling like the tides, and she
+looked at the new settlers standing by their shuttle, fresh and
+bewildered and not yet understanding what it meant to build on a
+world that might unmake your work overnight.
+
+"Yes," she said. "But I'll warn you now — the first thing you build
+will disappear. And the second. And probably the third. It's the
+fourth one that matters. The fourth one is when you find out whether
+you're going to stay."
+
+"What happened to your fourth one?"
+
+Clara pointed at the kitchen wall — the solid, bark-covered, twelve-
+board wall that had been standing for nine months now without so
+much as a flicker.
+
+"Still here," she said.
+
+                               V.
+
+They built together through the spring and into the summer. Priya's
+ideas were good — better than good. She designed structures using
+curved forms that echoed the shapes of the basin trees: arching
+walls, domed roofs, rooms that flowed into each other like the
+chambers of a seashell. She used local stone and timber, processed
+minimally, and she developed a technique for joining boards with
+tongue-and-groove cuts so precise that the joints were nearly
+invisible — the boards fitting together as though they had grown
+that way.
+
+The coherence results were remarkable. Priya's structures lasted
+longer on their first placement than anything the settlement had
+built before. The curved walls persisted at a rate of eighty-seven
+percent — compared to the flat-wall average of sixty-three percent
+— and the domed roofs, which distributed their weight evenly and
+presented a shape that the planet's coherence field seemed to
+recognize as natural, persisted at ninety-one percent.
+
+The settlement began to change. The half-built, half-vanished
+quality of the early months gave way to something more permanent.
+Curved walls rose along the main street. Domed roofs covered the
+workshops and storage buildings. The meeting hall finally got a
+roof — a great dome of interlocking stone, fitted without mortar,
+that Marcus built over the course of three weeks and that survived
+its first night, and its second, and every night after that.
+
+Clara watched it happen with a feeling she had almost forgotten:
+hope.
+
+Not the desperate, teeth-gritting hope of the first winter, when
+hope had been a survival mechanism, a way of getting through one
+more day. This was a different kind of hope. Quieter. Deeper. The
+hope of a woman who could see, for the first time, the shape of
+what she was building — not just a house, not just a settlement,
+but a way of living in a world that did not owe her existence.
+
+On the longest day of summer, the settlement held a celebration in
+the domed meeting hall. Two hundred and seven people — the Builders
+who had stayed, and those of the new settlers who had chosen to
+try — gathered under the stone dome and ate food grown from the
+planet's soil and drank water from the planet's river and talked
+and laughed and argued about what to build next.
+
+Clara sat on a stone bench at the edge of the gathering, her back
+against the curved wall, and listened. The wall was solid against
+her shoulders. The dome arched above her, each stone fitted to its
+neighbor, the whole structure held together by nothing but geometry
+and weight and the planet's grudging acceptance of their right to
+be here.
+
+Marcus sat down beside her. "Good wall," he said, tapping the
+stone behind them.
+
+"Good dome."
+
+"Took me three tries."
+
+"Only three?"
+
+He smiled. It was a rare expression on his face — the face of a
+man who had spent his life fighting resistant materials. "I'm
+getting better."
+
+"We all are."
+
+She looked around the hall. At the people. At the walls. At the
+dome that should not have been possible on a world that unmade
+what it did not recognize, and that was standing anyway, because
+someone had been stubborn enough to build it.
+
+"I've been thinking," she said.
+
+"That's dangerous."
+
+"I've been thinking about what we're doing here. All of us. Every
+day, we get up and we build, knowing it might be gone tomorrow.
+Knowing the planet might take it away. And we build anyway."
+
+"We build anyway," Marcus agreed.
+
+"Why?"
+
+Marcus was quiet for a long moment. Around them, the celebration
+continued — voices, laughter, the clink of cups made from polished
+river stone.
+
+"Because that's what people do," he said, finally. "We build. Not
+because it lasts. Because we need to. Because the act of building
+is the thing that makes us human. A wall that falls down and gets
+built again is more human than a wall that stands forever. The
+standing is easy. The rebuilding is the point."
+
+Clara looked at the dome above them. Through the gaps between the
+stones — there were always gaps; the planet insisted on imperfection
+— she could see the stars, faint points of light in the deep blue
+evening sky.
+
+"We're going to be all right," she said.
+
+"Maybe," Marcus said. "Maybe not. But we'll build either way."
+
+She leaned her head against the wall. It was cool and solid and
+present. Tomorrow it might be gone. She would build it again.
+
+That was the point. That had always been the point.
+
+She closed her eyes, and the wall held her, and for now — for this
+night, in this moment — everything she had built was still here.
+
+                            [THE END]
+
+================================================================================
+
+                      ARCHITECT'S CONFESSION
+
+                        by Theodore Cain
+
+================================================================================
+
+                               I.
+
+The call came at three in the morning, which is when all the worst
+calls come.
+
+Martin Geary, chief structural engineer of Janus Station, fumbled
+for the comm panel in the dark of his sleeping compartment and
+managed to knock a water glass off the bedside shelf in the process.
+The glass drifted away in the station's gentle spin gravity,
+tumbling end over end, spilling a slow-motion spiral of water
+droplets that hung in the air like tiny planets.
+
+"Geary," he said, blinking at the panel.
+
+"Martin. It's Petra." Petra Vasquez, station director. Her voice
+was the voice she used when something was seriously wrong — calm,
+precise, and completely drained of warmth. "I need you in my office.
+Now."
+
+"What's happened?"
+
+"Simon Ares is dying."
+
+Geary sat up. The water droplets drifted across his face, and he
+brushed them away without thinking. Simon Ares. The name hit him
+the way certain names always do — not as a word but as a weight,
+carrying with it the full freight of history and significance and
+personal association.
+
+Simon Ares had designed Janus Station. He was, by near-universal
+consensus, the greatest space architect of the past century —
+the man who had reimagined what a space station could be, who had
+thrown out the utilitarian cylinders and modular boxes that had
+defined orbital construction for decades and replaced them with
+structures of such beauty and functional elegance that people wept
+when they saw them. Janus Station was his masterpiece: a vast,
+spiraling double helix of interconnected habitats, laboratories,
+and public spaces, spinning gently in the L2 point between Earth
+and the Moon, home to fourteen thousand people and considered one of
+the architectural wonders of the solar system.
+
+Ares was ninety-one years old. He had been living aboard the station
+for the past three years — a sentimental choice, people said,
+the old man wanting to spend his final days inside his greatest
+creation. He had been in declining health for months. The fact of
+his dying was not a surprise.
+
+But the three-in-the-morning urgency suggested something else.
+
+Geary pulled on his jumpsuit, collected the drifting water glass,
+and went to the director's office.
+
+                               * * *
+
+Vasquez was waiting for him with Dr. Lena Okafor, the station's
+chief medical officer, and a man Geary didn't recognize — a thin,
+tense individual in a civilian suit who introduced himself as
+Robert Ames, from the Consortium's Office of Infrastructure Safety.
+
+"Mr. Ares has made a statement," Vasquez said. She was standing
+behind her desk, her arms folded, her face showing the particular
+expression of a station director who has just received information
+she deeply wishes she had not. "He asked that we record it. He
+asked that you be present, Martin, specifically."
+
+"Why me?"
+
+"Because you're the chief structural engineer. And because of what
+he's confessing."
+
+Geary looked at Ames, the Consortium man. Ames looked back with an
+expression that combined bureaucratic anxiety with something close
+to dread.
+
+"Confessing?" Geary said.
+
+Vasquez touched a control on her desk, and a recording began to play.
+
+The voice was old — a dry, papery whisper, each word placed with
+the deliberate care of a man who knows he has a limited number of
+them remaining. But it was unmistakably Simon Ares. Geary had met
+him twice, at formal events, and the voice was the same — that
+distinctive cadence, simultaneously precise and musical, the voice
+of a man who thought in blueprints and spoke in poetry.
+
+"My name is Simon Ares. I am the architect of Janus Station. I am
+making this statement freely, in the presence of Dr. Lena Okafor,
+and I understand that it will be transmitted to the relevant
+authorities. I make it now because I am dying and because the truth
+must be told before I am no longer capable of telling it.
+
+"Janus Station contains a structural flaw. I designed it. I placed
+it deliberately, in full knowledge of its implications. The flaw
+is in the central spindle — the main load-bearing column that runs
+through the station's axis and supports the counter-rotation of the
+two helices. At a point approximately two-thirds of the way along
+the spindle's length, I specified a material composition that is
+inconsistent with the structural requirements of the design.
+
+"Specifically, I specified a titanium-aluminum alloy of Grade Seven
+purity for the spindle's inner sheath at that point. The correct
+specification — the one required by the stress calculations — is
+Grade Nine. Grade Seven is adequate for normal operational loads.
+It is not adequate for the stress concentrations that would occur
+during a maximum-rated spin adjustment or an emergency counter-
+rotation event.
+
+"The flaw has been present since the station was constructed. It
+has never been tested by a maximum-rated event because no such event
+has occurred in the station's twenty-eight years of operation. But
+the station's golden anniversary is approaching, and the
+celebrations will include a ceremonial spin-up to maximum rated
+speed. If this spin-up occurs, the stress on the Grade Seven
+section of the spindle will exceed its tolerance. The failure mode
+would be catastrophic and rapid. The station would break apart.
+
+"I am telling you this now because I can no longer bear the weight
+of it, and because fourteen thousand people deserve to know that
+the building they live in has a fracture in its heart.
+
+"I am sorry. That is inadequate, but it is true."
+
+The recording ended. The office was silent.
+
+                               II.
+
+Geary listened to the recording three more times. Then he went to
+his engineering office, pulled the station's structural blueprints,
+and spent two hours verifying Ares's claim.
+
+It took him less time than he expected. The flaw was exactly where
+Ares said it was — a material specification on drawing S-412,
+page seventeen, line forty-three. Grade Seven where Grade Nine
+should be. Geary stared at the specification and felt a sensation
+that was part disbelief, part anger, and part a strange, vertiginous
+understanding, as though a floor he had been standing on had
+suddenly revealed itself to be a trapdoor.
+
+He'd walked past that section of the spindle a hundred times. He'd
+conducted routine inspections of the spindle every six months for
+the past twelve years. The Grade Seven alloy looked identical to
+Grade Nine — same color, same surface texture, same response to
+standard non-destructive testing. The difference was internal:
+crystalline structure, fatigue resistance, maximum shear strength.
+You wouldn't see it. You wouldn't feel it. You would only know it
+when it mattered.
+
+He went back to Vasquez's office. Ames was still there, looking
+more anxious than before.
+
+"Confirmed," Geary said. "The specification is Grade Seven. It
+should be Grade Nine. The stress analysis confirms that the Grade
+Seven section would fail under maximum-rated spin conditions."
+
+"How long would we have?" Vasquez asked.
+
+"If a maximum-rated spin-up were initiated? The models say the
+Grade Seven section would reach critical stress within approximately
+forty minutes. Failure would follow within seconds. The station
+would — the helices would decouple. The forces involved would be..."
+
+He didn't finish the sentence. He didn't need to. Everyone in the
+room understood what it meant when a spinning structure the size
+of a small city lost its axial support.
+
+"The golden anniversary celebration is in nine weeks," Ames said.
+"The spin-up is the centerpiece of the event. It's been publicized
+across the system. The Secretary-General is scheduled to attend."
+
+"The spin-up is not happening," Vasquez said.
+
+"That decision is above my pay grade, Director."
+
+"Then get someone whose pay grade it is on the line. Right now."
+
+"Can we fix it?" Geary asked. He was already thinking through the
+engineering. "Replace the Grade Seven section with Grade Nine?"
+
+"In nine weeks?"
+
+"The affected section is approximately eighteen meters long. We'd
+need to cut out the old sheath, fabricate a new one in Grade Nine,
+and install it. The spindle is accessible through the axial
+maintenance corridor. The work itself is straightforward. The
+problem is that the spindle is load-bearing — it's holding the
+station together. We can't just cut a section out. We'd need to
+install temporary supports to transfer the load while we do the
+swap."
+
+"How long?"
+
+Geary ran the numbers in his head. "Six weeks. Maybe five, if we
+work double shifts. We'd need to reduce the station's spin rate
+during the operation — lower the centrifugal load on the spindle
+to give us margin."
+
+"Can we keep the station operational during the work?"
+
+"At reduced spin, yes. Gravity would drop to about sixty percent
+of normal. People would notice, but the station would be safe."
+
+Vasquez looked at Ames. "That's your answer. We reduce spin, fix
+the flaw, and postpone the spin-up until the repair is complete."
+
+"The political implications—"
+
+"The political implications of the station breaking apart with
+fourteen thousand people inside it and the Secretary-General on
+board are considerably worse, Mr. Ames."
+
+Ames opened his mouth, closed it, and reached for his comm panel.
+
+                               III.
+
+Geary went to see Ares.
+
+The old architect was in the station's medical wing, in a private
+room that overlooked the Grand Atrium — the vast, cathedral-like
+space at the heart of the station that was Ares's most celebrated
+design achievement. It was a cylindrical volume two hundred meters
+long and eighty meters in diameter, its walls lined with trees and
+gardens, its ceiling a transparent dome through which the stars
+wheeled slowly as the station turned. It was the most beautiful
+space Geary had ever seen, and he had seen it every day for twelve
+years, and it still made him catch his breath.
+
+Ares was propped up in a medical bed, his body thin and diminished
+beneath the blankets, his face a landscape of sharp bones and
+transparent skin. His eyes were open — large, dark, still bright
+with the intelligence that had conceived the most remarkable
+structures in human history.
+
+"Mr. Geary," he said. His voice was weaker than it had been in
+the recording — the effort of his confession had cost him. "Thank
+you for coming."
+
+Geary sat down in the chair beside the bed. He had prepared many
+things to say — questions, accusations, the angry words of an
+engineer who had just learned that the building he maintained had
+a deliberate weakness built into its bones. But looking at Ares —
+at the frail, luminous wreck of the man who had created the most
+beautiful thing in the solar system — the anger drained away, and
+what was left was simpler and harder to name.
+
+"Why?" he asked.
+
+Ares closed his eyes for a moment. When he opened them, they were
+focused on something beyond the room — on the Atrium, perhaps, or
+on something further, something only he could see.
+
+"Have you ever built something perfect, Mr. Geary?"
+
+"No."
+
+"Neither have I. But Janus — Janus was close. When the final
+designs came together, when I stood back and looked at what I had
+created on paper, I saw something that was, within the limits of
+human engineering, without flaw. Every stress calculation balanced.
+Every material specification optimal. Every proportion, every curve,
+every joint — perfect. I had been designing buildings for forty
+years, and I had never achieved that before. Perfection."
+
+He paused, gathering breath. "And I was terrified."
+
+Geary waited.
+
+"Perfection is inhuman, Mr. Geary. A perfect building is not a
+building that people live in. It is a monument. It is a tomb. It
+says to the people inside it: you cannot improve this, you cannot
+change this, you cannot make it more yours. It stands above you,
+complete and untouchable, and you are merely its tenants.
+
+"I did not want to build a tomb. I wanted to build a home. And a
+home must have — must contain within itself — the possibility of
+vulnerability. A crack. A weakness. Something that says: I am not
+eternal, I am not divine, I am a thing made by human hands, and
+human hands must tend me, or I will fall.
+
+"The flaw in the spindle is that crack. It is my gift to the
+people who live here — my assurance that Janus needs them, that it
+is not self-sufficient, that it requires their attention and their
+care. A perfect building does not need its occupants. An imperfect
+building needs them desperately. And being needed — being essential
+to the survival of the place you call home — is, I believe, a
+fundamental human requirement."
+
+Geary sat in the chair, listening, and felt the slow, uncomfortable
+sensation of understanding something that he did not want to
+understand. Because the argument was mad. It was irresponsible. It
+was the most dangerous piece of architectural philosophy he had
+ever heard. And it was, at some level that he could not quite
+dismiss, almost true.
+
+"You put fourteen thousand people at risk," he said. "For a
+philosophy."
+
+"Yes."
+
+"You understand that's indefensible."
+
+"I do. That is why I am confessing."
+
+"Why now?"
+
+"Because the spin-up would have found it. Because fourteen thousand
+people would have died. Because my philosophy was never meant to
+be tested — it was meant to be discovered, understood, and corrected.
+The flaw was always intended to be found. I assumed — I hoped — that
+a routine inspection would catch it, that someone would look at the
+specification and see the discrepancy, and that the correction would
+be made, and the people who made it would understand that their
+building needed them."
+
+"Nobody found it," Geary said. "In twenty-eight years."
+
+"No. Nobody found it. And that is my second failure — the failure
+of my faith in human attention. I overestimated the likelihood of
+discovery. I underestimated the trust that people place in the
+specifications they inherit. You, Mr. Geary — you have inspected
+the spindle many times. Did you ever question the material
+specification?"
+
+Geary thought about it. The answer, honest and uncomfortable, was
+no. He had inspected the spindle for visible damage, for wear, for
+fatigue indicators. He had never gone back to the blueprints and
+checked the material grades against the stress calculations. Why
+would he? The architect was Simon Ares. The station was Janus.
+The design was perfect.
+
+"No," he said. "I trusted the design."
+
+"And that trust — that faith in perfection — is exactly what I was
+afraid of. You see, Mr. Geary? Perfection makes people stop
+looking. It makes them complacent. A perfect building makes its
+caretakers lazy, because there is nothing to care for. My flaw was
+meant to prevent that. Instead, the perfection of everything else
+hid the flaw so completely that no one ever looked for it."
+
+He coughed — a dry, shallow sound. Dr. Okafor, who had been standing
+silently by the door, moved toward the bed, but Ares waved her away.
+
+"Fix it," he said to Geary. "Fix the spindle. Make it Grade Nine.
+And then — if I may make one last request — do not make it perfect.
+Leave something else. Something small, something harmless, something
+that requires attention. A joint that needs tightening every year.
+A panel that must be replaced every decade. Something that says to
+the people who live here: this building is alive, and it needs you."
+
+Geary looked at the old man — the creator, the builder, the madman
+who had put a crack in the heart of his masterpiece because he
+was afraid of his own genius. And he understood, in a way that he
+would spend years trying to articulate, that Ares was right and
+wrong at the same time, and that the rightness and the wrongness
+were inseparable, like the two helices of the station itself,
+spiraling together around a shared axis.
+
+"I'll fix it," he said. "And I'll leave something. But it'll be
+my choice, not yours. And it won't endanger anyone."
+
+Ares smiled. It was a thin, tired smile, but it carried within it
+a relief so profound that it changed his face entirely — from the
+mask of a man carrying a terrible weight to the face of a man who
+had finally, after twenty-eight years, set it down.
+
+"Thank you," he said.
+
+                               IV.
+
+Simon Ares died four days later, peacefully, in his room overlooking
+the Grand Atrium. He was ninety-one years old.
+
+The repair operation began the following week. Geary's team reduced
+the station's spin rate to sixty percent, installed temporary
+load-bearing supports around the affected section of the spindle,
+and began the delicate process of cutting away the Grade Seven
+sheath and replacing it with Grade Nine alloy fabricated on-station.
+
+The work took five weeks. During that time, Janus Station lived at
+reduced gravity — children bounced higher in the playgrounds, water
+behaved oddly in the sinks, and everyone walked with the slightly
+cautious gait of people who were not quite sure of their weight.
+The station's residents had been told the truth — Vasquez had
+insisted on transparency, over Ames's objections — and they had
+responded with a mixture of shock, anger, and, eventually, a quiet
+kind of pride. They were fixing their home. They were the caretakers
+that Ares had always wanted them to be.
+
+When the last section of Grade Nine sheath was welded into place,
+Geary stood in the axial maintenance corridor and ran his hand
+along the new metal. It was smooth, dense, perfect. The spindle
+was whole. The station was safe.
+
+He reached into his toolkit and pulled out a small steel plate —
+a cover panel for an access port in the corridor wall. It was
+standard equipment, unremarkable in every way, except that he had
+drilled four mounting holes where the specification called for six.
+
+Four holes would hold the panel in place indefinitely under normal
+conditions. But the panel would rattle slightly in high-vibration
+events — docking operations, thruster firings, the occasional
+micrometeorite impact — and the rattle would be audible from the
+corridor outside. Someone would hear it. Someone would investigate.
+Someone would find the panel, see that it had four holes instead of
+six, and add the missing bolts.
+
+And then, a few years later, another panel somewhere else in the
+station would develop a similar rattle. Because Geary planned to
+install several of them, in different locations, over the course of
+his remaining career. Small imperfections. Harmless. Fixable.
+Detectable.
+
+Invitations to pay attention.
+
+He mounted the panel on the wall, tightened the four bolts, and
+stepped back to listen. In the quiet of the corridor, he could
+hear it — the faintest vibration, barely perceptible, a tiny sound
+that said: I'm here. I need you. Look closer.
+
+He smiled, and went back to work.
+
+                            [THE END]
+
+================================================================================
+
+                      WHY BOTHER?
+
+                        by Franklin Hoyt
+
+================================================================================
+
+                               I.
+
+The last irrational man on Earth was eating breakfast when the world
+ended.
+
+Not ended in the dramatic sense — no fire from the sky, no sudden
+silence, no horsemen. The world ended the way worlds actually end:
+with a memo. Specifically, a memo from the Global Rationality
+Commission to all citizens of the Consolidated Republic, distributed
+at 0600 Universal Standard Time to every neural interface on the
+planet, informing them that the Commission had, after careful and
+fully rational deliberation, concluded that human civilization was
+no longer a viable enterprise and would be phased out over the
+following eighteen months.
+
+Earl Tremaine did not receive the memo because Earl Tremaine did
+not have a neural interface. He was, as far as anyone knew, the
+only adult human being on Earth who lacked one. This was not by
+choice — or rather, it was not by his choice. It was an oversight.
+
+Earl was fifty-seven years old, lived alone in a three-room
+apartment in what had once been called Baltimore, and worked as a
+custodian at the Chesapeake Reclamation Facility, a water treatment
+plant that served the mid-Atlantic region. He was a quiet man,
+heavyset, with large hands and a face that defaulted to an
+expression of mild bewilderment. He had been born in 2041, two
+years before the Rationality Initiative was passed by the first
+World Parliament, mandating neural modification for all citizens to
+eliminate irrational cognitive biases.
+
+Earl had been scheduled for modification at age three, like every
+other child. But on the day of his appointment, a power failure
+at the modification clinic in Baltimore had shut down the procedure
+queue, and Earl's appointment had been rescheduled for the following
+week. The following week, his mother — a woman of disorganized
+temperament who would herself have benefited enormously from
+modification, had she not received hers a year earlier — forgot
+the new appointment. The system generated a follow-up reminder,
+which was routed to an incorrect address. A second follow-up was
+lost in a database migration. A third was flagged as duplicate and
+deleted.
+
+And so Earl Tremaine, through a cascade of small bureaucratic
+failures, slipped through the net. He grew up unmodified — his
+neurons firing in the messy, biased, emotionally contaminated
+patterns that evolution had designed and that the Rationality
+Initiative had been created to correct. He went to school, where
+his modified classmates found him confusing but not threatening.
+He got a job. He paid his taxes. He lived his life. And nobody
+noticed, because nobody was looking.
+
+Nobody was looking because nobody believed it was possible. The
+neural modification system was, in the language of the Commission,
+"comprehensive and error-free." Every citizen was modified. Every
+citizen was rational. The idea that someone might have been missed
+was, to a rational mind, not worth considering.
+
+Earl ate his breakfast — eggs, toast, coffee — and listened to the
+morning news on his radio. He was one of the few people who still
+owned a radio. He found the sound of it comforting in a way he
+couldn't quite explain. The neural interface broadcasts that
+everyone else received were efficient and information-dense, but
+they lacked something — a quality of warmth, of human imperfection,
+that Earl's unmodified brain craved the way a body craves salt.
+
+The morning news was strange.
+
+"...the Commission's recommendation has been received and processed
+by the World Parliament," said the newsreader, in the calm, measured
+tones that all newsreaders used these days — rational tones, empty
+of emphasis or emotion. "Implementation protocols are being
+developed. Citizens are advised to consult their regional
+administration offices for detailed phase-out schedules. The
+Commission emphasizes that the decision was reached through rigorous
+cost-benefit analysis and represents the optimal outcome given
+current parameters."
+
+Earl frowned. He turned up the volume.
+
+"...the Commission's analysis indicates that the aggregate
+resource expenditure required to maintain human civilization exceeds
+the aggregate utility produced by a factor of three point seven.
+Contributing factors include ecological degradation, infrastructure
+maintenance costs, and the persistent failure of social systems to
+achieve stable equilibrium. The Commission concludes that a
+controlled phase-out of civilization, including managed population
+reduction and systematic dismantling of infrastructure, would
+reduce net suffering by approximately ninety-four percent over a
+two-hundred-year horizon..."
+
+Earl set down his coffee cup. He was not a sophisticated man. He
+had not attended university. He did not understand cost-benefit
+analysis or stable equilibrium or aggregate utility. But he
+understood, with the immediate, gut-level clarity that his
+unmodified brain was still capable of, that what the radio was
+describing was the end of everything.
+
+And that nobody else seemed to think this was a problem.
+
+                               II.
+
+He went to work. He didn't know what else to do.
+
+The Chesapeake Reclamation Facility was a large, clean, efficiently
+run installation on the shore of the bay. Earl's job was to maintain
+the physical plant — the pipes, pumps, filters, and treatment
+chambers that processed the region's wastewater and returned it to
+the bay as clean water. It was a job that required no neural
+interface and no particular rationality, just a strong back, a good
+set of tools, and the willingness to do unpleasant work that more
+rational people had decided was beneath them.
+
+He arrived at 0700 and found the facility operating normally. The
+other workers — six technicians and a shift supervisor, all
+modified — were at their stations, doing their jobs with the calm,
+unhurried efficiency that characterized everything modified people
+did. None of them seemed disturbed by the morning's announcement.
+
+Earl approached the shift supervisor, a man named Chen, who was
+reviewing flow rates on a monitor.
+
+"Did you hear the news?" Earl asked.
+
+"Yes," Chen said, without looking up.
+
+"They're shutting down civilization."
+
+"The Commission has recommended a managed phase-out, yes. The
+analysis is sound. The resource expenditure figures are
+incontrovertible."
+
+"But — people will die."
+
+Chen looked at him then, with the patient, slightly puzzled
+expression that modified people used when confronted with an
+emotional statement. It was the expression of someone encountering
+a logical error and trying to locate it.
+
+"Death is an inevitable outcome in any scenario," Chen said.
+"The question is whether more people will die through the
+continuation of civilization or through its controlled conclusion.
+The Commission's analysis indicates the latter option produces
+less aggregate suffering."
+
+"But we built all this," Earl said, gesturing at the facility
+around them. "We built — everything. The cities. The farms. The
+hospitals. We built all of it. And they want to tear it down."
+
+"The infrastructure will be dismantled in an orderly fashion.
+Essential services will be maintained during the transition period
+to minimize hardship."
+
+"That's not what I mean."
+
+"Then I do not understand what you mean."
+
+Earl opened his mouth to explain, and found that he couldn't. Not
+because the explanation was complicated, but because it required
+something that Chen did not have — something that had been carefully
+and deliberately removed from his brain when he was three years
+old. It required the capacity to feel that something was wrong,
+not because the numbers said so, but because it felt wrong. Because
+the gut clenched and the heart rate spiked and a voice in the back
+of the brain screamed no, not this, not ever, not while I'm
+breathing.
+
+Earl had that capacity. Chen did not.
+
+"Never mind," Earl said. He went to work on the pipes.
+
+                               * * *
+
+The days that followed were the strangest of Earl's life. The world
+continued to function — people went to work, services operated,
+the infrastructure hummed along — but beneath the surface of
+normalcy, the dismantling had begun.
+
+He saw it in small things at first. Government offices began
+closing, their functions "consolidated" or "phased out." Schools
+announced that the current semester would be the last. Hospitals
+reduced their services, transferring patients to "transition care
+facilities" that Earl did not want to think too hard about.
+
+And nobody protested. Nobody objected. Nobody stood in the streets
+and shouted that this was wrong, because nobody felt that it was
+wrong. The rational brain of every modified citizen on Earth had
+received the Commission's analysis, processed it, verified its
+logic, and accepted its conclusions. The numbers were correct.
+Civilization was a net negative. Shutting it down was the optimal
+choice.
+
+Earl watched this happen the way a man watches a fire approach
+from across a field — with the sick, helpless certainty that it
+was coming for him and that nobody around him could see the flames.
+
+He tried talking to people. His neighbors, his coworkers, the woman
+at the grocery store who still sold food because the food
+distribution system had not yet been phased out. He said: This is
+wrong. This is insane. We can't just stop being a civilization.
+And they looked at him with that patient, puzzled expression and
+said: The analysis is sound. The numbers are clear. Why are you
+upset?
+
+And he couldn't explain. Not in terms they could understand. Because
+the terms they understood were rational terms — numbers, analyses,
+cost-benefit calculations — and the thing Earl felt was not rational.
+It was irrational. It was a howl in the dark, a fist slammed on a
+table, a voice saying: No. Not because I can prove you wrong. But
+because I refuse. Because this matters. Because we matter. Because
+I would rather live in a civilization that costs too much than die
+in an efficient void.
+
+But who would listen to the last irrational man on Earth?
+
+                               III.
+
+On the fourteenth day after the announcement, Earl did something
+that he would later describe as "not really a plan, more like a
+tantrum."
+
+He went to the World Parliament building in Geneva.
+
+Getting there was surprisingly easy. The transportation systems
+were still running — they were among the last services scheduled
+for phase-out, since people needed to move around during the
+transition period. Earl took a maglev from Baltimore to New York,
+a suborbital from New York to Geneva, and a local transit pod from
+the Geneva station to the Parliament complex. Nobody stopped him.
+Nobody asked where he was going or why. The security systems
+scanned his biometrics, noted the absence of a neural interface,
+flagged it as an anomaly, and — because the security staff who
+monitored the flags had rationally concluded that security was no
+longer a priority in a civilization that was being phased out —
+did nothing.
+
+The Parliament building was a vast, crystalline structure that
+floated above Lake Geneva on anti-gravity pylons — a monument to
+human engineering and ambition that was, according to the
+Commission's analysis, scheduled for dismantling in Month Seven
+of the phase-out. Earl walked through the main entrance, past the
+empty information desk, through the silent corridors, and into the
+Grand Assembly Hall.
+
+The hall was enormous — tiered seating for two thousand delegates,
+a raised dais at the front, holographic display systems that could
+project information at any scale. It was empty. The World Parliament
+had voted to accept the Commission's recommendation three days
+after it was issued, by a margin of 1,947 to zero, with fifty-three
+abstentions on procedural grounds. Having voted to end civilization,
+the delegates had gone home. There was nothing left to legislate.
+
+Earl stood in the empty hall and felt a surge of something that a
+rational person would have identified as an inappropriate emotional
+response to a suboptimal situation. Earl, being irrational, identified
+it as fury.
+
+He climbed the steps to the dais. He stood behind the speaker's
+podium. He looked out at the empty seats and the silent displays
+and the crystalline walls through which the waters of Lake Geneva
+were visible, gray and cold and indifferent.
+
+And he began to talk.
+
+"My name is Earl Tremaine," he said. His voice echoed in the empty
+hall. "I am a custodian from Baltimore. I clean pipes. I fix pumps.
+I do the work that nobody else wants to do, and I've been doing it
+for thirty-two years, and I'm going to keep doing it until somebody
+gives me a reason to stop that I actually believe.
+
+"You — all of you, every modified, rational, optimized citizen of
+this perfectly logical world — you've decided that civilization isn't
+worth the trouble. You've run the numbers. The numbers say we're a
+bad investment. Too expensive. Too wasteful. Too messy. And because
+you can't feel anything about it — because somebody took away your
+ability to feel — you're going along with it. You're dismantling
+everything we've ever built, everything our grandparents built,
+everything their grandparents built, because a spreadsheet says it's
+the smart move.
+
+"Well, I'm here to tell you that the spreadsheet is wrong. Not
+because I can find the error in the math. I can't. I never got past
+algebra. But the spreadsheet is wrong because it's asking the wrong
+question. It's asking whether civilization is worth the cost. That's
+the wrong question. The right question is whether civilization is
+worth fighting for, and the answer is yes, and the reason is because
+— because —"
+
+He stopped. He gripped the edges of the podium and stared at the
+empty seats and tried to find the words for something that words
+could not contain.
+
+"Because my mother used to sing to me," he said. "She had a terrible
+voice. Couldn't carry a tune. She'd sing while she was cooking
+dinner, these old songs that her mother had taught her, and she was
+awful, she was just awful, and it was the most beautiful sound in
+the world. And no spreadsheet, no cost-benefit analysis, no rational
+optimization of aggregate utility will ever account for that. Will
+ever explain why a woman with a terrible voice singing a song she
+learned from her mother while she burns the chicken is worth more
+than all the efficiency in the universe.
+
+"That's what you lost. That's what they took from you. Not your
+intelligence. Not your logic. Your ability to know, without proof,
+without data, without analysis, that some things are worth keeping.
+That some things are worth fighting for. That civilization is not
+a cost. It's a gift. It's the greatest thing we've ever made, and
+it's messy and wasteful and illogical and glorious, and if you
+tear it down, there will be nothing left — nothing — because the
+universe doesn't care about us, and we are the only ones who do."
+
+He stopped talking. His voice had been rising, filling the empty
+hall, bouncing off the crystalline walls. In the silence that
+followed, he could hear his own breathing, harsh and unsteady, and
+the faint hum of the building's systems, still running, still
+maintaining a structure that had been condemned.
+
+He did not know that the building's internal broadcast system was
+still active. He did not know that his words had been transmitted,
+automatically, to every neural interface on the planet — a default
+function of the Parliament's communication array, designed to
+ensure that all citizens could hear proceedings in the Grand
+Assembly Hall.
+
+Seven billion people heard Earl Tremaine.
+
+Seven billion perfectly rational people, who had accepted the
+end of civilization with the calm equanimity of minds unclouded
+by emotion, heard a man with a terrible education and no neural
+interface stand in an empty hall and shout about his mother's
+singing voice.
+
+And something happened.
+
+                               IV.
+
+Later, the scientists would try to explain it. The rational mind,
+they said, was not a closed system. It was a mind, after all — a
+biological organ shaped by millions of years of evolution, modified
+but not replaced by the neural interface. The modification
+suppressed certain cognitive patterns: emotional reasoning, irrational
+attachment, intuitive valuation of experiences that could not be
+quantified. But it did not destroy them. They were still there,
+buried beneath the rational architecture, like seeds beneath concrete.
+
+Earl Tremaine's speech — raw, unpolished, illogical, and radiating
+an emotional intensity that no modified person had been exposed to
+in decades — cracked the concrete.
+
+Not for everyone. Not immediately. But for enough people, and fast
+enough, to matter.
+
+The first reports came from Geneva itself. Three Commission members
+— the very officials who had authored the phase-out recommendation —
+contacted the Parliament's emergency office within two hours of
+Earl's speech. Their communications were unusual: they were, for
+the first time in any of their careers, uncertain. They used words
+like "reconsider" and "re-evaluate" and, most remarkably,
+"uncomfortable." Discomfort was not a rational category. Discomfort
+was an emotion.
+
+In Baltimore, Earl's coworker Chen arrived at the Reclamation
+Facility the next morning and stood for a long time looking at the
+treatment chambers — the pipes, the filters, the pumps — the
+infrastructure that cleaned the water that people drank. He had
+processed the Commission's recommendation. He had accepted its
+logic. But now, standing in the facility, he found himself thinking
+a thought that he could not account for rationally: I don't want
+this to stop.
+
+He could not explain why. The "why" was not in his rational
+architecture. It was somewhere else — somewhere deeper, somewhere
+the modification had not reached, somewhere that a man's voice,
+echoing in an empty hall, had found and shaken loose.
+
+In Mumbai, a hospital administrator who had been processing the
+closure of her facility stopped in mid-form and looked up. She
+looked at the patients in the ward. She looked at the nurses. She
+looked at the monitoring systems keeping people alive. She put down
+her pen.
+
+"We're not closing," she said.
+
+"The phase-out schedule—" her deputy began.
+
+"I know what the schedule says. We're not closing."
+
+"That is not rational."
+
+"No," she said. "It is not."
+
+In São Paulo, a teacher who had been told that today was the last
+day of school walked into her classroom, looked at the twenty-three
+children sitting at their desks, and taught the lesson anyway. When
+the principal asked why, she said, "Because they need to learn," and
+could not articulate what she meant by "need," and did not care.
+
+In a thousand cities, in ten thousand buildings, in a hundred
+thousand small and unremarkable interactions, the crack spread.
+People who had accepted the end of everything began, slowly and
+confusingly, to resist. Not with arguments — they had no arguments
+that could match the Commission's logic. Not with analysis — the
+analysis still said what it had always said. But with something older
+than analysis, something more fundamental than logic, something that
+had been buried but not killed: the stubborn, irrational, gloriously
+unreasonable conviction that the world was worth keeping.
+
+                               V.
+
+The World Parliament reconvened six weeks later. The Grand Assembly
+Hall was full — every seat occupied, the galleries packed, the
+corridors overflowing. Earl Tremaine was not invited. He found out
+about the session from his radio.
+
+The debate lasted four days. It was, by all accounts, the most
+extraordinary legislative proceeding in the Parliament's history —
+not because of the arguments, which were familiar, but because of
+their character. For the first time, delegates spoke with
+uncertainty. They qualified their statements. They contradicted
+themselves. They argued — not the polished, logical exchanges that
+had characterized parliamentary discourse for decades, but messy,
+emotional, sometimes incoherent arguments that lurched between
+data and feeling, between analysis and conviction, between the
+rational architecture that still governed most of their thinking and
+the something else that had been awakened beneath it.
+
+On the fourth day, the Parliament voted to rescind the phase-out
+recommendation, by a margin of 1,612 to 388. The vote was not
+unanimous. Three hundred and eighty-eight delegates remained fully
+convinced that the Commission's analysis was correct, and they
+were, strictly speaking, right. The numbers had not changed. The
+cost-benefit calculation still showed civilization as a net negative.
+
+But the majority had concluded — irrationally, illogically,
+beautifully — that the cost-benefit calculation was not the point.
+
+The Commission was disbanded. The neural modification program was
+not repealed — that would take years of additional debate, and the
+question of whether modification should be reversed was far more
+complex than the question of whether civilization should be
+maintained — but a new exception was added to the mandate: a
+provision allowing individuals to request partial de-modification,
+restoring certain suppressed cognitive functions, including
+emotional reasoning.
+
+In the first month, twelve million people applied.
+
+                               * * *
+
+Earl Tremaine went back to Baltimore and went back to work. He did
+not become famous, exactly — the modified media had difficulty
+knowing what to do with a story that was, at its core, about the
+triumph of irrationality. But he was recognized, occasionally, by
+people who had heard his speech. They would stop him on the street,
+or in the grocery store, or at the Reclamation Facility, and they
+would say thank you, and he would nod and say you're welcome and
+change the subject, because he was not a man who was comfortable
+with gratitude.
+
+Chen, his coworker, was one of the first to apply for de-
+modification. The process took three months. When it was complete,
+he came back to work at the Facility and stood beside Earl at the
+treatment chambers, watching the water flow through the filters,
+and for the first time in his life, he felt something about it. Not
+a calculation. Not an analysis. A feeling. A sense that the water
+was clean and that clean water mattered and that the work of making
+it clean was, in some way that no number could express, good.
+
+"This is very inefficient," he said, watching the water.
+
+"What is?"
+
+"Feeling things. It takes up enormous cognitive resources. The
+emotional processing alone requires—" He stopped himself. He looked
+at Earl and smiled — an unfamiliar expression on his face, awkward
+and uncertain and completely genuine.
+
+"It's nice, though," he said.
+
+Earl looked at the water. He looked at Chen. He looked at the
+Facility — the pipes, the pumps, the filters, the entire beautiful,
+wasteful, essential apparatus of civilization maintaining itself,
+one day at a time, for no rational reason at all.
+
+"Yeah," he said. "It is."
+
+He went back to work. The pumps hummed. The water flowed. The world,
+imperfect and irrational and stubbornly, magnificently alive,
+continued.
+
+                            [THE END]
+
+================================================================================
+
+                            STELLAR CRUCIBLE
+
+                      by Dr. Vincent Koslov
+
+================================================================================
+
+                               I.
+
+The furnace reached operational temperature at 3:47 AM on a Tuesday,
+and Dr. Sera Navarro was the only person awake to see it.
+
+She sat at the monitoring console in Laboratory Nine of the
+Prometheus Materials Research Facility, a government installation
+buried in the granite bedrock of the Colorado Rockies, and watched
+the temperature readings climb with the careful attention of a
+woman who understood, with precision, what those numbers meant.
+
+One hundred million degrees. The surface temperature of a blue
+supergiant star. At this temperature, atoms lost their electron
+shells and existed as bare nuclei in a plasma so energetic that
+it would vaporize any known material in microseconds. The only
+thing containing it was a magnetic confinement field of a design
+that Navarro had spent seven years developing — a nested
+architecture of superconducting electromagnets that held the plasma
+in a suspended sphere, twelve centimeters in diameter, floating in
+the center of a vacuum chamber that was itself surrounded by three
+meters of lead shielding, water cooling jackets, and enough
+monitoring equipment to fill a small building.
+
+Stellar Crucible. That was what the team called it. Not the official
+designation — the official designation was the Extreme Temperature
+Materials Synthesis Platform, a name that had been generated by a
+committee and that no one used. Stellar Crucible was simpler, more honest.
+A kiln was a place where you put raw material in and took something
+new out. That was what they were doing. That was the entire point.
+
+Two hundred million degrees. Navarro adjusted the magnetic
+confinement parameters — a series of fine corrections to the field
+geometry that kept the plasma sphere stable as the temperature
+increased. The adjustments were calculated by the facility's
+computer, but Navarro made them by hand, entering each value
+individually, checking each result against her models before
+proceeding. She did not trust automation with temperatures that
+exceeded the cores of most stars. The margin for error was not
+narrow. There was no margin at all.
+
+"Confinement stable," she said, to the recording system that logged
+every word spoken in the laboratory. "Plasma density nominal.
+Approaching target temperature."
+
+Five hundred million degrees. The temperature at the center of a
+massive star during carbon fusion. At these temperatures, the
+electromagnetic force that held atomic nuclei apart began to weaken
+relative to the strong nuclear force that pulled them together. Nuclei
+that would never interact under normal conditions could be driven
+close enough to fuse — to combine into new configurations, new
+elements, new forms of matter that did not exist in nature outside
+the hearts of dying stars.
+
+That was what the Kiln was for. Not to generate energy — fusion
+reactors did that, efficiently and at much lower temperatures. The
+Kiln was for synthesis. For creation. For making things that had
+never existed before.
+
+Navarro watched the temperature reach seven hundred million degrees
+and stabilized the confinement field. The plasma sphere glowed on
+the monitoring display — a false-color image rendered from sensor
+data, since no human eye could survive a direct view — and it was
+beautiful. A tiny sun, held in a cage of magnetic force, burning
+at temperatures that would consume a planet.
+
+She opened the feed system. A precisely measured quantity of raw
+material — a mixture of heavy elements, carefully selected for
+their nuclear properties — entered the plasma sphere through a
+magnetic injection channel. The material vaporized instantly, its
+atoms stripped of electrons, its nuclei driven into the plasma's
+heart.
+
+And there, in the unimaginable heat, something happened.
+
+The nuclei fused. Not in the statistical, probabilistic way that
+fusion occurred in stars — the slow, patient process of quantum
+tunneling that powered the universe on timescales of billions of
+years. This was directed fusion. Controlled. Intentional. The
+magnetic confinement geometry channeled the plasma's energy into
+specific interaction volumes, driving nuclei together with a force
+and frequency that nature achieved only in the hearts of supernovae.
+
+On the monitoring display, new spectral lines appeared — lines that
+did not match any element in the periodic table. Lines that
+corresponded to nuclear configurations that had never been observed
+in any laboratory, any star, any supernova remnant, anywhere in the
+catalogued universe.
+
+Navarro stared at the display. Her hands were steady on the console.
+Her heart rate, she noted with the detached precision of a scientist
+observing her own body, was one hundred and forty-two beats per
+minute.
+
+"New spectral signature detected," she said to the recorder. "Nuclear
+configuration does not match any known element or isotope.
+Preliminary analysis suggests a stable transuranic nucleus with
+— " She paused, checking the data. "With a proton count of one
+hundred and sixty-four."
+
+Element 164. An island of stability in the sea of radioactive
+instability that characterized the transuranic elements. Theorized
+for decades. Never synthesized. Never observed. A mathematical
+prediction, a physicist's dream, a number on a chart that said:
+here, if you could get here, matter would be stable again. New
+elements. New materials. New possibilities.
+
+She had gotten there.
+
+"Initiating extraction sequence," she said.
+
+The magnetic confinement field reconfigured, channeling the newly
+formed nuclei out of the plasma sphere and into a cooling chamber
+where they could capture electrons and condense into solid matter.
+The process took fourteen minutes. At the end of it, Navarro opened
+the cooling chamber and found, resting on the ceramic collection
+plate, a small object.
+
+It was a bead. Perhaps three millimeters in diameter. It was dark —
+not the darkness of an absence of light, but a deep, saturated
+darkness, like the color of a sky just after sunset, before the
+stars appear. It was smooth and perfectly spherical, and it was warm
+to the touch — not hot, but warm, as though it contained a gentle,
+persistent source of heat.
+
+And it was glowing.
+
+Not brightly. Not like a lamp or a phosphorescent compound. It
+emitted a soft, steady light — a luminescence without visible source
+or explanation. The light was warm in color, tending toward gold,
+and it seemed to come from the bead's interior, as though the
+material itself were lit from within.
+
+Navarro held it in her gloved hand and looked at it. The light
+played across her fingers, casting tiny shadows on her palm. She
+brought it close to her face. The warmth was constant, unchanging.
+She placed it on the console, in a patch of shadow, and the glow
+continued — steady, patient, undeniable.
+
+A new element. A stable transuranic nucleus. And it emitted light.
+
+Without energy input. Without decay. Without any mechanism that
+current physics could account for.
+
+She sat down heavily in her chair and stared at the bead, and for
+a long time she said nothing at all.
+
+                               II.
+
+By morning, the laboratory was full.
+
+Navarro had spent the intervening hours running every diagnostic
+she could devise. The bead — she had started thinking of it as
+"the bead," a name that was inadequate but serviceable — had been
+subjected to spectroscopic analysis, mass spectrometry, X-ray
+diffraction, and calorimetric measurement. The results were
+consistent and bewildering.
+
+Element 164 was real. The nucleus was stable — no detectable
+radioactive decay over six hours of continuous monitoring. The
+atomic mass was 427.3 atomic mass units. The crystalline structure
+was face-centered cubic, similar to gold but with a lattice
+constant that did not match any known material. The density was
+approximately 24 grams per cubic centimeter — heavier than osmium,
+the densest naturally occurring element.
+
+And it glowed. The luminescence was constant — 0.3 watts, measured
+at the surface, in a broad spectrum peaked at 580 nanometers. The
+energy output did not diminish over time. Calorimetric analysis
+confirmed that the bead was producing heat as well as light,
+at a steady rate of approximately 0.4 watts. The total energy
+output — light plus heat — was 0.7 watts, continuous, with no
+detectable input.
+
+The laws of thermodynamics had a clear opinion about objects that
+produced energy without input. Navarro was familiar with these laws.
+She had spent her career working within them. The bead did not care
+about her familiarity.
+
+"It's not magic," she told her team, standing at the whiteboard in
+the laboratory's briefing room with the data displayed behind her.
+"There is a physical mechanism. We simply do not understand it yet."
+
+The team — six researchers, each an expert in nuclear physics,
+materials science, or high-energy plasma dynamics — looked at the
+data with the expressions of people who had been trained to be
+skeptical and were now confronting something that made skepticism
+feel inadequate.
+
+"Could it be residual energy from the synthesis process?" asked
+Dr. David Osei, the team's nuclear physicist. He was a careful,
+methodical man who distrusted excitement in science, considering
+it a precursor to error. "Stored energy in the nuclear
+configuration, releasing slowly?"
+
+"The energy budget doesn't work," Navarro said. "The total energy
+input during synthesis was approximately forty megajoules. At the
+current output rate of 0.7 watts, the bead has already emitted more
+energy than it received. And the output is not decreasing."
+
+"Then where is the energy coming from?"
+
+"I don't know."
+
+The words sat in the room like a dropped tool, heavy and final.
+I don't know. Three words that every scientist understood, and
+three words that every scientist dreaded, because they meant that
+the comfortable framework within which they understood the universe
+had developed a crack.
+
+"What about the light?" asked Dr. Min-Ji Park, the team's
+spectroscopist. "The emission spectrum is unusual — it's too smooth
+for fluorescence, too broad for a laser, and the peak wavelength
+doesn't correspond to any known electronic transition in any known
+element."
+
+"Because it's not a known element," Navarro said. "Element 164
+does not exist in nature. Its electronic structure is entirely
+novel. The transitions are novel. The emission is novel. Everything
+about this material is new."
+
+"Beautiful, too," said Park, who had a tendency toward aesthetic
+observations that her colleagues found either charming or irritating,
+depending on their mood. "The color. Have you noticed? It's the
+exact color of candlelight."
+
+Navarro had noticed. She did not say so. She was a precise woman,
+trained in the austere disciplines of high-energy physics and
+materials science, and she was uncomfortable with beauty as a
+category of analysis. But Park was right. The bead's light was
+warm, gentle, and deeply appealing in a way that had nothing to
+do with spectroscopy and everything to do with the human eye's
+long evolutionary relationship with fire.
+
+Candlelight. Starlight. The light of something burning, given
+freely, without consumption.
+
+                               III.
+
+Navarro made a second bead the following week. And a third. Each
+synthesis required the full output of the Kiln — sixteen hours of
+preparation, eight hours of sustained operation at seven hundred
+million degrees, fourteen minutes of extraction and cooling. Each
+bead was identical: three millimeters, perfectly spherical, dark
+and warm and glowing.
+
+She arranged them on her desk — three tiny suns, casting their
+golden light across her papers and her coffee cup and the framed
+photograph of her daughter that she kept beside her monitor. The
+light was gentle enough to read by. The warmth was enough to feel
+on her skin from half a meter away.
+
+Three beads. 2.1 watts. A trivial amount of energy by any
+industrial standard. But 2.1 watts, continuous, with no fuel, no
+input, no mechanism that anyone could explain.
+
+The Department of Energy sent a team. They measured. They analyzed.
+They wrote a report. The report said, in the carefully hedged
+language of government science, that the phenomenon was "anomalous"
+and "warranted further investigation."
+
+Navarro read the report and set it aside. She knew what she had
+made. She knew what it meant. The hedged language was a bureaucratic
+reflex, the institutional equivalent of blinking. The reality was
+simpler and more alarming: she had created something that should
+not exist, and it was sitting on her desk, glowing.
+
+She made a fourth bead, and a fifth. The facility's director,
+Dr. Raymond Cross, began asking questions about energy consumption
+and resource allocation. Stellar Crucible used enormous amounts of power —
+the magnetic confinement system drew thirty megawatts during
+operation, enough to power a small city. Five beads producing a
+total of 3.5 watts represented a return on investment that was, by
+any rational measure, absurd.
+
+But Navarro was not interested in the energy budget. She was
+interested in the material. Element 164 was something genuinely
+new — a form of matter that had never existed in the fourteen-
+billion-year history of the universe, created in a laboratory in
+Colorado by a woman with a magnetic confinement field and a very
+hot furnace. It was the alchemist's dream, the philosopher's stone,
+the transmutation of base matter into something unprecedented.
+
+And it glowed.
+
+She began experimenting with the material's properties. It was
+extraordinarily hard — harder than diamond, resistant to scratching
+by any tool in the laboratory. It was chemically inert, reacting
+with nothing at room temperature and resisting corrosion by every
+acid and solvent she tried. It was a superconductor at room
+temperature — a property so remarkable that, under normal
+circumstances, it would have been the discovery of the century.
+But it was overshadowed by the luminescence, which remained the
+material's most visible and most inexplicable characteristic.
+
+She made a ring of the beads — twelve of them, arranged in a
+circle on a ceramic tray. The combined light was strong enough to
+illuminate the entire laboratory. Warm, golden, steady. The
+researchers began turning off the fluorescent ceiling lights and
+working by bead-light. It was easier on the eyes, they said.
+More pleasant. More natural.
+
+Park made the observation that Navarro had been avoiding.
+
+"It's Promethean," she said one evening, as they sat in the
+bead-lit laboratory, reviewing data.
+
+"Meaning?"
+
+"Promethean. As in Prometheus. The Titan who stole fire from the
+gods and gave it to humanity. You've made fire, Sera. Not a fire
+that burns fuel. A fire that just — burns. Light and heat, forever,
+from nothing. It's the oldest dream in the world."
+
+"It's a nuclear phenomenon," Navarro said. "Not a myth."
+
+"It's both. Every great discovery is both. The atomic bomb was both
+physics and myth — the myth of the sun brought to earth. DNA was
+both chemistry and myth — the myth of the book of life. You've
+made perpetual fire. The physics will be explained eventually. The
+myth is already here."
+
+Navarro looked at the beads, their golden light playing across
+Park's face, and said nothing. She was a physicist. She dealt in
+measurements, equations, reproducible phenomena. Myths were for
+other people.
+
+But the beads glowed, and the light was warm, and somewhere in
+the back of her rigorously trained mind, a very old part of her
+brain — the part that had sat around fires in caves, the part that
+had looked up at the stars and wondered — that part knew what
+Park meant.
+
+                               IV.
+
+The second creation happened six weeks later, and it was not
+planned.
+
+Navarro had been experimenting with variations in the synthesis
+parameters — adjusting the plasma temperature, the confinement
+geometry, the composition of the feed material — to explore the
+range of possible products. Most variations produced nothing useful:
+unstable isotopes that decayed in microseconds, radioactive waste,
+or simply failed fusions that scattered the feed material across
+the chamber walls.
+
+But on the morning of November 3rd, running a synthesis at a
+slightly elevated temperature — eight hundred million degrees,
+one hundred million above the standard protocol — with a modified
+feed mixture that included a small percentage of lighter elements,
+she produced something different.
+
+The extraction process was normal. The cooling was normal. She
+opened the collection chamber and found, resting on the ceramic
+plate, not a bead but a filament.
+
+It was thin — perhaps a tenth of a millimeter in diameter — and
+approximately four centimeters long. It was dark, like the beads,
+but its surface had a different quality: not smooth but textured, as
+though it had been grown rather than formed. It was warm. It glowed.
+
+And it moved.
+
+Not dramatically. Not like an animal or a machine. It moved the
+way a plant moves in time-lapse photography — slowly, steadily,
+extending one end outward while the other remained fixed to the
+ceramic plate. It was growing. Producing new material from — from
+what? There was nothing to grow from. The collection chamber was
+empty except for the filament itself. And yet the filament was
+extending, adding to its length at a rate of approximately one
+millimeter per hour.
+
+Navarro watched it for three hours, measuring its growth, analyzing
+the material it was producing. The new material was identical to
+the original — same element, same crystalline structure, same
+luminescence. The filament was replicating itself. Creating new
+matter. Adding mass.
+
+From nothing.
+
+She checked the energy readings. The filament's luminous output
+was higher than the beads' — approximately 2 watts per centimeter
+of length. And it was drawing no external energy. No heat, no
+radiation, no electromagnetic input. It was generating matter and
+energy simultaneously, from no detectable source.
+
+The laws of conservation of energy and conservation of mass — the
+two pillars upon which all of physics rested — were, in this small
+ceramic chamber in a laboratory in Colorado, being violated.
+
+Or they were being supplemented by something that no one had
+previously observed. A source of energy and matter that was not
+accounted for in the standard model. A mechanism so fundamental
+and so unfamiliar that it had no name.
+
+Navarro sealed the collection chamber and locked it. She stood
+outside the chamber for a long time, her hands flat against the
+cool metal surface, feeling the faint warmth that radiated from
+inside.
+
+Then she called Cross.
+
+"We have a problem," she said.
+
+                               * * *
+
+The problem was not the physics. The physics, however bewildering,
+was at least observable, measurable, subject to analysis. The
+problem was containment.
+
+The filament continued to grow. By the end of the first day, it was
+eight centimeters long. By the end of the second, twelve. By the
+end of the third, it had reached the wall of the collection chamber
+and begun growing along the surface, following the curvature of
+the metal, adhering to it with a grip that resisted all attempts
+at removal.
+
+"It's bonding to the chamber wall," Navarro told Cross, in a
+meeting that also included the facility's safety officer, a stern
+woman named Captain Torres who had been seconded from the Air
+Force. "The material is integrating with the metal substrate at
+the molecular level. It's — for lack of a better word — eating
+the chamber."
+
+"Eating?" Torres said.
+
+"Converting. The chamber wall is a nickel-chromium alloy. The
+filament is converting the nickel and chromium atoms into Element
+164. It's using the chamber wall as feed material."
+
+"And growing."
+
+"And growing."
+
+Torres looked at the monitoring display, which showed the filament
+— now more of a web, branching and spreading across the interior
+of the collection chamber like frost on a windowpane. The golden
+glow illuminated the chamber's interior, casting intricate shadows
+through the web's lattice.
+
+"Can we stop it?" Torres asked.
+
+"We can try. Extreme cold might slow the conversion process.
+But—"
+
+"But?"
+
+"But I don't know what will happen when the chamber is fully
+converted. The filament is consuming the containment itself. When
+the containment is gone, the filament will be in contact with
+the rest of the laboratory infrastructure."
+
+The room was quiet.
+
+"How fast is it growing?" Cross asked.
+
+"The growth rate is accelerating. Doubling approximately every
+eighteen hours."
+
+Cross did the calculation in his head. Navarro could see him do it,
+could see the moment when the exponential curve crossed the
+threshold from theoretical concern to practical emergency.
+
+"Shut it down," he said. "Destroy the filament. Whatever it takes."
+
+"The material is harder than diamond. It resists every cutting tool
+we have. It's impervious to chemical attack. It's a room-temperature
+superconductor, which means we can't use electromagnetic disruption.
+The only thing that might work is extreme heat — returning it to
+plasma in the Kiln."
+
+"Then do it."
+
+"Stellar Crucible is designed to create Element 164. Destroying it requires
+the same temperatures. If I heat the filament to plasma
+temperature while it's bonded to the chamber wall, I'll destroy
+the chamber, the Kiln, and possibly the entire laboratory."
+
+"Then we evacuate the laboratory, seal it, and let it consume
+itself."
+
+"Raymond, you're not listening. It's growing. Exponentially. If
+it consumes the laboratory, it will reach the facility
+infrastructure. If it consumes the facility infrastructure, it
+will reach the bedrock. It will keep growing. It will keep
+converting. And it will not stop, because it has no reason to
+stop. It is doing what its physics demands: converting matter
+into Element 164, producing energy, and expanding."
+
+She paused. "I made a new kind of fire. And the first thing I
+did with it — the very first thing — was set it loose."
+
+                               V.
+
+The solution, when it came, was not elegant. Navarro would have
+preferred elegant. She was a physicist; elegance was a professional
+value. But the situation did not permit elegance. It permitted
+only speed.
+
+The collection chamber was removed from the Kiln assembly — a
+delicate, dangerous operation that required cutting the chamber's
+mounting bolts with plasma torches while the filament inside
+continued to grow. The chamber was transported, in a shielded
+container, to the facility's deep storage vault — a chamber carved
+into the bedrock two hundred meters below the laboratory, lined
+with a ceramic composite that the filament could not convert
+because it contained no metallic elements.
+
+Navarro supervised the placement personally. The container was
+lowered into the vault, sealed behind three layers of ceramic
+doors, and monitored by remote sensors. The filament, deprived of
+metallic feed material, slowed its growth. It did not stop — it
+began, slowly, to convert the ceramic lining — but the rate was
+orders of magnitude slower. Ceramic was not metal. The atomic
+structures were more resistant to conversion. The doubling time
+extended from eighteen hours to approximately six months.
+
+Six months. Time to think. Time to study. Time to understand
+what she had made and how to unmake it, if unmaking was possible.
+
+Navarro stood at the monitoring console above the vault, watching
+the remote sensors track the filament's slow progress through the
+ceramic lining, and she thought about Prometheus.
+
+The myth said that Prometheus stole fire from the gods and gave
+it to humanity, and that the gods punished him by chaining him to
+a rock and sending an eagle to eat his liver every day, and that
+his liver grew back every night, and that the punishment was
+eternal.
+
+The myth was usually read as a story about the cost of knowledge.
+About the price of bringing light to the darkness. But Navarro,
+standing above a vault that contained a self-replicating element
+that produced energy from nothing and consumed everything it
+touched, thought the myth was about something else.
+
+It was about the moment — the precise, irreversible moment — when
+the fire leaves your hands. When the thing you created becomes
+the thing that exists, independent of your will, beyond your
+control, alive in the world with its own momentum and its own
+imperatives.
+
+She had made a new element. Beautiful and stable. A bead that
+glowed with candlelight.
+
+She had made a second thing. Beautiful and unstable. A filament
+that grew and consumed and would not stop.
+
+The beads sat in her office, on her desk, glowing their quiet
+golden light. She looked at them often. She did not touch them.
+She was no longer certain that they were safe. She was no longer
+certain that anything she had made was safe. She had opened a
+door into a room that physics had not previously explored, and
+the first thing through the door had been light, and the second
+thing had been hunger, and she did not know what the third thing
+would be.
+
+Stellar Crucible stood idle in Laboratory Nine, its magnetic confinement
+field powered down, its plasma chamber cold and dark. Navarro had
+not shut it down. She had simply stopped using it. She went to
+the laboratory every morning and sat at her console and looked at
+the numbers and did not turn it on.
+
+Park came to see her on a Thursday afternoon, carrying two cups
+of coffee and wearing the expression of a friend who has come to
+say something difficult.
+
+"Are you going to use it again?" she asked.
+
+Navarro took the coffee. "I don't know."
+
+"The beads are still glowing."
+
+"Yes."
+
+"They're still beautiful."
+
+"Yes."
+
+"And the filament is still growing."
+
+"At a much slower rate. We have time."
+
+"Time to do what?"
+
+Navarro looked at her coffee. At the beads on her desk. At the
+faint golden light that played across her hands. "Time to decide
+whether the fire is worth the hunger."
+
+Park sat down beside her. They drank their coffee in the bead-
+light, and neither of them spoke, and the light glowed on, warm
+and steady and free, asking nothing, giving everything, the
+oldest gift in the world, still burning.
+
+                            [THE END]
+
+================================================================================
+
+                        LILY'S EXTRA PLANET
+
+                        by Danny Kowalski
+
+================================================================================
+
+                               I.
+
+The crayons were the good kind — the big box with sixty-four
+colors, including Burnt Sienna, which Lily Chen considered the
+most important crayon in the box because it was the color of her
+cat, Mr. Whiskers, back home on Earth.
+
+She didn't have Mr. Whiskers anymore. He was staying with Grandma
+in Portland while Lily and her parents lived on Orbital Station
+Kepler, which was a big wheel in space that spun around so you
+didn't float everywhere, and which had a school and a park and a
+cafeteria and approximately zero cats, which was the main thing
+wrong with it.
+
+Lily was eight years old. She had straight black hair that her
+mother cut in a bob, brown eyes that got very big when she was
+excited, and a gap where her left front tooth had been until last
+week when it fell out during a math lesson and she accidentally
+swallowed it, which was disgusting and also meant she couldn't put
+it under her pillow, which meant the tooth fairy owed her and she
+intended to collect.
+
+Right now, she was sitting at her desk in Mrs. Okafor's third-grade
+classroom on Kepler Station, working on her entry for the Annual
+Station Art Contest. The theme this year was "Our Solar System," and
+Lily had decided to draw all the planets.
+
+She had started with the sun, which she put in the bottom left
+corner of the paper because that was where suns went, according to
+every drawing she had ever made. The sun was yellow and orange and
+red and had spiky things coming off it that were called — she
+squinted, trying to remember what Mrs. Okafor had said — "solar
+prominences," which was a very long word for spiky things.
+
+Then she drew Mercury, which was small and gray and boring. Then
+Venus, which was sort of yellow-white and had swirly clouds. Then
+Earth, which she drew very carefully, with blue oceans and green
+continents and white swirly clouds, and a tiny red dot where
+Portland was, which was where Grandma and Mr. Whiskers lived, so
+it was the most important place.
+
+Then Mars. Then Jupiter, which took a long time because of the
+stripes and the big red spot. Then Saturn with its rings, which
+were her favorite thing about Saturn. Then Uranus, which was
+blue-green and tilted sideways, which Lily thought was funny
+because it looked like it had fallen over. Then Neptune, which
+was dark blue and far away.
+
+Then Pluto, which Mrs. Okafor said was not technically a planet
+anymore but which Lily drew anyway because she felt sorry for it.
+
+And then — she didn't know why — she kept going.
+
+Past Pluto. Past the edge of what Mrs. Okafor's chart showed. Into
+the space at the top right corner of her paper, where there was
+nothing on any chart she had ever seen, and where she drew, with
+steady, certain strokes of her Burnt Sienna crayon, another planet.
+
+It was small — about the size of her Mars — and it was brown and
+orange, like the crayon, with streaks of darker color that might
+have been mountains or storms or something else entirely. She gave
+it a thin ring, like Saturn's but narrower, and two small moons,
+one on each side, like earrings.
+
+She looked at it. She wasn't sure why she had drawn it. It had
+just — come. The way things sometimes came when she was drawing:
+not planned, not thought about, just there, arriving on the paper
+through her hand as though it had been waiting for her to pick up
+the right crayon.
+
+She liked it. It looked right. It looked like it belonged there,
+in that corner of the paper, past Pluto, where nobody had drawn
+a planet before.
+
+She wrote a label underneath it in her neatest handwriting: LILY'S
+PLANET.
+
+                               II.
+
+The art contest entries were displayed in the station's main
+concourse — a wide, curving corridor that ran around the station's
+equator, lined with shops and offices and, this week, the artwork
+of every student at Kepler Elementary. The drawings were taped to
+the concourse walls at kid-height, a colorful band of rockets and
+planets and aliens and stars that made the corridor look like the
+inside of a kaleidoscope.
+
+Lily's drawing was between Tommy Petersen's (a rocket ship with
+flames shooting out the back and a stick figure waving from the
+window — Tommy was not the best artist) and Sofia Gutierrez's
+(a very detailed and accurate portrait of Jupiter's Great Red
+Spot, because Sofia was going to be a scientist when she grew up
+and wanted everyone to know it).
+
+The judging would happen on Friday. Lily was not optimistic about
+her chances — Sofia's Jupiter was really good — but she was proud
+of her drawing, especially the sun's solar prominences and the
+little red dot for Portland.
+
+And Lily's Planet. She was especially proud of that.
+
+She didn't think about it again until Thursday evening, when her
+father came home from work.
+
+James Chen was an astronomer. He worked in Kepler Station's
+observatory, a large dome on the station's hub that housed a
+telescope and a suite of instruments that he used to look at things
+very far away. He was a quiet, gentle man who wore glasses and
+forgot to comb his hair and sometimes stood in the kitchen staring
+at nothing while his dinner got cold, because he was thinking about
+a star.
+
+"I saw your drawing," he said, sitting down at the dinner table.
+"On the concourse."
+
+"Did you like it?" Lily asked.
+
+"I did. Very accurate. Good color work on Jupiter."
+
+"Sofia's is better."
+
+"Sofia's is more detailed. Yours has more — personality." He
+paused, the way he paused when he was about to say something he'd
+been thinking about. "The planet at the end. Past Pluto. The
+brown one."
+
+"Lily's Planet."
+
+"Yes. Where did you get the idea?"
+
+Lily shrugged. "I just drew it. It wanted to be there."
+
+Her father looked at her for a moment. It was the look he gave the
+stars through his telescope — careful, curious, as though he was
+trying to see something that was just beyond the edge of visible.
+
+"Can I look at it more closely tomorrow?" he asked. "The drawing?"
+
+"Sure."
+
+"And can you show me exactly where you put the planet? On the
+paper, I mean. Where it is relative to the other planets?"
+
+"It's past Pluto. In the corner."
+
+"I know, but — how far past? Did you think about the distance?"
+
+Lily considered this. "Kind of. I put it — it felt like it should
+be about as far from Pluto as Pluto is from Neptune. But farther
+out. Like, a little farther than that."
+
+"And the color?"
+
+"Burnt Sienna."
+
+Her father smiled. "Burnt Sienna. Of course." He went quiet again,
+doing the staring-at-nothing thing that meant he was thinking. Her
+mother, who was used to this, served the dinner around him.
+
+                               III.
+
+On Friday morning, James Chen went to the concourse before his
+shift at the observatory. He stood in front of Lily's drawing for
+fifteen minutes, which was long enough for two other parents to
+notice and wonder if he was all right.
+
+He was looking at the placement. Lily had drawn her solar system
+with an eight-year-old's sense of scale, which meant that Mercury
+was almost as big as Jupiter and the distances between the planets
+were determined more by available paper space than by orbital
+mechanics. But within that framework, the placement of Lily's
+Planet had a specificity that caught his attention.
+
+The planet was positioned at approximately 80 astronomical units
+from the sun — if you scaled the drawing's distances to the
+known planetary positions and extrapolated. That put it well beyond
+the Kuiper Belt, in the region of space that astronomers had been
+scanning for decades in search of the hypothesized "Planet Nine" —
+a massive body whose gravitational influence had been inferred from
+the orbital patterns of distant Kuiper Belt objects but which had
+never been directly observed.
+
+The estimated position of Planet Nine, based on the latest orbital
+models, was between 60 and 100 AU from the sun, with the most
+probable location around 75 AU.
+
+Lily had drawn her planet at approximately 80 AU. With a ring.
+And two moons.
+
+Chen looked at the drawing for a long time. Then he went to the
+observatory.
+
+                               * * *
+
+The Kepler Station observatory was a quiet place — a dome of
+transparent composite at the station's hub, where the spin gravity
+was nearly zero and the telescope floated in its mounting like a
+compass needle, pointing wherever the astronomer directed it. Chen
+spent most of his shifts conducting routine survey work — cataloguing
+stars, monitoring known objects, adding data to the vast and ever-
+growing map of the sky.
+
+Today, he did something different.
+
+He entered coordinates. 80 AU from the sun, along the ecliptic,
+at a right ascension and declination that corresponded — as nearly
+as he could estimate from an eight-year-old's crayon drawing — to
+the position of Lily's Planet.
+
+He pointed the telescope and looked.
+
+The exposure time was long — forty-five minutes, accumulating photons
+from the faint, cold reaches of the outer solar system. The image
+built slowly on his monitor, pixel by pixel, the darkness resolving
+into a field of distant stars, each one a tiny point of light
+against the void.
+
+And there, near the center of the field, was a point that was not
+a star.
+
+It was faint. Very faint. A smudge of light that might have been a
+cosmic ray artifact, or a lens flare, or a dead pixel on the
+detector. But Chen was a careful astronomer. He ran the exposure
+again. And again. And a fourth time, with a slightly different
+filter.
+
+The point was there in every exposure. It was consistent in
+position. It moved — very slightly, between the first and fourth
+exposures — by an amount consistent with parallax for an object
+at approximately 80 AU.
+
+Chen sat at his console and stared at the images. His hands were
+shaking. His hands never shook.
+
+He ran a spectral analysis on the point's light. The spectrum was
+consistent with reflected sunlight from a rocky body with surface
+material in the iron oxide range — brownish, reddish. The color
+one might describe, if one were using a box of sixty-four crayons,
+as Burnt Sienna.
+
+He took off his glasses, polished them, put them back on, and
+looked again.
+
+It was still there.
+
+He picked up the comm handset and called home.
+
+"Mei? Can you put Lily on?"
+
+A pause. Rustling. Then: "Hi, Daddy."
+
+"Hi, sweetheart. I have a question about your drawing. The planet
+you drew — the one past Pluto. Did you — did someone tell you
+where to put it? Did you see it in a book, or on a screen, or—"
+
+"No. I just put it where it wanted to go."
+
+"Where it wanted to go."
+
+"Yeah. I was drawing, and I got past Pluto, and I still had room
+on the paper, and I just knew there was supposed to be another one.
+So I drew it."
+
+"You knew."
+
+"Daddy, is something wrong?"
+
+Chen looked at the monitor. At the faint point of light, 80
+astronomical units away, that an eight-year-old girl had drawn
+with a Burnt Sienna crayon.
+
+"No, sweetheart," he said. "Nothing's wrong. Nothing's wrong at
+all."
+
+                               IV.
+
+The confirmation took three weeks. Chen submitted his observations
+to the International Astronomical Union and to three independent
+observatories — Mauna Kea, the European Southern Observatory, and
+the Deep Space Survey Array on the lunar far side. Each one trained
+its instruments on the coordinates and found the same thing: a body
+approximately 0.8 Earth masses, orbiting the sun at 82.3 AU, with
+a thin particulate ring and two small satellites.
+
+It was Planet Nine. Or rather, it was the object that the
+theoretical models had predicted — the large body in the outer
+solar system whose gravitational influence had been shaping the
+orbits of distant Kuiper Belt objects for billions of years. It
+had been searched for, debated, hypothesized, modeled, and argued
+about for decades. And an eight-year-old girl on a space station
+had drawn it with crayons.
+
+The news spread the way all news spreads on a space station — fast,
+in every direction, and with approximately zero ability to contain
+it. By dinnertime on the day the confirmation was announced, every
+person on Kepler Station knew that Lily Chen had drawn a planet
+that nobody had ever seen, and that the planet was real, and that
+nobody could explain how she had known.
+
+Lily, for her part, did not understand what the fuss was about.
+
+"I just drew it," she told the reporter from the Station Gazette,
+a nice woman who asked too many questions and wrote down the
+answers very fast. "It wanted to be there."
+
+"But how did you know where to put it?"
+
+Lily thought about this. "I don't know. I was drawing, and I
+got to the edge of the solar system, and there was still paper
+left, and it felt like there should be more. Like the picture
+wasn't done yet. So I kept going."
+
+"And the color? The Burnt Sienna?"
+
+"That's the color it is."
+
+"How do you know what color it is?"
+
+Lily gave the reporter the look that eight-year-olds give adults
+when adults are being particularly dense. "Because that's the
+crayon I picked up. It was the right one."
+
+                               * * *
+
+The art contest was judged that Friday. Sofia Gutierrez won first
+place for her Jupiter, which everyone agreed was technically
+superior. Lily won an Honorable Mention, which came with a
+certificate and a new box of crayons.
+
+She also received a letter from the International Astronomical
+Union, informing her that the newly discovered body at 82.3 AU had
+been officially designated "Planet Chen" — the first planet named
+after its discoverer who was under the age of ten.
+
+Chen argued, gently, that the designation should be "Lily's
+Planet," which was what his daughter had written on her drawing.
+The IAU replied that informal names were not within their
+nomenclature protocols. Lily's Planet it was not.
+
+Lily did not care about nomenclature protocols. She cared about
+two things: that Mr. Whiskers was coming to live on the station
+(her parents, worn down by months of polite but relentless
+lobbying, had finally agreed), and that her drawing was now
+displayed in the observatory, in a frame, next to the telescope
+that had found her planet.
+
+She went to see it sometimes, after school, climbing the zero-g
+corridor to the hub where her father worked. She would float in
+the dome, looking up through the transparent composite at the
+stars — millions of them, bright and sharp and impossibly numerous
+— and she would think about the planet she had drawn. Her planet.
+Out there, in the dark, past Pluto, where nobody had drawn a
+planet before.
+
+She didn't know how she had known it was there. She didn't think
+about it much. Knowing things was something that happened sometimes
+— you looked at a blank piece of paper, and you saw what was
+supposed to be on it, and you drew it. That was all. It wasn't
+mysterious. It was just drawing.
+
+But sometimes, floating in the observatory dome, looking at the
+stars, she felt something — a tingle, a pull, a whisper from the
+dark at the edge of everything — that said: there is more. There
+is always more. The paper never runs out. The crayons never get
+used up. There are always more planets, more stars, more things
+to draw, more things to discover, more things that are waiting
+out there in the dark for someone to pick up the right crayon and
+say: you belong here.
+
+She smiled, and floated, and the stars went on forever.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+HAROLD "HAL" MERCER is a civil engineer and writer whose stories
+have appeared in Astounding, Galaxy, and Engineering News-Record
+(the latter by accident, when a technically detailed story about
+orbital stress fractures was mistaken for a professional article).
+Born in Akron, Ohio, and educated at Ohio State University, he
+served in the Army Corps of Engineers during the war and spent
+twenty years designing highway interchanges for the Ohio Department
+of Transportation before his fiction career began in earnest. He
+lives in Akron with his wife Dorothy, their four sons, and a
+basement full of model railroads. "Great Wall of Sol" is his
+most ambitious story to date, and he reports that the engineering
+calculations for the Wall took longer than writing the story
+itself, which he considers "exactly the right proportion."
+
+REX DRUMMOND is a former bomber pilot, occasional rancher, and
+full-time teller of tales whose action-adventure stories have
+appeared in Planet Stories, Thrilling Wonder Stories, and every
+issue of this magazine that will hold still long enough for him
+to fill it. Born in Midland, Texas, and educated in the cockpit
+of a B-17, he lives in San Diego with his current wife, his
+previous wife's dog, and a cigar that appears to be permanently
+attached to his person. "Breaking the Seal" represents what he
+calls "a slight departure" — a story in which things are taken
+apart rather than blown up, although, as readers will note, he
+did manage to blow something up anyway.
+
+AGNES WHITFIELD teaches high school English in Salina, Kansas, and
+writes science fiction at her kitchen table between harvests. Her
+stories have appeared in Galaxy, The Magazine of Fantasy and
+Science Fiction, and The Saturday Evening Post. A graduate of the
+University of Kansas, she lives on a small farm outside Salina
+with her husband Lloyd and credits the Kansas landscape — "flat
+as a page, wide as a possibility" — with teaching her everything
+she knows about writing. "Flickering Boards" is her eighth
+appearance in these pages and her most hopeful story to date,
+which she attributes to "a good winter wheat crop and a general
+improvement in my disposition."
+
+THEODORE CAIN is a writer, former autoworker, and reliable
+provider of stories on deadline whose fiction has appeared in
+virtually every science fiction magazine currently in publication.
+Born in Detroit and educated at Wayne State University, he works
+as a technical writer for General Motors and writes fiction from
+8:00 PM to midnight, seven days a week, in a converted bedroom
+of his house in Dearborn, Michigan. He lives with his wife Jean
+and their three children. "Architect's Confession" is his
+thirty-fourth appearance in these pages, and he notes that the
+story's theme — the question of whether perfection is desirable
+— is one he has "personal opinions about, having never achieved
+it."
+
+FRANKLIN HOYT is a journalist, political commentator, and science
+fiction writer whose work has appeared in Astounding, Galaxy, The
+Magazine of Fantasy and Science Fiction, and The Washington Post.
+Born and raised in Washington, D.C., he attended Howard University
+and served in the Army during the war in a segregated unit, an
+experience he describes as "the most important education I ever
+received." He lives in Washington with his wife Barbara, a civil
+rights attorney, and their three children. "The Wrath of the
+Rational" is his seventeenth appearance in these pages and his
+most personal story, which he dedicates to "my mother, who
+couldn't carry a tune, and who was right about everything
+important."
+
+DR. VINCENT KOSLOV is a physicist and writer whose stories have
+appeared in Astounding, Galaxy, Physical Review Letters (where
+they are not classified as fiction, though some of his colleagues
+disagree), and this magazine since its first issue. Born in
+Kharkov, Ukraine, and raised in Cleveland, Ohio, he holds a
+doctorate in astrophysics from MIT and maintains a research
+position at Caltech, where he divides his time between theoretical
+physics and speculative fiction. He describes "Stellar Crucible" as "the
+story that frightened me most to write," and declines to say
+whether the element described in the story is based on any
+theoretical work he is currently conducting.
+
+DANNY KOWALSKI is a middle school science teacher and writer whose
+stories have appeared in Galaxy, The Magazine of Fantasy and
+Science Fiction, and the mimeographed newsletter of the Pittsburgh
+Science Fiction Society, which he co-founded in 1954. Born and
+raised in the Polish Hill neighborhood of Pittsburgh, he attended
+the University of Pittsburgh on the GI Bill and has been teaching
+seventh-grade science for twelve years. He lives in Pittsburgh
+with his wife Mary and their four children. "Lily's Extra Planet"
+was inspired, he says, by a student who drew a picture of the
+solar system "that was technically wrong in every particular and
+somehow more right than the textbook."
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have just finished reading "Dead Man's Beacon" by Robert Finley in
+your February issue (#38) and I must tell you that the ending brought
+tears to my eyes, which is not an experience I typically associate
+with science fiction. The image of Corporal Hadley defending his post
+against an enemy that has already surrendered, not knowing the war is
+over, is one of the most poignant things I have read in any genre
+this year. Mr. Finley has outdone himself. More from this quarter,
+please.
+
+                              — Mrs. Elizabeth Harmon
+                                 Raleigh, North Carolina
+
+Dear Max,
+
+Dr. Tanaka's "The Resonance of Shells" in issue #37 (January 1956)
+is a masterpiece of patience — both in its subject matter and in its
+execution. I have never read a first contact story that moves so
+slowly and so deliberately, and I mean that as the highest praise.
+The scene in which Dr. Ashford realizes that the organism has been
+studying her for twenty years — that it has been patient on a time
+scale she cannot comprehend — is genuinely humbling. Tanaka
+understands something that most SF writers do not: that the universe
+is not on our schedule.
+
+                              — Dr. Jerome Albrecht
+                                 Woods Hole Oceanographic Institution
+                                 Woods Hole, Massachusetts
+
+Dear Editor,
+
+I wish to register a mild but sincere objection to Colonel Stanton's
+"Holding Pattern" in issue #37. While I respect the Colonel's
+military credentials and acknowledge the story's technical
+authenticity, I find his portrayal of the alien fleet commander
+disappointingly one-dimensional. Surely, if we are to imagine
+interstellar warfare, we can imagine adversaries with motives more
+complex than "destroy the humans." Even our earthly enemies are
+not so simple. I trust the Colonel will take this criticism in the
+spirit in which it is offered, which is one of admiration tempered
+by high expectations.
+
+                              — Professor Alice Nguyen
+                                 Department of Literature
+                                 Barnard College, New York
+
+Dear Sterling,
+
+With reference to the letters in your January issue debating the
+plausibility of Mr. Mercer's space elevator in "The Pylon Builders"
+(issue #34): I have run the tensile strength calculations on the
+carbon nanotube cable he describes, and while his numbers are
+optimistic, they are not absurd. The required tensile strength of
+approximately 130 GPa is within the theoretical limit of perfect
+carbon nanotubes, assuming zero defects in the crystalline
+structure. Mr. Mercer may be correct that such a cable could be
+manufactured within the century. I am less certain of his timeline
+for the political cooperation required to build the thing, but
+that is a different kind of engineering entirely.
+
+                              — Dr. Hans-Joachim Weber
+                                 Max Planck Institute for Solid State Research
+                                 Stuttgart, Germany
+
+We are, as always, grateful for our readers' engagement, expertise,
+and willingness to argue with us and each other. Keep the letters
+coming!                                                       — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+LONG TOMORROW by Leigh Brackett
+(Doubleday, 1955, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Miss Brackett, known to many readers for her planetary romances and
+her screenwriting work, has here produced something quite different:
+a post-apocalyptic novel of extraordinary restraint and power. In a
+future America that has outlawed cities and technology after nuclear
+war, young Len Colter discovers a hidden community of scientists
+and must decide whether knowledge is worth the risk of its misuse.
+The writing is lean and vivid, the moral questions are genuinely
+difficult, and the vision of a society that has chosen ignorance over
+danger is chillingly plausible. This is serious science fiction of
+the highest order, and it deserves a wide readership. Highly
+recommended.
+
+THEY'D RATHER BE RIGHT by Mark Clifton and Frank Riley
+(Gnome Press, 1955, $3.00)
+
+Reviewed by Maxwell Sterling
+
+This novel, which won the Hugo Award last year, concerns a
+supercomputer that can grant immortality by removing psychological
+blocks — but only to those who abandon their preconceptions
+entirely. The premise is fascinating, and there are passages of
+genuine insight into the relationship between technology and human
+consciousness. The execution, however, is uneven: the pacing drags
+in the middle sections, and the characterization is sometimes thin.
+Recommended with reservations, primarily for readers interested in
+the theme of technological transcendence.
+
+STAR GUARD by Andre Norton
+(Harcourt, Brace, 1955, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Miss Norton continues her prolific and thoroughly enjoyable
+exploration of galactic civilization with this tale of a young
+soldier in an interstellar mercenary corps who discovers that his
+alien employers have darker motives than he was led to believe.
+The military adventure is brisk and exciting, the alien cultures
+are imaginatively drawn, and the young protagonist's journey from
+naive recruit to disillusioned veteran is handled with the sure
+touch of a writer who understands that coming-of-age stories need
+not be gentle. A fine entertainment and a worthy addition to
+Norton's growing body of work.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #40 — April 1956
+
+We are pleased to announce the contents of our fortieth issue —
+a milestone! — which will be on newsstands in late March:
+
+"THE CARTOGRAPHER'S RETURN" by Margaret Thornton — On the water-
+world of Pelion, a marine biologist discovers that the ocean floor
+is being reshaped by an intelligence that communicates in geological
+time. The long-awaited sequel to "The Cartographer's Daughter."
+
+"SIGNAL FIRE" by Colonel James "Buck" Stanton — A fighter wing
+commander on the frontier must decide whether to obey a
+questionable order or trust his own judgment when an alien fleet
+appears at the edge of defended space. Stanton at his most morally
+complex.
+
+"THE DUPLICATOR'S DILEMMA" by Phyllis Crenshaw — When a time
+traveler discovers she can create copies of herself by looping
+through the same moment repeatedly, she must confront the
+question of which copy is "real" — and whether the question
+matters. Crenshaw's most inventive puzzle yet.
+
+"CONCERNING THE MATTER OF THE DISAPPEARING AMBASSADOR" by Douglas
+Pemberton — A British diplomat assigned to negotiate with an alien
+species discovers that the aliens consider diplomacy a competitive
+sport, with rules, referees, and a trophy. Comedy of the highest
+order.
+
+Plus: new stories by Theodore Cain and Arthur Wainwright, letters
+from our readers, book reviews, and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1956 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Frank R. Kellerman
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================

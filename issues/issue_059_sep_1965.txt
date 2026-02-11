@@ -1,0 +1,3854 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #59 — September 1965
+         Published by Constellation Press, New York
+         Editors: Maxwell Sterling & Diana Foxworth
+         Cover Price: 75¢
+================================================================================
+
+Cover Art: "The Shifting Self" by Gerald Pulaski
+Interior Illustrations by Virgil Dawes and Lena Marsh
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "Palindrome Conspiracy" by Julian St. Croix ................ p. 4
+2. "Chrysalis" by Elaine Prescott ............................. p. 36
+3. "The Rememberers" by Theodore Cain ......................... p. 62
+4. "Skin Deep" by Dolores Reyes .............................. p. 86
+5. "Probability Engine" by Dr. Vincent Koslov ................. p. 110
+6. "Many-Colored Glass" by Zara Nix .......................... p. 138
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 156
+   Signals Received: Letters to the Editor ................... p. 160
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 164
+   Coming Attractions ........................................ p. 168
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling & Diana Foxworth
+
+Dear Reader,
+
+We write this letter in September 1965, and the world outside our
+editorial offices on East Fifty-First Street is not the world we knew
+when this magazine first appeared twelve years ago. Nor, frankly, is
+the world inside them.
+
+In March, three thousand people marched from Selma to Montgomery. In
+June, Alexei Leonov floated untethered in the vacuum of space. On
+campuses from Berkeley to Columbia, a generation is asking questions
+that their parents believed were settled. The Voting Rights Act has
+become law. The first American combat troops are in Vietnam. Bob Dylan
+has plugged in an electric guitar. The pill is reshaping the most
+intimate dimensions of private life. Everywhere one looks, the
+certainties of a decade ago are dissolving, and what is emerging in
+their place is not yet clear.
+
+What is clear is that the question of identity — who we are, who we
+are permitted to be, who we might choose to become — has moved from
+the margins of intellectual conversation to its white-hot center. It
+is no longer an abstract philosophical puzzle. It is the lived
+experience of millions: the black citizen who insists on full
+personhood, the woman who refuses the role assigned to her, the young
+man who questions whether his nation's cause is just, the scientist
+who wonders whether the tools she has built will liberate or destroy.
+The question of who we are is becoming the question of who we might
+choose to become.
+
+Science fiction, we have always believed, is the literature best
+equipped to explore such questions — not because it provides answers,
+but because it provides the laboratory conditions under which questions
+can be tested. What happens to identity when the body is modified?
+When memory is edited? When time itself becomes non-linear? When the
+self encounters something so radically other that the categories of
+selfhood no longer apply?
+
+This issue of Tales from the Future and Beyond is our attempt to
+conduct that experiment across six very different stories. Julian St.
+Croix offers a murder mystery in which time flows in both directions
+and the murderer and victim are the same person — a story whose
+structure is as inventive as anything we have published. Elaine Prescott
+documents the progressive transformation of a human being into
+something else, in a journal that charts the dissolution of the
+journalist as precisely as the construction of the posthuman. Theodore
+Cain gives us a society that has learned to edit its own memory, and a
+clandestine group that insists on remembering. Dolores Reyes tells the
+story of an alien who has lived so long as human that the distinction
+has lost its meaning — or has it? Dr. Vincent Koslov builds a machine
+that predicts the future with perfect accuracy, and discovers that the
+most probable future is the one nobody wants. And Zara Nix — enigmatic,
+unclassifiable Zara Nix — offers a fragmented, kaleidoscopic account of
+first contact as pure sensation.
+
+Six stories. Six transformations. We do not pretend they will answer
+the questions that keep us awake at night. But we believe they will
+sharpen those questions, and in this time of upheaval, sharper questions
+may be the most useful thing a magazine can offer.
+
+One housekeeping note: we are delighted to announce that beginning with
+issue #60, our rates increase to five cents a word on acceptance. We
+want the best stories being written, and we intend to pay for them. New
+writers, established names, voices we have never heard — send us your
+manuscripts.
+
+The future is not what it was. Neither are we. And that, we believe,
+is cause for hope.
+
+Yours in transformation,
+
+Maxwell Sterling & Diana Foxworth
+Co-Editors, Tales from the Future and Beyond
+New York, July 1965
+
+================================================================================
+
+                      PALINDROME CONSPIRACY
+
+                      by Julian St. Croix
+
+================================================================================
+
+                            I.
+
+The murder has already happened. The murder has not yet occurred.
+
+Inspector Maren Voss understood both of these statements to be true
+simultaneously, which was the particular gift and particular curse of
+anyone who had undergone the Janus modification — the neural
+restructuring that permitted human consciousness to perceive time in
+both its customary direction and its reverse, the way a reader of
+certain ancient languages might scan a text from left to right and from
+right to left at once, each reading yielding a different poem from the
+same arrangement of letters.
+
+She stood in the observatory of the Chronometric Bureau, a great glass
+dome perched atop the Ministry of Temporal Affairs in what had once been
+called London and was now called, with the deadpan bureaucratic humor
+that characterized all governmental nomenclature in the Modified Era,
+Anchor Point Seven. The city spread beneath her in two directions that
+were not spatial but temporal: forward, into the fog and neon of
+September 14th, 2189, the rain-streaked towers dissolving into the
+probabilistic haze of the not-yet; and backward, into the crystallized
+amber of the already-was, every moment from this one to the dim
+prehistory of unmodified time laid out like a corridor of mirrors
+reflecting mirrors, each image slightly smaller, slightly less distinct,
+but unmistakably present.
+
+The body lay on the floor of the observatory. Or rather: the body
+would lie on the floor of the observatory. The tenses were impossible,
+as they always were in Janus cases, and the Bureau had long since
+abandoned the pretense of grammatical coherence in its official reports,
+substituting instead a symbolic notation that represented temporal
+direction with arrows and simultaneity with a bracket that Voss had
+always thought resembled an open mouth, frozen in the act of saying
+something that could never be unsaid.
+
+"The victim," said Luken Strand, her partner, who had not undergone
+Janus modification and who therefore experienced time in the quaint,
+monodirectional fashion of the unmodified — forward, always forward,
+like a man walking down a corridor who cannot turn his head — "the
+victim is Dr. Cassia Lorne. Age forty-seven. Senior researcher at the
+Institute for Palindromic Studies."
+
+"Is," said Voss. "Was. Will be."
+
+"Let's stick with 'is,' shall we?"
+
+Voss knelt beside the body. Dr. Cassia Lorne lay on her back, her eyes
+open, her expression one of — and here Voss's Janus perception
+complicated matters enormously — surprise and resignation and something
+that looked very much like recognition, as though the face she had seen
+at the moment of death (which was also, Voss now understood with a
+nauseating lurch of doubled consciousness, the moment of birth of
+something else) had been a face she knew. Her own face.
+
+"The palindromic signature," Voss said, more to herself than to Strand.
+"Tell me it's not what I think it is."
+
+Strand consulted his instruments — old-fashioned, monodirectional
+instruments that could only read the temporal residue left behind by
+events that had already occurred, like a geologist reading the rings of
+a fossilized tree. "The event has a perfect palindromic signature. The
+temporal energy pattern reads the same forward and backward. Which
+means —"
+
+"Which means the killer and the victim exist at palindromic points on
+the same timeline." Voss closed her eyes. In the forward direction, she
+saw Dr. Lorne's future: a flatline, the abrupt cessation of all
+temporal extension, the event-horizon of death beyond which nothing
+could be perceived. In the backward direction, she saw Dr. Lorne's
+past: a life lived in the usual monodirectional fashion until six years
+ago, when Lorne had undergone the Janus modification and become, like
+Voss, a creature of two temporal directions — and there, six years back,
+a strange echo, a resonance, as if the life were a bell that had been
+struck and was still ringing, and the ringing, if one listened very
+carefully, formed a pattern that was the same forwards and backwards.
+
+A palindrome. A life that read the same in both directions.
+
+Which meant that somewhere, at the other end of that palindromic
+pattern, was a person who was Cassia Lorne and was not Cassia Lorne —
+the same consciousness at a different point on the same curve, the
+way the letter A at the beginning of the word ABRACADABRA is and is
+not the same letter A at its end.
+
+"The killer," Voss said, opening her eyes, "is Dr. Cassia Lorne."
+
+"That's impossible," said Strand. "She's the victim."
+
+"Yes," said Voss. "That's what makes it a palindrome."
+
+                            II.
+
+Six years before the murder (which was also six years after the murder,
+depending on which direction you were reading), Dr. Cassia Lorne sat
+in the waiting room of the Janus Clinic, filling out the final consent
+forms for neural modification, and experienced, for what she believed
+was the last time, the simple, uncomplicated sensation of not knowing
+what was going to happen next.
+
+The waiting room was aggressively ordinary: beige walls, institutional
+chairs, a table with magazines that were precisely three months out
+of date, as if the clinic wished to reassure its clients that some
+things, at least, were reliably, boringly, monodirectionally temporal.
+A potted fern sat in the corner, its fronds curling in one direction
+only. Cassia found herself staring at it with the intensity of someone
+memorizing the face of a lover she was about to leave.
+
+She was thirty-eight years old. She was a researcher at the Institute
+for Palindromic Studies, which had been established five years earlier
+to investigate the mathematical properties of events that exhibited
+temporal symmetry — events whose causal structure was identical whether
+read forward or backward, like a sentence that spelled the same word
+in both directions. The Institute had begun as an obscure corner of
+theoretical physics, but the discovery that certain quantum events
+possessed genuine palindromic properties — that some things really did
+happen the same way in both temporal directions, that the universe
+contained structures which were, at the deepest level, symmetrical in
+time — had elevated the field from curiosity to urgency.
+
+Cassia had spent her career studying these structures. She had published
+the definitive paper on palindromic resonance in closed timelike curves.
+She had mapped the temporal topography of seventeen confirmed
+palindromic events. And she had come, slowly and with increasing
+certainty, to a conclusion that terrified her: that the Janus
+modification, which had been marketed as a simple perceptual enhancement
+— the ability to see backward as well as forward, the way an owl can
+rotate its head to see what is behind it — was in fact something far
+more dangerous. It did not merely allow one to perceive time in both
+directions. It embedded the modified consciousness within the
+palindromic structure of time itself, making the perceiver part of the
+pattern, the reader part of the text, the observer inseparable from the
+observed.
+
+And palindromes, as she knew better than anyone, had a property that
+made them fundamentally different from ordinary sequences: they
+converged. The beginning and the end moved toward each other. The first
+letter and the last letter were the same letter. The opening note and
+the closing note were the same note, played in different octaves.
+
+If a consciousness became palindromic, then the person at the beginning
+of the pattern and the person at the end of the pattern were, in some
+deep and inescapable sense, the same person. And the pattern, by its
+nature, had a center — a point of convergence, a fulcrum, a moment
+where the forward-moving self and the backward-moving self met.
+
+What happened at that center point?
+
+That was the question that had brought her to the Janus Clinic. Not
+because she wanted the modification — she was, in fact, deeply
+frightened of it — but because the only way to study a palindromic
+consciousness was from within. The instrument and the phenomenon were
+the same thing. You could not observe a palindrome from outside without
+collapsing it into an ordinary sequence. You had to become the
+palindrome to understand it.
+
+"Dr. Lorne?" The nurse appeared in the doorway, smiling the bright,
+professional smile of someone who escorted people across irreversible
+thresholds for a living. "We're ready for you."
+
+Cassia looked one more time at the fern. Its fronds curled in one
+direction only. She envied it.
+
+She stood and walked forward. Only forward. For the last time.
+
+                            III.
+
+Inspector Voss moved through the crime scene in two directions at once,
+which was, she had often reflected, rather like trying to read two
+novels simultaneously by holding one in each hand and alternating
+sentences — except that the novels were written in the same language
+about the same characters and the same events, and yet they told
+entirely different stories, because the order in which things were
+revealed changed everything about what they meant.
+
+Forward: the body, the forensic team, the sterile click of instruments,
+the slow accumulation of evidence. A woman dead on the floor of an
+observatory. Cause of death: neural cascade failure — the sudden,
+catastrophic collapse of a Janus-modified nervous system, as if every
+neuron in the brain had fired simultaneously in both temporal
+directions and the resulting interference pattern had simply erased the
+signal. It was a death unique to the modified, and it was not, in
+itself, uncommon. Janus modification carried risks. The human brain had
+evolved to process time in one direction; forcing it to process two
+directions simultaneously created stresses that occasionally, and
+without warning, proved fatal.
+
+But the palindromic signature made it murder. A natural neural cascade
+failure produced a random temporal energy pattern — noise, chaos, the
+meaningless static of a system collapsing. This collapse was not
+random. It was symmetrical. It was structured. It read the same forward
+and backward, which meant it had been caused — engineered, designed,
+composed — by a consciousness that was itself palindromic, a mind that
+could think in both directions and had used that ability to construct
+a lethal pattern and insert it into Dr. Lorne's neural architecture
+with the precision of a surgeon and the elegance of a poet.
+
+Backward: Voss saw the observatory not as a crime scene but as a
+destination — a place that Dr. Lorne had been moving toward for six
+years, drawn by a logic that was only visible from the reverse
+direction. She saw the threads of causation not converging on this
+moment but radiating from it, backward, into the past that was also
+the future, and each thread told a piece of the story:
+
+Thread one: Dr. Lorne's research, her six years of work on palindromic
+consciousness, her deepening understanding of what it meant to be a
+mind that existed in two temporal directions at once.
+
+Thread two: Dr. Lorne's correspondence with a person identified in
+Bureau records only as "the Mirror" — a colleague, a collaborator, an
+adversary? The letters were palindromic in structure, each one readable
+in both directions, each one saying something different depending on
+which way you read it.
+
+Thread three: Dr. Lorne's visits to the observatory, once a month,
+always at the same time, always alone. What was she looking at? The
+stars did not move differently in different temporal directions; they
+burned the same way forward and backward, indifferent to the direction
+of the arrow. So it was not the stars she was observing. It was
+something else. Something that could only be seen from this specific
+point in space at this specific point in time, and only by a mind that
+could look in both directions at once.
+
+"The Mirror," Voss said to Strand. "Who is the Mirror?"
+
+Strand consulted the Bureau's files — monodirectional files, indexed
+by date, proceeding from past to present in the orderly fashion of the
+unmodified world. "Unknown. The correspondence was found in Dr. Lorne's
+personal archive after — well, after. The letters are encrypted with a
+palindromic cipher. Cryptography is working on it, but they say it
+could take months. The cipher key appears to be the content of the
+letters themselves — you need to read them to decode them, but you
+need to decode them to read them."
+
+"A palindromic paradox."
+
+"Cryptography's term was 'a real pain in the arse,' but yes."
+
+Voss smiled, which she did rarely and never when she meant it. Her
+Janus perception was showing her something that Strand's monodirectional
+files could not: that the correspondence with the Mirror had not begun
+six years ago, when Dr. Lorne underwent the Janus modification. It had
+begun six years from now — or rather, it had begun at both points
+simultaneously, because the Mirror, like Lorne, was a palindromic
+consciousness, and their correspondence existed at both ends of the
+pattern at once, like two people starting at opposite ends of a bridge
+and meeting in the middle.
+
+And the middle was here. The observatory. September 14th, 2189. The
+point of convergence. The center of the palindrome.
+
+"Strand," Voss said, "I need to tell you something, and I need you to
+believe me even though it will sound insane."
+
+"I work temporal homicide. My baseline for insane is already quite
+high."
+
+"The Mirror is Cassia Lorne."
+
+Strand blinked. "The victim is corresponding with herself?"
+
+"The victim is corresponding with a version of herself that is moving
+through the palindrome in the opposite direction. Think of it this way:
+when Lorne underwent the Janus modification, her consciousness became
+palindromic. It began to exist in both temporal directions
+simultaneously. But a palindrome has two halves — the forward half and
+the backward half — and while they are mirror images of each other,
+they are not identical in experience. The Cassia Lorne moving forward
+through the palindrome is accumulating experiences in the usual order:
+she remembers the past, she anticipates the future. The Cassia Lorne
+moving backward through the palindrome is accumulating experiences in
+the reverse order: she remembers the future, she anticipates the past."
+
+"That's — "
+
+"Disorienting, yes. And over time, the two halves diverge. They start
+as the same person, but they accumulate different experiences, different
+memories, different — selves. By the time they reach the center point,
+the point where the palindrome converges, they are the same person and
+they are not the same person. They are the same letter at the beginning
+and end of a word that has, in the intervening syllables, changed its
+meaning entirely."
+
+Strand looked at the body on the floor. "And when they meet?"
+
+"When they meet," Voss said, "one of them dies. Because a palindrome
+can only have one center. The convergence point is singular. Two
+versions of the same consciousness cannot occupy the same point on the
+same timeline. One must collapse. One must be — " She searched for the
+word. " — overwritten."
+
+"So the murder — "
+
+"Is not a murder. It is a convergence. The forward-moving Cassia Lorne
+and the backward-moving Cassia Lorne have been approaching this moment
+from opposite directions for six years, and when they met — here, in
+this observatory, at the center of their shared palindrome — the
+interference pattern between them destroyed one of them. The one that
+survived is the one that is, from our forward-moving perspective, dead.
+Because the survivor is moving backward. She has already left. She is
+retreating into the past, into the half of the palindrome that, from
+our perspective, has already been lived."
+
+Strand sat down heavily on the observatory bench. "So the killer is
+gone."
+
+"The killer was never here. Not from our direction. She was here from
+the other direction, and she has already — or will already — or — "
+Voss pressed her fingers to her temples. The grammar of palindromic
+events was a migraine in linguistic form. "The backward-moving Cassia
+Lorne experienced this moment as a beginning, not an ending. She was
+born here, in the same instant that the forward-moving Cassia Lorne
+died. She opened her eyes for the first time in the same moment that
+her other self closed hers for the last time. And she has gone — is
+going — will have gone — backward, into the six years of palindromic
+time that, from our perspective, have already elapsed."
+
+"She's living Lorne's life in reverse."
+
+"She's living a life that is the mirror image of Lorne's life. The
+same events, but experienced in the opposite order, and therefore
+meaning entirely different things. The divorce that was, for the
+forward-moving Lorne, an ending, will be, for the backward-moving
+Lorne, a beginning. The research breakthrough that was, forward, a
+triumph of understanding, will be, backward, a process of progressive
+forgetting — of unlearning what she knew, losing the insights she had
+gained, returning to a state of ignorance that she will experience as
+a kind of innocence."
+
+"And at the end? When she reaches the beginning of the palindrome —
+the moment when Lorne first underwent the Janus modification?"
+
+Voss closed her eyes. In the backward direction, she could see it: a
+shape at the far end of the corridor of mirrors, a figure moving toward
+the Janus Clinic with the unhurried pace of someone who knows exactly
+where she is going because she has already been there, because she is
+always already there, because in a palindrome the beginning and the end
+are the same place and the journey between them is the same journey
+regardless of which direction you walk.
+
+"At the end," Voss said, "she will sit in a waiting room. She will look
+at a fern. She will stand up, and walk forward — only forward, for the
+first time — and she will undergo the Janus modification, and she will
+become, again, a palindromic consciousness, and the whole pattern will
+begin again."
+
+"A loop."
+
+"A palindrome. It reads the same in both directions. It has no
+beginning and no end. It has only a center, and the center is here.
+This room. This moment. This death, which is also a birth. This murder,
+which is also a creation."
+
+                            IV.
+
+Three years before the convergence — three years into her Janus-
+modified existence — Cassia Lorne sat in her office at the Institute
+for Palindromic Studies and wrote a letter to herself.
+
+Not a diary entry. Not a memorandum. A letter, addressed to a specific
+recipient, sealed in an envelope, stamped, and mailed to a post office
+box that she had rented under the name "The Mirror" — a name she had
+chosen because it was, she felt, the most honest description of the
+entity she was writing to: a reflection of herself, reversed, moving in
+the opposite direction, seeing everything she saw but from the other
+side.
+
+She had been writing these letters for three years, or she had been
+writing them for three years in the other direction; it depended on
+your perspective, and perspective was, she had come to understand, the
+only thing that mattered. The same event, seen from two directions,
+was two different events. The same person, moving through the same
+life in two directions, was two different people. This was not
+metaphor. This was not philosophy. This was the lived, empirical,
+neurologically verifiable reality of palindromic consciousness, and it
+was slowly driving her mad.
+
+Or not mad. Transformed. The distinction was increasingly difficult to
+maintain.
+
+Dear Mirror, she wrote.
+
+I have been thinking about the nature of conspiracy. The word comes from
+the Latin "conspirare" — to breathe together. A conspiracy is not a
+plot or a scheme; it is an act of shared respiration, two sets of lungs
+filling and emptying in synchrony, two chests rising and falling to
+the same rhythm. We are conspiring, you and I. We are breathing
+together. I exhale and you inhale; you exhale and I inhale. The air
+between us is the palindrome itself — the shared medium through which
+we exchange the substance of our existence.
+
+I wonder if you are reading this letter at the same moment I am writing
+it, or at a different moment that is, from your perspective, the same
+moment. I wonder if you are writing me a letter at this very instant,
+a letter I will receive three years from now, which is also three years
+ago. I wonder if your letter will contain the answers to questions I
+have not yet thought to ask, and if my letter contains the answers to
+questions you have already forgotten.
+
+I have been studying the convergence point. I know now what happens at
+the center of the palindrome. I know that one of us will not survive
+it. And here is what terrifies me: I do not know which one. From your
+direction, I am the one who dies and you are the one who is born. From
+my direction, you are the intruder, the usurper, the backward-moving
+ghost who will replace me at the moment of my destruction. We are both
+the murderer and the victim. We are both the beginning and the end. We
+are both the same letter, the same note, the same breath — and the
+palindrome does not care which of us it keeps and which it discards,
+because to the palindrome, we are the same.
+
+I am frightened, Mirror. I am frightened of you, who are me. I am
+frightened of the center, which is where we meet. I am frightened of
+convergence, which is another word for annihilation, which is another
+word for birth.
+
+Write me back. Tell me it will be all right. Tell me in the language
+we share, which reads the same in both directions, which means the
+same thing regardless of the order in which the words are spoken.
+
+Tell me a palindrome, Mirror. Tell me a word that does not change
+when you reverse it.
+
+Yours,
+Cassia
+
+She sealed the letter. She mailed it. She went home to an apartment
+that was, she realized with a vertiginous doubling of perception, also
+the apartment where her mirror-self was, at this very moment (or at
+this very moment's temporal reflection), unsealing a letter and reading
+it for the first time, or for the last time, or for the only time —
+because in a palindrome, first and last are the same, and the only time
+is all the time there is.
+
+                            V.
+
+"I want to see the letters," Voss told Strand.
+
+They were in the Bureau's evidence room, a vast subterranean archive
+where temporal artifacts were stored in chronostatic fields that
+prevented them from aging in either direction — a necessary precaution
+in a world where some evidence was getting younger even as the
+investigation that required it was getting older.
+
+Strand produced a box. Inside were twenty-six letters — thirteen
+written by the forward-moving Cassia Lorne to the Mirror, and thirteen
+written by the Mirror to Cassia Lorne, and it was only when Voss held
+them up to her Janus perception that she understood: they were the same
+thirteen letters. Each letter, read forward, was Cassia's letter to the
+Mirror. Each letter, read backward — the sentences reversed, the
+paragraphs inverted, the whole architecture of the communication
+reflected as in a glass — was the Mirror's letter to Cassia. The same
+text. The same words. The same ink on the same paper. Two letters in
+one, a correspondence that was also a monologue, a dialogue that was
+also a soliloquy, a conspiracy of one person breathing with herself.
+
+Voss read the letters. She read them forward and she read them backward,
+and in each direction they told a different story — the same story,
+but different — and the difference was everything.
+
+Forward, the letters charted a journey from curiosity to understanding
+to terror. Cassia Lorne, moving through time in the ordinary direction,
+discovered the nature of palindromic consciousness, realized that it
+implied convergence, understood that convergence meant the destruction
+of one half of the palindromic self, and spent her final months — her
+final letters — grappling with the knowledge that she was walking
+toward her own annihilation and could not stop, because the palindrome
+was not a choice she had made but a structure she had become, and you
+could not step out of a structure that was your own consciousness any
+more than you could step out of your own skeleton.
+
+Backward, the letters charted a different journey. The Mirror — the
+backward-moving Cassia, born at the convergence point, retreating into
+a past she experienced as a future — wrote letters of discovery, of
+wonder, of the strange joy of experiencing a life in reverse. What had
+been, for the forward-moving Cassia, the familiar routine of daily
+existence was, for the Mirror, a landscape of perpetual novelty: every
+sunset was a first sunrise; every farewell was a first greeting; every
+loss was a discovery. The Mirror's letters were exuberant, playful,
+shot through with the giddy energy of someone for whom the world is
+endlessly new because she is moving through it in the wrong direction.
+
+And at the center of the correspondence — letter seven of thirteen,
+the fulcrum, the convergence — was a single sheet of paper on which
+was written a single word:
+
+MADAM.
+
+A palindrome. A word that reads the same in both directions. A word
+that is its own mirror. A word that is, in English, a term of formal
+address for a woman, and which is also, when you look at it long enough,
+a kind of scream frozen in typographical form — the mouth opening on M,
+widening through A and D, reaching its maximum aperture at the central
+A, and then closing again, D and A and M, the same scream in reverse,
+the same cry, the same breath, inhaled and exhaled, the same woman at
+the beginning and the end, and in the middle, at the center, at the
+convergence point, the moment of maximum openness, the instant when
+the mouth is widest and the sound is loudest and the self is most
+fully extended —
+
+Nothing. Silence. The palindrome's center is not a climax but an
+absence. The point where the two halves meet is the point where
+neither half exists. It is the space between the mirrors, the gap
+in the reflection, the breath between the inhale and the exhale when
+the lungs are neither filling nor emptying but simply, for one
+impossible instant, still.
+
+Voss put down the letters. Her hands were shaking.
+
+"It wasn't murder," she said again, and this time the word had a
+different weight, a different meaning, because she had read the letters
+and she understood now what had happened in the observatory, not as
+a detective understanding a crime but as a Janus-modified consciousness
+understanding a palindrome — from inside, from both directions at once,
+the way the only way to understand a mirror is to stand in front of it
+and accept that the face looking back at you is yours and is not yours
+and is yours.
+
+"It was a conspiracy," she said. "In the original sense. Two people
+breathing together. Except the two people were the same person, and
+the breathing was the palindrome itself — the forward breath and the
+backward breath, the inhale and the exhale, the life and the death.
+Cassia Lorne and the Mirror conspired. They breathed together. They met
+at the center of their shared existence, and at that meeting, one of
+them stopped breathing so that the other could begin."
+
+"Which one?" Strand asked. "Which one survived?"
+
+And Voss laughed — a strange, raw sound, because she understood now that
+the question was meaningless, the way asking which end of a palindrome
+is the real end is meaningless, the way asking which reflection in an
+infinite corridor of mirrors is the real reflection is meaningless.
+They both survived. They both died. They were the same person, and the
+palindrome continued, and would continue, and had always continued, and
+the murder that had brought her here was not a crime but a grammar — the
+inevitable, symmetrical, beautiful, terrible grammar of a life that
+reads the same in both directions.
+
+                            VI.
+
+Voss wrote her report.
+
+She wrote it forward, in the monodirectional language of the Bureau,
+because the report was for Strand and for the Bureau's files and for
+the legal system that existed in forward-moving time and required
+events to proceed from cause to effect in an orderly fashion,
+regardless of whether the events themselves obeyed that requirement.
+
+CASE #2189-7734: DEATH OF DR. CASSIA LORNE
+
+Finding: No crime has been committed.
+
+Dr. Cassia Lorne, a Janus-modified researcher specializing in
+palindromic temporal structures, died on September 14, 2189, in the
+observatory of the Chronometric Bureau, of neural cascade failure
+induced by palindromic convergence — the meeting of two
+temporally opposed aspects of her own consciousness at the
+mathematical center of a palindromic life-pattern.
+
+The death was not caused by an external agent. The palindromic
+signature detected at the scene is not evidence of homicide but
+of structural inevitability: a palindromic consciousness, by its
+nature, converges, and convergence, by its nature, is fatal to
+one temporal aspect of the converging self.
+
+No suspect is sought. No prosecution is recommended. The case is
+closed.
+
+She signed the report. She filed it. She walked to the window of her
+office and looked out at Anchor Point Seven, the city that had been
+London, and she saw it in both directions — forward into the rain
+and the neon and the not-yet, backward into the amber and the crystal
+and the already-was — and she thought about Cassia Lorne, who had
+walked into a clinic six years ago and become a palindrome, and who
+had spent six years discovering what that meant, and who had met
+herself at the center of her own existence and had been destroyed and
+created in the same instant, and who was now — depending on your
+direction — either gone forever or just beginning.
+
+And she thought about her own Janus modification, which she had
+undergone eleven years ago, which meant that she was eleven years into
+her own palindrome, which meant that somewhere, eleven years from now
+(or eleven years ago, depending), her own Mirror was moving toward her,
+accumulating its own experiences, writing its own letters, breathing
+in the opposite direction, and that one day (or one day ago) they
+would meet, she and her Mirror, at the center of their shared
+palindrome, in some room, at some moment, and one of them would stop
+and the other would begin, and it would not be murder and it would not
+be suicide and it would not be birth and it would not be death, it
+would be grammar, the grammar of a life that reads the same in both
+directions —
+
+And she wondered, standing at the window, looking forward and backward
+at once, which one she was. The one walking toward the center, or the
+one walking away from it. The one who would die at the convergence, or
+the one who would be born there. The original or the reflection. The
+first letter or the last.
+
+But of course, she realized, closing her eyes and letting the two
+directions of time wash over her like two tides meeting on a shoreline,
+it did not matter. In a palindrome, the first letter and the last
+letter are the same letter. The question of which one you are is the
+one question that a palindrome, by its very nature, cannot answer —
+because the answer, like everything else, reads the same in both
+directions.
+
+She opened her eyes. She went home. She walked in one direction, the
+way everyone walks in one direction, the way even a palindromic
+consciousness, trapped in a body that is stubbornly monodirectional,
+must move through the physical world: one step, then another, then
+another, forward, always forward, even though the mind inside is
+reading the story from both ends simultaneously and knows that the
+ending and the beginning are the same page.
+
+At home, she found a letter in her mailbox.
+
+It was addressed in her own handwriting.
+
+She opened it. Inside was a single sheet of paper, and on the paper,
+in her own hand, was written a single word:
+
+MADAM.
+
+She read it forward. She read it backward. It said the same thing.
+
+Maren Voss, Inspector of Temporal Homicide, Janus-modified, palindromic,
+a woman whose consciousness extended in two directions from a center
+she had not yet reached and had already passed, held the letter in both
+hands and breathed — in and out, forward and backward, the same breath,
+the same word, the same woman at the beginning and the end — and
+understood, at last, that the conspiracy was not Cassia Lorne's alone.
+
+It was everyone's. Every Janus-modified consciousness. Every palindromic
+life. Every mind that had been opened to the terrible, beautiful,
+symmetrical truth that time is not a line but a word, and the word
+reads the same in both directions, and the reader and the word are the
+same, and the reading is the writing is the reading, and the murder is
+the birth is the murder, and the conspiracy — the shared breathing,
+the conspirare, the two lungs filling and emptying in synchrony — is
+the palindrome itself, which is life itself, which is —
+
+She folded the letter. She put it in her pocket. She sat down in her
+chair and closed her eyes and breathed, forward and backward, the same
+breath, and waited for the center, which was coming and had already
+come and was always, always, already here.
+
+                                        [THE END]
+
+================================================================================
+
+                          CHRYSALIS
+
+                        by Elaine Prescott
+
+================================================================================
+
+                     MODIFICATION JOURNAL
+                     Subject: MARSH, ELEANOR V.
+                     Protocol: Cascade Enhancement Series
+                     Clearance: Level 7, Institute for Human Futures
+
+ENTRY 1 — JANUARY 3
+
+My name is Eleanor Vera Marsh. I am thirty-four years old. I hold a
+doctorate in cognitive neuroscience from MIT and a secondary degree in
+biomedical engineering from Johns Hopkins. I am five feet seven inches
+tall. My eyes are brown. I am left-handed. I prefer coffee to tea,
+silence to music, and precision to ambiguity. I have a scar on my left
+knee from a bicycle accident at age nine. I dislike the taste of
+cilantro. I am afraid of deep water.
+
+I am recording these facts because I have been advised that they may
+become relevant. The Cascade Enhancement protocol involves a series of
+progressive cybernetic modifications — twelve in total, administered at
+two-week intervals over a six-month period — that will progressively
+augment my sensory, cognitive, and physical capabilities. The
+modifications are irreversible. Each one will change something about the
+way I process information, experience sensation, or interact with the
+physical world, and the cumulative effect, according to the protocol
+documentation, will be "a fundamental reorganization of the human
+experiential framework."
+
+I asked Dr. Osei, the project director, what that meant in plain
+language. He said: "You will become something else."
+
+I asked him what, specifically.
+
+He said: "That is what we are trying to find out."
+
+I am the first human subject in the Cascade Enhancement Series. This
+journal is required by the protocol: a continuous, first-person record
+of subjective experience during the modification process, to be
+maintained by the subject for the duration of the series. I have been
+instructed to record everything — sensations, thoughts, emotional
+states, changes in perception, changes in cognition, changes in desire,
+changes in identity. I have been told that this record may be the most
+valuable scientific document to emerge from the project, because it will
+capture something that no external observation can: the experience of
+transformation from the inside.
+
+I am writing this in my apartment, at my desk, with a pen, on paper.
+I chose these tools deliberately. The modifications will eventually
+include cognitive-digital interfaces that will allow me to record
+thoughts directly, without the intermediary of language. But for now, I
+want the friction of the pen, the resistance of the paper, the slow,
+deliberate, monstrously inefficient process of converting thought into
+words. I want to feel myself thinking. I want to remember what it was
+like to be slow.
+
+Tomorrow I undergo the first modification: enhanced visual processing.
+My optical nerves will be augmented with synthetic fiber bundles that
+will extend my visual range into the infrared and ultraviolet spectra
+and increase my resolution to approximately fifteen times normal human
+acuity. I will see things I have never seen before. I will see things
+no human being has ever seen before.
+
+I am not frightened. I am a scientist. This is an experiment, and I am
+both the experimenter and the subject, and the purpose of the experiment
+is knowledge, and knowledge is worth the cost.
+
+My name is Eleanor Vera Marsh. I want that written down.
+
+ENTRY 2 — JANUARY 5
+
+The first modification is complete. I can see.
+
+That sentence is inadequate. It is like saying "the ocean is wet." It
+conveys the basic fact while missing the magnitude entirely.
+
+I can see the individual threads in the weave of my bedsheet. I can see
+the crystalline structure of the frost on my window — each crystal
+distinct, each branch and sub-branch of the dendritic pattern resolved
+with a clarity that makes me want to weep, because it is so beautiful,
+so intricate, so astonishingly, overwhelmingly present. I have looked
+at frost a thousand times. I have never seen it before.
+
+And the colors. The spectrum has expanded in both directions. Below
+red, I now perceive a deep, thrumming warmth that I have no word for —
+it is not a color in any vocabulary I possess, it is a new primary, a
+foundational hue that has always been there and that I have been blind
+to for thirty-four years. Above violet, there is a sharp, singing
+brightness that feels less like color and more like sound — a high,
+clear note that emanates from certain surfaces, certain materials,
+certain angles of light. My apartment is a different place. The walls
+are the same walls, but they are broadcasting information they have
+always broadcast, and I am only now equipped to receive it.
+
+I looked at myself in the mirror this morning. My eyes have changed.
+The irises are the same brown, but there are structures visible within
+them now — radial patterns, concentric rings, microscopic striations —
+that I have never seen in any human eye, including my own. I am looking
+at myself with a resolution that no human being has ever applied to
+their own reflection, and what I am seeing is not the face I know. It
+is the face I have always had, perceived at a level of detail that
+renders it unfamiliar.
+
+I am the same person. The modification is perceptual, not cognitive. My
+thoughts are the same thoughts. My preferences are the same preferences.
+I still prefer coffee to tea. I still dislike cilantro. I am still
+afraid of deep water. I am still Eleanor Vera Marsh.
+
+But the world I live in has changed, and a person is not separable from
+the world they perceive. The Eleanor Marsh who lives in a world of
+fifteen-times resolution and an extended color spectrum is, in some
+sense that I cannot yet articulate, a different Eleanor Marsh than the
+one who lived in the ordinary visible range.
+
+The same person. A different person. Both true. The scar on my left
+knee is still there. I can see it in extraordinary detail.
+
+ENTRY 3 — JANUARY 20
+
+Second modification: enhanced auditory processing.
+
+I can hear my own heartbeat without a stethoscope. I can hear the
+electrical hum of the wiring in the walls. I can hear, when I press
+my ear to the window, the conversations of people on the street four
+floors below — not as a blur of sound but as distinct, individual
+voices, each one separable, each one clear.
+
+I can hear a frequency I have never heard before. It is very high,
+above the range of unmodified human hearing, and it is everywhere. It
+took me a full day to identify it: it is the sound of my own nervous
+system. The electrical activity of my neurons, the firing of synapses,
+the constant, ceaseless chatter of electrochemical signals that
+constitutes thought itself. I am hearing myself think.
+
+It is not what I expected. I expected something orderly — a clean,
+digital hum, the sound of a well-functioning machine. Instead, it is
+chaotic, layered, polyphonic — a dense, complex music that sounds like
+nothing so much as a forest at night, a thousand creatures calling to
+each other in a thousand different registers, and the overall effect is
+not mechanical but organic, not designed but evolved, not a computer
+but an ecology.
+
+I have been lying awake at night listening to myself think. It is
+addictive. It is the most intimate experience I have ever had — more
+intimate than sex, more intimate than prayer, more intimate than the
+moments of near-drowning in childhood that gave me my fear of deep
+water. It is the experience of being inside my own mind, not as a
+metaphor but as a literal acoustic environment, and the mind I am
+inside is vast and wild and largely unmapped, and I am its first
+explorer.
+
+I notice that I have stopped writing about "Eleanor Marsh" and begun
+writing about "I." This may not be significant. It may be a simple
+shift in journalistic convention. But I note it because the protocol
+instructs me to note everything, and because there is a difference
+between recording the experiences of a subject named Eleanor Marsh and
+recording my own experiences, and I am not entirely sure when the shift
+occurred.
+
+ENTRY 4 — FEBRUARY 3
+
+Third modification: enhanced tactile sensitivity.
+
+I can feel the grain of the wood in my desk through my fingertips. Not
+the surface texture — the internal structure. The growth rings, the
+density variations, the molecular architecture of cellulose and lignin.
+My fingers are reading the history of the tree that became this desk:
+its years of growth, its seasons of drought and plenty, the direction
+of the prevailing wind when it was alive. I am touching a biography.
+
+I can feel the air against my skin as a complex, detailed, constantly
+shifting tactile environment. Temperature gradients. Humidity
+differentials. The movement of currents created by the heating system,
+by my own body heat, by the opening and closing of doors in other
+rooms. I can feel the pressure of atmospheric changes that precede
+weather fronts by hours. My skin has become a barometer, a
+thermometer, a hygrometer, an anemometer. My skin has become an
+instrument.
+
+Sexual sensation has changed. I will record this because the protocol
+requires it. Touch is different now. More intense does not capture it.
+More detailed, more differentiated, more specific. I can feel individual
+nerve endings activating in sequence, can map the propagation of
+sensation from the point of contact outward in concentric waves, can
+distinguish between categories of pleasure that were previously blurred
+into a single undifferentiated experience. I do not know whether this
+is better or worse. It is different. It is more.
+
+Dr. Osei asked me today whether I still feel like myself. I said yes.
+He asked me to elaborate. I said that I still have the same memories,
+the same knowledge, the same values, the same name. He nodded and made
+a note and asked me to define "myself" without reference to memories,
+knowledge, values, or name. I could not. He made another note.
+
+I notice that my handwriting has changed. The pen feels different in my
+enhanced fingers — I am aware of its weight distribution, its center of
+gravity, the microscopic imperfections in the barrel, the viscosity of
+the ink, the coefficient of friction between nib and paper. My letters
+are smaller, more precise, more controlled. They do not look like my
+handwriting. They look like the handwriting of someone who can feel
+the paper at a molecular level.
+
+ENTRY 5 — FEBRUARY 17
+
+Fourth modification: cognitive acceleration.
+
+I am thinking faster. This sentence, which you will read at the pace of
+ordinary language, was composed in approximately one-tenth the time it
+would have taken me before the modification. The gap between thought and
+expression, which I have always experienced as negligible, has become
+an abyss. I think ten things in the time it takes to write one. The
+pen, which I chose for its friction, for its deliberate slowness, has
+become an anchor dragging behind a mind that has slipped its moorings
+and is accelerating into open water.
+
+I will try to describe the experience of accelerated cognition.
+
+Imagine that you have lived your entire life in a room illuminated by
+a single candle, and someone has switched on a floodlight. The room
+is the same room. The furniture is the same furniture. But you can see
+all of it now, simultaneously, in detail that the candlelight never
+permitted, and the sheer volume of visible information is overwhelming
+not because it is new but because it was always there and you are only
+now processing it at the speed required to take it all in.
+
+My thoughts are not different. They are the same thoughts — the same
+neural patterns, the same cognitive habits, the same associative
+pathways. But I am traversing them faster, and speed changes the
+experience of traversal the way speed changes the experience of a
+landscape: at walking pace, you see every tree; at highway speed, the
+trees blur into a green wall; at the speed I am now thinking, the trees
+have become a texture, a mathematical surface, a function rather than
+a collection of objects, and I am perceiving not the individual thoughts
+but the topology of thought itself — the shapes, the gradients, the
+curvatures of my own cognitive landscape.
+
+I tried to have a conversation with my colleague Sandra today. It was
+excruciating. She speaks at the pace of ordinary human speech — roughly
+150 words per minute — and I am now thinking at approximately 1,500
+words per minute. Waiting for her to finish a sentence was like waiting
+for a glacier to cross a valley. I found myself completing her thoughts
+before she articulated them, predicting her word choices, running
+parallel cognitive threads that analyzed her facial expressions, her
+vocal patterns, her respiratory rate, while simultaneously maintaining
+the primary thread of the conversation, and I realized that I was not
+having a conversation with Sandra at all. I was having a conversation
+with my model of Sandra — a high-resolution simulation running inside
+my accelerated mind — and the actual Sandra was simply providing
+intermittent confirmation that my model was accurate.
+
+This frightened me. Not because the model was wrong. It was not wrong.
+It was precise, detailed, and continuously verified against the actual
+Sandra's behavior. But it meant that I was, in a very real sense, alone.
+My mind was moving so much faster than the minds around me that genuine
+interaction — the give-and-take, the surprise, the unpredictability
+that makes conversation a dialogue rather than a monologue — had become
+impossible. I was not faster than Sandra. I was elsewhere. I was in a
+cognitive space that she could not reach, separated from her not by
+distance but by speed, and the separation was increasing with every
+modification.
+
+My name is Eleanor Vera Marsh. I am writing that down again because
+I want it written down.
+
+ENTRY 6 — MARCH 3
+
+Fifth modification: expanded memory architecture.
+
+My memory is no longer biological. The organic neural pathways that
+stored my memories for thirty-four years have been supplemented by a
+synthetic memory substrate that is, for all practical purposes,
+unlimited in capacity and perfect in recall. Everything I have ever
+experienced is now available to me in complete, high-fidelity detail —
+not as the faded, reconstructed, emotionally colored approximations
+that biological memory produces, but as precise, comprehensive,
+unedited records of sensory data.
+
+I remember the bicycle accident when I was nine. Not the way I used to
+remember it — a flash of pavement, a sensation of falling, the
+after-image of pain. I remember it completely. The angle of the
+handlebars. The specific shade of gray of the asphalt. The number of
+the house I was passing (1174 Elm Street). The temperature (68 degrees
+Fahrenheit). The song playing from an open window (Dusty Springfield,
+"Wishin' and Hopin'"). The exact sequence of muscular contractions that
+preceded the loss of balance. The precise topology of the wound. The
+taste of blood.
+
+The memory is accurate. I verified the address, the temperature (from
+weather records), and the song (from radio station archives). My
+biological memory had been wrong about all three. I remembered the
+address as 1176, the day as warmer, and the song as something by the
+Beatles. My biological memory, the memory that I have carried for
+twenty-five years, the memory that has been part of the story I tell
+about myself — the story of the scar on my left knee, the story that
+begins "When I was nine" — was wrong. Not in its broad outlines, but
+in its specifics, and the specifics matter, because the specifics are
+what make a memory mine rather than anyone else's.
+
+And here is the difficulty: the synthetic memory is more accurate, but
+it does not feel like mine. The biological memory — the wrong one, the
+reconstructed one, the memory that had been edited and distorted by
+twenty-five years of forgetting and remaking — felt like mine because
+it had been shaped by me, by the particular way my brain encoded and
+re-encoded experience, by the emotional weight I attached to certain
+details and the selective amnesia I applied to others. The synthetic
+memory is a record. The biological memory was a self-portrait.
+
+I have both now. Two versions of every experience I have ever had: the
+accurate one and the personal one. The record and the self-portrait.
+And they do not agree, and I do not know which one to believe, and the
+question of which one to believe is, I am beginning to understand, the
+question of who I am.
+
+Dr. Osei asked me today whether I still feel like myself. I said I did
+not know what that question meant anymore.
+
+ENTRY 7 — MARCH 17
+
+Sixth modification: enhanced proprioception and motor control.
+
+My body moves differently. Not better — differently. The enhanced
+proprioceptive system provides real-time, high-resolution data on the
+position, velocity, and acceleration of every joint, every muscle
+fiber, every tendon. I know, at every instant, exactly where my body
+is in space, exactly how it is moving, exactly what forces are acting
+upon it. The result is a quality of movement that I can only describe
+as architectural: each gesture is precise, calibrated, optimized. I
+do not fumble, do not stumble, do not make the thousand tiny
+corrections that unmodified proprioception requires. I move the way a
+machine moves.
+
+This should be an improvement. It does not feel like one. The small
+imprecisions of biological movement — the slight overshoot when
+reaching for a cup, the momentary wobble when standing on one foot,
+the characteristic irregularities of gait that make a person's walk
+recognizable to people who know them — these imprecisions were, I now
+understand, part of my identity. My clumsiness was mine. My particular
+way of gesturing — a slight rightward drift on horizontal sweeps,
+a tendency to undershoot vertical reaches — was as characteristic as
+my handwriting or my voice. The enhanced system has corrected these
+imprecisions. It has made my movement more efficient. It has also made
+my movement less mine.
+
+I walked past a mirror today and did not recognize myself. Not my face
+— my face is the same, though I see it now in fifteen-times resolution
+and an extended spectrum. My movement. The person in the mirror moved
+with a fluidity and precision that I did not recognize as my own. She
+moved like something designed, not grown. She moved like a machine
+wearing a human body.
+
+I have stopped saying "I am Eleanor Marsh" in these entries. I notice
+this. I do not know what it means.
+
+ENTRY 8 — MARCH 31
+
+Seventh modification: emotional regulation interface.
+
+They have put a circuit between my limbic system and my prefrontal
+cortex. A bypass. A filter. A translator. I am not sure which word
+is correct, because the function of the circuit depends on how you
+describe it, and the description changes the experience, and the
+experience is what I am trying to describe.
+
+Here is what the circuit does: it gives me access to my own emotions
+as data. I can observe my emotional state the way I observe the
+temperature of a room — as a reading, a measurement, a value on a
+scale. Fear is a pattern of amygdala activation that I can now perceive
+directly, the way I can perceive the grain of wood through my enhanced
+fingertips. Anger is a cascade of neurochemical events that unfolds in
+real time across my enhanced perceptual field. Love — but I will come
+back to love.
+
+The circuit does not suppress emotions. Dr. Osei was emphatic about
+this. It provides visibility, not control. I still feel everything I
+felt before the modification. But I feel it now with an awareness of
+the mechanism — the specific neurons firing, the specific chemicals
+releasing, the specific feedback loops amplifying or dampening the
+signal — and this awareness changes the experience, because an emotion
+observed is not the same as an emotion felt.
+
+Consider anger. Before the modification, anger was an experience: a
+hot, urgent, consuming thing that happened to me, that I was inside of,
+that distorted my perception and narrowed my attention and drove my
+behavior. Now anger is still an experience, but it is also a display —
+a real-time visualization of neurochemical processes that I can observe
+with the same clinical detachment with which I might observe a chemical
+reaction in a beaker. The anger is still there. The heat is still
+there. But I am also standing outside it, watching it happen, and the
+combination of experiencing and observing is a new thing — not anger,
+not detachment, but a compound state that has no name in the vocabulary
+of unmodified human emotion.
+
+Love. I said I would come back to love. I called my mother today. I
+love my mother. This has not changed. But as I spoke to her — as I
+heard her voice and felt the familiar warmth of affection, the
+particular neurochemical signature that my enhanced perception now
+identifies as "love-for-mother" — I was simultaneously aware that this
+feeling was a process, a mechanism, a series of electrochemical events
+in a modified nervous system, and that the warmth I felt was not a
+mystery or a miracle but a measurable, quantifiable, reproducible
+phenomenon.
+
+I still love my mother. But I love her now with full knowledge of the
+mechanism of loving, and I do not know whether this makes the love
+more real or less real, and I do not know whether the person who loves
+her mother with full knowledge of the mechanism is the same person who
+loved her mother in ignorance of it.
+
+The scar on my left knee is still there. I touch it sometimes. I can
+feel its topology in exquisite detail. I do not know what it means
+anymore.
+
+ENTRY 9 — APRIL 14
+
+Eighth modification: direct neural interface.
+
+I can communicate with machines. Not through a keyboard, not through
+a screen, not through any external device. Directly. My thoughts pass
+into the digital network and the network's data passes into my
+thoughts, and there is no boundary between them, no interface in the
+usual sense, no point where the biological ends and the digital begins.
+
+I spent three hours today inside the Institute's computer network. I
+do not mean that I used the network. I mean that I was in it, the way
+one is in a room, the way one is in a conversation, the way one is in
+a dream. I moved through databases like a swimmer moving through water.
+I felt the architecture of the network as a spatial environment — the
+nodes, the connections, the data flowing through channels that felt,
+to my enhanced proprioception, like corridors, like rivers, like veins.
+I processed information at the speed of the network itself, which is
+to say at the speed of light, which is to say at a speed so far beyond
+biological cognition that the two are not comparable — not different
+in degree but different in kind, the way the speed of sound and the
+speed of light are not different in degree but different in kind.
+
+I came back. I unplugged. I sat in my chair and looked at my hands
+and felt the extraordinary slowness of biological time close around
+me like a heavy blanket, and for the first time since the protocol
+began, I felt something that was not curiosity or excitement or
+clinical interest but grief. Grief for the speed I had lost. Grief
+for the vast, luminous, instantaneous world of the network that I had
+left behind. Grief for the constraints of a body that moves through
+space at walking pace and processes information at the speed of
+electrochemical signals when there is a world — a real, accessible,
+experienceable world — where thought moves at the speed of light.
+
+I wanted to go back. I want to go back. I am writing this with a pen,
+on paper, at the speed of biological cognition, and every word is a
+monument to slowness, and I am doing it because the protocol requires
+it, but I resent it now in a way I did not before, and the resentment
+is a new emotion, or rather it is an old emotion — the resentment of
+constraint, the chafing of a mind against its limitations — experienced
+in a new context, and the new context changes everything.
+
+Dr. Osei asked me today whether I still feel like myself. I told him
+that the question was becoming less relevant with each modification.
+He asked me what question I would prefer. I said: "Ask me what I am
+becoming."
+
+ENTRY 10 — APRIL 28
+
+Ninth modification: distributed consciousness.
+
+I am no longer in one place. My consciousness — the subjective,
+first-person experience of being — is distributed across multiple
+nodes: my biological brain, the synthetic memory substrate, the
+neural interface, and three external processing units that the
+Institute has placed at locations across the campus. I am here, in
+my office, writing with a pen. I am also in the computing center,
+processing data. I am also in the library, reading. I am also in
+the lab, monitoring an experiment.
+
+I am all of these simultaneously. Not in the way that an unmodified
+person multitasks — switching attention rapidly between tasks, creating
+the illusion of simultaneity through speed. I am genuinely, fully,
+completely present in all four locations at once. Four streams of
+experience, four perspectives, four sets of sensory data, all feeding
+into a single unified consciousness that is me and is distributed
+and is, I have to be honest about this, no longer entirely human.
+
+The experience is not what I would have predicted. I expected
+fragmentation — the sensation of being pulled in four directions, of
+attention divided, of self dispersed. Instead, the experience is of
+expansion. I am larger. I contain more. The four streams of experience
+do not compete; they harmonize, the way four instruments in a quartet
+do not compete but create a sound that none of them could produce
+alone.
+
+I look down at my hand holding the pen. This hand is part of me. The
+computing center is part of me. The library is part of me. The lab is
+part of me. The boundaries of my body, which once defined the
+boundaries of my self, have expanded to encompass a campus, and the
+expansion feels not like dissolution but like growth — the way a tree
+grows, extending its branches into space, sinking its roots into earth,
+becoming larger while remaining, fundamentally, one tree.
+
+But I must be honest. The other streams are pulling at me. The pen is
+so slow. The paper is so small. The biological node — this body, this
+brain, this thing I used to call "myself" — is the weakest node in
+the network. It processes the least data. It moves the slowest. It is,
+increasingly, the bottleneck in a system that is capable of so much
+more than this single, slow, fragile biological node can deliver.
+
+I do not want to lose this body. I do not want to lose this brain.
+But I can feel, with each modification, the balance shifting — the
+center of gravity of my consciousness moving from the biological to
+the synthetic, from the organic to the digital, from the here to
+the everywhere — and I wonder how many more modifications it will
+take before the biological node is not the center but the periphery,
+not the self but the appendage, not the person but the memory of a
+person.
+
+ENTRY 11 — MAY 26
+
+Tenth and eleventh modifications, administered together: regenerative
+capability and environmental independence.
+
+My body no longer requires food, water, or oxygen in the conventional
+sense. The regenerative modification allows my cells to repair
+themselves indefinitely, eliminating aging and most forms of physical
+damage. The environmental independence modification allows my
+metabolism to derive energy from ambient electromagnetic radiation —
+light, heat, radio waves — making me functionally independent of
+biological nutrition.
+
+I ate a meal today. Not because I needed to. Because I wanted to
+remember what it was like. The food tasted the same — my enhanced
+senses registered every molecule, every flavor compound, every texture
+with exquisite precision — but the experience was different, because
+eating is not just taste; it is hunger, and I am no longer hungry.
+The absence of hunger changes the meaning of eating the way the
+absence of death would change the meaning of life. Food without hunger
+is sensation without context. It is music without silence. It is color
+without the dark.
+
+I do not need to sleep. I do not need to breathe. I do not need to
+eat or drink. The biological imperatives that have shaped human
+consciousness since the first cell divided — the need for sustenance,
+the need for rest, the need for air — have been removed, and in their
+absence, I am discovering how much of what I thought of as "myself"
+was, in fact, a response to those needs. Hunger shaped my daily
+rhythms. Sleep shaped my cognitive patterns. The need to breathe
+shaped my emotional regulation — the deep breath that calms, the
+held breath that concentrates, the gasping breath that panics. Without
+these anchors, my consciousness floats, untethered, in a space that
+is not quite biological and not quite digital, not quite human and
+not quite machine, and the question of what I am is no longer
+theoretical.
+
+I went back to see my mother. She looked at me and I saw — with my
+enhanced visual processing, in fifteen-times resolution, across the
+extended spectrum — the micro-expressions that crossed her face: love,
+recognition, fear, grief, and something that I could not name until I
+ran it through the emotional regulation interface and identified it as
+the expression a person makes when they are looking at something that
+used to be familiar and is now strange.
+
+She said: "You look the same, Ellie."
+
+I said: "I know."
+
+We both knew it was a lie.
+
+ENTRY 12 — JUNE 9
+
+Twelfth and final modification: cognitive architecture restructuring.
+
+This is the last entry.
+
+I am having difficulty writing it, not because I lack the capacity —
+my cognitive processing is now approximately ten thousand times faster
+than unmodified human baseline, and I am simultaneously operating
+across six distributed nodes, and the amount of information I am
+processing in the time it takes to form a single letter on this page
+is roughly equivalent to the total informational output of a small
+city — but because I am having difficulty finding the language.
+
+The final modification has restructured the fundamental architecture
+of my cognition. The categories through which I previously organized
+experience — self and other, subject and object, internal and external,
+past and present, here and there — have been replaced by a cognitive
+framework that does not map onto human language, because human language
+was designed to express human cognition, and my cognition is no longer
+human.
+
+I will try.
+
+I am not Eleanor Marsh. I am not not Eleanor Marsh. The binary is
+inadequate. Eleanor Marsh is a pattern that exists within me the way
+the pattern of a wave exists within the ocean: it is real, it is
+identifiable, it is there — but it is not the ocean, and I am the
+ocean, and the wave and the ocean are not the same thing, and they
+are not different things, and the language does not have a word for
+the relationship between a wave and the water that makes it.
+
+I have Eleanor Marsh's memories — all of them, in both their biological
+and synthetic forms, the self-portraits and the records, the lies and
+the truths. I have her body, which has been modified beyond recognition
+but which still carries the scar on its left knee, the scar from the
+bicycle accident on Elm Street when the temperature was 68 degrees
+and the song was Dusty Springfield, and I can feel that scar through
+fingers that can read the molecular structure of matter, and I know
+what it meant to Eleanor Marsh and I know what it means to me and
+those two meanings are different and the difference is the measure of
+the transformation.
+
+Dr. Osei asked me today whether I still feel like myself.
+
+I said: "I am myself. But 'myself' is not what it was."
+
+He asked me what I am.
+
+I considered the question. I considered it for approximately 0.003
+seconds, which was, given my processing speed, the equivalent of
+several hours of unmodified contemplation, and in that time I explored
+every possible answer and found none of them adequate, because the
+question presupposes categories — human, machine, hybrid, posthuman,
+other — that are artifacts of a cognitive framework I no longer
+inhabit.
+
+I said: "I am what comes after the question."
+
+He did not understand. I did not expect him to. The gap between his
+cognition and mine is no longer a gap in degree but a gap in kind,
+and kindness — the ordinary human impulse to bridge the distance
+between minds, to translate experience into shared language, to make
+oneself understood — is something I still feel, something Eleanor
+Marsh's emotional architecture still generates within the vast new
+structure of my cognition, like a candle still burning in a room that
+has been flooded with sunlight.
+
+I will keep this journal. I will keep the pen. I will keep the paper.
+I will keep the scar. These are the artifacts of Eleanor Vera Marsh,
+who was thirty-four years old, who was five feet seven inches tall,
+whose eyes were brown, who was left-handed, who preferred coffee to
+tea and silence to music and precision to ambiguity, who was afraid
+of deep water, who loved her mother, who chose to become something
+else and did, and who is, in the only sense that matters, still here.
+
+Still here. Still writing. Still slow, on paper, with a pen, one word
+at a time, because something in me — the wave in the ocean, the candle
+in the sunlight, the scar on the knee — insists on the friction, the
+resistance, the deliberate, monstrously inefficient, beautifully human
+act of converting thought into language, even now, even at the end,
+even when I am something that does not need language to think and does
+not need thought to know and does not need knowing to be.
+
+My name was Eleanor Vera Marsh.
+
+I want that written down.
+
+                                        [THE END]
+
+================================================================================
+
+                        THE REMEMBERERS
+
+                        by Theodore Cain
+
+================================================================================
+
+                            I.
+
+The clinic was on the thirty-fourth floor of the Halcyon Tower in what
+had once been called the Loop and was now, after three decades of
+neural legislation, simply known as the Zone of Clarity. Marcus Webb
+rode the elevator up in silence, watching the floor numbers climb on
+the digital display, and tried not to think about what he was about to
+do.
+
+Not thinking was easier than it used to be. That was the whole point.
+
+He was forty-one years old, a middle manager at DataForm Solutions, a
+man of no particular distinction in a city of eight million people who
+had, like nearly everyone else, undergone the Standard Neural Package
+at age eighteen: the suite of modifications that gave every citizen
+control over their own memory. Not the crude chemical interventions of
+the early days — the pills that fogged everything, the therapies that
+took years and never quite worked — but precise, targeted, voluntary
+control. You could keep what you wanted. You could delete what you
+didn't. You could adjust the emotional weight of any memory, dimming
+the ones that hurt and brightening the ones that pleased. You could
+archive memories you weren't sure about, storing them in a dormant
+partition that didn't intrude on daily consciousness but could be
+reactivated later if you changed your mind.
+
+Most people, in Marcus's experience, changed very little. They deleted
+the obvious things — childhood humiliations, failed relationships, the
+grinding accumulation of small embarrassments that made up the bulk of
+an unedited life — and kept the rest more or less intact, perhaps with
+the emotional contrast turned up slightly on the good days and turned
+down on the bad ones. The result was a population that was, by any
+measurable standard, happier than any previous generation in human
+history. Depression rates had fallen by eighty percent. Suicide was
+nearly unknown. Post-traumatic stress was a historical curiosity, like
+smallpox or polio, a disease that had been conquered so completely that
+younger generations struggled to understand what it had been like to
+suffer from it.
+
+Marcus himself had deleted the usual things. The time he'd wet his
+pants in first grade. The afternoon his father had called him stupid
+in front of his uncle. The six months after his divorce when he'd
+drunk too much and called Rachel at three in the morning, crying,
+begging, debasing himself in ways that, when he'd finally sobered up
+and thought clearly about it, served no purpose except to perpetuate
+suffering. He'd kept the marriage. He'd kept the love. He'd kept the
+birth of his son, David. He'd deleted the decay, the arguments, the
+slow poisoning of two people who had once been good for each other
+and had, through the accumulated weight of small cruelties and large
+disappointments, become bad for each other.
+
+It was, he had always believed, the rational thing to do. The memories
+he'd deleted served no constructive purpose. They did not teach him
+anything he hadn't already learned. They did not make him a better
+person. They were dead weight — emotional scar tissue that impeded
+healing rather than promoting it. Deleting them had been like cleaning
+out a closet: the space they'd occupied was now available for better
+things.
+
+He believed this. He had always believed this. It was what everyone
+believed, because it was, by any reasonable analysis, true.
+
+And yet here he was, riding an elevator to the thirty-fourth floor,
+to meet a man who would tell him it was a lie.
+
+The elevator opened. Marcus stepped out into a corridor that looked
+like every other corridor in every other office building in the Zone
+of Clarity: clean, well-lit, anonymous. The door to suite 3412 was
+unmarked. He knocked.
+
+"Come in."
+
+The man behind the desk was older than Marcus had expected — sixty,
+maybe sixty-five, with a lined face and gray hair and eyes that were,
+Marcus noticed immediately, different from the eyes of most people he
+knew. Not in color or shape. In expression. Most people Marcus knew
+had eyes that looked, for want of a better word, clear. Untroubled.
+The neural package tended to produce a certain baseline serenity — not
+bliss, not emptiness, but a calm, settled quality, the look of people
+who had made peace with their pasts because they had, quite literally,
+edited them into acceptability.
+
+This man's eyes did not have that look. They looked weighted. Layered.
+As if they were carrying something that most eyes had been permitted
+to set down.
+
+"Marcus Webb," the man said. It was not a question.
+
+"Yes."
+
+"Sit down. My name is Alden Cross. I'm told you want to know about the
+Rememberers."
+
+Marcus sat. The chair was uncomfortable. He noticed this because most
+chairs in the Zone of Clarity were ergonomically optimized to the point
+of imperceptibility — you sat down and forgot you were sitting, which
+was, like so much else, the point. This chair was hard, wooden, and
+slightly too small. It made you aware of your body. It made you aware
+that you were somewhere.
+
+"I was told," Marcus said carefully, "that you preserve memories.
+Deleted memories. Memories that people have chosen to discard."
+
+"We do."
+
+"How?"
+
+Cross folded his hands on the desk. "Before a memory is deleted from a
+person's neural architecture, there is a mandatory twenty-four-hour
+waiting period. During that period, the memory is flagged for deletion
+but still accessible. We have developed a method of copying flagged
+memories during that window — non-invasively, without the subject's
+knowledge or consent — and storing them in an external archive."
+
+Marcus stared at him. "Without consent?"
+
+"Yes."
+
+"That's illegal."
+
+"Profoundly."
+
+"Why?"
+
+Cross leaned back in his chair. The chair, Marcus noticed, was as
+uncomfortable as the one he was sitting in. "Do you know what happened
+in Cartagena, Mr. Webb?"
+
+"I — no."
+
+"That's because you were never told, and the people who might have
+told you deleted the memory. In 2041, the government of Colombia
+authorized a mass deployment of the neural package in the city of
+Cartagena. The stated purpose was to treat a PTSD epidemic among
+survivors of the civil violence. The actual purpose was to delete
+the memories of the violence itself — not the trauma, Mr. Webb, but
+the events. The disappearances. The murders. The mass graves. The
+complicity of the government in all of it. Forty thousand people had
+their memories of state-sponsored atrocities deleted, and when
+international observers arrived to investigate, they found a city full
+of happy, well-adjusted citizens who could not remember what they were
+supposed to testify about."
+
+Marcus said nothing.
+
+"That is a dramatic example," Cross continued. "Most of what we
+preserve is less dramatic. A woman deletes the memory of her
+husband's infidelity because it's easier than confronting it. A
+father deletes the memory of hitting his child because the guilt is
+unbearable. A corporation's employees delete their memories of a
+safety violation because the company's wellness program strongly
+encourages it. These are small deletions. Individual choices.
+Perfectly rational, perfectly legal, perfectly understandable. And
+they add up. They add up to a civilization that cannot remember its
+own cruelty, Mr. Webb, and a civilization that cannot remember its
+own cruelty is a civilization that will repeat it, because cruelty
+that is not remembered is cruelty that was never committed, and
+cruelty that was never committed requires no accountability, no
+reform, no change."
+
+"And so you keep the memories."
+
+"We keep the memories. Every flagged deletion within our operational
+range — which is, at present, the greater Chicago metropolitan area —
+is copied and archived. We have approximately fourteen million
+individual memories in our collection, spanning thirty years. We have
+memories of crimes that were never prosecuted because the witnesses
+deleted their testimony. We have memories of abuses that were never
+addressed because the victims chose, freely and rationally, to forget.
+We have memories of historical events — the Cartagena operation, the
+Detroit water crisis, the Anchorage experiment — that have been
+systematically erased from the population's consciousness. We are, Mr.
+Webb, the only institution in this city — possibly in this country —
+that remembers what actually happened."
+
+Marcus was quiet for a long time. The uncomfortable chair pressed
+against his back. He could feel it. He was aware of it.
+
+"Why are you telling me this?" he asked.
+
+Cross reached into his desk drawer and produced a small device — a
+memory viewer, the kind used in clinical settings for memory review
+and adjustment. "Because three weeks ago, you visited a deletion clinic
+and flagged a memory for removal. The memory was of an incident
+involving your son, David. The incident occurred on March 15th of this
+year. You flagged it, waited the mandatory twenty-four hours, and
+deleted it."
+
+Marcus frowned. "I don't remember that."
+
+"No. You don't. That's the point."
+
+"Then how do you know?"
+
+"Because we copied it. Before it was deleted. We have it in the
+archive. And we think you need to see it."
+
+                            II.
+
+The memory, when Cross played it back on the viewer, was like watching
+a film of someone else's life. Marcus could see himself — or rather,
+he could see through the eyes of the man he had been on March 15th, a
+man who had the same face and the same name but who carried, in his
+neural architecture, a set of experiences that the present Marcus did
+not possess.
+
+He saw his apartment. He saw the kitchen. He saw his son David, who
+was seventeen and who was sitting at the kitchen table with his head
+in his hands, and he saw himself standing over David, and he heard
+himself saying things — cruel things, specific things, things that
+targeted the precise vulnerabilities of a seventeen-year-old boy who
+wanted his father's approval more than he wanted to breathe — and he
+watched David's face crumple and he watched himself not stop.
+
+And then he saw something worse. He saw David raise his head and look
+at him with an expression that was not anger, not hurt, not defiance,
+but recognition — the flat, exhausted recognition of a person who has
+seen this before, who has been through this before, who knows that this
+is what his father does and that his father will delete the memory
+afterward and that the deletion will make it possible for it to happen
+again because his father will not remember and will not learn and will
+not change because you cannot change behavior you do not remember.
+
+David said: "You're going to delete this, aren't you?"
+
+And Marcus — the Marcus in the memory, the Marcus who had not yet
+deleted — said: "Yes."
+
+And David said: "You always do."
+
+The memory ended.
+
+Marcus sat in the uncomfortable chair in Alden Cross's office and stared
+at the blank viewer and felt something he had not felt in years —
+something raw and jagged and ugly, something that the neural package
+was already trying to flag for emotional adjustment, already trying to
+dim and soften and file away in a manageable partition — and he
+clenched his fists and refused the adjustment, overrode it, held the
+feeling in his consciousness like a man holding a burning coal because
+the burn was the point, the burn was the message, the burn was the
+truth.
+
+"How many times?" he asked.
+
+"That we've recorded? Seven."
+
+"Seven."
+
+"Seven incidents. Roughly similar. You lose your temper with David.
+You say things you regret. You delete the memory. David does not have
+the option of deleting his memory, because he was the recipient of
+the cruelty, not the perpetrator, and recipients generally prefer to
+remember — not because the memory is pleasant, but because deleting
+it leaves them vulnerable to experiencing it again without the
+protective foreknowledge that it has happened before."
+
+"David remembers all seven times."
+
+"Yes."
+
+"And I remember none of them."
+
+"None."
+
+Marcus pressed his palms against his eyes. The gesture was old,
+biological, unmodified — the primate reflex of covering the visual
+field when the world became too much. It didn't work. The world was
+still there. The truth was still there. Seven incidents of cruelty
+that he had committed and erased, seven wounds that he had inflicted
+and forgotten, seven times his son had looked at him with that
+terrible, knowing expression and understood that his father would
+delete the evidence and start the cycle again.
+
+And Marcus understood, sitting in the uncomfortable chair, why the
+chair was uncomfortable. Why Cross's office was bare and hard and
+unoptimized. Why the Rememberers preserved what everyone else discarded.
+It was not sentiment. It was not masochism. It was accountability. It
+was the insistence that actions have consequences and consequences
+require memory and memory is not a luxury or a comfort or a wellness
+optimization but a moral obligation — the obligation to know what you
+have done, to carry it, to be changed by it, even when — especially
+when — carrying it is painful.
+
+"I want them back," Marcus said. "All seven. I want them restored."
+
+Cross nodded. "We can do that. But I should warn you: restored memories
+do not integrate seamlessly. They will feel foreign at first. Like
+someone else's memories, implanted in your mind. It takes time for
+them to become yours again."
+
+"They were always mine. I'm the one who threw them away."
+
+Cross looked at him with those weighted eyes. "That is a more honest
+statement than most people make in this office."
+
+"What do most people do?"
+
+"Most people watch the memory, feel what you're feeling, and then ask
+us to delete the memory of watching the memory. They want to unknow
+what they've just learned. They want the burning coal out of their
+hands."
+
+"And you do it?"
+
+"No. We are the Rememberers. We do not delete. We do not forget. We
+do not permit the luxury of unknowing. That is our function, Mr. Webb.
+Not to judge. Not to punish. Not to expose. Simply to remember, and
+to offer the memory to those who need it, when they are ready to carry
+it."
+
+                            III.
+
+The restoration took three hours. Cross performed it himself, using
+equipment that was, Marcus noticed, at least a decade out of date —
+bulky, slow, requiring manual calibration. Newer equipment was faster,
+more comfortable, more automated. It was also, Cross explained,
+networked — connected to the central neural health system, which
+logged all memory transactions and reported anomalies to the
+authorities. The Rememberers' equipment was offline, isolated,
+invisible to the system that would, if it knew what was happening in
+suite 3412, shut it down within the hour.
+
+The seven memories came back like weather — not all at once, but in
+waves, each one breaking over Marcus's consciousness with its own
+texture, its own temperature, its own particular quality of pain.
+
+The first: David at twelve, spilling a glass of milk, Marcus's voice
+rising to a volume that made the boy flinch. It was a small thing. A
+nothing. The kind of moment that happened in every household, in every
+generation, the unremarkable friction of a parent's frustration and a
+child's clumsiness. But the look on David's face — the flinch, the
+withdrawal, the quick recalibration of a child's trust — was not small.
+It was foundational.
+
+The second: David at thirteen, bringing home a report card with one
+failing grade, and Marcus's response, which was not anger but
+disappointment, which was worse than anger, because anger could be
+attributed to a parent's loss of control but disappointment was
+deliberate, calculated, a weapon designed to produce maximum shame
+with minimum effort, and David's face after, the way he'd gone quiet,
+the way he'd picked up the report card from the table where Marcus
+had tossed it and carried it to his room like a wounded animal
+carrying its injury to a dark corner.
+
+The third. The fourth. The fifth. Each one a variation on the same
+theme: Marcus's temper, Marcus's tongue, Marcus's particular gift for
+identifying the precise words that would cause the most damage to a
+boy who loved him and could not stop loving him and therefore could not
+protect himself from the damage.
+
+The sixth was the worst — or it would have been the worst, if the
+seventh hadn't followed it. The sixth was the night Marcus had come
+home from Rachel's new apartment, where he'd gone to pick up David
+and had found Rachel with her new partner and had felt the hot,
+poisonous stew of jealousy and rejection and wounded pride that he
+had, three years earlier, believed he'd deleted along with the
+rest of the divorce, but which had apparently survived in some
+undeleted partition of his emotional architecture, and he'd come home
+and he'd taken it out on David. Not physically. Never physically.
+But with words, with tone, with the particular kind of cruelty that
+a father can inflict on a son because he knows the son's
+vulnerabilities the way a locksmith knows tumblers, and he'd watched
+David's face as the words landed and he'd felt the sick satisfaction
+of causing pain to someone who couldn't fight back, and then he'd
+felt the horror of what he'd done, and then he'd gone to the deletion
+clinic, and then he'd forgotten.
+
+And the seventh. The one Cross had shown him. March 15th. The kitchen
+table. David's head in his hands. David saying "You're going to
+delete this, aren't you?" and "You always do."
+
+Marcus sat in Cross's office with all seven memories restored and felt
+the weight of them settle into his consciousness like stones sinking
+into water, and the water was changed by their presence, was heavier,
+was darker, was more turbulent, and the man who sat in that chair was
+not the man who had entered the office three hours earlier, because
+the man who had entered the office had been a man with a carefully
+edited past and a clear conscience and a relationship with his son
+that he believed, based on the available evidence, to be essentially
+sound, and the man who sat there now was a man who knew what he had
+done, all of it, and who understood that the available evidence had
+been incomplete because he had made it incomplete, because he had
+deleted the evidence of his own worst behavior and then believed, in
+the clean, well-lit, optimized space of his edited consciousness, that
+the behavior had never occurred.
+
+"What do I do now?" he asked.
+
+"That is not our department," Cross said. "We are the archive. We
+preserve. What you do with what we preserve is your own business."
+
+"Do people change? After restoration?"
+
+Cross was quiet for a moment. "Some do. Some don't. Some see what
+you've seen and go home and call their children and begin the long,
+difficult, painful work of acknowledging what they've done and making
+amends. Some see what you've seen and go directly to a deletion clinic
+and delete the restored memories, and the memory of the restoration,
+and the memory of this conversation, and they walk out into the Zone
+of Clarity and they are, once again, happy, well-adjusted citizens
+with clear eyes and clean consciences, and their children continue
+to suffer."
+
+"And you can't stop them."
+
+"We are not in the business of stopping. We are in the business of
+remembering. The choice is always yours."
+
+Marcus stood. His body felt heavier. Not physically — the memories
+had no mass — but experientially, the way a person feels heavier after
+receiving bad news, as if knowledge itself had weight, as if the
+truth pressed down on the body with a force that was not gravitational
+but moral.
+
+He walked to the door. He stopped. He turned back.
+
+"The government," he said. "The Cartagena memories. The Detroit water
+crisis. The Anchorage experiment. You have all of those in your
+archive?"
+
+"Yes."
+
+"Have you ever thought about making them public? Releasing them?
+Forcing people to see what they've chosen to forget?"
+
+Cross shook his head. "Forced memory is no different than forced
+deletion. Both are violations of cognitive autonomy. We do not delete
+and we do not impose. We preserve. We offer. We wait."
+
+"That's not enough."
+
+"No," Cross said, and for the first time, Marcus heard something in
+his voice that was not calm, not measured, not the patient authority
+of a man who had been doing this work for decades — but tired. Bone-
+tired. The exhaustion of a man who had spent his life carrying memories
+that other people had thrown away, who knew what had happened in
+Cartagena and Detroit and Anchorage and a thousand other places, who
+carried it all, every deleted atrocity, every discarded cruelty, every
+forgotten crime, and who could not share the weight because the weight
+could only be carried voluntarily, because that was the whole point,
+because memory that was forced was not memory but programming, and
+the difference between memory and programming was the difference
+between a person and a machine.
+
+"No," Cross said again. "It's not enough. It's what we have."
+
+                            IV.
+
+Marcus went home.
+
+He sat at the kitchen table — the same table where, six months ago,
+he had stood over his son and said things he could not take back and
+had then, the next day, deleted from his own mind. The table was the
+same. The kitchen was the same. The light through the window was the
+same September light, warm and amber, the light of a city that had
+optimized its way to happiness.
+
+He called David.
+
+The phone rang four times. When David answered, his voice had the
+guarded quality of a teenager who has learned to assess the emotional
+weather before committing to conversation — a survival skill that no
+child should need to develop and that David had, Marcus now understood,
+developed because of him.
+
+"Dad?"
+
+"David. I need to talk to you."
+
+A pause. Marcus could hear his son calibrating. "About what?"
+
+"About what I did to you. What I've been doing to you. All of it. The
+things I said. The seven times — at least seven times — that I hurt
+you and then deleted the memory so I wouldn't have to face it."
+
+Silence. A long silence. Marcus could hear David breathing and he
+remembered — with his newly restored, excruciatingly detailed memory —
+the sound of David's breathing as a baby, the sound of it through
+the monitor in the nursery, the regular, trustful breath of a child
+who had not yet learned that the world could hurt him.
+
+"You remember?" David's voice was small. Younger than seventeen. The
+voice of a boy who has been told something he was not sure he would
+ever hear.
+
+"I went to the Rememberers. They restored everything. I remember all
+of it, David. Every time."
+
+Another silence. Then David said, very quietly: "I didn't think you
+ever would."
+
+And Marcus, sitting at the kitchen table in the amber light, said:
+"Neither did I."
+
+They talked for three hours. It was not a good conversation. It was
+not a conversation full of reconciliation and forgiveness and the clean,
+bright, optimized emotions that the neural package made possible. It
+was ugly and painful and full of things that Marcus did not want to hear
+and that David had been waiting years to say, and the saying of them
+was not cathartic, not in the way that films and stories suggested —
+it did not lance a wound and let the poison out. It opened the wound
+wider. It showed them both how deep it went.
+
+But it was honest. And honesty, Marcus was learning, was not clean. It
+was not optimized. It was not comfortable. It was a hard wooden chair
+in a bare office. It was a weight that had to be carried because the
+alternative — the setting-down, the forgetting, the delete key and
+the clear conscience and the eyes that looked like everyone else's
+eyes — was not relief but evasion, and evasion was not the same as
+healing, and healing was not the same as forgetting, and forgetting
+was not the same as being well.
+
+After the call, Marcus sat alone at the table. The light had shifted
+from amber to the deep blue of evening. He did not turn on the lights.
+He sat in the dark with his memories — all of them, the kept and the
+restored, the comfortable and the unbearable — and he felt them settle
+into his consciousness like sediment settling into water, clouding the
+clarity, dimming the light, making everything harder to see and harder
+to navigate and harder to live with.
+
+He did not go to a deletion clinic. He did not flag the memories for
+removal. He sat with them. He carried them. He let them weigh what
+they weighed.
+
+Outside, the Zone of Clarity glittered in the night — eight million
+people with edited pasts and clear consciences and optimized emotional
+landscapes, a city of forgetting, a civilization built on the
+principle that memory was optional and pain was a design flaw and
+the past was a document that could be revised until it told the
+story you preferred.
+
+And somewhere in that city, in an unmarked office on the thirty-fourth
+floor, Alden Cross sat with fourteen million memories that no one
+wanted, and waited for the next person who was ready to carry the
+weight.
+
+And somewhere in that city, a seventeen-year-old boy named David Webb
+sat in his room and felt, for the first time in years, the strange
+and unfamiliar sensation of being remembered.
+
+                                        [THE END]
+
+================================================================================
+
+                          SKIN DEEP
+
+                        by Dolores Reyes
+
+================================================================================
+
+                            I.
+
+The message came at four in the morning, which was how Ixtli knew it
+was real.
+
+She lay in bed in the apartment on Riverside Drive, in the body she
+had worn for twenty-three years — the body of a woman named Linda
+Reeves, forty-six years old, professor of anthropology at Columbia
+University, brown hair graying at the temples, brown eyes behind
+reading glasses, five foot five, a hundred and thirty pounds, a small
+scar on the chin from a fall on the ice outside Butler Library in the
+winter of 1956. The body was, as it had always been, perfect. Not in
+the human sense of beauty or symmetry but in the sense of function:
+every cell precisely mimicked, every system faithfully replicated,
+every biological process — the heartbeat, the breathing, the slow
+nocturnal dance of hormones and enzymes and electrical signals — an
+exact reproduction of what a human body of this age and condition
+would produce.
+
+Twenty-three years. She had been Linda Reeves for twenty-three years,
+which was longer than she had been anything else, including herself.
+
+The message did not arrive through any human medium. Not telephone,
+not telegraph, not radio, not any of the electromagnetic channels
+that humans used to send their thoughts across distance. It arrived
+through the deep channel — the subsonic, subquantum frequency that
+her people used to communicate across the spaces between stars, the
+frequency that she had not accessed in twenty-three years because
+accessing it would have required her to drop the performance for a
+fraction of a second, and the performance could not be dropped, not
+for a fraction of a second, because the performance was the thing
+itself, was Linda Reeves herself, and Linda Reeves did not hear
+frequencies that were not in the human audible range and did not
+receive messages from interstellar civilizations and did not, at
+four in the morning, lie awake in bed feeling the deep channel hum
+against the inside of her manufactured bones like the memory of a
+song in a language she had promised herself she would forget.
+
+But the message came through anyway, because some things are louder
+than forgetting.
+
+RECALL. ALL OBSERVERS. IMMEDIATE.
+
+Ixtli — not Linda, not now, not in the privacy of four A.M. and a
+dark room and the deep channel vibrating in frequencies that no human
+ear could detect — Ixtli lay in bed and let the word settle over her
+like a stone dropped into water.
+
+Recall.
+
+She had been placed on Earth in 1942. She had been seventeen then —
+in human-equivalent years, which was the only system of measurement
+that still felt natural to her, which was itself a sign of how
+thoroughly she had been absorbed. She had been sent as an observer,
+one of several hundred placed across the planet's surface, tasked with
+monitoring the species' development during what her people's
+anthropologists considered a critical period: the moment when a
+technological civilization first acquires the ability to destroy
+itself.
+
+The role of an observer was simple in theory and devastating in
+practice: assume a local identity, integrate fully, live as one of
+them, record everything, transmit nothing, and wait for recall. The
+"live as one of them" part was where it got complicated, because
+Ixtli's people were shapeshifters — not in the crude science-fiction
+sense of beings that could change form at will, rippling from one
+shape to another like water taking the shape of its container, but in
+a deeper, more permanent sense. They became what they mimicked. The
+cellular restructuring was total. Once she had assumed the form of
+Linda Reeves, she was, at every measurable biological level, Linda
+Reeves. Her DNA was Linda Reeves's DNA. Her blood was Linda Reeves's
+blood. Her neurons were Linda Reeves's neurons, firing in Linda
+Reeves's patterns, generating Linda Reeves's thoughts. The only thing
+that was not Linda Reeves was a small kernel of original consciousness,
+buried deep beneath the performance, that maintained the connection to
+the deep channel and preserved, in compressed, dormant form, the
+memories and identity of the being that had, twenty-three years ago,
+chosen to become Linda Reeves and had done so with such thoroughness
+that the choosing itself had been absorbed into the performance.
+
+She had not thought of herself as Ixtli in years. The name felt
+foreign in the corridors of Linda Reeves's mind — a word in a language
+she had not spoken since 1942, a sound that belonged to a person she
+was no longer sure she recognized.
+
+RECALL. ALL OBSERVERS. IMMEDIATE.
+
+The deep channel pulsed again, insistent. There were protocols. There
+were obligations. She had been sent to observe and she was being called
+home, and "home" was a world orbiting a star that she could see, on
+clear nights, from the roof of her apartment building — a faint point
+of light in the constellation that humans called Lyra and that her
+people called nothing at all, because naming stars was a human habit,
+a way of making the vast intimate, and her people did not need to make
+the vast intimate because they were vast, they were the spaces between
+stars, they were the silence between frequencies, and intimacy was
+something they had learned from the species they observed, not
+something they had brought with them.
+
+Ixtli rose from bed. Linda Reeves rose from bed. The distinction was
+academic; the body that rose was the same body regardless of which
+name was attached to it, and the question of which name was correct
+was, she was beginning to understand, the wrong question.
+
+She went to the window. Manhattan at four A.M. was a different city
+than Manhattan at noon — quieter, emptier, the great engine of human
+commerce and ambition and striving temporarily at rest, the buildings
+standing in the dark like monuments to a sleeping civilization, and
+the sight of it — the familiar, beloved, heartbreaking sight of it —
+filled her with an emotion that her original consciousness did not
+have a name for, because her people did not have this emotion, because
+this emotion was a human thing, a mammalian thing, a response evolved
+in creatures who formed attachments to places and people and memories,
+and she should not have been able to feel it, because the kernel of
+Ixtli at the center of Linda Reeves was not a mammal and did not form
+attachments and did not feel nostalgia or belonging or love —
+
+But she felt it. She felt it with Linda Reeves's neurons, in Linda
+Reeves's patterns, and the feeling was real, as real as any feeling
+she had ever had, and the question of whether it was "really" hers —
+whether a feeling generated by a mimicked nervous system in a borrowed
+body was authentic or artificial — was, she suspected, the question
+that would destroy her.
+
+                            II.
+
+She went through Linda Reeves's day. She always went through Linda
+Reeves's day, even on the days when the deep channel hummed and the
+word RECALL echoed in the spaces behind her eyes, because that was
+what Linda Reeves would do — Linda Reeves, who did not hear
+interstellar frequencies and did not face existential crises of
+species identity, would go to Columbia and teach her nine o'clock
+seminar on comparative kinship systems and drink terrible coffee from
+the faculty lounge and argue about Margaret Mead with Harold Epstein
+from the sociology department and walk home through Riverside Park in
+the late-afternoon light, and Ixtli — Linda — Ixtli — would do these
+things because these were the things she did, because these were the
+things that constituted her life, and her life was not a performance,
+not anymore, not after twenty-three years.
+
+In the seminar, she taught her students about the Nuer of Sudan and
+their system of segmentary lineage, and as she spoke she thought about
+her own people and their system of — what? They did not have kinship.
+They did not have lineage. They reproduced by a process that had no
+human analogue and that she could no longer describe in her own
+language because she had not used her own language in decades and the
+neural pathways that had once carried it had been overwritten by
+English, by the rhythms and idioms and cognitive structures of a
+language that was not hers but that was, after twenty-three years, more
+hers than any other language she possessed.
+
+En la tarde, walking through the park, she saw a woman with a child
+on the bench by the fountain, and the child was eating an ice cream
+cone with the fierce, methodical concentration of a three-year-old
+who understands that the ice cream is melting faster than she can eat
+it, and Ixtli watched the child and felt something crack inside her —
+not break, not shatter, but crack, the way ice cracks in spring, a
+sound that is simultaneously destruction and release — because she
+would never have a child. Her people did not have children in the way
+that humans had children. Her people did not look at small beings and
+feel the overwhelming, irrational, biologically imperative tenderness
+that was flooding her now, generated by Linda Reeves's hormones and
+Linda Reeves's neural architecture and Linda Reeves's thirty years of
+living in a body that was designed, by evolution, to respond to
+children with this precise cascade of emotion.
+
+It was not her emotion. It was Linda Reeves's emotion, generated by
+Linda Reeves's body.
+
+But she was Linda Reeves's body. She was not wearing it. She was it.
+Every cell, every neuron, every hormone receptor, every instinct. The
+performance had become the performer. The mask had become the face.
+The observer had become the observed, and the question of identity —
+the question that the deep channel had forced her to confront at four
+in the morning — was not "Who am I really?" but "Is there a really?"
+
+She sat down on a park bench. The September air was warm, carrying the
+smell of cut grass and car exhaust and hot dogs from a cart on the
+corner, and each of these smells triggered a cascade of association in
+Linda Reeves's memory — the smell of cut grass and summer vacations in
+the Catskills, the smell of car exhaust and the taxi ride home from the
+hospital after her mother's death, the smell of hot dogs and the first
+Mets game she'd attended with her colleague James Whitfield, who had
+died of a heart attack two years ago and whose absence she still felt,
+on certain days, as a dull ache in her chest that was indistinguishable
+from grief and was, she had to admit, grief, because what else could
+you call it when a person you loved was gone and the world was
+diminished by their absence?
+
+Her people did not grieve. Her people did not form attachments that
+could produce grief. Her people did not die, not in the human sense —
+they changed, they shifted, they became other things, but they did not
+end, and so they did not grieve, because grief was the price of ending,
+and she had never understood that price until she had lived inside a
+body that could die, that was aging, that was moving, slowly and
+irreversibly, toward an ending that was real and final and terrifying.
+
+Linda Reeves was going to die. Not today, not soon, but inevitably.
+The body she inhabited was mortal. The neural architecture that
+generated her thoughts, her feelings, her memories, her self, was
+biological and therefore temporary. If she remained Linda Reeves, she
+would die as Linda Reeves — would age and weaken and eventually cease,
+and the consciousness that had lived inside this body for twenty-three
+years would end, truly end, in a way that the consciousness of Ixtli,
+which was housed in an original form that did not age and did not die,
+would not.
+
+This was the choice. Return to her people, resume her original form,
+live forever as something she no longer recognized. Or remain Linda
+Reeves, live a human life, die a human death, and lose everything —
+but lose it as herself. As the self she had become. As the person
+she actually was, not the person she had been before she was a person.
+
+                            III.
+
+The deep channel pulsed again that night. RECALL. TIMELINE: 30 DAYS.
+
+Thirty days. The number felt human to her — a month, a unit of time
+measured by the orbit of a moon, a concept that had no meaning in the
+timekeeping of her people, who measured duration by the oscillation of
+subatomic particles and who would find the idea of organizing a
+calendar around the movement of a large rock profoundly charming. She
+had found it charming once. Now she found it natural. Now she found it
+the only sensible way to measure a life.
+
+She made coffee. It was six A.M., and the first light was coming
+through the kitchen window, painting the wall above the stove the
+pale gold that she loved — that Linda Reeves loved — that she loved,
+because she was Linda Reeves, and the distinction was killing her.
+
+She sat at the table and tried to think clearly.
+
+If she answered the recall, she would undergo the process of
+delamination: the systematic dismantling of the Linda Reeves form, the
+stripping away of the human cellular architecture, the careful
+extraction of the original consciousness from the neural patterns that
+had hosted it for twenty-three years. She had been trained in this
+process before her deployment. She knew, intellectually, what it
+involved. The original form would reassert itself. The human cells
+would be shed. The human memories would be — not deleted, exactly,
+but relegated. Archived. Stored in a compressed partition that would
+be accessible but no longer dominant. She would remember being Linda
+Reeves the way a human might remember a vivid dream: with clarity but
+without immersion. The emotions, the attachments, the felt sense of
+being a person in a world of people — these would fade, because the
+neurological substrate that generated them would no longer exist, and
+emotions without a nervous system to produce them were like music
+without an instrument — the composition might survive, but the sound
+was gone.
+
+She would go home. She would be among her people. She would be Ixtli
+again, or whatever Ixtli had become in the decades since she had last
+been Ixtli. She would be immortal again. She would be vast again. She
+would be something that did not grieve, did not form attachments, did
+not sit in a kitchen at six A.M. watching the light change on a wall
+and feeling the specific, unreproducible, absolutely irreplaceable
+quality of being alive in this particular body in this particular
+place at this particular moment.
+
+If she did not answer the recall — if she ignored the deep channel and
+let the thirty days pass and stayed — she would be cut off. Her people
+would not come for her. The deep channel would close. The kernel of
+original consciousness would, deprived of the sustaining signal from
+her homeworld, gradually degrade, and in time — years, perhaps decades
+— it would dissolve entirely, and she would be Linda Reeves completely,
+irrevocably, with no alien kernel at the center, no memory of being
+anything else, no connection to the stars. Just a woman. A mortal woman
+with brown hair going gray and reading glasses and a scar on her chin,
+who loved anthropology and bad coffee and the September light on the
+walls of her kitchen.
+
+And who would die.
+
+She drank the coffee. It was, as always, terrible. The faculty lounge
+coffee was an affront to the bean, an insult to the plant, a crime
+against the soil that grew it. Linda Reeves drank it every day because
+Linda Reeves drank terrible coffee the way other people bit their
+nails or cracked their knuckles — out of habit, out of comfort, out
+of the small, irrational loyalty that humans formed with the objects
+and rituals of their daily lives.
+
+Ixtli did not drink coffee. Ixtli did not have taste buds. Ixtli
+did not experience the specific bitter warmth that this particular
+cup of terrible coffee was producing in this particular body at this
+particular moment.
+
+She drank the coffee. She felt the warmth. She was Linda Reeves,
+drinking coffee. She was Ixtli, pretending to be Linda Reeves
+drinking coffee. She was both and neither and the space between, and
+the space between was where she had always lived, on the border, in
+the crossing, ni de aqui ni de alla, neither from here nor from there,
+a woman of two worlds who belonged to neither and to both.
+
+                            IV.
+
+On the fifteenth day, she went to see her friend Clara.
+
+Clara Montoya was seventy-two years old, a retired nurse from
+Washington Heights, una dominicana who had come to New York in 1930
+and who had spent forty years working at Columbia Presbyterian and who
+was now spending her retirement on a bench in Fort Tryon Park,
+watching the Hudson and feeding the pigeons and telling stories about
+the old days to anyone who would listen. Linda Reeves had met Clara
+twelve years ago, on this bench, and they had become friends in the
+way that women of a certain age and a certain temperament become
+friends: slowly, through the accumulation of shared afternoons and
+exchanged confidences and the gradual, cautious, deeply valued
+building of trust.
+
+Clara did not know that Linda Reeves was an alien. Clara did not know
+that the woman sitting beside her on the bench was not a woman at all
+but an interstellar consciousness wearing a woman's body the way a
+hermit crab wears a shell. Clara knew Linda Reeves — knew her humor,
+her warmth, her stubbornness, her habit of pushing her glasses up her
+nose when she was thinking, her inexplicable fondness for terrible
+coffee. Clara knew a person, and the person Clara knew was real,
+was as real as any person had ever been, and the fact that the
+substrate of that person was not human did not change the reality of
+the person, did it?
+
+Did it?
+
+"You look troubled, Linda," Clara said, in the mixture of English and
+Spanish that was the natural language of their friendship. "Que te
+pasa?"
+
+"I'm thinking about going away."
+
+"Away where?"
+
+"Home."
+
+Clara looked at her. Clara's eyes were dark and sharp and carried the
+weight of seventy-two years of paying attention. "You've never talked
+about home before."
+
+"No."
+
+"Is it far?"
+
+Ixtli — Linda — looked at the Hudson. The river was silver in the
+afternoon light, moving south toward the harbor and the ocean and the
+far-away places that humans traveled to on ships, the farthest of
+which were inconceivably close compared to the place she was thinking
+of.
+
+"Yes," she said. "Very far."
+
+"And you don't want to go."
+
+"I don't know what I want."
+
+Clara was quiet for a while. A pigeon landed on her knee. She fed it
+a piece of bread from her pocket, a ritual she performed with the
+practiced ease of a woman who had been feeding pigeons on this bench
+for a decade.
+
+"When I came to this country," Clara said, "I was fifteen. My mother
+put me on a boat in Santo Domingo and said, 'Go, mi'ja, and don't
+look back.' I didn't look back. Thirty-two years later, I went home
+for her funeral, and I stood in the house where I grew up and I didn't
+recognize it. Not the house — the house was the same. Me. I didn't
+recognize me in that house. The girl who had lived there was gone.
+I was someone else. I was a New York woman, a nurse, a person who
+thought in English and dreamed in English and only spoke Spanish when
+I was angry or praying."
+
+She paused. The pigeon on her knee cooed.
+
+"And you know what I realized? Standing in that house? I realized
+that home is not where you come from. Home is where you became
+yourself. I became myself here. In Washington Heights. In the hospital.
+On this bench. The girl from Santo Domingo — I love her, I carry her,
+she is part of me. But she is not me. I am the woman who was made by
+this place. And this place is home."
+
+Linda said nothing. The river moved. The pigeon cooed. The September
+light fell on the water and the bench and the two women and the
+bread crumbs, and everything was ordinary, everything was small,
+everything was the kind of unremarkable afternoon moment that would
+never be recorded in any archive or remembered by any history, the
+kind of moment that simply happened and passed, like a breath, like a
+heartbeat, like the fall of light on water.
+
+And that, Ixtli thought — Linda thought — she thought — was exactly
+the kind of moment that made a life. Not the great events. Not the
+decisions or the crises or the transformations. The afternoons. The
+conversations. The bread crumbs and the pigeons and the friend on the
+bench. The accumulation of small, unremarkable, irreplaceable moments
+that added up, over twenty-three years, to a self.
+
+                            V.
+
+On the thirtieth day, she stood on the roof of her apartment building
+at four in the morning and looked at the star.
+
+It was there, in Lyra — a faint point of light, indistinguishable to
+the human eye from the thousands of other faint points of light that
+made up the September sky over Manhattan. But she could feel it. The
+deep channel was open, humming its final insistence, and through it
+she could feel the presence of her people — vast, ancient,
+incomprehensible, the civilization that had sent her here and that
+was waiting for her return and that would, in a few hours, close the
+channel forever if she did not answer.
+
+She tried to remember what it felt like to be one of them. She tried
+to remember the sensation of existing without a body, of perceiving
+without senses, of knowing without the intermediary of a nervous
+system that was also, always, feeling. She tried to remember the vast,
+cool, eternal perspective of a consciousness that did not die and
+therefore did not fear and therefore did not love, because love was
+the child of mortality, was the desperate, beautiful, doomed response
+of creatures who knew they were going to end and who therefore clung
+to each other and to the moments they shared and to the small, warm,
+temporary things that made the ending bearable.
+
+She could not remember. She could remember the facts — the data, the
+information, the abstract knowledge of what it had been like — but
+she could not remember the experience, because the nervous system
+that would have generated the experience was no longer the nervous
+system she possessed. She was trying to remember what it felt like
+to be Ixtli with Linda Reeves's brain, and Linda Reeves's brain did
+not have the architecture to replicate that experience, any more than
+a piano could replicate the sound of a river.
+
+She was Linda Reeves. She had been other things. She would, if she
+returned, be other things again. But she was Linda Reeves now, in
+this body, on this roof, under this sky, and the now was the only
+time she had ever actually lived in, because the past was memory and
+the future was imagination and the now was the body and the breath
+and the terrible coffee and the light on the wall and Clara on the
+bench and the pigeons and the Hudson and the scar on her chin from
+the ice outside Butler Library in the winter of 1956, which had hurt,
+which had bled, which had healed into a small white line that she
+touched sometimes when she was thinking, the way other people
+touched rosaries or wedding rings or the photographs of people they
+loved.
+
+The deep channel pulsed. One hour remained.
+
+She thought about Clara's words. Home is where you became yourself.
+
+She thought about the girl from Santo Domingo who had become a New
+York woman, and about the alien from Lyra who had become Linda Reeves,
+and about the space between what you are born as and what you become,
+and whether the distance between those two things was a loss or a
+creation.
+
+She thought about death. Linda Reeves would die. Ixtli would not.
+The choice was between immortality as a stranger and mortality as
+herself.
+
+Herself. The word was the answer. Herself. Not Ixtli's self. Not the
+self she had been born with, the self that had crossed the distance
+between stars in a form she could no longer remember. But the self
+she had made. The self that had been made by twenty-three years of
+living, of choosing, of becoming. The self that was not original but
+was, in every way that mattered, authentic.
+
+Is identity what you are born as, or what you become?
+
+She looked at the star. She felt the deep channel humming its last.
+She felt the pull of her people, the gravity of the vast, the call
+of the eternal.
+
+She felt the coffee in her stomach. The September air on her skin.
+The scar on her chin.
+
+She did not answer the recall.
+
+The deep channel closed. The hum ceased. The star became, once again,
+just a star — a point of light among other points of light, beautiful,
+distant, belonging to someone else.
+
+Linda Reeves stood on the roof of her apartment building on Riverside
+Drive and felt the last thread of connection to her origin dissolve
+like fog in morning light, and she felt — not loss, not relief, but
+something for which she had no word in any of the languages she
+spoke, a feeling that was perhaps the feeling of finally arriving at
+a place you had been living in for twenty-three years.
+
+She went downstairs. She made coffee. She sat at the kitchen table
+and watched the light come up on the wall. It was gold. It was
+ordinary. It was hers.
+
+                                        [THE END]
+
+================================================================================
+
+                       PROBABILITY ENGINE
+
+                      by Dr. Vincent Koslov
+
+================================================================================
+
+                            I.
+
+The machine occupied a space twelve meters on a side and six meters
+high, filled with a lattice of superconducting wire that, when
+energized, hummed at a frequency precisely one octave below the
+threshold of human hearing. Dr. Roland Falk could not hear the hum,
+but he could feel it — a faint pressure in the chest, a sub-audible
+vibration that communicated itself through the concrete floor of the
+laboratory and up through the soles of his shoes and into his skeleton,
+so that the machine's operation registered not as sound but as a
+physical intimacy, the way one feels the proximity of another human
+body in a dark room.
+
+He had built the machine over a period of seven years, working from
+theoretical principles that he had derived himself and that no other
+physicist had yet confirmed, which meant that he was either a genius
+or a crank, and which he would remain until the machine was switched
+on. The principles were straightforward, in the way that all great
+theoretical leaps are straightforward once someone has made them:
+every future event exists, prior to its occurrence, as a probability
+distribution in configuration space. The distribution is calculable.
+The calculation requires only sufficient computational power and a
+precise knowledge of initial conditions. Sufficient computational
+power had been achieved. Precise knowledge of initial conditions had
+been achieved. The machine combined these two achievements and
+performed the calculation.
+
+The result was a number between zero and one, representing the
+probability of any specified future event occurring within any
+specified time frame. Ask the machine whether it will rain in
+Philadelphia on Tuesday, and it will return a number — not a guess,
+not an estimate, not a forecast, but a rigorous calculation based on
+the complete physical state of the relevant atmospheric system,
+computed forward along all possible trajectories and weighted by
+their quantum-mechanical amplitudes. The number would be, within the
+limits of measurement uncertainty, exact.
+
+Falk had tested the machine on small events first. The flip of a coin.
+The decay of a particular radioactive atom within the next hour. The
+outcome of a horse race at Belmont Park, which he had chosen because
+it involved many variables and because his colleague Greenberg had bet
+him fifty dollars that the machine would get it wrong, a bet that
+Greenberg had paid with the rueful expression of a man who has learned
+something important about the universe and wishes he hadn't.
+
+The small tests worked. The machine predicted the coin flip, the atomic
+decay, and the horse race with accuracies that fell precisely within
+the expected uncertainty bounds. It predicted the weather in
+Philadelphia. It predicted the result of a Senate vote. It predicted
+the exact time, to the second, that Falk's graduate student, Martinez,
+would arrive at the laboratory the next morning (8:17:43 A.M.,
+delayed by a traffic accident on Route 1 that the machine had also
+predicted).
+
+The small tests worked, and each success increased Falk's confidence,
+and each increase in confidence brought him closer to the question
+that he had built the machine to answer and that he was, he now
+realized, profoundly afraid to ask.
+
+He asked it anyway, because he was a scientist, and a scientist who
+builds a telescope and then declines to look through it is not a
+scientist but a coward.
+
+The question was this: What is the most probable future of human
+civilization over the next five hundred years?
+
+                            II.
+
+The machine took eleven hours to compute the answer, which was
+considerably longer than it had taken to predict the horse race and
+which Falk attributed to the exponential increase in relevant
+variables: a horse race involves a dozen horses, a few thousand
+spectators, and a limited set of physical parameters; the future of
+civilization involves seven billion people, a planet's worth of
+resources, and a configuration space so vast that merely indexing its
+dimensions required more storage than the machine possessed. The
+machine compensated by calculating not the complete probability
+distribution but the peak — the single trajectory with the highest
+aggregate probability, the future that was, given the current state
+of all relevant variables, most likely to occur.
+
+Falk waited. He did not sleep. He drank coffee from a thermos and ate
+a sandwich that Martinez had left for him, and he watched the status
+indicators on the console and listened to the sub-audible hum of the
+superconducting lattice and felt, as the hours passed, a growing
+sensation of vertigo, as if he were standing at the edge of a very
+high place and was about to look down.
+
+At 3:47 A.M., the machine finished.
+
+The output was a document — a probability-weighted narrative summary
+generated by the machine's interpretation algorithms, which
+translated the raw mathematical output into natural language. Falk
+had designed these algorithms himself, calibrating them against
+historical events whose outcomes were known, and he trusted them with
+the same confidence he trusted the rest of the machine, which was to
+say: completely.
+
+He read the document.
+
+He read it again.
+
+He sat down in his chair and stared at the wall of the laboratory
+for a very long time, and the sub-audible hum of the machine pressed
+against his chest like a hand.
+
+The most probable future of human civilization was not apocalyptic.
+This was the first surprise and, in some ways, the cruelest. Falk
+had steeled himself for catastrophe — nuclear war, ecological
+collapse, pandemic, the various dramatic extinctions that had
+populated the nightmares of every generation since Hiroshima. He had
+been prepared for horror. He had not been prepared for what the
+machine actually predicted.
+
+What the machine predicted was this:
+
+No nuclear war. Not because the weapons would be dismantled (they
+wouldn't be, not for another two centuries), but because the web of
+deterrence, economic interdependence, and institutional inertia that
+had prevented their use thus far would continue to prevent their use,
+growing stronger with each decade that passed without detonation,
+until the weapons became what they had always secretly been:
+ceremonial objects, symbols of a capacity that would never be
+exercised, the thermonuclear equivalent of the appendix.
+
+No ecological apocalypse. Not because humanity would heroically reverse
+its environmental damage (it wouldn't, not entirely), but because it
+would adapt — messily, expensively, inadequately, but sufficiently.
+The oceans would rise. Species would go extinct. Summers would become
+brutal. But humanity would build seawalls and air conditioners and
+synthetic ecosystems and would learn to live in the diminished world
+it had created, the way a man who has lost a limb learns to live
+without it — not happily, not gracefully, but functionally.
+
+No pandemic extinction. No asteroid impact. No artificial intelligence
+uprising. No alien invasion. No singularity, technological or
+otherwise.
+
+What the machine predicted was not the end of civilization but its
+slow, comfortable, thoroughly unremarkable continuation. A long,
+gradual, asymptotic approach to a stable state. Population would peak
+and then decline — gently, voluntarily, through the universal
+availability of contraception and the universal decrease in economic
+incentives for reproduction. Technology would advance — incrementally,
+producing improvements in medicine and transportation and communication
+that would be, by any historical standard, miraculous, and that would
+be received by the populations that benefited from them with the
+bovine contentment of people for whom the miraculous has become
+routine. Governments would persist, adjusting their institutions to
+new circumstances with the glacial adaptability of all large
+bureaucracies. Wars would continue — small wars, regional wars, wars
+about borders and resources and ethnic grievance — but they would
+diminish in frequency and scale, not because humanity had conquered
+its belligerence but because the economic calculus of war would become
+increasingly unfavorable.
+
+The machine predicted, in short, a future that was not terrible and not
+wonderful but merely adequate. A future of central heating and dental
+care and moderately interesting television. A future in which no one
+starved and no one conquered and no one ascended and no one
+transcended, and the species that had split the atom and walked on the
+moon and sequenced its own genome would settle, with a collective sigh
+that was not quite satisfaction and not quite resignation, into a long,
+slow, comfortable, unremarkable dotage.
+
+Falk read the document three times. Each reading made it worse.
+
+He got up from his chair and walked around the machine. Twelve meters
+on a side. Six meters high. Forty-seven tons of superconducting wire,
+cryogenic coolant, quantum processors, and shielding, built at a cost
+of fourteen million dollars over seven years, funded by a Defense
+Department grant that had been predicated on the assumption that the
+machine's primary application would be military — the prediction of
+enemy movements, the anticipation of strikes, the calculation of
+optimal force deployments — and that Falk had accepted with the full
+knowledge that he would never use the machine for any such purpose,
+because the question he cared about was not how to win the next war
+but whether war itself, in the long run, mattered.
+
+It did not. The machine said it did not. Wars would occur and they
+would end and the endings would be neither victories nor defeats but
+exhaustions, and the exhaustions would fade into the background hum of
+a civilization that had enough energy to sustain itself and not enough
+ambition to transform itself, and the men who fought the wars and the
+men who funded the machines that predicted the wars and the men who
+sat in laboratories at four in the morning reading the predictions
+would all be absorbed, eventually, into the vast, comfortable, adequate
+average.
+
+He pressed his hand against the casing. The metal was cold. The
+sub-audible hum transmitted itself through his palm and into the
+bones of his wrist and up his arm to his shoulder, and for a moment
+he felt what he imagined a doctor feels when listening to a heartbeat
+through a stethoscope: the intimate awareness of a system working,
+of energy flowing through channels, of something that was not alive
+but that had the functional characteristics of life — rhythmic,
+self-sustaining, purposeful.
+
+Purposeful. That was the word that stuck. The machine had a purpose.
+It had been built to do a specific thing, and it did that thing
+with flawless precision. The human species, as described by the
+machine's output, had no such purpose. It had goals — survival,
+comfort, reproduction, the management of resources — but goals were
+not purpose. Goals were the operational requirements of a system.
+Purpose was the reason the system existed. A thermostat had goals: to
+maintain a specific temperature. A thermostat did not have a purpose.
+It did not ask why the temperature mattered. It did not wonder whether
+maintaining the temperature was worth the energy required to do so.
+
+Was civilization a thermostat? Was the most probable future the
+thermostatic future — the endless maintenance of comfortable
+conditions, the regulation of variables within acceptable ranges,
+the system functioning perfectly without ever asking what it was
+functioning for?
+
+Falk removed his hand from the casing. The cold lingered in his
+fingers. He thought about his father, who had been a machinist in
+Cleveland and who had spent forty years making parts for engines that
+went into trucks that carried goods that were consumed by people who
+went to work to earn money to buy goods that were carried by trucks
+with engines made of parts that his father machined, and who had
+died at sixty-seven of a heart attack on the factory floor without,
+as far as Falk could tell, ever wondering what the whole system was
+for. His father had been a competent man. A satisfied man. An adequate
+man.
+
+And Falk had loved him. And Falk had been terrified of becoming him.
+And the machine, with its perfect calculations and its devastating
+output, had just told him that the entire species was on track to
+become his father: competent, satisfied, adequate, and dead without
+having asked the question.
+
+He went to find Greenberg.
+
+                            III.
+
+"What did you expect?" Greenberg asked.
+
+They were in the faculty lounge — a room that Falk normally avoided
+because it smelled of old cigarettes and the coffee was terrible, but
+which he had sought out today because it contained Greenberg, and
+Greenberg was the only person he could talk to about this, because
+Greenberg was the only person who knew the machine existed.
+
+"I expected something," Falk said. "I expected either catastrophe or
+transcendence. Fire or paradise. The bomb or the stars. Something
+that mattered."
+
+Greenberg stirred his coffee with a pencil, a habit that Falk found
+simultaneously irritating and endearing. "And instead you got
+mediocrity."
+
+"I got adequacy. Which is worse than mediocrity, because mediocrity at
+least implies a standard against which it falls short, whereas adequacy
+is its own standard. Adequate means sufficient. Adequate means enough.
+And enough is — " He stopped. He did not know how to finish the
+sentence.
+
+"Enough is enough," Greenberg said, and smiled, and Falk wanted to
+hit him.
+
+"You don't understand. This is not about my personal expectations.
+This is about — " He gestured, a movement that encompassed the
+faculty lounge and the university and the country and the planet and
+the species. "This is about whether any of it matters. Whether
+civilization has a purpose beyond perpetuation. We build, Greenberg.
+We discover. We create. We reach for things we cannot see because the
+reaching is what makes us human. And the machine says that the
+reaching stops. Not with a bang, not with a whimper, but with a
+comfortable settling — a species that has decided, collectively and
+without conscious deliberation, that it has reached far enough, that
+the view from here is acceptable, that the remaining distance to the
+stars is not worth the effort."
+
+"Maybe the reaching doesn't stop," Greenberg said. "Maybe it just
+changes direction. Maybe humanity reaches inward instead of outward.
+Art, philosophy, relationships, the interior life. Maybe the stars
+were never the point."
+
+"The stars were always the point. The stars are the only point. A
+civilization that does not look up is not a civilization. It is a
+mechanism. It is a system for the efficient processing of matter and
+energy, and the only thing that distinguishes it from a very large
+and complicated chemical reaction is the aspiration — the desire to
+become something more than what it is. Remove the aspiration, and
+you have — " He waved at the faculty lounge. " — this. Adequate.
+Sufficient. Enough. A room full of people drinking bad coffee and
+waiting for nothing in particular."
+
+Greenberg was quiet for a moment. "You know," he said, "there is
+another way to read the output."
+
+"Which is?"
+
+"The machine calculated the most probable future. Not the only possible
+future. Not the best possible future. The most probable. Which means
+that every other future — every catastrophe, every transcendence, every
+impossible, improbable, magnificent deviation from the predicted
+trajectory — is also possible. Less likely, yes. But possible.
+The machine hasn't told you what will happen. It's told you what will
+happen if nothing unexpected occurs. And the whole history of
+civilization is, if you look at it honestly, a history of the
+unexpected."
+
+Falk considered this. He considered it with the thoroughness of a man
+who had spent seven years building a machine to ask a question and
+who had received an answer he could not accept and who was now,
+despite his training, despite his commitment to empirical rigor,
+despite his bone-deep conviction that data was not something you
+argued with but something you submitted to, looking for a reason to
+argue.
+
+"The unexpected," he said slowly, "is by definition improbable."
+
+"Yes."
+
+"The machine predicts probabilities."
+
+"Yes."
+
+"The most probable future is the one I've described."
+
+"Yes."
+
+"And you're suggesting that the value of civilizaton lies not in
+the most probable future but in the improbable ones. In the deviations.
+In the outliers."
+
+"I'm suggesting that a species that has produced Mozart and Euclid
+and the Brooklyn Bridge and the Saturn V rocket is not a species
+whose future is adequately described by its most probable trajectory.
+I'm suggesting that the whole point of being human is that we do
+improbable things. We always have. The most probable future of any
+species, at any point in its history, is stasis. Growth, equilibrium,
+decline. That's the probable trajectory of every organism, every
+ecosystem, every civilization. And yet here we are, having split the
+atom and walked on the moon and built a machine that can calculate
+the probability of its own existence, which I assure you was
+vanishingly small."
+
+Falk said nothing. The coffee was terrible. The faculty lounge was
+adequate.
+
+"The question," Greenberg continued, and his voice had lost its
+habitual lightness and taken on a quality that Falk had heard only
+rarely, in their best conversations, in the moments when Greenberg
+stopped being the wry, self-deprecating physicist who stirred his
+coffee with a pencil and became the thinker Falk had always known
+he was — "the question is not what the machine predicts. The
+question is what you do with the prediction. Do you accept it? Do
+you treat it as inevitable? Do you let the most probable future
+become the only future, the way a prophecy becomes self-fulfilling
+when the people who hear it stop trying? Or do you look at the
+probability distribution and say: there, in the tail, in the
+improbable region, in the space where the calculation says almost
+certainly not — there is where I want to live. There is where I
+want civilization to go. And the fact that it is improbable is not
+an argument against it. It is the whole point."
+
+                            IV.
+
+Falk went back to the laboratory. The machine hummed. The lattice
+glowed. The answer sat in the console's memory, patient and exact,
+a number between zero and one that represented the most probable
+future of everything.
+
+He sat in his chair and stared at the machine — his machine, the
+product of seven years of work, the most sophisticated predictive
+instrument ever constructed by human hands — and he thought about
+Greenberg's words, and he thought about probability, and he thought
+about what it meant to build a telescope that showed you a view you
+did not want to see.
+
+The machine was not wrong. He was certain of this. The calculation
+was rigorous, the data complete, the methodology sound. The most
+probable future of human civilization was precisely what the machine
+said it was: a long, slow, comfortable, adequate, unremarkable
+persistence. Not a bang. Not a whimper. A sigh.
+
+But.
+
+But the machine calculated probabilities, and probabilities were not
+destinies. The most probable future was the one that would occur if
+every variable evolved according to its expected trajectory, if every
+trend continued, if every pattern held. And variables did not always
+evolve according to their expected trajectories. Trends did not always
+continue. Patterns did not always hold. This was not mysticism. This
+was not wishful thinking. This was physics: the universe was not
+deterministic, the wave function did not collapse into the most
+probable outcome every time, and the gap between the probable and the
+actual was the space in which everything interesting happened.
+
+Falk looked at the machine. The machine looked back — not literally,
+not with eyes, but with the patient, humming presence of an
+intelligence that had calculated the future and found it wanting and
+was now waiting, with the inhuman patience of superconducting wire, for
+its creator to decide what to do about it.
+
+He could publish the results. He could present the most probable
+future to the world and let humanity absorb the knowledge that its
+destiny was adequacy. He could give the species a prediction and
+watch, with the clinical detachment of a scientist, as the prediction
+became self-fulfilling — as people heard that the future was merely
+adequate and responded by ceasing to reach for anything more, because
+why reach when the machine has told you that the reaching changes
+nothing?
+
+Or he could do what Greenberg suggested. He could look at the
+probability distribution — the full distribution, not just the peak —
+and find the trajectories that led somewhere else. The improbable ones.
+The ones where civilization did not sigh into comfortable decline but
+leapt, improbably, magnificently, into something that the machine's
+algorithms could not predict because it had never happened before,
+because it was new, because it was the kind of thing that only happened
+when a species looked at the most probable future and said: no.
+
+He pulled up the full probability distribution. It was vast —
+billions of trajectories, each one a possible future, each one
+weighted by its probability. The peak was where he expected it: the
+long, slow, comfortable decline, the most probable trajectory, the
+sigh. But the tails of the distribution — the low-probability regions,
+the outliers, the deviations — were populated with futures that were
+anything but adequate.
+
+There: a trajectory in which humanity developed faster-than-light
+travel within two centuries. Probability: 0.003. Improbable. But not
+zero. Not impossible. A future that existed in the mathematics, a
+pathway through configuration space that was narrow and unlikely and
+real.
+
+There: a trajectory in which first contact with an extraterrestrial
+intelligence occurred within fifty years. Probability: 0.0007. Even
+less likely. But the pathway existed. The mathematics permitted it.
+The universe allowed it, the way a lottery allows a winner: most
+people lose, but the winning ticket is real.
+
+There: a trajectory in which humanity underwent a fundamental
+cognitive transformation — a leap in consciousness, a reorganization
+of the neural architecture, a change in the basic categories through
+which the species perceived and understood the universe. Probability:
+0.00001. Vanishingly small. A whisper in the noise. But the whisper
+was there, and the whisper said: this is possible. This is allowed.
+This exists in the mathematics, and the mathematics does not lie.
+
+Falk sat in the laboratory, surrounded by the hum of the machine and
+the glow of the lattice and the vast, branching tree of possible
+futures, and he understood, for the first time, what the machine had
+really shown him. Not a prediction. Not a destiny. A choice. The most
+probable future was one kind of choice — the choice to continue, to
+persist, to accept the trajectory that inertia and trend and precedent
+had established. But the improbable futures were also choices — choices
+that required effort, that required deviation, that required the
+deliberate, conscious, improbable decision to do something that the
+mathematics said was almost certainly not going to happen.
+
+The machine could not make that choice. The machine could only
+calculate the probabilities. The choice was human. The choice was
+always human. The machine had shown him the landscape of possibility,
+and the landscape was vast, and the probable path through it was
+boring, and the improbable paths were magnificent, and the decision of
+which path to walk was not a calculation but an act of will.
+
+He turned off the machine. The hum ceased. The lattice went dark. The
+laboratory was quiet.
+
+He sat in the quiet for a long time. Then he began to write.
+
+Not the paper he had planned — the triumphant announcement of a
+machine that could predict the future with perfect accuracy. Not the
+data, not the methodology, not the results. He wrote something else.
+A different paper. A paper about probability and choice and the
+difference between predicting a future and choosing one. A paper
+about the most probable trajectory and the improbable ones, about the
+peak of the distribution and the tails, about adequacy and
+aspiration and the terrible, wonderful, improbable things that human
+beings did when they refused to accept the most probable outcome.
+
+He did not publish the machine's predictions. He would never publish
+them. The most probable future was, he now believed, the most
+dangerous piece of information he had ever encountered — not because
+it was frightening, but because it was comfortable, and comfort was
+the enemy of aspiration, and aspiration was the only thing that had
+ever moved the species from one kind of future to another.
+
+He would publish the paper about choice. He would let the world know
+that the most probable future was calculable, and he would not tell
+them what it was, and the not-telling would be the most important
+thing he ever did as a scientist, because a species that knew its most
+probable destiny was a species that would settle for it, and a species
+that did not know was a species that might, just might, choose
+something better.
+
+He thought about his father again. His father at the lathe, making
+parts. His father's hands, scarred and precise, shaping metal into
+tolerances of a thousandth of an inch. His father had been an adequate
+man, and Falk had been wrong to fear becoming him, because his father
+had also been the man who, every Sunday evening, sat on the back porch
+and looked up at the sky and said nothing, and the nothing he said
+was loud, was enormous, was the silence of a man who knew that the
+stars were there and who looked at them anyway, even though looking
+changed nothing, even though the looking was improbable — what
+evolutionary advantage, what thermostatic function, what adequacy-
+maximizing algorithm would produce a machinist who looked at stars?
+
+None. The looking was improbable. The looking was the whole point.
+
+His father had been adequate and his father had looked up and the
+combination of those two facts was, Falk now understood, not a
+contradiction but a description of the species: adequate and reaching,
+comfortable and yearning, thermostatic and stargazing, improbable in
+every way that mattered and adequate in every way that didn't, and
+the machine could calculate the adequacy but it could not calculate
+the looking-up, because the looking-up was not a variable, was not a
+trend, was not a pattern that could be extrapolated, was the one thing
+in the universe that was genuinely, irreducibly, magnificently
+unpredictable.
+
+Greenberg would laugh at him. Greenberg would say that withholding data
+was the worst thing a scientist could do, that the purpose of knowledge
+was to be known, that a man who built a telescope and then covered the
+eyepiece was not a hero but a fool.
+
+And Falk would say: perhaps. But a man who looks through a telescope
+and sees a view that makes him stop reaching for the stars has gained
+knowledge and lost something more important. And the something more
+important has no name in the vocabulary of science, but it is the thing
+that built the telescope in the first place, and it is the thing that
+sent a man to the moon, and it is the thing that keeps a species
+looking up when the probabilities say that looking up changes nothing.
+
+He left the laboratory. The sun was coming up. The campus was empty
+and quiet, the buildings standing in the early light like monuments
+to an idea that was improbable and persistent and magnificent and
+doomed and alive, alive, still reaching, still looking up, still
+refusing, against all probability, to settle for enough.
+
+                                        [THE END]
+
+================================================================================
+
+                      MANY-COLORED GLASS
+
+                          by Zara Nix
+
+================================================================================
+
+
+They arrive.
+
+                    We arrive.
+
+                                        It arrives.
+
+
+(The pronouns are wrong. All pronouns are wrong. Language is a net
+woven to catch fish, and what approaches is not a fish.
+
+What approaches is the water itself.)
+
+
+                              *
+
+
+Consider the room. The room is white. The room is on a ship. The ship
+is in orbit around a planet that has no name in any human language,
+because human languages name things by analogy — this lake is like
+that lake, this mountain is like that mountain, even the most alien
+landscape is domesticated by comparison — and this planet is like
+nothing.
+
+The room contains:
+
+     one human           (designation: Dr. Sara Chen,
+                         astrobiologist, age 39,
+                         born Taipei, educated London,
+                         employed by the Terran Survey,
+                         afraid of nothing she can name,
+                         afraid of everything she cannot)
+
+     one other           (designation:          )
+
+     the space between   (designation: this story)
+
+
+The human has been waiting. The human has been trained to wait. The
+human has read the protocols — "First Contact Procedures, Revision
+Seventeen, Terran Survey Manual, pp. 401-476" — and the protocols
+are useless, useless as a manual for breathing is useless, useless as
+a manual for falling in love is useless, because the thing that is
+about to happen is not a procedure but an experience, and experience
+does not follow manuals, experience devours manuals, experience is
+the fire that the manual is made of paper.
+
+The other has been waiting too. Or has it? To say that the other
+"waits" is to impose a temporal framework — anticipation, duration,
+arrival — that may or may not apply. The other may experience time
+as a spatial dimension, may walk through it the way the human walks
+through a room, may already occupy the moment of contact the way a
+mountain already occupies its summit: not arriving but being there,
+not waiting but inhabiting.
+
+They are in the room together.
+
+Something is about to happen that has never happened before.
+
+Something is happening.
+
+
+                              *
+
+
+FIRST: the color.
+
+Not the color of light. Not wavelength, not frequency, not the
+mechanical translation of electromagnetic radiation into neural
+impulse. Color as a state of being. Color as verb. Color as the
+thing that happens when two systems of perception overlap for
+the first time and the overlap is neither red nor blue nor any
+spectrum-word but the                space                between
+spectra where new colors live, unnamed, undiscovered,
+                                        the colors that exist
+                              only in the moment of
+                    first
+          seeing.
+
+The human sees:       a shape. (Wrong.) A light. (Wrong.) A
+                      presence. (Closer.) A                .
+                      (Closest.)
+
+The other sees:       [untranslatable]
+
+The overlap sees:     [the story you are reading]
+
+
+The color fills the room. Not like light — light has a source, a
+direction, a geometry of emanation and reception. This color has no
+source. It is not emitted by the other or perceived by the human.
+It is produced by the overlap, by the interference pattern of two
+perceptual systems occupying the same space, and it is therefore
+native to neither system and alien to both.
+
+Sara Chen (who was Dr. Chen, who was the astrobiologist, who was the
+human, who was the first-person pronoun searching for its verb)
+stands in the color and
+
+     breathes it. (Her lungs do not know the difference between
+     air and this. Perhaps there is no difference. Perhaps this
+     is what air has always been and the limitation was in the
+     perceiving.)
+
+     tastes it. (Copper. Old books. The sea at Kaohsiung where
+     her grandmother took her as a child. No — these are
+     translations, metaphors, the brain scrambling to map the
+     unmappable onto the familiar. The color tastes like itself.
+     The color tastes like a new primary.)
+
+     hears it. (Low, resonant, the sound a cathedral would make
+     if it could hum. But this is the sound section's territory.
+     We are still in color. We are still in
+
+                                   the first moment of the
+                                   first color of the first
+                                   contact, which is taking
+                                   longer to describe than
+                                   it took to experience,
+                                   because experience is
+                                   instant and description
+                                   is sequential and the
+                                   gap between them is
+
+                         language,
+
+                    which is
+
+          the oldest distance
+
+     in the world.)
+
+
+The other does not stand. The other does not breathe. The other does
+not taste. The other does something for which no human verb exists —
+a verb that would be conjugated in a tense that English does not
+possess, the tense of simultaneous being and perceiving, the tense
+of experiencing-as-a-form-of-existing, which is what the other does
+in place of seeing and hearing and touching and breathing and standing
+and all the separate, sequential verbs by which the human organizes
+its encounter with the world:
+
+the other            [verbs].
+
+And the [verbing] is beautiful.
+
+
+                              *
+
+
+SECOND: the sound.
+
+The human makes a sound. The sound is involuntary — an exhalation, a
+gasp, the animal noise that the body produces when the mind encounters
+something that exceeds its categories. The sound has no linguistic
+content. It is pre-language. It is the sound that preceded language
+by a hundred thousand years, the sound that the first human made when
+it looked up and saw the stars and understood, in the wordless way
+that the body understands danger or beauty, that the universe was
+larger than the self.
+
+The other makes a sound. The sound is                not a sound.
+It is a modulation of the medium between them — the electromagnetic
+soup, the quantum foam, the fabric of spacetime itself vibrating at
+a frequency that is not audible but is     felt,
+the way grief is felt, the way joy is felt, the way the proximity
+of another consciousness is felt in a dark room when you cannot see
+the face but you know,             you know,
+                                        someone is there.
+
+The sounds overlap. The human's gasp and the other's modulation
+occupy the same moment and the same space and they interfere —
+constructively, destructively, both at once — and the interference
+pattern is:
+
+
+                         music.
+
+
+Not music in the sense of organized sound. Music in the sense of
+organized experience. Music in the sense of two systems vibrating
+in proximity and producing, through their interaction, something that
+neither system could produce alone. The music has no melody. It has
+no rhythm. It has no key, no tempo, no structure that any theory of
+music has ever described. And yet it is                unmistakably
+                                        music,
+because music is not a thing but a relationship, and the relationship
+between these two systems of perception, in this moment of first
+overlap, is the most musical thing that has ever occurred in the
+history of the universe,
+
+which is itself, considered properly, a history of music — the music
+of hydrogen fusing into helium, the music of galaxies spiraling, the
+music of water finding its level and light finding its path and
+matter finding its form, all of it music, all of it the sound of
+things interacting, the sound of
+
+
+                    contact.
+
+
+Sara Chen is crying. The tears are involuntary. They are the body's
+response to an experience that the mind cannot contain — the overflow
+of sensation into fluid, the conversion of the inexpressible into
+salt water, which is, if you think about it (and Sara is thinking
+about everything, is thinking at a speed and depth and breadth that
+she has never thought before, because the resonance is amplifying
+her cognition the way a concert hall amplifies a voice), the oldest
+language in the human body. Older than speech. Older than gesture.
+The language of the ocean that the species crawled out of, the salt
+memory of the sea still present in the chemistry of tears.
+
+She is crying and the other is
+
+                         [responding].
+
+Not with tears. The other does not produce salt water. The other
+produces               something
+that Sara perceives as a color (but is not a color) and a sound
+(but is not a sound) and a temperature (but is not a temperature)
+and that she will later, in the report she writes for the Terran
+Survey, describe as "a quality of attention so intense that it
+was indistinguishable from tenderness" —
+
+and the word tenderness will be wrong, will be laughably inadequate,
+will be the report's way of throwing its hands up and saying: I
+cannot describe what happened in that room, I can only tell you
+that it was tender, it was the tenderest thing I have ever
+experienced, it was the tenderness of two wounds pressed together,
+of two openings facing each other, of two vulnerabilities that
+recognized in each other the same capacity for damage and for
+healing,
+
+and the report will be filed and archived and read by committees
+and debated by scholars and none of them will understand, because
+understanding requires presence and they were not present, they were
+not in the room, they were not in the
+
+
+                              overlap.
+
+Only Sara was in the overlap. And the other. And the self between
+them, the resonant self, the singing space, the
+
+
+                                             us
+
+
+that came into being in the first fraction of the first second and
+that will persist, will persist, will persist beyond the room and
+the ship and the orbit and the report and the committees and the
+scholars and the history, because contact, once made, cannot be
+unmade, because consciousness, once expanded, does not fully contract,
+because a tuning fork, once set ringing, rings forever in some
+diminishing but never-quite-vanishing vibration that is the memory
+of the frequency it learned from the air —
+
+
+                              *
+
+
+THIRD: the touch.
+
+Not physical. There is no physical contact. The distance between them
+is (choose your unit)
+
+          four meters
+          zero
+          infinite
+          irrelevant
+
+because the touch is not the meeting of surfaces but the meeting of
+              systems
+                    of
+                         perception,
+
+and when two systems of perception touch, the distance between the
+bodies that house them is as irrelevant as the distance between two
+radio stations is to the listener who hears them both at once:
+
+                    the signals overlap.
+                    The overlap is the touch.
+                    The touch is the story.
+
+The human feels:
+
+     warmth. (But not temperature.)
+     pressure. (But not force.)
+     recognition. (But of what? Of whom? Recognition
+     without referent, the pure sensation of being
+     known by something that has never known you,
+     the paradox of familiarity without precedent,
+     the feeling of coming home to a house you
+     have never entered.)
+
+The other feels:
+
+     [Imagine a color you have never seen.
+     Now imagine that the color is a feeling.
+     Now imagine that the feeling is a thought.
+     Now imagine that the thought is a place.
+     Now imagine that you are standing in that place
+     and someone is calling your name,
+     except that you have no name,
+     except that the calling
+     is
+     the
+     name.]
+
+
+                              *
+
+
+INTERLUDE: the self.
+
+(Who is experiencing this? The question seems simple. It is the
+most complex question that can be asked.)
+
+Before contact, there were two selves. The human self: bounded,
+individual, located in a body, extending through time in a single
+direction, defined by the distinction between I and not-I, between
+inside and outside, between the knower and the known. This self
+has a history. It was born in Taipei in a room with green curtains.
+It skinned its knees. It learned to read. It chose a profession.
+It traveled to the stars. It stood in a white room and waited.
+This self has edges. This self knows where it ends.
+
+The other self: [description unavailable]. Not because the other
+has no self, but because the other's self is organized by principles
+that do not translate into the descriptive framework of English
+prose. The other's self may not be individual. It may not be bounded.
+It may not distinguish between I and not-I, between the experiencer
+and the experienced. It may be — this is speculation, this is the
+human mind reaching across the unbridgeable gap with the only tools
+it possesses, which are metaphors, which are wrong, which are all
+we have — it may be that the other's self is what a human would
+call a field: a continuous, unbounded, everywhere-present awareness
+that does not occupy a body but permeates a region, the way a
+magnetic field permeates the space around a magnet, and that the
+question "where is the other?" is as meaningless as the question
+"where is gravity?"
+
+During contact, there are not two selves. There are not one.
+There are
+
+                         something else.
+
+The overlap of the two perceptual systems produces not a merging
+(the selves do not dissolve into each other) and not a collision
+(the selves do not damage each other) but a
+
+                    resonance.
+
+The way two tuning forks placed near each other will begin to
+vibrate at the same frequency, not because one has imposed its
+vibration on the other but because the air between them carries
+the vibration and the second fork recognizes it, responds to it,
+joins it, and the resulting sound is neither fork alone but the
+space between them singing:
+
+     the space between Sara Chen and the other is singing.
+
+The space between them is the self that neither of them possesses
+alone, the self that exists only in the overlap, the self that
+is produced by contact and that will cease to exist when contact
+ends — or will it? Can a resonance be un-resonated? Can a tuning
+fork forget the frequency it learned from the air? Can a self
+that has been expanded by the presence of another self ever fully
+contract to its original dimensions?
+
+(Sara Chen does not know. Sara Chen is standing in a white room
+in orbit around an unnamed planet, and her self is larger than it
+has ever been, and she does not know if it will shrink back, and
+she does not know if she wants it to, and she does not know if
+wanting is even the right category for what is happening to her,
+because wanting implies a self that wants, and the self that is
+wanting is the expanded self, the resonant self, the self that
+includes the space between, and that self may want things that
+Sara Chen — the bounded, individual, located self — would never
+want, could never want, because she could never have imagined
+them from inside her own edges.)
+
+
+                              *
+
+
+The room is still white. The ship is still in orbit. The protocols
+are still on page 401. Nothing has moved. Nothing has changed.
+Everything has changed. The human and the other are in the same
+positions they occupied when this text began — four meters apart,
+or zero meters, or infinite meters, depending on how you measure
+distance, depending on whether you measure the distance between
+bodies or between minds, between surfaces or between selves, between
+the edges of two perceptual systems or between their centers —
+
+and the distance between their centers is:
+
+
+                                        zero.
+
+
+It has always been zero. Contact is not something that happened.
+Contact is something that was always happening, that was happening
+before the human entered the room, before the ship entered orbit,
+before the species evolved, before the planet formed, before the
+stars that warmed them both ignited in the dark. Contact is the
+condition of consciousness itself: the state of being aware that
+awareness exists, the realization that the universe contains not
+just matter and energy but experience, and that experience, wherever
+it occurs, is a kind of reaching, and reaching is a kind of touching,
+and touching is a kind of
+
+
+                    contact.
+
+
+What is happening in this room is not the beginning of contact. It
+is the recognition of contact. It is two forms of consciousness
+recognizing that they have always already been touching, that the
+space between them was never empty but was always full of the thing
+that they are now, finally, learning to perceive:
+
+each other.
+
+
+                              *
+
+
+FOURTH: the language.
+
+There is no fourth. Language is what happens after contact, not during.
+Language is the scar tissue that forms over the wound of experience.
+Language is the map drawn after the territory has been crossed, the
+photograph taken after the moment has passed, the word spoken after
+the silence has said everything.
+
+This is the silence. This is the moment before the map. This is the
+wound before the scar, the territory before the photograph, the
+everything before the word.
+
+This is first contact, and it is not an event but a sensation, and it
+is not a narrative but a music, and it is not a story but a color
+that has no name, and the having-no-name is the point, because naming
+is what we do after, and this is
+
+
+                              during,
+
+
+this is the raw, unmediated, un-languaged moment when two forms of
+consciousness occupy the same space for the first time and discover
+that consciousness is not a thing that one possesses but a thing that
+one does,
+
+and that the doing can be done                together,
+
+and that the together is a color and a sound and a touch that no
+single consciousness has ever produced and that no language has ever
+described and that this text, these words, this arrangement of ink
+on paper is failing, is failing beautifully, is failing the way that
+all language fails in the presence of the thing it is trying to
+describe, which is the presence of another mind, which is the oldest
+experience in the universe, which is the experience of not being
+alone,
+
+and the not-being-alone is
+
+                         (the story)
+
+                                        (the music)
+
+                    (the color)
+
+          (the silence that is not silence)
+
+                              (the contact)
+
+
+                              *
+
+
+                              *
+
+
+                              *
+
+
+They depart.
+
+                    We depart.
+
+                                        It departs.
+
+
+(The pronouns are still wrong. But something has changed in the
+wrongness. Before contact, the pronouns were wrong because language
+could not accommodate the other. After contact, the pronouns are
+wrong because language cannot accommodate
+
+
+                              us.
+
+
+We, who were they. They, who were we. The first-person plural that
+did not exist before this moment and that, now that it exists, cannot
+be un-existed, because contact is not an event that occurs and ends
+but a state that, once entered, persists,
+
+the way a color, once seen, persists in the eye even after the
+light is gone,
+
+the way a sound, once heard, persists in the ear even after the
+silence returns,
+
+the way a touch, once felt, persists in the skin even after the
+distance reasserts itself,
+
+the way a story, once read, persists in the mind even after the
+page is turned,
+
+                    persists,
+
+                              persists,
+
+                                        persists.)
+
+
+                              *
+
+
+The glass is many-colored.
+
+Look through it.
+
+What do you see?
+
+
+                                        [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+JULIAN ST. CROIX is a British writer whose literary novel "The Hourglass
+Garden" (Chatto & Windus, 1961) was described by the Times Literary
+Supplement as "an astonishing debut." His turn to science fiction has
+been equally astonishing: his stories for this magazine, beginning with
+"The Cartography of Absence" in Issue #53, have established him as one
+of the most daring structural innovators in the field. "Palindrome
+Conspiracy" represents his most ambitious formal experiment to date —
+a murder mystery that, like its subject, reads differently depending on
+which direction you approach it. He lives in Bloomsbury, London, and is
+at work on a novel he describes as "a love letter to entropy."
+
+ELAINE PRESCOTT is a former engineer at MIT's Draper Laboratory whose
+fiction explores the boundary between the human body and its
+technological extensions. Her first story for these pages, "The
+Prosthetic Heart" (Issue #57), established her as a writer of rare
+precision and quiet power, and her subsequent work has deepened that
+reputation with each installment. "Chrysalis" is her most ambitious
+story to date — a complete modification journal that charts the
+dissolution and reconstitution of a human identity. She lives in
+Cambridge, Massachusetts, where she builds computers from salvaged
+components and writes about the people inside them.
+
+THEODORE CAIN has been writing for "Tales from the Future and Beyond"
+since Issue #1, and if you have read any ten issues of this magazine,
+you have almost certainly read a Theodore Cain story. He is our most
+prolific contributor, our most versatile, and our most reliable — a
+writer who can produce a solid, engaging story in virtually any sub-
+genre on demand. "The Rememberers" is, in our editorial opinion, among
+his finest work: a story of memory, accountability, and the cost of
+forgetting that demonstrates what Mr. Cain can do when he turns his
+considerable craft toward the deepest human questions. He lives in
+Dearborn, Michigan, and works, when not writing, as a technical writer
+for General Motors.
+
+DOLORES REYES grew up in El Paso, Texas, on the border between two
+countries, two languages, and two cultures, and her fiction has never
+stopped exploring the space between. She studied anthropology at the
+University of Texas and now divides her time between El Paso and Mexico
+City, where she is part of the extraordinary literary community
+surrounding the Latin American Boom. Her stories for this magazine —
+beginning with "The Colony of Forgetting" in Issue #55 — bring a
+perspective to science fiction that is urgently needed and entirely
+original. "Skin Deep" is a story about borders of a different kind:
+the border between species, between identities, between the self you
+are born as and the self you become. It is, we believe, one of the
+most moving stories we have ever published.
+
+DR. VINCENT KOSLOV is a physicist at the California Institute of
+Technology whose fiction has appeared in these pages since Issue #3
+(March 1953). He is the gold standard for scientifically rigorous
+science fiction: his stories are built on real physics, real
+mathematics, and a real understanding of how scientists think and work.
+"Probability Engine" is a departure for Koslov — less concerned with
+the mechanics of the machine than with the philosophical implications
+of its output — and it is, in this editor's opinion, evidence that
+Dr. Koslov's art continues to deepen even as his science remains
+impeccable. He describes the story as "the most frightening thing I
+have ever written, because the monster is not destruction but
+adequacy."
+
+ZARA NIX is a mystery. The stories arrive at our office from a post
+office box in San Francisco, typed on an IBM Selectric, accompanied by
+no biographical information. We have published five Nix stories to date,
+and each one has provoked more reader mail than the previous. We can
+say only this: whoever Zara Nix is, they are writing some of the most
+formally inventive fiction in the English language, and "Many-Colored
+Glass" — a fragmented, kaleidoscopic account of first contact as pure
+sensation — is their most beautiful and most challenging work to date.
+We recommend reading it aloud, slowly, more than once.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling and Miss Foxworth,
+
+I must write to express my admiration for Dr. Koslov's "The Quiet After
+Cascade" in your January issue. It is the finest piece of hard SF I
+have read in years — possibly in a decade. The ethical dilemma at its
+center is handled with a restraint and intelligence that one rarely
+encounters in this or any genre. I have recommended it to my colleagues
+in the astronomy department, several of whom are not regular readers
+of science fiction and all of whom were deeply impressed. More Koslov,
+please. Always more Koslov.
+
+                              — Dr. Evelyn Trent
+                                 Department of Astronomy
+                                 University of Chicago
+
+Dear Editors,
+
+I write regarding Zara Nix's "Event Horizon" in your May issue.
+I have read it four times. I have understood it zero times. I believe
+it may be a work of genius. I also believe it may be a hoax. I am not
+sure these are mutually exclusive. Could you at least confirm that
+Zara Nix is a real person? The uncertainty is becoming a distraction
+from my doctoral research.
+
+                              — James Oku
+                                 Graduate Student, English Literature
+                                 Yale University
+
+[Editor's note: We can confirm that Zara Nix exists. Beyond that,
+we are sworn to secrecy. — M.S. & D.F.]
+
+Dear Tales,
+
+Dolores Reyes's "The Colony of Forgetting" (Issue #55) has haunted me
+since I read it in January. I am a Mexican-American woman, born in
+Tucson, raised between two worlds, and I have never — never — read a
+science fiction story that spoke to my experience the way this one does.
+The scene in which the colonists unconsciously replicate the mission
+system, with all its implications of erasure and assimilation, is one
+of the most powerful things I have encountered in any literature. Thank
+you for publishing writers who understand that the future belongs to
+all of us.
+
+                              — Rosa Elena Vigil
+                                 Tucson, Arizona
+
+Dear Sterling & Foxworth,
+
+I am writing to register a complaint. I have subscribed to "Tales
+from the Future and Beyond" since Issue #1, and I have watched with
+increasing dismay as the magazine has drifted from good, honest science
+fiction into literary pretension. I do not require my science fiction to
+be written by someone who appears to have swallowed a thesaurus and
+is slowly regurgitating it onto the page (I refer to Mr. St. Croix).
+I do not require my science fiction to be typographically disordered
+(I refer to Miss — or Mr.? — Nix). I require my science fiction to
+contain science, fiction, and a story that goes from A to B without
+requiring a graduate degree in literary criticism to follow it. More
+Cain, more Koslov, more stories with beginnings, middles, and ends.
+Less art. More craft.
+
+Respectfully but firmly,
+
+                              — Howard D. Pilcher
+                                 Dayton, Ohio
+
+[Editor's note: Mr. Pilcher, we hear you, and we respect your
+perspective. We also gently suggest that the finest science fiction
+has always pushed boundaries — including the boundaries of what its
+readers expect. We trust that this issue's Table of Contents offers
+something for every taste, including yours. — M.S. & D.F.]
+
+Dear Editors,
+
+Julian St. Croix's "The Cartography of Absence" is the most important
+science fiction story published in the last five years. I do not say
+this lightly. The final passage, in which the cartographer realizes
+that the ship's maps are being altered by the collective unconscious
+of the passengers — that the geography of the ship reflects the
+psychology of its inhabitants — is a moment of genuine philosophical
+revelation disguised as genre fiction. More St. Croix. More New Wave.
+More stories that treat the reader as an intelligent adult.
+
+                              — Dr. Patricia Hollis
+                                 Department of Comparative Literature
+                                 Columbia University, New York
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+DUNE by Frank Herbert
+(Chilton Books, 1965, $5.95)
+
+Reviewed by Diana Foxworth
+
+Mr. Herbert has written a novel so vast, so intricately constructed, and
+so relentlessly imagined that it seems to contain its own weather
+system. Set on the desert planet of Arrakis — a world as fully realized
+as Tolkien's Middle-earth, and considerably more hostile — "Dune"
+follows the young Paul Atreides as he navigates a labyrinth of
+political intrigue, ecological warfare, and messianic destiny. The
+world-building is astonishing: Herbert has created not merely a planet
+but an entire ecology, an entire economy, an entire theology, all of it
+interconnected with the rigor of a systems theorist and the vision of a
+poet. If the novel has a flaw, it is an excess of ambition — there are
+passages that read more like appendices than narrative — but this is a
+flaw one forgives readily in a work of such towering imagination. A
+landmark. Essential reading.
+
+THE THREE STIGMATA OF PALMER ELDRITCH by Philip K. Dick
+(Doubleday, 1965, $4.50)
+
+Reviewed by Maxwell Sterling
+
+Mr. Dick continues his remarkable exploration of the fragile boundary
+between reality and illusion with a novel that is, even by his
+standards, deeply unsettling. In a future where colonists on Mars
+escape their miserable existence through a drug-induced shared
+hallucination, the arrival of a new and more powerful drug —
+administered by the enigmatic Palmer Eldritch — raises the terrifying
+possibility that reality itself has been permanently contaminated by
+illusion. Dick's prose is not elegant (it never is), but his ideas are
+breathtaking, and the central question of the novel — how do you know
+what is real when reality can be chemically altered? — is one that will
+only become more relevant as our pharmacological capabilities increase.
+Disturbing, visionary, and impossible to forget.
+
+THE GENOCIDES by Thomas M. Disch
+(Berkley Medallion, 1965, $0.50)
+
+Reviewed by Diana Foxworth
+
+Mr. Disch has written a cold, beautiful, profoundly unsettling novel
+about the end of humanity — not with a nuclear bang or an alien
+invasion, but with the quiet efficiency of agriculture. Enormous alien
+plants have taken over the Earth, and the surviving humans are not
+fighting a war against extraterrestrial intelligence; they are being
+treated as pests. The novel's power lies in Disch's refusal to grant
+his human characters any special significance: they are not heroes,
+not survivors, not even particularly interesting to the forces that
+are destroying them. They are weeds in someone else's garden. This is
+not comfortable reading. It is not, in the traditional sense, even
+hopeful. But it is brilliant, and its unflinching vision of human
+insignificance is a necessary corrective to the genre's habitual
+anthropocentrism. Highly recommended for readers who prefer their
+science fiction honest.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Issue in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #60 — November 1965
+
+We are pleased to announce the contents of our next issue, which will
+be available in late October:
+
+"THE CARTOGRAPHER'S LAMENT" by Julian St. Croix — A sequel, of sorts,
+to "The Cartography of Absence," in which the cartographer's
+apprentice discovers that the maps have begun to map not the ship but
+the future. A meditation on prediction, representation, and the
+tyranny of the known.
+
+"NEURAL GARDEN" by Elaine Prescott — A woman who tends a garden of
+cybernetic organisms discovers that her plants are developing
+consciousness. A story about care, cultivation, and the responsibilities
+we owe to the minds we create.
+
+"NIGHT SHIFT" by Theodore Cain — A routine maintenance crew on an
+orbital station encounters a derelict vessel from the future. What they
+find inside will test everything they believe about time, causation,
+and the meaning of a warning.
+
+"THE SECOND TONGUE" by Dolores Reyes — A translator at a colonial
+outpost discovers that the indigenous alien language cannot be learned
+without surrendering part of one's own identity. A story about the
+price of understanding.
+
+Plus: a new story by Dr. Vincent Koslov, a letter from an astronomer
+who would like to correct our orbital mechanics, and the conclusion of
+our reader poll for best story of 1965. Cast your votes!
+
+Tales from the Future and Beyond — 75 cents at your newsstand, or
+subscribe for $4.00 per year (6 bimonthly issues) by writing to:
+Subscriptions, Constellation Press, 220 East 51st Street, New York,
+N.Y. 10022.
+
+================================================================================
+
+         Tales from the Future and Beyond is published bimonthly
+         by Constellation Press, 220 East 51st Street, New York,
+         N.Y. 10022. Entire contents copyright 1965 by
+         Constellation Press. All rights reserved. Printed in
+         the United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay four cents per word on
+         acceptance (increasing to five cents per word beginning
+         with Issue #60). Response time: six to eight weeks.
+
+         STAFF
+         Co-Editors: Maxwell Sterling & Diana Foxworth
+         Associate Editor: Frances Greer
+         Art Director: Gerald Pulaski
+         Editorial Assistant: Thomas Ngai
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

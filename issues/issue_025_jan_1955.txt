@@ -1,0 +1,3139 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #25 — January 1955
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Builders" by Gerald "Gerry" Pulaski
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Dyson Initiative, Part II"
+       by Harold "Hal" Mercer .................................... p. 4
+2. "The Emissary" by Theodore Cain .............................. p. 42
+3. "The Prometheus Verdict" by Dr. Vincent Koslov ............... p. 64
+4. "The Foxhound of Mars" by Rex Drummond ....................... p. 94
+5. "The Memory Palace" by Lucian Marsh .......................... p. 118
+6. "Sanctuary" by Father Thomas Aquino .......................... p. 144
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 166
+   Signals Received: Letters to the Editor ................... p. 168
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 171
+   Coming Attractions ........................................ p. 174
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+"Now It Is Time to Build"
+by Maxwell Sterling
+
+Dear Reader,
+
+Two years ago this month, I sat down at this desk and composed a letter to
+a readership that did not yet exist. I spoke of grand ambitions, of a
+magazine that would take the imagination seriously, of stories that would
+linger in the mind long after the page was turned. I asked you to trust me,
+a stranger, with thirty-five cents and an evening of your time.
+
+You did. And then you came back. Month after month, through twenty-four
+issues and one hundred and forty-three stories, you have been our partners
+in this enterprise. You have written us letters of passionate praise and
+equally passionate criticism. You have pressed copies of this magazine into
+the hands of friends, lovers, and skeptical relatives. You have, in short,
+built an audience -- and an audience, I have learned, is not a passive
+thing. It is a community of minds, engaged and demanding, and it changes
+the magazine as surely as the magazine changes it.
+
+We have spent two years dreaming. Now it is time to build.
+
+What I mean by this is something I have felt growing in the stories that
+cross my desk, a maturation I find deeply exciting. Our writers are no
+longer content merely to imagine the future. They want to *construct* it --
+to work out the engineering, the politics, the social architecture, the
+moral foundations. Hal Mercer's magnificent two-part "Dyson Initiative"
+concludes in this issue, and it is the finest example of this new ambition:
+a story about building something so vast that it transforms the solar
+system itself, and the human consequences of succeeding too well. It is a
+story about engineering, yes, but it is also a story about responsibility,
+about the courage to redesign your own masterwork when the evidence demands
+it, about the terrifying gap between intention and consequence.
+
+This issue is, I believe, the strongest we have ever published. Theodore
+Cain delivers a first-contact comedy that is also, beneath its wit, a
+profound meditation on the nature of communication. Dr. Koslov gives us a
+courtroom drama that asks whether a discovery can be too dangerous to
+share. Rex Drummond -- yes, our Rex -- produces a moral thriller that
+complicates every assumption you have about his work. Lucian Marsh offers a
+horror story that is also a love letter to the fragile miracle of memory.
+And Father Aquino writes about sanctuary with an urgency that, in this
+troubled world, needs no explanation.
+
+Year three. The dreaming continues, but now we build as well.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, November 1954
+
+================================================================================
+
+                     THE DYSON INITIATIVE, PART II
+
+                     by Harold "Hal" Mercer
+
+================================================================================
+
+                              I.
+
+The swarm was beautiful, and the swarm was killing Mercury.
+
+Yuki Tanaka stood at the observation window of Sunward Station, seventy
+million kilometers from the star, and watched the collectors drift. There
+were nine hundred and twelve million of them now -- thin hexagonal panels,
+each one four hundred meters across, their mirrored faces angled to catch
+the full spectrum of solar radiation and convert it into tight microwave
+beams aimed at receiver stations throughout the inner system. From this
+distance they looked like silver coins scattered across a black table,
+each one catching the light and throwing it back in disciplined, focused
+streams. The swarm covered approximately two-tenths of one percent of the
+Sun's total output area, which did not sound like much until you ran the
+numbers.
+
+Tanaka had run the numbers. She had been running the numbers for
+twenty-three years, ever since the Dyson Initiative's governing board had
+appointed her chief architect at the absurd age of thirty-one. She had
+designed the collector geometry, specified the orbital families,
+calculated the resonance avoidance parameters, supervised the fabrication
+plants on Ceres and Vesta, and argued with seventeen national delegations
+about construction priorities until her voice went hoarse and her patience
+went to dust. She had given her marriage to the swarm, her health to the
+swarm, and most of her capacity for small talk to the swarm. The Dyson
+Initiative was, by any reasonable measure, the largest engineering project
+in human history, and Yuki Tanaka had built it.
+
+And now she was receiving reports that it was cooling the inner planets.
+
+"The temperature drop on Mercury's surface is fourteen degrees Kelvin over
+the last eighteen months," said Renjiro Sato, her chief of systems
+analysis, reading from the pad in his hands. He was a tall, thin man with
+the careful manner of someone who delivered bad news for a living. "That's
+aggregate. The night-side numbers are worse -- twenty-one degrees in some
+basins. The mining settlements at Caloris are reporting condensation in
+their thermal extraction systems. They were designed for a four-hundred-
+degree operating environment, and they're getting three-seventy."
+
+"Thirty degrees won't collapse a thermal extraction system," Tanaka said.
+
+"No, ma'am. But the trend line will. If collection efficiency continues to
+increase at the current rate, Mercury's mean surface temperature drops
+another forty degrees in five years. That puts Caloris below design
+threshold." Sato paused. "And Venus is worse."
+
+Tanaka did not turn from the window. She had designed those collectors. She
+knew their efficiency curves the way a mother knows the curve of a child's
+cheek. The problem was not a malfunction. The problem was that the swarm
+was performing exactly as designed -- better, in fact, than the projections
+she had filed with the governing board in 2087. The fabrication plants had
+exceeded their quotas. The deployment drones had placed collectors faster
+than the schedule demanded. The microwave transmission losses had come in
+twelve percent below estimate. Everything was working. Everything was
+working too well.
+
+"What are the Venus numbers?" she asked.
+
+Sato consulted his pad. "Mean global temperature has dropped nine degrees
+over three years. The sulfuric acid cycle in the upper atmosphere is
+shifting. The Venusian Atmospheric Authority says their cloud-mining
+operations are seeing chemistry changes they don't fully understand yet."
+
+"They don't understand them because nobody modeled for this scenario,"
+Tanaka said. "Nobody planned for the swarm to work this well."
+
+"No, ma'am."
+
+She finally turned from the window. Sato was watching her with the careful,
+neutral expression of a man who was too professional to say I told you so
+but wanted her to know that he could, if pressed.
+
+"How long before the colonies file formal objections?" she asked.
+
+"Mercury filed two hours ago. Venus filed forty minutes ago. Mars has filed
+a preemptive endorsement of whatever Mercury and Venus are complaining
+about, because Mars always does."
+
+Tanaka allowed herself the thinnest of smiles. "And Earth?"
+
+"Earth is enjoying the cheapest energy in human history and has no
+complaints."
+
+"Of course not."
+
+                              * * *
+
+The governing board met in the amphitheater of Sunward Station, a circular
+room whose transparent ceiling offered an unobstructed view of the Sun.
+The delegates sat in concentric rings around a central well, their faces
+lit from above by filtered starlight that gave everyone the complexion of
+hammered copper. There were forty-seven delegates representing thirty-one
+nations and fourteen colonial entities. Most of them looked unhappy.
+
+Tanaka stood in the well and presented the data.
+
+She had spent three hours preparing the briefing with Sato and her
+engineering staff, stripping the presentation down to essentials: the
+collection rates, the temperature curves, the atmospheric models, the
+timeline. She spoke for twenty minutes without notes. She did not minimize
+the problem. She did not exaggerate it. She laid out the numbers and let
+them speak.
+
+When she finished, the Mercurian delegate was the first to stand. His name
+was Adriano Voss, a compact man with the deep tan and permanent squint of
+someone who had spent most of his life under a sun that was too close.
+
+"Chief Architect Tanaka," he said, and his tone made the title sound like
+an accusation. "My government wishes to state, for the record, that we
+warned this board about excessive collection rates eight years ago. Our
+atmospheric scientists predicted exactly this scenario. We were told that
+our models were 'conservative' and that the swarm's effects would be
+'within acceptable parameters.' I have the minutes of that session in
+front of me. I'd like to know whose parameters we're talking about."
+
+"You are correct that Mercury raised concerns in 2098," Tanaka said. "The
+board reviewed the models and determined that the projected impact fell
+within the design envelope. That determination was based on the collection
+rates as they existed at that time. Collection rates have since exceeded
+projections by a factor of one point four."
+
+"So you built it better than you expected, and now it's hurting us more
+than you expected. Is that the essence of the situation?"
+
+"That is a reasonable summary, yes."
+
+Voss sat down. The Venusian delegate stood. Her name was Daria Kolokov,
+and she had the cold precision of a woman who had spent twenty years
+arguing Venus's interests against the gravitational pull of Earth's
+priorities.
+
+"Chief Architect, I have a simpler question. Can you fix it?"
+
+Tanaka had been waiting for this question. She had, in fact, been working
+on the answer for six weeks, since the first anomalous temperature data
+had crossed her desk. She had spent those weeks in her office on Sunward
+Station, surrounded by structural diagrams and orbital plots, drinking
+cold tea and running simulations until the numbers blurred.
+
+"Yes," she said. "I can fix it. But the fix requires a fundamental
+redesign of the collector geometry, and it cannot be done gradually. It
+must be done as a coordinated operation across the entire swarm."
+
+The amphitheater went very quiet.
+
+                              * * *
+
+The redesign was, Tanaka reflected later, the hardest thing she had ever
+done as an engineer. Harder than the original design, because the original
+design had been theoretical -- a problem to be solved on paper and in
+simulation, where the variables behaved themselves and the only
+consequences of error were embarrassment and revision. The redesign had to
+be performed on a living system, with nine hundred million collectors
+already in orbit, already generating power, already integrated into an
+energy grid on which four billion people depended.
+
+It was like rebuilding an engine while the car was moving at highway speed.
+
+She assembled her team in the engineering module of Sunward Station: Sato,
+of course, and chief fabricator Ingrid Halvorsen, and orbital mechanics
+lead Chen Wei, and power systems engineer Tomoko Arai, and twenty-three
+others whose specialties ranged from materials science to political
+strategy. They filled the long conference table and its overflow chairs,
+and Tanaka stood at the head of the room and told them what she wanted.
+
+"The problem is geometric," she said, pulling up the swarm schematic on the
+wall display. Nine hundred million blue dots swarmed around a yellow
+circle. "The collectors are arranged in twelve orbital families, each
+family occupying a different inclination band. The original design
+distributed them to maximize total collection area. That's what they're
+doing. The problem is that maximum collection also means maximum
+interception of solar radiation before it reaches the inner planets."
+
+She touched a control, and the display shifted. The blue dots rearranged
+themselves into a new pattern -- thinner, more structured, with visible
+gaps between the orbital bands.
+
+"The solution is to introduce transparency corridors. We reorient
+approximately thirty percent of the collectors in each orbital family to
+create gaps -- windows through which unobstructed sunlight can reach
+Mercury, Venus, and the ecliptic plane. The collectors in the corridor
+zones don't stop collecting. They tilt. They angle their faces to catch
+light from a slightly different vector, redirecting rather than
+intercepting. Total collection efficiency drops by six percent. Inner
+planet insolation returns to within two degrees of pre-swarm levels."
+
+Chen Wei, who was sixty years old and had been building things in space
+since before Tanaka was born, raised his hand. "You're asking us to
+reposition two hundred and seventy million collectors."
+
+"Two hundred and seventy-three million, to be precise."
+
+"Simultaneously."
+
+"Within a four-month window, to minimize disruption to the power grid."
+
+Chen Wei looked at the schematic for a long time. Then he said, "The
+station-keeping fuel budgets alone will require retooling every fabrication
+plant in the belt."
+
+"Yes."
+
+"And the orbital resonance calculations for the new geometry will take --"
+
+"I've done them," Tanaka said. She opened her briefcase and took out a
+stack of printout that was approximately eight centimeters thick. She set
+it on the table with a thud that was, she admitted to herself, slightly
+theatrical. "The resonance maps are complete. The tilt angles are
+specified for every collector in every orbital family. The fuel requirements
+are calculated. The timeline is drafted."
+
+The room was silent.
+
+"When did you do all this?" Sato asked.
+
+"I haven't been sleeping much."
+
+                              II.
+
+The first shots were fired six days after the governing board approved the
+redesign.
+
+They came from the Mercury Colonial Militia, a paramilitary organization
+that had existed in a state of legal ambiguity for a decade. The militia
+operated three armed patrol vessels that were nominally tasked with
+asteroid defense but which everyone understood were really Mercury's
+attempt at a navy. On the morning of March 14th, 2107, the patrol vessel
+_Helios_ fired two warning shots across the bow of a deployment drone
+that was attempting to reorient collectors in the innermost orbital family.
+
+The shots were plasma bolts from a mining laser that had been awkwardly
+mounted on the _Helios_'s dorsal hull. They missed the drone by four
+hundred meters, which suggested either poor aim or careful restraint.
+Tanaka suspected the latter and found it more troubling than the former.
+
+The message from the Mercurian delegation arrived twenty minutes later.
+It was addressed to the governing board, but it was meant for Tanaka.
+
+"The Mercury Colonial Government hereby notifies the Dyson Initiative
+Governing Board that any attempt to reorient collectors in Orbital Families
+One through Four without Mercury's explicit consent will be regarded as an
+act of economic aggression against the sovereign territory of Mercury. The
+transparency corridors proposed by Chief Architect Tanaka will restore
+solar radiation to Mercury's surface, but only after a four-month
+transition period during which the reorientation process itself will
+temporarily *increase* solar blockage by an additional eight percent. This
+temporary increase will push Mercury's thermal extraction systems past
+their failure point. Mercury's mining economy will collapse. Chief
+Architect Tanaka's 'fix' will destroy us before it saves us."
+
+Tanaka read the message three times. Then she pulled up her reorientation
+timeline and looked at the Phase One schedule for Orbital Families One
+through Four. The Mercurians were right. The reorientation process required
+collectors to pass through a perpendicular orientation as they tilted from
+their current angle to their new one. During that perpendicular phase,
+each collector presented its maximum cross-section to the Sun -- which
+meant maximum light blockage. For any individual collector, the
+perpendicular phase lasted less than ninety seconds. But with two hundred
+and seventy-three million collectors reorienting in sequence, the
+cumulative effect across the inner orbital families would be a temporary
+deepening of the shadow.
+
+She had accounted for this in her calculations. The aggregate temperature
+effect was an additional 1.3 degrees Kelvin over the four-month
+reorientation window. Significant but not catastrophic -- unless your
+thermal extraction systems were already operating at their revised,
+lower margin. Which Mercury's were.
+
+"They're right," she said to Sato. "Not about the eight percent -- that's
+their worst-case number, and it assumes every collector in Families One
+through Four reorients simultaneously, which my timeline doesn't call for.
+But the principle is correct. Phase One will make things worse before it
+makes them better."
+
+"Can you resequence?" Sato asked. "Start with the outer families and work
+inward?"
+
+"If I start with the outer families, Venus screams. Venus is getting most
+of its blockage from Families Five through Eight. Every delegation wants
+their problem fixed first, and fixing any one of them first makes the
+others temporarily worse."
+
+"So you need to do them all at once."
+
+"I need to do them all at once. Which I can't do, because I don't have
+enough deployment drones."
+
+She sat down at her desk and stared at the orbital plots on her display.
+Nine hundred and twelve million collectors, each one exactly where she
+had told it to be. She had built the most successful engineering project
+in human history, and now she had to take it apart and rebuild it while
+the people who depended on it shot at her.
+
+                              * * *
+
+The Venus situation escalated three days later.
+
+The Venusian Atmospheric Authority -- which, unlike Mercury's militia, had
+actual legal jurisdiction over its orbital space -- announced that it was
+deploying a network of reflector satellites between the swarm and Venus.
+The reflectors would bounce additional sunlight down to the planet's cloud
+tops, compensating for the swarm's blockage independently of Tanaka's
+redesign.
+
+The problem was that the reflectors would also scatter unfocused light into
+the orbital corridors that Tanaka's deployment drones used for transit.
+The drones navigated by star-tracker, and scattered light blinded their
+sensors.
+
+"They're not trying to stop the redesign," Tanaka said, studying the
+reflector deployment plan on her display. "They're trying to make it
+unnecessary. If their reflectors work, they don't need my transparency
+corridors, which means they don't need to go through the reorientation
+pain. They solve their own problem and leave Mercury to deal with the
+consequences."
+
+"Will their reflectors work?" Sato asked.
+
+"Short term, partially. Long term, no. They can't match the energy output
+that the swarm is intercepting. And their scattered light will interfere
+with my operations for as long as they're deployed."
+
+"So Venus is accidentally sabotaging your fix while trying to avoid it."
+
+"Nothing about this is accidental," Tanaka said.
+
+                              III.
+
+She solved the problem the way she solved all problems: with math,
+stubbornness, and a phone call she did not want to make.
+
+The math came first. She locked herself in her office for forty-eight
+hours with Chen Wei and Arai and worked out a new reorientation sequence
+that she called the cascade protocol. Instead of reorienting collectors
+family by family, the cascade protocol treated the entire swarm as a
+single dynamic system. Collectors would reorient in a rolling wave that
+started at the swarm's outermost edge and swept inward, each collector
+beginning its tilt exactly 0.7 seconds after its nearest neighbor. The
+wave would take eleven days to cross the full diameter of the swarm. At
+any given moment, only a thin shell of collectors would be in their
+perpendicular phase, and the shadow effect would be distributed so evenly
+across the inner system that no single planet would experience more than
+a 0.4-degree temperature fluctuation.
+
+It was, Chen Wei said, either brilliant or insane.
+
+"The timing tolerances are absurd," he told Tanaka. "Zero-point-seven
+seconds between adjacent collectors, propagated across nine hundred
+million units. If the wave desynchronizes by more than three seconds at
+any point, you get harmonic oscillations in the tilt angles that could
+shatter collectors by the thousands."
+
+"Then we don't desynchronize," Tanaka said.
+
+"The communication lag alone --"
+
+"We pre-program the sequence into every collector's onboard computer.
+No real-time commands. No communication lag. Every collector carries its
+own clock and its own instructions. They execute autonomously."
+
+"And if a collector's clock drifts?"
+
+"We built these collectors, Chen. We specified the oscillators. The clocks
+are accurate to ten nanoseconds per day. Over an eleven-day cascade, the
+maximum drift is one hundred and ten nanoseconds. The tolerance is three
+seconds. We have a margin of approximately twenty-seven million to one."
+
+Chen Wei looked at her for a long moment. Then he smiled -- a rare
+expression on his weathered face. "You really haven't been sleeping."
+
+"No."
+
+The stubbornness came next. She presented the cascade protocol to the
+governing board and spent four hours defending it against objections that
+ranged from the technically legitimate (the fuel cost was eleven percent
+higher than the original reorientation plan) to the politically motivated
+(the Martian delegate wanted to know why Mars wasn't getting its own
+transparency corridor, even though Mars was beyond the swarm's shadow
+zone and received no blockage whatsoever).
+
+She answered every question. She addressed every concern. She did not
+raise her voice, she did not lose her patience, and she did not allow
+anyone to table the vote for further study. When the Mercurian delegate
+accused her of "gambling with the lives of four hundred thousand
+colonists," she pulled up her temperature models and walked him through
+the numbers, degree by degree, until he conceded that the 0.4-degree
+fluctuation was within survivable parameters.
+
+The vote was thirty-nine to eight in favor, with Mars abstaining on
+principle.
+
+                              * * *
+
+The phone call she did not want to make was to Commander Adriano Voss of
+the Mercury Colonial Militia.
+
+She placed it from her office, alone, at 0300 station time. Voss answered
+from the bridge of the _Helios_, which was still patrolling the inner
+orbital families. His face on the screen was tired and defiant.
+
+"Commander Voss," Tanaka said. "I am calling to inform you that the
+cascade protocol will commence in seventy-two hours. Deployment drones
+will enter all orbital families simultaneously. I am requesting that you
+stand down your patrol vessels for the duration of the operation."
+
+Voss's jaw tightened. "You know I can't do that without authorization from
+the Colonial Governor."
+
+"I know. I also know that the Colonial Governor will not give that
+authorization unless he believes the cascade protocol will work. So I am
+going to explain it to you, Commander, and you are going to explain it to
+him. Not because I have faith in the chain of command, but because I have
+read your service record, and I know that you are an engineer before you
+are a soldier."
+
+There was a pause. On the screen, Voss's expression shifted -- something
+hard behind his eyes giving way, just slightly, to something curious.
+
+"I'm listening," he said.
+
+She explained. It took an hour and a half. She walked him through the
+cascade geometry, the timing tolerances, the temperature models, the
+fail-safe protocols. She answered his questions -- and they were good
+questions, the questions of an engineer who had studied the swarm's
+architecture and understood its vulnerabilities. Twice he caught errors
+in her backup calculations that she had missed, and she corrected them
+on the spot, showing him the corrections so he could verify them.
+
+When she finished, Voss was quiet for a long time.
+
+"Your cascade protocol will work," he said finally. "Your math is right.
+But I need something from you."
+
+"Name it."
+
+"When the cascade wave passes through Families One through Four, I want
+a Mercury engineer in your control room. Someone who can verify the
+telemetry in real time and confirm that Mercury's exposure stays within
+your projected envelope. Not a board observer. One of my people."
+
+"Done," Tanaka said.
+
+"And I want your personal guarantee -- not the board's, yours -- that if
+the temperature drop exceeds your projections by more than one degree, you
+will pause the cascade until we understand why."
+
+Tanaka hesitated. A one-degree pause threshold was tight. It would give
+her almost no margin for the normal fluctuations of a complex dynamic
+operation. If a single collector cluster tilted slightly off-spec, the
+local temperature variation could trigger the threshold and halt the
+entire cascade -- and a halted cascade was exponentially harder to restart
+than a continuous one.
+
+But Voss was asking her to put her reputation on her math. And her math
+was right.
+
+"You have my guarantee," she said.
+
+Voss nodded. "I'll talk to the Governor. Stand by for confirmation."
+
+The confirmation came eighteen hours later. The _Helios_ and its sister
+ships withdrew to Mercury orbit. Venus, seeing Mercury stand down,
+recalled its reflector satellites. Mars issued a statement expressing
+general disapproval of everything.
+
+                              IV.
+
+The cascade began at 0600 UTC on April 3rd, 2107.
+
+Tanaka watched it from the control room of Sunward Station, surrounded by
+her engineering team and a bank of displays that showed the swarm in real
+time. The Mercurian engineer -- a young woman named Esperanza Vega who
+had graduated top of her class from the Caloris Technical Institute --
+sat at a console in the corner, monitoring Mercury's insolation telemetry
+with the focused intensity of someone whose home was at stake.
+
+The outermost collectors began their tilt at 0600:00.000. Each hexagonal
+panel rotated on its central axis, pivoting from its current collection
+angle through perpendicular and onward to its new orientation. The
+rotation took four minutes and twelve seconds per collector. The wave
+propagated inward at the speed Tanaka had calculated: 0.7 seconds between
+adjacent collectors, a ripple of motion spreading through nine hundred
+million panels like a breeze crossing a wheat field.
+
+On the displays, it was mesmerizing. The swarm's visual signature shifted
+as the wave passed through -- collectors flashing bright as they hit
+perpendicular, then dimming as they settled into their new angles, the
+overall pattern flowing like liquid mercury. Tanaka had seen computer
+simulations of the cascade a hundred times, but the reality was different.
+The reality was beautiful.
+
+"Wave front passing through Family Twelve," Chen Wei reported. "Timing
+deviation: zero-point-zero-zero-three seconds. Within tolerance."
+
+"Family Eleven in twelve minutes," Sato added.
+
+Tanaka stood at the center of the control room and watched the numbers.
+She had done everything she could. The math was right, the engineering was
+sound, the politics were managed. Now it was execution -- the pure,
+mechanical unfolding of a plan she had built from numbers and will and six
+weeks of sleepless nights.
+
+The wave crossed Family Twelve without incident. It entered Family Eleven
+and proceeded smoothly. Families Ten, Nine, Eight -- each one reported
+nominal deviations, timing tight, temperatures stable. Venus's
+atmospheric monitoring stations confirmed a slight uptick in surface
+insolation as the wave passed -- the first increase Venus had seen in
+three years.
+
+By the end of the first day, the wave had crossed the outer six families.
+Total collection efficiency had dropped by 2.1 percent -- within
+projections. No collector had failed. No timing deviation had exceeded
+half a second.
+
+Tanaka allowed herself a cup of tea. It was the first warm beverage she
+had consumed in seventy-two hours.
+
+                              * * *
+
+The crisis came on Day Four, when the wave entered Family Three.
+
+Family Three was the densest orbital family, containing nearly two hundred
+million collectors in a tight band between Mercury's orbit and Venus's.
+The collectors here were closer together than in any other family -- their
+average separation was only eighteen kilometers, compared to forty
+kilometers in the outer families. The tighter spacing meant that the
+timing tolerances were correspondingly tighter, and the thermal shadow
+during the perpendicular phase was proportionally deeper.
+
+At 1447 UTC, Esperanza Vega's console sounded an alarm.
+
+"Mercury insolation dropping," she said, her voice calm but taut. "Rate
+of decrease exceeding model by zero-point-six degrees."
+
+Tanaka was at her side in three seconds. She looked at the telemetry.
+The temperature curve for Mercury's Caloris basin was dipping faster than
+her models predicted -- not dramatically, not catastrophically, but
+faster. The deviation was small. It was also growing.
+
+"Source?" Tanaka asked.
+
+Chen Wei was already running diagnostics. "Collector cluster 3-Alpha-7700
+through 3-Alpha-7900. Two hundred collectors. Their tilt angles are
+running one-point-two degrees ahead of the cascade schedule."
+
+"Ahead? They're tilting too fast?"
+
+"Their onboard clocks are running slightly fast. Oscillator drift. Within
+spec individually, but they're all in the same fabrication batch, and the
+drift is correlated."
+
+Two hundred collectors, tilting 1.2 degrees ahead of schedule. It meant
+they were hitting their perpendicular phase -- their maximum shadow phase
+-- slightly before the wave was supposed to reach them. The result was a
+momentary deepening of the shadow over Mercury's nearest surface.
+
+Tanaka looked at the numbers. The deviation was 0.6 degrees and climbing.
+Her threshold with Voss was one degree. She had perhaps forty minutes
+before the deviation hit the threshold and she was obligated to halt the
+cascade.
+
+Halting the cascade in Family Three would be difficult. Restarting it
+would be a nightmare. The timing synchronization for nine hundred million
+collectors had been calculated as a single, continuous operation. Stopping
+it midway was like stopping an orchestra mid-symphony and expecting every
+musician to come back in at the right beat.
+
+"Can we adjust?" she asked Chen Wei.
+
+"We can upload a corrective tilt command to the affected cluster. Override
+their onboard timing. But the command has to propagate through the
+communication relay, and the relay lag to Family Three is eleven seconds."
+
+"Eleven seconds is fine. The deviation is changing slowly."
+
+"But we've never uploaded a mid-cascade correction before. It's outside
+the tested protocol."
+
+Tanaka looked at Vega. The young Mercurian engineer was watching her with
+an expression that was not fear, exactly, but something close to it --
+the focused attention of someone whose entire world was balanced on the
+next decision.
+
+"If I correct the cluster," Tanaka said to her, "the deviation will
+reverse within twenty minutes. If I halt the cascade, I can guarantee
+Mercury stays below threshold, but the restart will take at least two
+weeks, and during those two weeks the shadow stays exactly where it is."
+
+Vega processed this. "Two weeks at current shadow levels means Caloris
+drops another three degrees. Our extraction systems can't take that."
+
+"No."
+
+"Then correct the cluster."
+
+Tanaka nodded. "Chen, upload the correction."
+
+The correction went out. Eleven seconds of light-speed lag. Then the
+telemetry shifted. The two hundred collectors in cluster 3-Alpha-7700
+through 7900 adjusted their tilt rates, slowing by 1.2 degrees to match
+the cascade schedule. The shadow over Caloris steadied, wavered, and
+began to retreat.
+
+Vega watched her console for ten minutes without speaking. Then she said,
+quietly, "Deviation falling. Zero-point-four degrees. Zero-point-three.
+Returning to model."
+
+Tanaka exhaled. She had not been aware that she was holding her breath.
+
+                              * * *
+
+The cascade completed on Day Eleven, at 2347 UTC on April 14th, 2107.
+
+Nine hundred and twelve million collectors settled into their new
+orientations, their mirrored faces angled to create the transparency
+corridors that Tanaka had designed in six sleepless weeks. The corridors
+were invisible from any single vantage point -- they were gaps in a
+structure that was itself too vast to perceive as a whole. But their
+effects were immediate and measurable.
+
+Mercury's surface temperature stabilized within forty-eight hours and
+began a slow recovery that Tanaka's models predicted would return to
+pre-swarm baselines within eighteen months. Venus reported similar
+stabilization. The Venusian Atmospheric Authority confirmed that the
+sulfuric acid cycle was normalizing. Mars issued a statement expressing
+cautious satisfaction, which for Mars was practically a standing ovation.
+
+Total energy collection had dropped by 6.2 percent -- slightly more than
+projected, but the power grid absorbed the reduction without disruption.
+Earth's energy costs rose by an amount that was statistically significant
+and practically invisible. The lights stayed on. The factories hummed. The
+cities glowed.
+
+Tanaka stood at the observation window of Sunward Station and watched the
+swarm in its new configuration. The transparency corridors were there,
+if you knew where to look -- subtle variations in the density of silver
+coins against the black, like the spaces between words on a page. They
+were, she thought, the most important thing she had ever built: not the
+collectors themselves, but the gaps between them. The places where she had
+chosen to let the light through.
+
+                              V.
+
+The commendation ceremony was held three months later, in the same
+amphitheater where she had presented the original crisis data. The
+governing board awarded her the Initiative's highest honor, the Solar
+Cross, which was a platinum medallion in the shape of a stylized sun
+surrounded by six small planets. Thirty-nine delegates voted in favor.
+Eight abstained. Mars voted yes, which stunned everyone.
+
+Commander Voss attended as Mercury's official representative. He shook
+Tanaka's hand afterward, in front of the cameras, and said, "You kept
+your word."
+
+"You kept yours," she said.
+
+Esperanza Vega was promoted to chief engineer of Mercury's orbital
+monitoring service. She sent Tanaka a message that read, in its entirety:
+"Thank you for not halting the cascade. I would not have blamed you if
+you had."
+
+Tanaka kept the message on her desk, next to the original resonance maps
+and the eight-centimeter stack of printout that had started the whole
+thing. She kept working. The swarm needed constant attention -- minor
+adjustments, maintenance cycles, the occasional collector replacement.
+And there were new proposals on her desk: extensions, optimizations,
+second-generation designs that pushed the collection envelope even further.
+
+She reviewed each proposal carefully. She ran the numbers. She checked
+the margins. And she asked, each time, the question that the first
+twenty-three years had taught her was the most important question an
+engineer could ask:
+
+What happens if it works too well?
+
+The swarm turned in the sunlight, nine hundred and twelve million panels
+catching and redirecting the energy of a star. Beneath them, the inner
+planets warmed. The corridors held. The light came through.
+
+It was, Tanaka decided, good engineering.
+
+                            [THE END]
+
+================================================================================
+
+                          THE EMISSARY
+
+                        by Theodore Cain
+
+================================================================================
+
+                              I.
+
+The alien ambassador arrived at the United Nations compound in Geneva on a
+Tuesday morning in April, and the first thing it did was rearrange the
+lobby furniture.
+
+David Ng, senior protocol officer for the UN's newly formed Office of
+Extraterrestrial Affairs, watched through the security monitor as the
+being -- a shimmering column of amber light approximately two meters tall
+and one meter in diameter -- drifted through the main entrance, paused in
+the center of the lobby, and began to move things. The reception desk
+shifted three meters to the left. The row of leather chairs along the
+north wall migrated to the south wall. The potted ficus tree that had
+stood in the corner for as long as anyone could remember levitated six
+inches off the ground, rotated forty-five degrees, and set itself down
+again with a soft thud.
+
+The security team, to their credit, did not open fire. They had been
+briefed. They had been told that the Emissary -- the name the being had
+given itself in its initial radio transmission, or rather, the closest
+English approximation of a concept that had taken three linguists and a
+mathematician two weeks to decode -- would communicate through actions
+rather than words. They had been told to observe, not to intervene.
+
+They observed. They observed the reception desk moving to a position that
+blocked the east corridor. They observed the leather chairs arranging
+themselves in a tight circle facing inward. They observed the ficus tree
+settling into its new orientation with an air of botanical satisfaction.
+
+"What does it mean?" asked Undersecretary Marguerite Fleury, who was
+standing next to Ng in the monitoring room, gripping her briefing folder
+with the intensity of someone holding a life preserver.
+
+"I don't know," Ng said. He was a careful man -- Hong Kong-born, Oxford-
+educated, with twenty years of diplomatic experience spanning four
+continents and seven languages, none of which appeared to be relevant to
+the current situation. His training had prepared him to interpret tone,
+gesture, facial expression, cultural context, and the seventeen varieties
+of diplomatic silence. It had not prepared him for furniture.
+
+"Can you guess?" Fleury pressed.
+
+"In diplomacy, Undersecretary, guessing is what starts wars."
+
+"In diplomacy, Mr. Ng, not guessing is what prolongs them."
+
+He conceded the point with a slight nod. "It moved the desk to block the
+east corridor. The east corridor leads to the administrative offices --
+bureaucracy, in other words. Blocking it could mean: 'I do not wish to
+deal with your bureaucracy.' Or it could mean: 'I wish to protect your
+bureaucracy from something.' Or it could mean that the desk was in a
+position that the Emissary found aesthetically displeasing."
+
+"Aesthetically displeasing."
+
+"We have no basis for ruling it out."
+
+"What about the chairs?"
+
+"A circle facing inward suggests conversation. Intimacy. 'Let us sit
+together and talk.' Or possibly: 'I am containing you.' Or possibly: 'I
+find right angles offensive.'"
+
+"And the tree?"
+
+"Madam Undersecretary, I have no theory about the tree."
+
+                              * * *
+
+The welcoming ceremony had been planned for months. It was the most
+carefully choreographed diplomatic event in human history, and it was
+held in Conference Room Seven, which the advance team had spent six weeks
+preparing. The room featured a custom-built table (round, to avoid
+implications of hierarchy), seating for forty-eight delegates (each chair
+equidistant from the center, to avoid implications of hierarchy), and a
+precisely calibrated ambient temperature of 20 degrees Celsius (selected
+because the Emissary had, in its radio transmissions, expressed comfort
+with "the mid-range of your thermal spectrum," which three teams of
+scientists had debated for a week before agreeing on 20 degrees, plus or
+minus one).
+
+The Emissary entered Conference Room Seven at 10:00 AM sharp and
+immediately disassembled the table.
+
+Ng watched from his position near the door as the amber column of light
+drifted to the center of the room, paused, and then -- delicately,
+precisely, without any visible tool or appendage -- began removing the
+table's components. The surface lifted off the base. The base separated
+into its four legs. The legs drifted to the corners of the room and stood
+upright, like sentinels. The surface hovered for a moment at chest height,
+then descended gently to the floor, where it lay flat, like a low
+platform or a stage.
+
+The forty-eight delegates sat in their equidistant chairs and stared.
+
+Secretary-General Andrade, who was chairing the ceremony, looked at Ng
+with an expression that communicated, in the universal language of
+bureaucratic panic: *Do something.*
+
+Ng stepped forward. He had prepared a welcoming address -- three paragraphs
+of carefully vetted prose that had been reviewed by sixteen committees and
+translated into Mandarin, Arabic, French, Spanish, Russian, and the
+mathematical notation that the Emissary's radio transmissions had used.
+He had memorized it in all seven versions. He now suspected that none of
+them would be relevant.
+
+"Emissary," he said, addressing the column of light. "On behalf of the
+people of Earth, I welcome you. We are honored by your presence. We hope
+that this meeting will be the beginning of a lasting understanding between
+our peoples."
+
+The Emissary pulsed. Its amber light brightened, then dimmed, then
+brightened again in a rhythm that Ng could not interpret. Then it moved to
+the nearest delegate -- the representative from Brazil -- and gently
+lifted his briefcase off his lap. The briefcase drifted to the center of
+the room and settled on the flat table surface. The Emissary opened it.
+
+Inside the briefcase were the usual accoutrements of a diplomat: papers,
+pens, a calculator, a packet of breath mints, and a photograph of the
+delegate's family. The Emissary removed each item and arranged them on
+the table surface in a pattern that was not random but which Ng could not
+immediately decode. The papers went in a fan-shaped array. The pens formed
+a small triangle. The calculator was placed equidistant between the papers
+and the pens. The breath mints were stacked in a small tower. The family
+photograph was propped upright, facing outward, at the arrangement's
+center.
+
+The Emissary pulsed again, then moved to the next delegate.
+
+Over the next ninety minutes, the Emissary repeated this process with
+every briefcase, handbag, portfolio, and jacket pocket in the room. It
+was methodical, unhurried, and scrupulously gentle -- not a single item
+was damaged, not a single document was creased. The delegates sat in their
+chairs and allowed it to happen, partly because they had been instructed
+not to interfere and partly because there was something about the
+Emissary's movements that was unexpectedly soothing, like watching a
+very slow, very purposeful tide.
+
+When it finished, the table surface was covered with a mosaic of personal
+items arranged in interlocking patterns. Family photos formed a ring at
+the center, all facing outward. Writing implements radiated from the ring
+like spokes. Papers fanned around the edges in overlapping arcs. One
+delegate's reading glasses sat balanced on another delegate's cigarette
+case, forming a small, improbable sculpture.
+
+Ng stared at it. He stared at it for a long time.
+
+"It's a portrait," he said quietly.
+
+Fleury, who had materialized at his elbow, said, "What?"
+
+"A portrait. Of us. It's used our possessions to make a portrait of what
+we are. The families at the center -- because that's what's most important
+to us. The tools of communication radiating outward -- because that's what
+we do, we reach out. The papers around the edges -- our ideas, overlapping,
+connecting. The glasses on the cigarette case -- our contradictions, our
+vanities, our fragile balancing acts."
+
+Fleury was silent for a moment. "Or it's sorting our things by density."
+
+"It could be sorting our things by density."
+
+"How do we find out?"
+
+"We keep watching."
+
+                              II.
+
+The banquet was scheduled for that evening, in the Grand Dining Hall. The
+catering team had agonized for weeks over the menu, eventually settling
+on a selection of dishes from every major culinary tradition, presented
+on neutral white plates with no national insignia. The wine had been
+chosen by a committee. The flowers had been chosen by a different
+committee. The seating chart had been the subject of what one exhausted
+aide described as "the most intense negotiation since Yalta."
+
+The Emissary arrived in the dining hall thirty minutes before the guests
+and deconstructed the buffet.
+
+Ng, who had posted himself in the dining hall's service corridor in
+anticipation of exactly this kind of development, watched through the
+cracked door as the amber column dismantled the evening's meal with the
+precision of a master chef working in reverse. Serving dishes lifted off
+the buffet table. Lids removed themselves. Foods separated from their
+plates and arranged themselves in the air -- hovering, rotating slowly,
+as though being examined.
+
+The Emissary spent particular attention on a roast duck. It lifted the
+bird off its platter, rotated it slowly through three axes, and then --
+with a delicacy that Ng found almost tender -- separated the meat from
+the bones. The bones drifted to one side of the room. The meat drifted
+to the other. The skin floated to a point midway between them and hung
+there, translucent in the light.
+
+Then it did the same to a wheel of Gruyere. And a bowl of couscous. And
+a platter of sushi. And a tureen of borscht, which was particularly
+impressive, as the Emissary managed to suspend the liquid in a perfect
+sphere, rotating slowly, with the sour cream forming a white spiral
+through the red like a small galaxy.
+
+"It's analyzing our food," said Dr. Kenji Mori, the xenobiologist who had
+been assigned to Ng's observation team. Mori was pressed against the
+door beside Ng, his eyes wide, his voice a hoarse whisper. "It's breaking
+down the components. Proteins, carbohydrates, fats, minerals. It's
+studying how we nourish ourselves."
+
+"Or it's offended by the presentation," Ng said.
+
+"Nobody is offended by the presentation. We spent three weeks on the
+presentation."
+
+"Dr. Mori, this being communicates by rearranging furniture. I think we
+can safely say that presentation matters to it."
+
+They watched as the Emissary completed its deconstruction. Every dish had
+been separated into its constituent parts, and those parts hung in the
+air throughout the dining hall in a three-dimensional map of human
+cuisine. Grains clustered near the ceiling. Proteins hung at eye level.
+Vegetables and fruits formed a ring around the room's perimeter. Liquids --
+wine, water, broth, sauces -- orbited each other in the center of the
+room in a slow, stately dance.
+
+And then, as Ng watched, the Emissary began to reassemble.
+
+But not as the catering team had arranged things. The Emissary combined
+ingredients across traditions, across continents, across every cultural
+boundary that the carefully neutral menu had been designed to respect.
+Sushi rice wrapped around lamb from the Moroccan tagine. Borscht became
+the sauce for the Peking duck. The Indian naan folded itself around the
+Greek dolmas. The French Gruyere melted over the Japanese tempura.
+
+When it finished, the buffet table held a single, continuous meal -- one
+long composition of food that flowed from one end of the table to the
+other without interruption, each element merging into the next, every
+tradition present but none separate. It was, Ng realized, the culinary
+equivalent of the lobby's furniture arrangement and the conference room's
+personal-item mosaic: a portrait of humanity as a single thing, its
+components rearranged to reveal a unity that the original arrangement had
+obscured.
+
+Or it was a being that liked to play with its food. Ng was not ruling
+anything out.
+
+                              * * *
+
+The delegates arrived for the banquet and found their meal transformed.
+Most of them stared. Several asked questions. The delegate from France
+looked at the Gruyere-tempura with an expression that suggested he was
+reconsidering his commitment to interspecies diplomacy.
+
+Secretary-General Andrade looked at Ng. "Can we eat it?"
+
+Ng looked at Mori. Mori looked at the food. "The nutritional content is
+unchanged. It's just been... recombined."
+
+"Is it safe?"
+
+"The Emissary handled every ingredient with more care than our catering
+staff. If anything, it's more hygienic than it was before."
+
+Andrade nodded. "Then we eat it."
+
+They ate it. And here was the thing that Ng had not expected, the thing
+that made him stop mid-bite and set down his fork and look at the Emissary
+with something that was not understanding, exactly, but was the first
+distant glimmer of it: the food was good. Not just edible, not just
+nutritionally adequate, but *good*. The combinations that should have been
+absurd -- the borscht-duck, the naan-dolmas, the rice-lamb fusion --
+worked. They worked because the Emissary had understood something about
+the individual flavors that the original chefs, bound by tradition and
+convention, had not thought to explore. It had found harmonies across
+boundaries. It had heard a chord where they had heard separate notes.
+
+The French delegate was on his third helping of the Gruyere-tempura.
+
+                              III.
+
+After the banquet, Ng sat in his office and wrote his report. It was, he
+suspected, the strangest diplomatic brief in the history of the profession.
+
+He wrote: "The Emissary communicates by rearranging the physical world.
+It does not speak, it does not write, it does not gesture in any way that
+our kinesics experts can interpret. Instead, it takes what it finds --
+furniture, personal possessions, food -- and reorganizes it to express
+ideas. The mode of communication is the rearrangement itself."
+
+He paused. He crossed out the last sentence and replaced it: "The mode of
+communication IS the rearrangement itself. Not a symbol for an idea. The
+idea itself, made tangible."
+
+He continued: "Based on three observed rearrangements (lobby, conference
+room, banquet), I offer the following preliminary interpretation: the
+Emissary is expressing a single, consistent message. That message,
+translated as closely as I am able into diplomatic language, is: 'You are
+one thing. You have divided yourselves into many things -- nations,
+cultures, traditions, hierarchies. But you are one thing. I can see it.
+Let me show you.'"
+
+He put down his pen and rubbed his eyes. Twenty years of diplomacy. Seven
+languages. Four continents. Seventeen varieties of silence. And the most
+eloquent communicator he had ever encountered was a being that couldn't
+say a word.
+
+                              * * *
+
+The piano was the last thing.
+
+It stood in the corner of the reception lounge on the compound's third
+floor -- a Steinway concert grand, donated by the Austrian delegation
+in 1949, kept in tune by a blind Swiss technician named Herr Gruber who
+came every Thursday and who refused to discuss the instrument in anything
+other than German, regardless of the questioner's nationality.
+
+The Emissary found the piano on the morning of its third day. Ng was not
+present for this -- he was in a meeting with Fleury, reviewing the
+overnight surveillance footage -- but the security cameras captured it.
+
+The amber column drifted into the reception lounge, paused in the center
+of the room, and then moved to the piano. It circled the instrument
+slowly, as though examining it from every angle. Then it opened the lid.
+
+It did not play the piano. What it did was, by Ng's later estimation,
+considerably more interesting.
+
+It disassembled the piano.
+
+Not destructively. Not violently. With the same delicate precision it had
+shown with the buffet, it separated the Steinway into its component parts.
+The keys lifted from their beds and arranged themselves in a long,
+floating line, white and black alternating in a pattern that was not the
+standard keyboard layout but something else -- something that Ng, watching
+the footage later, could not immediately identify. The hammers detached
+from their mechanisms and formed a circle in the air, their felt heads
+pointing inward. The strings -- all two hundred and thirty of them --
+unwound from their pins and stretched themselves across the room like a
+harp made of light, each string vibrating at its natural frequency, filling
+the lounge with a sound that was not music, exactly, but was not not music
+either. It was the sound of the piano's potential -- every note it could
+play, every harmony it could produce, all sounding simultaneously in a
+shimmer of overtones that the security microphones could barely capture.
+
+And in the center of it all, the soundboard -- the curved wooden heart of
+the instrument, the surface that gave the piano its voice -- hovered at
+chest height, glowing faintly with reflected amber light. Ng could see,
+in the footage, that the Emissary had positioned the soundboard so that
+the vibrations from the suspended strings resonated through it, and the
+resonance was not random. It was shaped. The Emissary was using the
+deconstructed piano to produce a sound that a fully assembled piano could
+not make -- a sound that required the instrument's components to be free
+of each other, each element contributing its individual voice to a whole
+that was greater than the sum of its parts.
+
+Ng played the footage four times. On the fourth viewing, he noticed
+something he had missed before. The keys, arranged in their floating line,
+were not in a random order. They were arranged by frequency -- lowest to
+highest -- but the white and black keys were interleaved differently than
+on a standard keyboard. On a standard keyboard, the arrangement reflected
+the Western diatonic scale, with its pattern of whole and half steps. The
+Emissary's arrangement had no half steps. Every interval was equal. It was
+a keyboard redesigned for a scale that treated every note as equivalent --
+no sharps, no flats, no hierarchy of tones.
+
+No hierarchy.
+
+Ng sat back in his chair and laughed. It was the first time he had laughed
+since the Emissary arrived, and it startled Fleury, who was reading over
+his shoulder.
+
+"What is it?" she asked.
+
+"It's the same message," Ng said. "The same message it's been saying since
+it walked through the door. 'You are one thing. Let me show you.' The
+lobby, the conference room, the food, the piano -- it's all the same
+message, in different languages. It's learning our languages -- furniture,
+food, music -- and using each one to say the same thing."
+
+"Which is?"
+
+"'You have built walls between yourselves, and the walls are not real. Let
+me take them down and show you what you look like without them.'"
+
+Fleury considered this. "That's a very optimistic interpretation."
+
+"It is."
+
+"It could also be saying: 'Your divisions are inefficient, and I am
+correcting them.'"
+
+"It could."
+
+"Or: 'I am demonstrating my power by taking your things apart.'"
+
+"Also possible."
+
+"So which is it?"
+
+Ng looked at the frozen image on his screen: the piano's strings stretched
+across the lounge like bridges, the keys floating in their egalitarian
+line, the soundboard glowing at the center of it all, making music that no
+assembled instrument could make.
+
+"I don't know," he said. "But I want to find out. And I think -- I think
+that wanting to find out is the right response. I think that's what it's
+hoping for."
+
+"You're guessing."
+
+"Yes. In diplomacy, Undersecretary, guessing is sometimes how
+understanding begins."
+
+Fleury looked at him for a long moment. Then she smiled -- the first
+genuine smile he had seen from her since the Emissary's arrival -- and
+said, "Then I suggest you keep guessing, Mr. Ng."
+
+He did. He kept guessing. And the Emissary kept rearranging. And slowly,
+one piece of furniture at a time, they began to understand each other.
+
+Herr Gruber, informed that the piano had been disassembled, said only:
+"If it puts it back together in better tune than I left it, I will be
+very annoyed."
+
+It did. He was.
+
+                            [THE END]
+
+================================================================================
+
+                       THE PROMETHEUS VERDICT
+
+                       by Dr. Vincent Koslov
+
+================================================================================
+
+                              I.
+
+The paper was seven pages long and contained no equations that a competent
+graduate student could not follow. This was, in retrospect, the most
+dangerous thing about it.
+
+Dr. Adela Ruiz submitted "On the Extraction of Zero-Point Energy from the
+Quantum Vacuum: A Practical Framework" to the Physical Review Letters on a
+Monday morning in September, uploading it through the journal's electronic
+submission portal from her office at the University of São Paulo. The
+paper described a method for drawing effectively unlimited energy from the
+quantum vacuum -- the seething, invisible substrate of empty space, where
+virtual particles flickered in and out of existence in accordance with
+Heisenberg's uncertainty principle. Physicists had known for decades that
+the vacuum contained energy. What Ruiz demonstrated, in seven pages of
+lucid prose and straightforward mathematics, was how to get it out.
+
+She submitted the paper at 9:14 AM São Paulo time. By 9:47, the journal's
+automated system had forwarded it to three peer reviewers. By 10:30, two
+of the three reviewers had read it and independently concluded that the
+physics was correct. By 11:15, the third reviewer -- a Nobel laureate
+at MIT who had spent his career arguing that vacuum energy extraction was
+impossible -- had read it, checked the math twice, and sent a one-line
+email to the journal's editor-in-chief that read: "She's right. God
+help us."
+
+By noon, the paper had been forwarded, through channels that were
+technically confidential but practically porous, to the physics divisions
+of seven national governments. By 3:00 PM, those governments had
+classified it. By 6:00 PM, Dr. Adela Ruiz had been arrested.
+
+                              * * *
+
+The arresting officers were polite. There were four of them -- two from
+the Brazilian Federal Police and two from an agency that declined to
+identify itself. They arrived at Ruiz's office at 6:22 PM, showed her a
+warrant that cited national security statutes she had never heard of, and
+asked her to accompany them. They did not handcuff her. They did not raise
+their voices. They addressed her as "Professora" and allowed her to
+collect her coat, her bag, and a photograph of her daughter that she kept
+on her desk.
+
+She was taken to a federal building in downtown São Paulo, escorted to
+a windowless room on the fourteenth floor, and left alone for two hours.
+The room contained a table, two chairs, and a carafe of water. There was
+no clock. She drank the water and waited.
+
+At 8:40 PM, a man entered the room and introduced himself as Director
+Cardoso of the National Science Security Division -- an organization
+Ruiz had not known existed. He was a trim, gray-haired man in a dark
+suit, and he carried a folder that contained, Ruiz could see, a printout
+of her paper.
+
+"Dr. Ruiz," Cardoso said, sitting down across from her, "do you
+understand why you are here?"
+
+"Because I published a physics paper."
+
+"Because you published a physics paper that describes how to build an
+unlimited energy source from materials available at any university
+laboratory." Cardoso opened the folder and turned to the second page.
+"Section Three of your paper specifies the apparatus. A superconducting
+resonance cavity, a coherent field oscillator, and a quantum decoherence
+amplifier. You estimate the total materials cost at approximately forty
+thousand U.S. dollars."
+
+"Thirty-eight thousand, if you shop carefully."
+
+Cardoso did not smile. "Dr. Ruiz, are you aware that every government that
+has reviewed your paper has reached the same conclusion?"
+
+"That it's correct?"
+
+"That it is catastrophically dangerous."
+
+Ruiz was quiet for a moment. She had anticipated this reaction -- not the
+arrest, which had genuinely surprised her, but the fear. She had known,
+when she completed the derivation six months ago, that the implications
+would terrify people. Unlimited energy meant unlimited power. It meant
+the end of oil, coal, natural gas, nuclear fission, solar panels, and
+every other energy infrastructure on Earth. It meant the end of energy
+scarcity, which meant the end of the economic systems built on energy
+scarcity, which meant the end of -- well, that was where the projections
+diverged, depending on whether you were an optimist or a pessimist.
+
+"Director Cardoso," she said, "I am a physicist. I discovered a physical
+law. I published it because that is what physicists do."
+
+"Physicists who work on nuclear weapons do not publish their results."
+
+"I did not build a weapon. I described a phenomenon."
+
+"The phenomenon you described will allow any nation, any corporation, any
+sufficiently motivated individual to generate enough energy to power a
+city. Or to destroy one. The distinction, Dr. Ruiz, lies in the
+application, and application is precisely what your paper enables."
+
+"Then the danger lies in the application, not the knowledge."
+
+Cardoso leaned back in his chair. He had the patient expression of a man
+who had conducted this type of conversation before -- perhaps not about
+physics, but about the boundary between knowledge and its consequences.
+
+"Dr. Ruiz, every major government on Earth has classified your paper. It
+has been removed from the Physical Review's submission queue. The three
+peer reviewers have been contacted and asked to treat their knowledge of
+the paper's contents as classified information. Your university's computer
+systems are being searched for copies, and your personal devices will be
+examined. The goal is containment."
+
+"You can't contain a physical law," Ruiz said. "I discovered it. Someone
+else will discover it. The mathematics is not obscure. It follows from
+principles that are taught in every graduate program in quantum field
+theory. If you suppress my paper, you are buying time, not preventing
+discovery."
+
+"Time," Cardoso said, "is sometimes all we can buy."
+
+                              II.
+
+The trial began four months later, in a closed courtroom in Brasilia.
+
+It was not called a trial. The official designation was "Inquiry into
+Matters of National Scientific Security," because no existing law
+specifically prohibited the publication of a physics paper, and the
+Brazilian government's legal team had spent four months trying to find --
+or create -- a statute under which Ruiz could be charged. They eventually
+settled on an obscure provision of the National Defense Act that
+prohibited the unauthorized disclosure of "strategic technologies or
+processes," interpreting "disclosure" to include publication in a
+peer-reviewed journal and "strategic technologies" to include theoretical
+physics.
+
+Ruiz's defense attorney was a constitutional lawyer named Beatriz Lourdes,
+a tall, sharp-featured woman who had made her reputation defending
+journalists and whistleblowers. Lourdes had taken the case pro bono,
+telling Ruiz, "This is either the most important free-speech case in
+history or the most important science case. Either way, I want it."
+
+The presiding judge was Justice Eliana Tavares, who had been chosen
+because she held a doctorate in biochemistry in addition to her law
+degree and was therefore considered capable of understanding the technical
+arguments. She was a small, composed woman with gray hair and the alert,
+skeptical expression of someone who was accustomed to being the smartest
+person in the room and polite enough not to mention it.
+
+The courtroom was small and windowless -- a converted conference room in
+the federal courthouse, hastily fitted with a judge's bench, tables for
+prosecution and defense, and a gallery of twelve seats, all occupied by
+representatives of foreign governments who had petitioned for observer
+status. The United States, China, Russia, and the European Union each
+had a representative. So did Japan, India, Brazil (obviously), and five
+smaller nations whose interest in the proceedings was not immediately
+clear but who had argued, successfully, that a case involving unlimited
+energy was everybody's business.
+
+Director Cardoso sat in the gallery as well, his folder on his lap, his
+expression neutral.
+
+The prosecution was led by Federal Prosecutor Helena Braga, a methodical
+woman with a voice like a cello, who opened the government's case with
+a statement that was, Ruiz had to admit, devastatingly effective.
+
+"This is not a case about science," Braga told the court. "The government
+does not dispute the accuracy of Dr. Ruiz's research. We do not question
+her mathematics, her methodology, or her conclusions. We accept, for the
+purposes of this inquiry, that her paper describes a viable method for
+extracting unlimited energy from the quantum vacuum.
+
+"This is a case about responsibility. Specifically: does a scientist have
+the right -- the unrestricted, unqualified right -- to release any
+discovery into the world, regardless of its consequences? The defense will
+argue that knowledge is inherently neutral, that the pursuit and
+publication of truth is the foundational principle of science, and that
+any attempt to restrict it is a step toward tyranny. These are powerful
+arguments, and we do not dismiss them lightly.
+
+"But we ask the court to consider a different question. If a chemist
+discovers a formula for a nerve agent that can be synthesized from
+household products, does she have the right to publish it? If a biologist
+sequences a pathogen that could cause a pandemic, does he have the right
+to post the sequence online? If a physicist devises a method for
+generating unlimited energy -- energy that can power a civilization or
+vaporize a continent -- does she have the right to make that knowledge
+available to every government, every corporation, every militia, and
+every madman on Earth?
+
+"We argue that she does not. We argue that some discoveries carry
+obligations that supersede the right to publish. We argue that Dr. Ruiz,
+in submitting her paper without consulting any governmental authority,
+without considering the geopolitical implications, without taking any
+precaution whatsoever beyond the standard peer-review process, committed
+an act of reckless endangerment on a civilizational scale."
+
+                              * * *
+
+Lourdes's opening statement was shorter.
+
+"Your Honor," she said, "the government's argument reduces to a single
+proposition: that the truth can be too dangerous to tell. I submit that
+this proposition, if accepted, does not merely restrict science. It
+abolishes it. Science is the process by which human beings determine what
+is true about the physical universe. It requires publication, peer
+review, replication, and open debate. Remove any of these elements and you
+do not have science. You have alchemy -- knowledge hoarded by the
+powerful, dispensed at their discretion, available only to those they
+trust.
+
+"My client is a physicist. She discovered a law of nature. She published
+it, as physicists have done for four hundred years. The government asks
+this court to declare that publication a crime. If the court agrees, then
+every physicist, every chemist, every biologist, every scientist in every
+discipline must henceforth ask the government's permission before sharing
+their work with the world. Knowledge becomes a controlled substance.
+Truth becomes contraband.
+
+"The government says this is about responsibility. I agree. It is about
+the responsibility of a free society to face the truth, even when the
+truth is frightening. Dr. Ruiz gave the world a gift. The government's
+response was to arrest the gift-giver."
+
+                              III.
+
+The trial lasted three weeks. Ruiz testified for two days.
+
+She was, the observers agreed, an effective witness -- not because she
+was theatrical or eloquent, but because she was precise. She answered
+questions in the same clear, unadorned language in which she had written
+her paper. When the prosecutor asked her whether she had considered the
+military applications of her discovery, she said, "Of course I did." When
+asked why she had published anyway, she said, "Because the alternative
+was to hide a law of nature, and I do not believe that any individual
+or government has the right to decide what the universe is allowed to
+tell us."
+
+The prosecution's expert witnesses were impressive. A retired general
+testified about the weaponization potential of unlimited energy. An
+economist described the global financial disruption that would result
+from the collapse of the energy industry. A political scientist argued
+that vacuum energy extraction would destabilize the international order
+by eliminating the resource dependencies that bound nations into
+cooperative frameworks. Each witness was credentialed, articulate, and
+persuasive.
+
+The defense called three witnesses: a historian of science, a
+constitutional scholar, and a physicist.
+
+The historian, Dr. Miriam Sosa, traced the pattern of scientific
+suppression through the centuries. "Galileo," she said. "Semmelweis.
+Oppenheimer. Sakharov. Every era produces discoveries that powerful
+institutions wish to suppress. Every era produces arguments for why
+suppression is necessary, responsible, even moral. And in every case --
+every single case -- suppression fails, and the attempt to suppress causes
+more harm than the discovery itself. You cannot lock the door of knowledge
+after someone has opened it. You can only punish the person who opened it,
+and that punishment does not close the door."
+
+The constitutional scholar, Professor Luis Mendez, argued that the
+National Defense Act's "strategic technologies" provision was
+unconstitutional as applied to basic research. "The government's
+interpretation would classify every physics textbook as a potential
+national security document," he said. "Quantum field theory is taught at
+every major university in the world. The principles underlying Dr. Ruiz's
+discovery are in the public domain. Her contribution was not the physics;
+it was a particular arrangement of known physics into a novel practical
+framework. If that arrangement is criminal, then creativity itself is
+criminal."
+
+The physicist was Dr. James Chen of Stanford, who had spent twenty years
+researching vacuum energy and who had, by his own admission, been working
+toward the same breakthrough that Ruiz had achieved.
+
+"I was approximately two years behind her," Chen testified. "Possibly
+less. The theoretical foundations have been in place since the 1990s. The
+specific insight that Dr. Ruiz had -- the use of coherent field
+oscillation to couple the resonance cavity to the vacuum state -- is
+elegant, but it is not obscure. I would have reached it. Others will
+reach it. If this court suppresses Dr. Ruiz's paper, the knowledge it
+contains will be independently rediscovered within five years. Probably
+sooner. The only question is whether the discoverer will be another
+academic who publishes in a peer-reviewed journal, or a government
+scientist who delivers it directly to the military."
+
+Braga, in cross-examination, asked Chen: "If you had made this discovery,
+would you have published it?"
+
+Chen was quiet for a long moment. Then he said, "I don't know. And the
+fact that I don't know is exactly why it's important that Dr. Ruiz did."
+
+                              * * *
+
+Justice Tavares delivered her ruling on a Friday afternoon, to a courtroom
+that was standing room only. The gallery had expanded to twenty-four
+seats, and every one was filled. Director Cardoso sat in his usual place,
+his folder closed on his lap.
+
+Tavares spoke for forty minutes. Her opinion was methodical, exhaustive,
+and, in its final pages, unexpectedly personal.
+
+She reviewed the legal arguments, finding that the National Defense Act's
+"strategic technologies" provision was "constitutionally problematic as
+applied to basic research" but not definitively unconstitutional. She
+reviewed the expert testimony, noting that both sides had presented
+"credible, well-supported arguments that lead to fundamentally
+irreconcilable conclusions." She reviewed the factual record, observing
+that Dr. Ruiz had followed every standard protocol for academic
+publication and had violated no existing regulation.
+
+Then she set aside her prepared text and spoke directly.
+
+"This case asks a question that no court is equipped to answer," she said.
+"It asks whether the truth can be too dangerous to know. Not too
+dangerous to *use* -- we have laws governing the use of dangerous
+knowledge, and they are imperfect but necessary. But too dangerous to
+*know*. Too dangerous to publish. Too dangerous to share.
+
+"I have spent three weeks listening to arguments on both sides, and I find
+them both compelling. The government is correct that Dr. Ruiz's discovery
+has the potential to destabilize the global order. The defense is correct
+that the suppression of scientific knowledge is incompatible with the
+principles of a free society. Both of these things are true, and they
+cannot both prevail.
+
+"But I am a judge, not a philosopher, and I must decide the case before
+me. And the case before me is narrow: did Dr. Adela Ruiz commit a crime
+by publishing a physics paper? The answer to that question is no. She
+did not violate any existing law. She followed every applicable protocol.
+She submitted her work to a peer-reviewed journal, which is the standard
+and expected practice of her profession. The government's attempt to
+retroactively classify her research and charge her under a statute
+designed for military secrets is a legal overreach that this court cannot
+endorse."
+
+Tavares paused. In the gallery, fourteen governments held their breath.
+
+"Dr. Ruiz is acquitted of all charges. Her paper shall be declassified
+and returned to the publication queue of the Physical Review Letters. All
+copies of her research that were confiscated during the investigation
+shall be returned. Any restrictions placed on the three peer reviewers
+shall be lifted immediately."
+
+She paused again. And then she said something that was not in any legal
+textbook, something that the court reporters would transcribe and the
+newspapers would print and the historians would debate for decades:
+
+"I am aware that this ruling may be wrong. Not legally wrong -- I am
+confident in the law. But consequentially wrong. It is possible that this
+paper, once published, will lead to destruction that I cannot foresee and
+that no law can prevent. I accept that possibility. I accept it because
+the alternative -- a world in which governments decide what scientists
+are allowed to discover -- frightens me more than any bomb.
+
+"Dr. Ruiz did not create the quantum vacuum. She did not invent the
+physical laws that govern it. She observed them, described them, and
+shared her observations with the world. If we punish her for that, we are
+not protecting civilization. We are blinding it.
+
+"The defendant is free to go."
+
+                              IV.
+
+Ruiz walked out of the courthouse into São Paulo's late-afternoon light.
+The sun was low and golden, throwing long shadows across the plaza. A
+small crowd had gathered -- journalists, mostly, but also a handful of
+students who held signs reading CIENCIA LIVRE and KNOWLEDGE IS NOT A
+CRIME. One of them, a young woman in a university sweatshirt, pressed
+forward and asked Ruiz to sign her copy of the paper.
+
+Ruiz signed it. Then she stood on the courthouse steps and made a brief
+statement to the cameras.
+
+"The court has ruled that the truth is not a crime," she said. "I am
+grateful for that ruling. But I want to be clear about something. The
+prosecutor was not wrong to be afraid. This discovery will change the
+world. It will change the balance of power between nations. It will
+eliminate the scarcity that has driven human conflict for millennia. And
+yes, it will create new dangers that we cannot fully predict.
+
+"But the solution to dangerous knowledge is not less knowledge. It is
+more wisdom. And wisdom is not something that governments can classify
+or courts can suppress. It is something we must build, together, in the
+open, where everyone can see it and everyone can contribute to it.
+
+"My paper is seven pages long. The work of making its discovery safe and
+beneficial will require the efforts of millions. That work begins now."
+
+She descended the steps and walked to a waiting car. Director Cardoso
+was standing beside it.
+
+"Congratulations, Dr. Ruiz," he said. His tone was not bitter. It was
+not warm, either. It was the tone of a man who had done his job, had
+lost, and was preparing to do his job differently.
+
+"Director."
+
+"For what it's worth, I hope the judge is right."
+
+"So do I."
+
+He opened the car door for her. She got in. As the car pulled away, she
+looked back through the rear window and saw Cardoso standing on the
+sidewalk, his folder under his arm, watching her go. Behind him, the
+courthouse caught the last of the day's light, its windows blazing orange,
+its shadow stretching long across the plaza toward the east, where the
+evening was already beginning and the first stars were becoming visible
+in the darkening sky.
+
+Stars that burned, she knew now, with the same energy that filled the
+empty spaces between them. Energy that had always been there, patient and
+vast and waiting. Waiting for someone to notice.
+
+She had noticed.
+
+Now everyone would.
+
+                            [THE END]
+
+================================================================================
+
+                      THE FOXHOUND OF MARS
+
+                        by Rex Drummond
+
+================================================================================
+
+                              I.
+
+Kit Ravenal tracked the fugitive into the Valles Marineris on the third
+day, and that was where things went sideways.
+
+She'd picked up the contract on Burroughs Station -- a standard skip-trace,
+posted by the Colonial Authority, offering five thousand credits for the
+live recovery of one Mikael Drost, wanted for sedition, incitement, and
+"acts prejudicial to colonial order," which was the Authority's polite way
+of saying he'd made somebody important very angry. The bounty was decent.
+The target's file photo showed a thin, tired-looking man in his forties
+with academic's spectacles and the kind of face that belonged behind a
+desk, not on the run in the Martian outback. Easy money, Kit figured.
+
+She figured wrong.
+
+Drost had a three-day head start, a stolen crawler, and -- Kit discovered
+when she found the crawler abandoned at the rim of Coprates Chasma --
+either a death wish or a better knowledge of the Martian backcountry than
+his file suggested. Nobody drove a crawler into Coprates. The canyon was
+eight kilometers deep, the walls were vertical basalt, and the floor was a
+maze of rockfall, dust drifts, and the ruins of what the archaeologists
+called Pre-Human Site Seven, which everyone else called the Bone Yard on
+account of the fossilized structures that jutted from the canyon floor
+like the ribs of some vast, buried animal.
+
+Kit stood at the canyon rim, her boots crunching on iron-red regolith,
+and looked down. The wind -- thin and mean, carrying a freight of dust
+that sandblasted any exposed skin -- whipped the tails of her duster coat
+and tried to push her over the edge. Her rebreather mask fogged with each
+exhale. Through the fog, the canyon yawned below her, its depths lost in
+amber haze.
+
+"Son of a gun," she said to nobody.
+
+She went over the side.
+
+                              * * *
+
+Kit Ravenal was thirty-four years old, Mars-born, and built for the
+gravity -- lean and long-limbed, with the ropy muscle of someone who'd
+grown up at 0.38 g and had never set foot on Earth. She'd been a Colonial
+Authority deputy for six years before she went freelance, and the reason
+she went freelance was the same reason most deputies went freelance: she
+got tired of arresting people for crimes that weren't crimes.
+
+That thought came back to her now, climbing down the canyon wall with her
+gecko-grips biting into the basalt and eight kilometers of nothing below
+her. Sedition. Incitement. Acts prejudicial to colonial order. The
+Authority's menu of charges for people who said things the Authority
+didn't like. She'd arrested two dozen of them in her deputy years --
+journalists, union organizers, a schoolteacher who'd written a letter to
+the Phobos Gazette about water rations. Every one of them had gone
+quietly. Every one of them had looked at her with the same expression:
+not anger, not fear, but disappointment. As if they'd expected better
+from someone who wore the badge.
+
+She'd turned in the badge after the schoolteacher. Went freelance. Took
+contracts for skip-traces and asset recovery -- honest work, or at least
+work where you didn't have to think too hard about who deserved what.
+Fugitives ran. She caught them. The Authority paid her. Clean and simple.
+
+Except when it wasn't.
+
+She reached the canyon floor in four hours, rappelling the last five
+hundred meters on a carbon-fiber line anchored to a basalt outcrop that
+she hoped was sturdier than it looked. The floor of Coprates was a
+tumbled chaos of boulders, sand drifts, and the strange, pale structures
+of the Bone Yard -- curved spars of fossilized something that arched
+out of the ground at odd angles, some of them twenty meters tall, their
+surfaces pitted by a million years of wind. The archaeologists said they
+were organic. The structure was cellular, layered, grown rather than
+built. Something had lived here, once, something enormous, and it had
+left its bones behind.
+
+Kit checked her tracker. Drost's biosignature -- the Colonial Authority
+tagged all its persons of interest with subcutaneous transponders, a
+practice that the civil liberties crowd objected to and the Authority
+defended as "a public safety measure" -- was pulsing faintly, two
+kilometers to the northwest, somewhere in the densest part of the Bone
+Yard.
+
+She drew her sidearm, a Matsuda Model 7 flechette pistol that she'd
+carried for eight years and maintained with the tenderness of a parent.
+Then she started walking.
+
+                              II.
+
+The bandit camp was the first surprise.
+
+It sat in a hollow between two massive fossil spars, a cluster of
+inflatable habitat modules arranged around a central fire pit -- which,
+on Mars, meant a catalytic heater glowing cherry-red under a thermal
+blanket. There were a dozen people visible, all of them armed with an
+assortment of weapons that ranged from military-surplus plasma rifles to
+mining tools that had been modified with more enthusiasm than expertise.
+They had lookouts posted on the fossil spars, which Kit spotted only
+because one of them shifted position at the wrong moment and caught the
+light.
+
+Kit went to ground behind a boulder and studied the camp through her
+scope. Bandits were common in the Martian backcountry -- failed miners,
+mostly, or colonists who'd gone off-grid rather than submit to the
+Authority's ration system. They survived by raiding supply convoys and
+trading stolen goods through a network of black-market depots that
+stretched from Hellas Basin to the north pole. Most of them were more
+desperate than dangerous, but a cornered bandit with a plasma rifle was
+still a cornered bandit with a plasma rifle.
+
+Drost's tracker signal was coming from inside the camp.
+
+Kit considered her options. She could wait for Drost to leave the camp
+and take him in the open. She could circle the camp, look for a gap in
+the lookout coverage, and slip in at night. She could call for Authority
+backup, which would arrive in approximately six days and would approach
+the situation with all the subtlety of a sledgehammer.
+
+She chose option two.
+
+Night on Mars came fast and cold. The temperature at the bottom of
+Coprates dropped to minus ninety Celsius after sunset, which was cold
+enough to crystallize the CO2 in the thin atmosphere and coat everything
+with a fine white frost. Kit pulled her thermal liner tight, sealed her
+suit joints, and moved.
+
+The lookouts were good but not great. They watched the approaches -- the
+gaps between the fossil spars where a crawler or a group of people might
+come through. They did not watch the spars themselves. Kit climbed.
+
+The fossil structures were rough-surfaced and easy to grip, and in Mars
+gravity she could move fast. She went up the western spar, over its
+curving ridge, and down the inner face, arriving on a narrow ledge
+fifteen meters above the camp. From here she could see the entire
+settlement: the habitat modules, the heater, the people moving between
+them. And Drost.
+
+He was sitting outside one of the modules, wrapped in a thermal blanket,
+talking to a woman. The woman was tall, dark-haired, and wore the
+patched coveralls of a backcountry colonist. She was listening to Drost
+with the focused attention of someone hearing something important.
+
+Kit couldn't hear the conversation. She was too high, and the thin
+Martian atmosphere carried sound poorly. But she could see Drost's face,
+and it was not the face of a man on the run. It was the face of a man
+who had arrived where he was going.
+
+She settled in to wait. Dawn would come in five hours. She'd take him
+then, when the camp was still waking and the lookouts were at their
+groggiest. Standard procedure. Quick and clean.
+
+She waited. And while she waited, she watched. And what she saw changed
+everything.
+
+                              * * *
+
+The camp woke before dawn. Not gradually, not lazily, but with purpose.
+People emerged from the habitat modules already dressed, already moving,
+already organized. They assembled around the heater and ate a quick
+meal from ration packs, passing food with the casual efficiency of
+people who had done this many times. Then they broke into groups and
+went to work.
+
+Work. That was the word that stopped Kit.
+
+They were building something. In the pale pre-dawn light, she could see
+materials stacked along the base of the eastern spar -- structural beams,
+insulation panels, air processors, water recyclers. Not stolen goods.
+Construction materials. The kind of equipment you needed to build a
+permanent settlement.
+
+One group was excavating a foundation. Another was assembling an air
+processor housing. A third was running conduit -- power lines and data
+cables, buried in shallow trenches cut into the canyon floor. It was
+organized, systematic, competent work, performed by people who knew what
+they were doing.
+
+And Drost was in the middle of it. Not hiding. Not cowering. Teaching. He
+stood at the center of a group of six people, a pad in his hand, drawing
+diagrams and explaining something with the animated gestures of a man who
+loved his subject. The people around him asked questions. He answered them.
+Kit could not hear the words, but she could see the dynamic: this was a
+class. A lecture. A professor and his students.
+
+She pulled up Drost's file on her wrist display and read it again,
+carefully this time. Mikael Drost. Age forty-three. Born Elysium Colony.
+Education: Ph.D. in civil engineering, Olympus University. Employment:
+Associate Professor of Engineering, Olympus University. Charge: Sedition,
+incitement, acts prejudicial to colonial order.
+
+She scrolled to the charge details. They were thin. Drost had published
+a paper -- not a physics paper, not a weapons paper, an engineering
+paper -- arguing that the Colonial Authority's settlement design
+standards were inadequate for long-term habitation. He had presented data
+showing that the Authority's habitat modules, which were manufactured on
+Earth and shipped to Mars at enormous cost, were inferior in every
+measurable way to structures that could be built locally from Martian
+materials using techniques he had developed. He had argued that the
+Authority's monopoly on habitat construction was not a safety measure but
+an economic control mechanism -- that by keeping the colonists dependent
+on Earth-manufactured housing, the Authority maintained the dependency
+that justified its authority.
+
+The paper had been published in the Olympus University Journal of
+Engineering. It had been read by colonists across Mars. It had been
+discussed, debated, and -- in several outlying settlements -- acted
+upon. Colonists had begun building their own habitats, using Drost's
+designs, without Authority approval.
+
+The Authority had responded by revoking Drost's academic appointment,
+confiscating his research, and issuing a warrant for his arrest on charges
+of sedition.
+
+Kit lowered her wrist display and looked at the camp below her. The
+excavation crew was making good progress on the foundation. The air
+processor housing was taking shape. The conduit team was testing their
+power connections. And Drost was teaching six people how to build a life
+on Mars without asking permission from Earth.
+
+She holstered the Matsuda.
+
+                              III.
+
+She came down at noon, in plain sight, her hands visible, her weapon
+holstered.
+
+The lookouts spotted her immediately. Three people with plasma rifles
+materialized from behind the fossil spars and covered her from angles
+that were, she noted professionally, well-chosen. The tall woman she'd
+seen talking to Drost the night before stepped forward, her hand on a
+sidearm at her hip.
+
+"That's close enough," the woman said. "Who are you?"
+
+"Kit Ravenal. I'm a skip-tracer."
+
+The rifles tightened. Kit kept her hands up and her voice level.
+
+"I'm here for Mikael Drost. I have a Colonial Authority recovery
+contract."
+
+The woman's expression didn't change, but something behind her eyes
+hardened. "Professor Drost is under our protection."
+
+"I can see that."
+
+"Then you can see that your contract isn't going to be easy to execute."
+
+"I can see that too." Kit paused. "I'd like to talk to him."
+
+"Why?"
+
+"Because I've been watching your camp since last night, and I've seen some
+things that don't match the file I was given."
+
+The woman studied her for a long moment. Kit held still and kept her
+hands where they could be seen. In her experience, people who were hiding
+in canyons with plasma rifles were not interested in rapid movements.
+
+"Mika," the woman called over her shoulder. "Someone here for you."
+
+Drost emerged from behind the air processor housing, wiping his hands
+on his coveralls. He looked at Kit with the mild, slightly distracted
+expression of a man whose mind was mostly on his work. Then he saw the
+skip-tracer badge on her belt and his expression sharpened.
+
+"You're the foxhound," he said.
+
+"The what?"
+
+"That's what they call you bounty hunters in the settlements. Foxhounds.
+Because you chase people who aren't foxes."
+
+"I've been called worse." Kit lowered her hands slowly. "Professor Drost,
+I've read your file. I've read the charge details. I've watched your
+people building down here. And I have a question."
+
+"Ask it."
+
+"The habitats you're designing. The ones you wrote about in your paper.
+Do they work?"
+
+Drost blinked. Whatever question he had expected, it wasn't that one.
+"Yes. They work. The thermal mass of Martian regolith provides natural
+insulation. The basalt fiber reinforcement gives tensile strength
+comparable to Earth-standard construction steel. The air processing
+systems use locally sourced perchlorates as oxygen feedstock. Everything
+I described in my paper has been tested and validated. That's why the
+Authority suppressed it."
+
+"Because it works."
+
+"Because it works. If the colonists can build their own habitats from
+local materials, they don't need the Authority's prefabs. If they don't
+need the prefabs, they don't need the supply ships. If they don't need
+the supply ships, they don't need the Authority. The entire colonial
+control structure is built on dependency, Ms. Ravenal. My crime was
+showing that the dependency is artificial."
+
+Kit looked at the construction site. The foundation was laid. The walls
+were going up. In the thin Martian light, the structure looked solid and
+real and permanent in a way that the Authority's flimsy inflatable modules
+never did.
+
+"Your bounty is five thousand credits," she said.
+
+Drost's expression hardened. "I'm not going back."
+
+"I didn't say you were." She reached into her coat, slowly, and pulled
+out her tracker pad. Drost's biosignature pulsed on the screen, bright
+and clear. She tapped the display. The signature vanished.
+
+"Your transponder signal just experienced a catastrophic malfunction,"
+she said. "Happens sometimes in the deep canyons. All that basalt
+interferes with the transmission frequency. Very unfortunate."
+
+Drost stared at her. The woman with the sidearm stared at her. The three
+people with the plasma rifles stared at her.
+
+"The Authority will send another foxhound," the woman said.
+
+"They will. But they won't know where to look, because the last tracker
+fix puts Drost's signal at the canyon rim, not the canyon floor. And the
+rim is four hundred kilometers of broken terrain. It'll take them weeks
+to work it out, and by then" -- she gestured at the construction site --
+"you'll be dug in."
+
+"Why?" Drost asked. Not suspiciously. Genuinely curious. The question of
+a man who studied causes and effects.
+
+Kit looked at him for a long time. She thought about the schoolteacher
+she'd arrested five years ago, the one who'd written a letter about water
+rations. She thought about the disappointment in that woman's eyes.
+
+"Because I got tired of chasing people whose only crime was being right,"
+she said.
+
+She turned and started walking back toward the canyon wall. Behind her,
+she heard the tall woman say something to Drost in a low voice. She
+didn't catch the words. She didn't need to.
+
+The climb out took five hours. At the top, she stood on the rim and
+looked down into Coprates one last time. The camp was invisible from here
+-- lost in the amber haze and the maze of ancient bones. But she knew it
+was there. And she knew that down in the darkness, in the ribs of a world
+that had been dead for a billion years, people were building something
+new.
+
+She turned her back on the canyon and started walking. Five thousand
+credits, gone. Her reputation with the Authority, damaged. Her conscience,
+for the first time in years, clear.
+
+The Martian wind pushed at her back, cold and thin and tasting of iron.
+Ahead of her, Burroughs Station was a three-day walk across open desert.
+Behind her, the canyon held its secrets in its ancient, stony hands.
+
+Kit Ravenal walked. The foxhound had lost her quarry. And the quarry had
+never been a fox.
+
+                            [THE END]
+
+================================================================================
+
+                        THE MEMORY PALACE
+
+                         by Lucian Marsh
+
+================================================================================
+
+                              I.
+
+The patient was dying in the way that old men die in hospitals -- slowly,
+unwillingly, his body retreating from the world one system at a time,
+like a house shutting its windows against a storm. His name was Edgar
+Tolliver. He was seventy-eight years old. He had been a shoe salesman in
+Brockton, Massachusetts, for forty-one years, and he had never traveled
+farther than Albany.
+
+This made the memories difficult to explain.
+
+Dr. Helen Vassar discovered them on a Tuesday, during a routine
+neurological assessment that was, strictly speaking, no longer necessary.
+Tolliver had been admitted to Mercy General three weeks earlier with
+advanced liver failure, and the prognosis was measured in days rather
+than weeks. But Vassar was thorough -- a habit she had developed during
+her residency and never abandoned -- and she continued the assessments
+because she believed that a patient deserved the full attention of his
+physician until the end, regardless of whether that attention could change
+the outcome.
+
+She was mapping Tolliver's cognitive function with a portable
+encephalograph, placing the cold sensor pads against his temples and
+recording the electrical activity of his dying brain, when the readings
+went wrong.
+
+Not wrong in the way that suggested equipment failure. Wrong in the way
+that suggested she was reading the wrong brain.
+
+The encephalograph measured several things: baseline electrical activity,
+response to sensory stimuli, and -- most relevant to cognitive
+assessment -- the patterns of activation that occurred when the patient
+recalled specific memories. Vassar's standard protocol was to ask a
+series of simple prompts: "Think of your childhood home. Think of a
+meal you enjoyed. Think of a person you love." The encephalograph
+recorded the brain's response, and Vassar compared it to the baseline to
+assess the integrity of the patient's memory systems.
+
+Tolliver's responses to the first two prompts were normal. His brain
+lit up in the expected regions -- hippocampus, temporal cortex, the
+olfactory centers that stored the sense-memories of food and home. The
+patterns were weak but coherent, the fading signal of a mind that was
+still, despite everything, itself.
+
+The third prompt was where it went wrong.
+
+"Think of a person you love," Vassar said.
+
+Tolliver's brain activated. But not in the expected pattern. Not in any
+pattern Vassar had ever seen. The hippocampus fired -- that was normal.
+But so did regions of the brain that should not have been involved in
+personal memory: the spatial processing centers, the language areas,
+sections of the visual cortex that were associated not with memory
+retrieval but with real-time visual processing, as though Tolliver were
+seeing something that was happening now, in this room, in front of him.
+
+And the signal was strong. Not the weak, attenuated flicker of a dying
+brain recalling a faded memory. A strong signal. A signal with the
+amplitude and coherence of a young brain at the height of its powers.
+
+Vassar checked the equipment. She recalibrated the sensors. She ran the
+prompt again.
+
+The same result. The same impossible signal, blazing in a brain that
+should barely have been able to produce a whisper.
+
+"Mr. Tolliver," she said carefully, "who are you thinking of?"
+
+The old man's eyes were closed. His breathing was shallow and slow. When
+he spoke, his voice was thin but clear -- clearer than it had been in
+days.
+
+"Her name was Caterina," he said. "She wore a blue dress and her hair
+smelled of rosemary. We stood on the bridge in Florence and watched the
+sunset turn the river into gold."
+
+Vassar looked at him. "You've been to Florence?"
+
+"No," Tolliver said. "I've never been to Florence. But I remember it."
+
+                              * * *
+
+Over the next three days, as Tolliver's body continued its slow
+withdrawal from the world, Vassar documented the memories.
+
+There were hundreds of them. They came in waves -- unprompted, vivid,
+detailed with a specificity that no imagination could fabricate. Tolliver
+described sunsets he had never seen, in cities he had never visited:
+the light falling on the rooftops of Prague, the sound of rain on a
+tin roof in Rangoon, the smell of jasmine in a garden in Kyoto at
+twilight. He described people he had never met -- a woman named Caterina,
+a man named Abiodun, a child named Mei who laughed at sparrows. He
+described meals he had never eaten, music he had never heard, storms he
+had never weathered.
+
+And each memory, when Vassar mapped it on the encephalograph, produced
+the same impossible signal: strong, coherent, originating from regions
+of the brain that were not Tolliver's own memory centers but something
+else, something deeper, something that pulsed with a vitality that his
+dying brain could not account for.
+
+Vassar was a methodical woman. She had been trained in the rational
+empiricism of medical science, and she did not believe in the
+supernatural. She believed in data. And the data was telling her
+something that she did not want to hear.
+
+The memories were not Tolliver's. They were too numerous, too varied,
+too detailed. A man who had never left Massachusetts could not remember
+the taste of mulled wine in a Vienna Christmas market or the sound of
+temple bells in the hills above Kathmandu. These memories belonged to
+other people -- dozens of them, perhaps hundreds, their experiences
+stored in Tolliver's brain like books in a library he had never visited.
+
+But the most disturbing thing was not the memories themselves. It was
+their quality. Each one was perfect. Not the faded, compressed,
+selectively edited version of events that constitutes normal human
+memory, where details blur and timelines compress and the brain fills
+gaps with plausible fabrication. These memories were pristine. Complete.
+As though they had been preserved by something that did not forget, that
+could not forget, that consumed experience the way a collector mounts
+butterflies -- pinned, perfect, and forever still.
+
+                              II.
+
+Vassar began her investigation by working backward through Tolliver's
+medical history.
+
+He had been a patient at Mercy General for three weeks, but his records
+stretched back decades -- the accumulated documentation of a life lived
+within the radius of a single town. Childhood vaccinations. A broken arm
+at age twelve. Appendectomy at twenty-three. The usual progression of
+minor ailments that marked the passage from youth to middle age to
+decline. Nothing unusual. Nothing that suggested a cause for foreign
+memories in a shoe salesman's brain.
+
+She expanded her search. She contacted Tolliver's family -- a son in
+Worcester, a daughter in Springfield, both of whom visited dutifully if
+infrequently. Had their father ever exhibited unusual knowledge? Had he
+spoken of places he had never been? Had he displayed abilities or
+awareness that seemed inconsistent with his experience?
+
+The son said no. The daughter hesitated.
+
+"There was one thing," the daughter said. She was a practical woman in
+her fifties, uncomfortable with the conversation, uncertain why a
+neurologist was asking about her father's travel history. "When I was
+little -- maybe eight or nine -- Dad took me to a museum in Boston. The
+Museum of Fine Arts. We were looking at the paintings, and he stopped in
+front of one. It was a painting of a bridge. A bridge in Italy, I think.
+And he started crying. Not loud. Just tears, running down his face. And
+when I asked him what was wrong, he said, 'I remember this place.' And
+I said, 'Have you been there?' And he said, 'No. But someone I carry
+has.'"
+
+"Someone he carried," Vassar repeated.
+
+"I thought he meant a memory. Like a story someone told him, or a
+photograph he'd seen. But now that you're asking, the way he said it was
+strange. He said 'someone I carry.' Not 'something.' Someone."
+
+Vassar thanked the daughter and ended the call. She sat in her office, in
+the quiet fluorescent light of the hospital's fourth floor, and looked
+at the encephalograph readings she had spread across her desk. The
+signals were there -- layer upon layer of memory, pulsing in a brain
+that was running out of time to hold them. And somewhere beneath those
+layers, threaded through them like mycelium through soil, something else.
+Not a memory. Not a thought. A presence.
+
+She went back to Tolliver's room.
+
+The old man was awake. His eyes were open, focused on some middle distance
+that existed between the ceiling and wherever the memories lived. The
+machines around his bed hummed and clicked their clinical lullaby.
+
+"Mr. Tolliver," Vassar said, sitting in the chair beside his bed. "I
+need to ask you something, and I need you to answer as precisely as you
+can."
+
+"I'll try, Doctor."
+
+"The memories. The ones that aren't yours. When did they start?"
+
+Tolliver was quiet for a long time. The machines measured his silence in
+heartbeats and respiration rates.
+
+"I don't remember a time without them," he said finally. "They've always
+been there. When I was a boy, I thought everyone had them -- other
+people's memories, other people's lives, running alongside your own like
+a river running next to a road. I thought that was just how minds worked.
+It wasn't until I was older that I realized the memories belonged to
+people who had lived before me. People who were dead."
+
+"How do you know they're dead?"
+
+"Because the memories end. Each set of memories -- each person -- they
+have a beginning and a middle and then they just stop. Like a book with
+the last pages torn out. And after the stop, there's a gap -- a space
+of nothing, of dark -- and then a new set begins. A new person. A new
+life. New memories filling up the dark."
+
+Vassar felt the hair on her arms rise. She was a rational woman. She
+dealt in data. But she was also a physician, and she knew that the body
+sometimes knew things that the mind could not articulate, and the
+gooseflesh on her arms was her body telling her that she was close to
+something that rational empiricism had not prepared her for.
+
+"Mr. Tolliver, how many sets of memories do you carry?"
+
+"I don't know. Dozens. Maybe more. They overlap. They blur into each
+other at the edges. But the core of each one is clear -- a life, a
+person, the things they saw and tasted and touched and loved. All
+preserved. All perfect. All still alive in here." He tapped his temple
+with one yellowed finger. "Alive in here, even as the rest of me is
+dying."
+
+"And you never told anyone."
+
+"Who would I tell? My wife? My children? 'Hello, I carry the memories
+of dead strangers in my head.' They'd have put me in a different kind of
+hospital, Dr. Vassar." He paused. "Besides, it wasn't painful. It was
+company. A shoe salesman in Brockton, living a small life, and inside my
+head a whole world of lives I'd never lived. Sunsets I'd never seen.
+People I'd never met. It was like having a library in my skull, and every
+book was someone's life, and I could open any one of them and be
+somewhere else for a while."
+
+He closed his eyes. The machines noted a slight decrease in heart rate.
+
+"But it's getting louder now," he said. "The memories. As my brain shuts
+down, the memories get louder. As if whatever is holding them is losing
+its grip and they're spilling out. Or as if whatever is holding them
+knows I'm dying and is... is getting ready."
+
+"Ready for what?"
+
+Tolliver opened his eyes and looked at her. And in that look, Vassar
+saw something that she would spend the rest of her career trying to
+understand: a flicker, behind the old man's faded blue irises, of
+something that was not Edgar Tolliver. Something old, and patient, and
+very, very hungry.
+
+"Ready to move on," he said.
+
+                              III.
+
+Vassar did not sleep that night. She sat in her office with the
+encephalograph data and the medical records and a pot of coffee that
+went cold three times, and she constructed a theory that she did not
+believe and could not disprove.
+
+The theory was this: something lived in Edgar Tolliver's brain.
+
+Not a tumor. Not an infection. Not a psychiatric condition. Something
+else -- an organism, a parasite, a thing that had evolved to inhabit
+the neural architecture of the human brain the way a hermit crab
+inhabits a shell. It fed on experience. It consumed memories -- not
+destroying them, but absorbing them, preserving them with an inhuman
+fidelity that no biological memory could match. It lived in the spaces
+between neurons, in the electrochemical shadows that conventional
+neuroscience did not have the instruments to detect. And when its host
+died, it moved to a new one, carrying its accumulated library of
+consumed lives with it.
+
+A parasite that fed on human experience. That passed from host to host
+across generations, across centuries, growing its collection, adding
+life after life to its palace of stolen memory. Edgar Tolliver was its
+current host. Before him, there had been others -- the woman named
+Caterina who had stood on a bridge in Florence, the man named Abiodun,
+the child named Mei who laughed at sparrows. Each one had carried the
+parasite, and the parasite had consumed their lives, and when they died
+it had moved on, finding a new host, beginning a new collection while
+preserving the old.
+
+It was, Vassar thought, the most elegant horror she could imagine. A
+thing that ate your life and kept it perfect forever. A thing that
+treasured what it consumed. A collector, a curator, a librarian of the
+dead, dwelling in the warm dark of the human mind and feeding on the
+light of experience.
+
+She returned to Tolliver's room at dawn. The old man was weaker. His
+breathing had taken on the irregular, effortful quality that signaled the
+body's final retreat. The machines tracked his decline in green and amber
+numbers.
+
+"Mr. Tolliver," she said. "I think I know what's happening to you."
+
+"You figured it out." It was not a question.
+
+"There's something in your brain. Something that isn't you. It feeds on
+memory. It's been feeding on your memories, and the memories of others
+before you, for a very long time."
+
+Tolliver nodded, slowly, the motion costing him effort. "I've known for
+years. Not what it is, exactly. But that it's there. I can feel it, the
+way you feel your heartbeat -- not as a thought, but as a presence. A
+weight. A passenger."
+
+"It's a parasite, Mr. Tolliver."
+
+"Is it?" He smiled -- a thin, exhausted smile that held no bitterness.
+"A parasite takes and gives nothing. But it gave me Florence, Dr.
+Vassar. It gave me Prague and Kyoto and a hundred sunsets I would never
+have seen. It gave me Caterina and Abiodun and Mei. It gave me lives.
+Yes, it took my memories too -- I can feel it, the way some of my own
+past has gotten clearer, more vivid, more *preserved* than it should be.
+It's been eating my life, but it's been keeping it, too. Every moment.
+Perfect. Forever."
+
+"That doesn't make it benign."
+
+"No. But it makes it something more complicated than a parasite." He
+closed his eyes. "It's a witness, Dr. Vassar. It witnesses human lives.
+It consumes them and preserves them and carries them forward. Every
+person it has lived in -- their entire experience, everything they ever
+saw or felt or loved -- is still alive in here. Still perfect. Still
+real. When I die, it will move to someone else, and it will carry me
+with it, and I will be part of its palace forever."
+
+"And you're at peace with that?"
+
+"I am a seventy-eight-year-old shoe salesman dying of liver failure in
+a hospital in Brockton. I have lived a small life, Dr. Vassar. A
+perfectly adequate, thoroughly unremarkable life. And because of the
+thing in my head, that life will be preserved with the same fidelity as
+a sunset in Florence. My Tuesday afternoons selling oxfords to
+businessmen will be kept alongside Caterina's view from the bridge and
+Abiodun's harvest songs and Mei's sparrows. My small life, in the
+palace, forever."
+
+His voice was fading. The machines registered the decline. His breathing
+had become the shallow, irregular rhythm that Vassar recognized as the
+body's penultimate act.
+
+"It's getting ready," he whispered. "I can feel it. Gathering. Preparing
+to move. When my brain stops, it will reach out -- I don't know how, I've
+never understood the mechanism -- and it will find a new host. Someone
+nearby. Someone whose brain is still young enough to house it."
+
+Vassar felt the gooseflesh again. She was sitting beside a dying man
+in a hospital full of living brains. Patients, nurses, doctors, orderlies
+-- all of them potential hosts. All of them unaware that something ancient
+and hungry was preparing to move.
+
+"Mr. Tolliver, is there any way to stop it?"
+
+"I don't know. I don't think so. It's survived this long. It's adapted
+to us -- to our neurology, our biochemistry, our pattern of living and
+dying. It's been doing this for longer than I can imagine. The oldest
+memories I carry are fragments -- sensory impressions without language,
+without context. Just the experience of being alive, of seeing light and
+feeling warmth. They could be centuries old. They could be older."
+
+He opened his eyes one last time. The flicker was there again -- that
+presence behind his gaze, old and patient and vast, watching Vassar
+through a dying man's eyes with an attention that was not human and not
+hostile and not anything she had a word for.
+
+"Don't be afraid of it," Tolliver said. "It loves what it eats. That's
+the terrible thing, Dr. Vassar. The terrible, beautiful thing. It loves
+every life it has ever consumed. It keeps them out of love. And when it
+comes for you -- if it comes for you -- it will love yours, too."
+
+The machines sang their alarm. The numbers dropped. The breathing stopped.
+
+Edgar Tolliver died at 6:47 AM on a Wednesday morning in Brockton,
+Massachusetts, and something that had lived behind his eyes for
+seventy-eight years gathered itself like a tide withdrawing from a shore
+and reached out, through the dark, toward the nearest light.
+
+                              * * *
+
+Vassar stood beside the empty bed for a long time after the orderlies
+had taken the body. She stood and she listened -- listened to the silence
+of the room, to the ambient hum of the hospital, to the sound of her own
+breathing and the beat of her own heart. She listened for something that
+she could not name and could not describe and was not sure she wanted to
+find.
+
+She felt nothing unusual. No presence. No weight. No passenger.
+
+But as she turned to leave, she paused. There was something at the edge
+of her awareness -- not a memory, exactly, not a thought, but a quality
+of light. A golden quality. The kind of light that falls on a river in
+a city she has never visited, late in the day, when the sun is low and
+the water turns the color of old coins and someone is standing on a
+bridge, looking down, and the air smells of rosemary.
+
+She stood very still.
+
+The light faded. The hospital was the hospital. The fluorescent ceiling
+buzzed its monotone. Somewhere down the hall, a patient's call button
+chimed.
+
+Vassar picked up her encephalograph case, walked out of the room, and
+closed the door behind her. She did not look back. She walked to her
+office, sat at her desk, and began writing her report. Her hands were
+steady. Her prose was clinical. She documented everything Tolliver had
+told her, everything the encephalograph had shown, everything she
+theorized and everything she feared.
+
+She did not document the golden light.
+
+She was, after all, a rational woman.
+
+But that night, in her apartment, in the dark, she dreamed of Florence.
+
+                            [THE END]
+
+================================================================================
+
+                           SANCTUARY
+
+                     by Father Thomas Aquino
+
+================================================================================
+
+                              I.
+
+The first of the Verath arrived at the Church of Our Lady of the Stars
+on an ordinary Thursday, during the seven o'clock Mass.
+
+Father Mateo Ibarra was at the altar, consecrating the bread -- the
+ancient words falling from his lips with the ease of thirty years'
+practice, his hands performing the elevation with the steady grace that
+the faithful expected and the faithless found theatrical -- when the
+rear door of the church opened and something that was not human walked
+in.
+
+It was small. Perhaps a meter tall. Its body was a compact arrangement
+of overlapping plates -- not metallic, not quite organic, but something
+between the two, a living geometry of interlocking surfaces that shifted
+and resettled as it moved, like the scales of a creature designed by a
+mathematician. Its head, if the uppermost protrusion could be called a
+head, bore two large, dark eyes that reflected the candlelight with a
+warmth that was, Father Ibarra thought in the fraction of a second
+before his training took over, unmistakably sentient. Unmistakably alive.
+Unmistakably afraid.
+
+The congregation -- twenty-three souls, this being the sparsely attended
+Thursday evening Mass on Space Station Bethany, a mining platform in the
+asteroid belt that the diocese had designated as a parish more out of
+optimism than demographic necessity -- turned and stared.
+
+The creature walked down the center aisle. Its gait was unsteady, and
+Ibarra could see, as it passed beneath the nave lights, that several
+of its overlapping plates were cracked and dark with a fluid that might
+have been blood. It was wounded. It was struggling. And it was walking
+directly toward the altar.
+
+It stopped three meters from Ibarra, looked up at him with its dark,
+reflective eyes, and spoke. The voice came from somewhere within the
+arrangement of plates -- a vibration, a resonance, as though the
+creature's entire body were a kind of instrument.
+
+"Sanctuary," it said. The word was heavily accented but unmistakable. It
+was a word that the creature had learned, specifically and deliberately,
+in order to say it in this place.
+
+Father Ibarra set down the chalice. He stepped around the altar. He
+looked at the creature -- at its wounds, at its fear, at the desperate
+intelligence in its dark eyes. And he said the only thing a priest could
+say.
+
+"You have it."
+
+                              * * *
+
+Her name, as best Ibarra could render it in human phonetics, was Selith.
+She was Verath -- one of a species that humanity had encountered six
+years earlier in the outer belt, a people who lived in the hollowed
+interiors of asteroids and who had, by all accounts, been living there
+for longer than human civilization had existed on Earth. The Verath were
+quiet, reclusive, and technologically modest -- they had achieved
+space travel of a sort, moving between asteroids in slow, elegant
+vessels that ran on principles human engineers did not fully understand,
+but they had never ventured beyond the belt and showed no interest in
+doing so.
+
+They had also, Ibarra learned from Selith in the hours after her
+arrival, been marked for extermination.
+
+"The Consortium," Selith said. She was sitting in the church's small
+sacristy, wrapped in a blanket that Ibarra had taken from the parish
+supply closet, drinking water from a cup that she held in appendages
+that were not hands but served the same purpose. Her wounds had been
+cleaned and bandaged by Dr. Anand Chakravarti, the station's physician,
+who had arrived within minutes of a frantic call from one of the
+parishioners and who had treated the Verath's injuries with the focused
+calm of a man who had decided that xenobiology was a problem to solve
+later and bleeding was a problem to solve now.
+
+"The Mining Consortium," Selith continued. "They want our asteroids. The
+Verath have lived in the deep belt for" -- she paused, searching for the
+word -- "millennia. Our homes are carved into the rock. Our lives are
+in the stone. The Consortium has surveyed our asteroids and found that
+the ores are" -- another pause -- "valuable. Very valuable. More valuable
+than our lives."
+
+"And they're removing you."
+
+"They are killing us." Selith's voice was flat with the effort of
+controlling emotion in a foreign language. "Systematically. Asteroid by
+asteroid. They come with their ships and their soldiers and they give us
+a period of time to leave -- thirty days, sometimes less. Those who leave
+are relocated to barren rocks with no resources, no infrastructure, no
+means of survival. Those who stay are removed by force. The word they use
+is 'cleared.' My asteroid -- my home for four hundred years -- was
+'cleared' six weeks ago. There were eight hundred of us. Three hundred
+survived the clearing. We scattered. I came here."
+
+"Why here?" Ibarra asked. "Why a church?"
+
+Selith looked at him with her dark, reflective eyes. "Because I have
+studied your species, Father. I have read your histories and your laws
+and your scriptures. And I found, in your traditions, a concept that
+does not exist in any other system I have examined. A concept that says:
+there are places where the hunted cannot be touched. Places where the
+power of the state, the power of commerce, the power of violence itself
+must stop at the door. You call this concept sanctuary."
+
+"It is an ancient concept," Ibarra said carefully. "And it has not
+always been honored."
+
+"But it has been invoked. And the invocation has power. Not legal power,
+perhaps. Moral power. The power to say: here, in this place, under the
+eyes of whatever you believe is sacred, the killing stops."
+
+Ibarra was quiet for a long time. He looked at the sacristy around him
+-- the modest room where he stored his vestments and his communion wine
+and the small, battered crucifix that he had carried from parish to
+parish for thirty years. It was not a grand space. It was not a
+cathedral. It was a converted storage closet on a mining station in the
+asteroid belt, and its congregation numbered twenty-three on a good day.
+
+But it was a church. And the creature sitting before him, wounded and
+afraid, had walked down the aisle and asked for sanctuary. And Father
+Mateo Ibarra, whatever his doubts about the practical wisdom of what he
+was about to do, had no doubts whatsoever about the theological clarity
+of his obligation.
+
+"How many are you?" he asked.
+
+"Here on the station, just me. But there are others -- refugees,
+scattered through the belt. If they knew there was a place of
+sanctuary, they would come."
+
+"How many?"
+
+"Perhaps fifty. Perhaps more."
+
+Ibarra closed his eyes. Fifty Verath refugees in a church that seated
+forty humans. On a station governed by the Colonial Authority, which was
+funded in substantial part by the Mining Consortium. Under the
+jurisdiction of a bishop on Earth who would learn of this situation
+approximately eight minutes after the communication lag and would have
+an opinion that Ibarra could predict with depressing accuracy.
+
+He opened his eyes.
+
+"Tell them to come," he said.
+
+                              II.
+
+They came in ones and twos, over the next ten days. Small, wounded
+figures in the corridors of Bethany Station, their overlapping plates
+dull with exhaustion and marked with the evidence of violence. They
+came in the holds of sympathetic freighter captains, in the maintenance
+crawlways between the station's outer hull and its inhabited sections,
+in one case clinging to the exterior of a water tanker that docked at
+the station's supply port. Each one walked into the Church of Our Lady
+of the Stars, looked at Father Ibarra, and said the word.
+
+Sanctuary.
+
+By the end of the second week, there were forty-one Verath in the church.
+They filled the nave, the sacristy, the small office where Ibarra wrote
+his homilies, and the corridor leading to the parish storeroom. They
+were quiet, courteous, and desperately grateful. They slept on the pews,
+shared what food they had, and helped Dr. Chakravarti tend to the wounded
+among them. Several of them attended Mass, sitting in the back rows with
+expressions of attentive curiosity, understanding nothing of the ritual
+but recognizing, with the instinct of a deeply spiritual people,
+something sacred in the act of communal worship.
+
+The station's human population reacted with a spectrum of responses that
+ranged from compassion to fury. Several of Ibarra's parishioners
+volunteered to bring food and supplies. Others withdrew from the parish
+in protest. The station's administrator, a practical woman named
+Director Haruki, called Ibarra to her office on the third day and told
+him, in terms that were polite but unmistakable, that he was causing a
+problem.
+
+"Father Ibarra, I am sympathetic to the Verath's situation. But this
+station operates under the authority of the Colonial Administration,
+which has a formal agreement with the Mining Consortium regarding
+resource extraction in the belt. The Consortium has filed a complaint.
+They say you are harboring individuals who are in violation of
+relocation orders."
+
+"I am providing sanctuary to refugees who are fleeing violence."
+
+"The Consortium characterizes it as lawful relocation."
+
+"Director Haruki, the Verath word for what the Consortium is doing
+translates, roughly, as 'the eating of homes.' I have seen their wounds.
+I have heard their accounts. Whatever legal framework the Consortium
+operates under, the reality on the ground -- on the rock -- is forced
+removal, destruction of habitats, and killing. I cannot, in conscience,
+hand these people over to that."
+
+"You may not have a choice. The Consortium is requesting that I compel
+the Verath to leave the station. If they refuse, the Consortium has
+indicated that it will seek authorization to send a security team to
+remove them."
+
+"From a church."
+
+"From a building on a station that is subject to Colonial Authority
+jurisdiction, yes."
+
+Ibarra looked at Haruki. She was not a cruel woman. He had known her for
+three years, had shared meals with her, had listened to her talk about
+her children on Earth with the wistful affection of a parent separated
+by distance and obligation. She was doing her job. She was following
+the chain of authority that governed her station and her career and her
+pension. He did not blame her.
+
+"Director," he said, "I understand your position. And I want to be
+clear about mine. The right of sanctuary is older than the Colonial
+Authority. It is older than the Mining Consortium. It is older than the
+nation-states that fund them both. It dates to the earliest days of my
+faith, when churches offered protection to the accused and the
+persecuted and the condemned, not because the Church had the legal
+authority to override secular power, but because it had the moral
+authority to say: not here. Not in this place. Whatever happens outside
+these walls, within them, the violence stops."
+
+"Father, we're on a space station in the asteroid belt. This isn't
+medieval Europe."
+
+"No. But the principle is the same. And the need is the same. And my
+obligation, as a priest, is the same."
+
+Haruki sighed. It was the sigh of a woman who knew she was going to
+lose this argument and was calculating the cost.
+
+"I'll relay your position to the Colonial Authority," she said.
+"They'll make the final decision."
+
+"I know."
+
+"And the Consortium will not be patient."
+
+"I know that too."
+
+                              * * *
+
+The bishop's response arrived four days later, via encrypted
+communication from the Diocese of the Solar Frontier, headquartered in
+a comfortable office on the campus of Georgetown University,
+approximately three hundred million kilometers from the Church of Our
+Lady of the Stars.
+
+The message read: "Father Ibarra, you are instructed to cooperate with
+the lawful authorities of Bethany Station and the Colonial Administration
+in the resolution of this situation. The right of sanctuary, while
+historically significant, has no standing in current canon law and
+cannot be invoked to obstruct the legitimate exercise of civil authority.
+You are reminded that the Church's mission is the salvation of souls, not
+the adjudication of political disputes. Comply with all lawful directives.
+Acknowledge receipt."
+
+Ibarra read the message twice. Then he sat at his desk, in the small
+office that was now also a bedroom for three Verath refugees, and
+composed his reply.
+
+"Your Excellency, I acknowledge receipt of your instructions. I
+respectfully inform you that I am unable to comply. The Verath refugees
+in my care are fleeing the systematic destruction of their people. To
+hand them over to the authority that is conducting that destruction would
+be, in my judgment, a grave moral failure that I cannot reconcile with
+my obligations as a priest, as a Christian, or as a human being. I invoke
+the right of sanctuary not as a legal instrument but as a moral
+imperative. I am prepared to accept the consequences of this decision,
+including suspension, censure, or removal from my position. I commend
+myself to your prayers, as I commend you to mine. In Christ, Father
+Mateo Ibarra, S.J."
+
+He sent the message and closed his terminal. Then he went into the nave,
+where forty-one Verath refugees were sleeping on pews and blankets and
+the worn carpet of a church that had never been designed to hold them,
+and he knelt at the altar and prayed.
+
+He did not pray for guidance. He had received all the guidance he needed,
+not from the bishop, but from a small, wounded creature who had walked
+down his aisle and asked for the oldest promise the Church had ever made.
+
+He prayed for courage.
+
+                              III.
+
+The Consortium security team arrived on the twelfth day.
+
+There were twenty of them, in the gray-and-white uniforms of the
+Consolidated Mining Security Service, armed with crowd-control weapons
+and wearing the blank, professionally neutral expressions of people who
+were trained to follow orders and not to think too carefully about what
+those orders meant. They assembled in the corridor outside the church
+and waited.
+
+Their commander was a woman named Captain Varga. She was compact,
+efficient, and, Ibarra sensed from their brief initial exchange, deeply
+uncomfortable with her assignment.
+
+"Father Ibarra," Varga said, standing in the church doorway. She did not
+enter. Ibarra noted this and found it significant. "I have authorization
+from the Colonial Authority to enter this facility and remove the Verath
+individuals who are present in violation of relocation orders. I am
+requesting your cooperation."
+
+"You have my respect, Captain. You do not have my cooperation."
+
+"Father, I don't want this to be difficult."
+
+"It is already difficult, Captain. The question is whether it will also
+be violent."
+
+Varga's jaw tightened. "I am authorized to use reasonable force."
+
+"Against unarmed refugees in a church."
+
+"Against individuals in violation of lawful orders, regardless of the
+building they happen to occupy."
+
+Ibarra stepped forward, into the doorway, so that he stood between
+Varga and the interior of the church. Behind him, the Verath were
+awake, alert, their dark eyes catching the light. Several of his human
+parishioners had come as well -- Mrs. Okonkwo, who baked bread for the
+parish; young Tomasz, who served as altar boy; Dr. Chakravarti, who
+had brought his medical bag. They stood in the nave, among the Verath,
+and their presence said what their words did not need to: we are here.
+
+"Captain Varga," Ibarra said, and his voice was steady, and he was
+surprised by how steady it was, because his hands were trembling and his
+heart was beating so hard he could feel it in his teeth. "I am going to
+tell you a story. It will take less than a minute."
+
+Varga waited. Behind her, twenty armed security officers waited. In the
+corridor, the station's security cameras recorded everything.
+
+"In the year 600, in the kingdom of Kent, a man accused of murder fled
+to the church of Canterbury and claimed the right of sanctuary. The
+king's soldiers came to take him. The bishop -- a man named Augustine,
+who would later be called a saint -- stood in the doorway and said: 'This
+man is in God's house. If you wish to take him, you must come through
+me.' The soldiers withdrew. Not because the bishop was armed. Not because
+he had legal authority. But because they could not bring themselves to
+commit violence in a place of worship, against a man of God, in view of
+their neighbors and their own consciences."
+
+He paused.
+
+"I am not a saint, Captain. I am a tired priest on a mining station in
+the asteroid belt, and my church is a converted storage closet with a
+leaking roof. But the principle is the same. These people came to me and
+asked for sanctuary. I gave it. If you wish to take them, you must come
+through me."
+
+The corridor was very quiet. Twenty security officers stood in their
+gray-and-white uniforms and looked at the priest in the doorway, and
+behind him the dark, frightened eyes of forty-one beings who had no
+weapons and no power and no defense except the moral weight of a
+promise made in a house of God.
+
+Captain Varga looked at Ibarra. She looked past him, into the church,
+at the Verath huddled on the pews, at Mrs. Okonkwo standing with her
+arms crossed, at young Tomasz in his altar boy's cassock, at Dr.
+Chakravarti with his medical bag. She looked at the cross above the
+altar, which was plain and wooden and small and which, in this moment,
+seemed to Ibarra to be the largest thing on the station.
+
+"Father," she said, "I have my orders."
+
+"And I have mine."
+
+A long silence. The security cameras recorded it. The station's systems
+hummed around them. Somewhere in the belt, mining ships tore open
+asteroids that had been someone's home for four hundred years.
+
+Captain Varga took one step forward. Then she stopped. She looked down at
+her boots, at the threshold of the church door, at the line between the
+corridor and the nave. It was a physical line -- a strip of metal where
+the station's flooring met the church's carpet. It was also, in that
+moment, something else entirely.
+
+She did not cross it.
+
+"I'm going to contact my superiors," she said. "I'm going to tell them
+that the situation requires further review."
+
+"Thank you, Captain."
+
+"Don't thank me, Father. I haven't solved anything. I've delayed it."
+
+"Sometimes," Ibarra said, "a delay is all that mercy requires."
+
+Varga turned and walked back to her security team. She spoke to them in
+a low voice. They holstered their weapons. They withdrew down the
+corridor, their boots echoing on the metal floor, the sound fading until
+the church was quiet again.
+
+Ibarra stood in the doorway for a long time after they left. Then he
+turned back to his church -- to the Verath, to his parishioners, to
+the small and sacred space that he had drawn a line around with nothing
+but words and faith and the stubborn conviction that some things were
+more important than orders.
+
+Selith approached him. Her dark eyes held something that Ibarra
+recognized, because he had seen it in the eyes of every person who had
+ever knelt at his altar and received the bread and the wine and the
+promise that came with them.
+
+"They will come back," she said.
+
+"Yes."
+
+"And you will stand in the doorway again."
+
+"Yes."
+
+"How long?"
+
+Father Mateo Ibarra looked at the cross above his altar, and at the
+forty-one souls in his care, and at the darkness of the belt beyond
+the station's hull, where the stars burned with a cold, indifferent
+light that warmed nothing and forgave nothing and illuminated everything.
+
+"As long as it takes," he said.
+
+He closed the door. Not to lock it -- churches, he believed, should
+never be locked. But to make a point. The door was there, and it was
+closed, and on this side of it, the violence stopped. On this side, in
+this small room, in this converted storage closet on a mining station in
+the asteroid belt, the ancient promise held.
+
+Sanctuary.
+
+He turned back to his congregation -- human and Verath together, crowded
+and frightened and safe, for now, in the shelter of a faith that was
+older than space travel and more stubborn than commerce and strong enough,
+perhaps, to hold.
+
+He began the evening prayer.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+HAROLD "HAL" MERCER is a civil engineer and writer whose stories have
+appeared in Astounding Science Fiction, Galaxy, and these pages since
+issue #7. A veteran of the Army Corps of Engineers and a designer of
+highway interchanges for the Ohio Department of Transportation, he brings
+to his fiction an unshakeable conviction that the universe is a
+construction problem and that construction problems can be solved. "The
+Dyson Initiative" is his most ambitious work to date, and its two-part
+structure reflects, he says, "the fact that big projects don't stop when
+you want them to." He lives in Akron, Ohio, with his wife Dorothy and
+four sons, two of whom are already showing alarming aptitude with a
+slide rule.
+
+THEODORE CAIN is the most prolific contributor to these pages, having
+published at least one story in nearly every issue since our founding. A
+former autoworker, infantryman, and technical writer, he approaches
+science fiction with the versatility of a man who has done many jobs and
+found something worth writing about in all of them. "The Emissary" marks
+his first foray into comedy, and we suspect it will not be his last. He
+reports that the story was inspired by watching his wife rearrange the
+living room furniture for the third time in a month and thinking, "There
+must be a message in this." He lives in Dearborn, Michigan, and writes
+every evening from eight to midnight.
+
+DR. VINCENT KOSLOV is a physicist at Caltech whose fiction has appeared
+in these pages since issue #3. His stories are distinguished by their
+rigorous scientific accuracy and their conviction that the most important
+questions in physics are also the most important questions in human
+ethics. "The Prometheus Verdict" was inspired, he says, by "a conversation
+with a colleague about what would happen if we actually succeeded in
+doing what we've been trying to do." He notes that the physics in the
+story is "slightly ahead of current theory but not, I fear, as far ahead
+as we would like." He lives in Pasadena, California, with his wife Elena
+and three children.
+
+REX DRUMMOND continues to produce stories of interplanetary adventure
+from his home in San Diego, where he lives with his second wife, his
+dogs, and a collection of maps that now covers an entire wall of his
+den. "The Foxhound of Mars" represents what we believe is a new
+direction for this most reliable of action writers: a story in which the
+hero's most important decision is not to fight. When asked about this
+departure, Drummond reportedly said, "Even a cowboy hangs up his guns
+eventually. The trick is knowing when." He adds that he has never
+actually been to Mars but considers it "just West Texas with worse air."
+
+LUCIAN MARSH writes from an undisclosed location on the New England
+coast, where he lives alone with his books, his manuscripts, and what
+he describes as "the productive companionship of the fog." His stories
+have appeared in these pages since issue #11, and each one has pushed
+the boundaries of what science fiction can do with atmosphere, dread,
+and the uncertain territory between the mind and the unknown. "The
+Memory Palace" is, by his own account, "the most personal story I have
+written," though he declines to explain what he means by this. We have
+learned not to press the point.
+
+FATHER THOMAS AQUINO, S.J., is an ordained Jesuit priest and professor
+of philosophy at Loyola University in Baltimore. His stories, which have
+appeared in these pages since issue #17, explore the intersection of
+faith and science with an intellectual honesty and a moral seriousness
+that has earned him devoted readers across the theological spectrum.
+"Sanctuary" was written, he says, "because the question it asks is the
+oldest question the Church has ever faced: what do we owe to the stranger
+at our door?" He adds that the answer, for a Christian, "should never be
+in doubt, even when the stranger is not human." He lives in the Jesuit
+residence at Loyola and writes slowly, carefully, and with the patience
+of a man who has spent a lifetime listening for answers.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have just finished Issue #24, and I must write to say that "The Magi
+Protocol" by Dr. Koslov is one of the finest Christmas stories I have
+ever read, in or out of the science fiction genre. The image of three
+scientists from rival nations standing together before a newborn star,
+their political differences made irrelevant by the sheer wonder of what
+they are witnessing, stayed with me for days. Koslov has a gift for
+finding the sacred in the scientific, and this story is perhaps his most
+luminous example.
+
+                              -- Dr. Margaret Lennard
+                                 Department of Astronomy
+                                 Mount Wilson Observatory, California
+
+Dear Sterling,
+
+Pemberton's "Midwinter Night's Dream" in the December issue made me
+laugh so hard I spilled coffee on my cat, who has not forgiven me. The
+idea of an AI Santa delivering what people actually want instead of what
+they need is the most incisive piece of social commentary I've read this
+year, and the image of the senator clutching a teddy bear while the
+five-year-old reads classified documents may be the single funniest
+scene in the history of your magazine. More Pemberton, please. My cat
+concurs.
+
+                              -- Howard Rennick
+                                 Evanston, Illinois
+
+Dear Editor,
+
+I write to express my concern about "Silent Night, Frozen World" by
+Agnes Whitfield. While the story is beautifully written, its depiction
+of a post-nuclear winter seems calculated to promote defeatism at a
+time when our nation must maintain the resolve to defend itself against
+Communist aggression. Science fiction has a responsibility to inspire
+confidence in the future, not to paint visions of apocalyptic despair.
+I trust that future issues will maintain a more constructive tone.
+
+                              -- Col. (Ret.) James P. Braddock
+                                 Arlington, Virginia
+
+Colonel Braddock: We appreciate your concern and respectfully disagree.
+It is precisely because we wish to avoid the future that Mrs. Whitfield
+depicts that we believe it is important to imagine it clearly. A
+magazine that shows only comfortable futures is not inspiring confidence;
+it is encouraging complacency. As for the suggestion that science fiction
+has a "responsibility" to any particular political position, we refer the
+Colonel to the entire history of the genre and invite him to search it
+for a single great story that was written to make its readers feel safe.
+                                                               -- M.S.
+
+Dear Mr. Sterling,
+
+I am fourteen years old and I have read every issue of Tales from the
+Future and Beyond since the first one. I want to be a writer when I grow
+up, and I want to write for your magazine. What advice would you give a
+young person who wants to write science fiction?
+
+                              -- Patricia Alvarez
+                                 Tucson, Arizona
+
+Miss Alvarez: Read everything. Write every day. Study the sciences,
+because the universe is the raw material of our genre, and you cannot
+work in material you do not understand. Be bold in your imagination and
+humble in your craft. And send us a story when you are ready. Our door
+is open, and we are always looking for new voices. We will be here.
+                                                               -- M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+MISSION OF GRAVITY by Hal Clement
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clement has written a novel that is, in the strictest sense of the
+word, wonderful -- it fills the reader with wonder. The setting is
+Mesklin, a massive, rapidly spinning planet where the surface gravity
+varies from three times Earth-normal at the equator to nearly seven
+hundred times at the poles. Into this extraordinary environment, Clement
+drops a story of exploration and cooperation between humans and the
+native Mesklinites -- centipede-like beings who have adapted to crushing
+gravity with a culture as rich and practical as their environment demands.
+The science is meticulous, the world-building is superb, and the
+Mesklinites are among the most convincing alien characters in the genre.
+If the human characters are somewhat less vivid than their alien
+counterparts, this is a minor flaw in a major achievement. This is hard
+science fiction at its finest: a story that could not exist without
+science and could not succeed without fiction. Highest recommendation.
+
+I AM LEGEND by Richard Matheson
+(Gold Medal Books, 1954, $0.25)
+
+Reviewed by Maxwell Sterling
+
+Mr. Matheson's slim, devastating novel takes the vampire legend and
+subjects it to the rigors of science fiction, and the result is a work of
+sustained horror that is also, remarkably, a meditation on loneliness,
+perseverance, and the meaning of monstrosity. Robert Neville may be the
+last living man on Earth, surrounded by a world of vampires, and his
+daily routine of fortification, research, and survival is rendered with
+a grim, meticulous realism that makes the fantastic premise feel
+disturbingly plausible. Matheson is a master of the ordinary detail --
+the routines, the tools, the small domestic acts that anchor his hero to
+sanity -- and he uses this mastery to make us feel Neville's isolation in
+our bones. The ending is a masterpiece of reversal, and the title takes
+on a meaning that the reader does not expect and will not forget. A
+landmark. Essential reading.
+
+A MIRROR FOR OBSERVERS by Edgar Pangborn
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Pangborn's Hugo-winning novel is a quiet, deeply humane work about
+alien observers who have lived among humans for millennia, watching our
+species with a mixture of hope and despair. When two of these observers
+take opposing positions on the fate of a gifted human child, the novel
+becomes a philosophical contest between faith in human potential and
+despair at human cruelty. Pangborn's prose is graceful and precise, his
+characterization is subtle, and his vision of the alien-among-us is free
+of the paranoia that usually attaches to the concept. This is not a
+thriller. It is a novel of ideas, and the central idea -- that beings of
+vast intelligence might choose to live among us not to exploit or control
+us but simply because they find us interesting -- is both flattering and
+disquieting. A thoughtful, rewarding book for patient readers.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #26 -- February 1955
+
+Our third Valentine's issue explores the boundaries of love, loyalty,
+and sacrifice with a lineup that we are calling our most emotionally
+ambitious yet:
+
+"A MARRIAGE OF GRAVITIES" by Gunnar Eriksson -- On a generation ship
+where artificial gravity varies by deck, a love affair across gravity
+zones becomes a referendum on the ship's rigid social order. Eriksson's
+most tender and political story.
+
+"LOVE IN THE TIME OF LIGHT-LAG" by Theodore Cain -- A couple maintains
+their marriage across a twelve-minute communication delay between Earth
+and Mars, told entirely through their video messages. Intimate, mundane,
+and heartbreaking.
+
+"THE DOPPELGANGER'S WIFE" by Oscar Lennox -- When a rift between
+parallel dimensions deposits an alternate version of her husband in her
+kitchen, Clara Whitmore must choose between the man she married and the
+version who is, in every measurable way, slightly better.
+
+"HEART OF IRON" by Arthur Wainwright -- A combat robot, damaged and
+repaired by a civilian, develops an attachment that its programming
+classifies as a malfunction. Wainwright makes a love story between human
+and machine feel neither sentimental nor absurd.
+
+Plus: stories by Robert "Bob" Finley and Phyllis Crenshaw, letters from
+our readers, book reviews, and more.
+
+Tales from the Future and Beyond -- 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1955 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Gerald "Gerry" Pulaski
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

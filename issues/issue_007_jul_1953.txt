@@ -1,0 +1,4314 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #7 — July 1953
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Mirror Between Stars" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "Alena's Divergence" by Dr. Vincent Koslov .................. p. 3
+2. "Gunslinger's Moon" by Rex Drummond ........................... p. 28
+3. "Bottled Days" by Theodore Cain .......................... p. 49
+4. "Moth and Flame" by Lucian Marsh ...................... p. 66
+5. "Twelve of Pete" by Danny Kowalski ....................... p. 84
+6. "A Sermon in Starlight" by Father Thomas Aquino ............... p. 98
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 116
+   Signals Received: Letters to the Editor ................... p. 118
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 122
+   Coming Attractions ........................................ p. 125
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+Seven months in, and I find myself in the peculiar position of an editor
+who has begun to dream about his own magazine. Literally. Last Tuesday I
+woke at three in the morning with the absolute conviction that I had
+forgotten to include page numbers. (Margaret assures me I had not.)
+
+But dreaming, in a sense, is what this issue is about.
+
+When the stories for our July number began arriving -- by post, by
+courier, by one memorable hand-delivery from a breathless author who had
+run six blocks from the subway -- I noticed something remarkable. Without
+any coordination, without any editorial directive, five of our six
+contributors had independently written stories about memory and identity.
+About the question that science fiction, at its best, is uniquely equipped
+to explore: What makes you YOU?
+
+Dr. Koslov gives us consciousness reduced to mathematics -- and the
+terrifying moment when the equation doesn't balance. Rex Drummond, in his
+inimitable style, asks whether a man with a gun can choose who he is when
+the bullets stop flying. Theodore Cain imagines a future where your
+memories are literally for sale, and young Danny Kowalski -- just nineteen
+years old, mark him well -- wonders what identity means when twelve people
+share your face. Even Father Aquino, in what I believe is the finest story
+we have yet published, finds the question echoed across light-years: is
+identity unique, or universal?
+
+Only Lucian Marsh stands apart, offering instead a story about what happens
+when identity dissolves entirely. Trust Marsh to find the darkness in any
+theme.
+
+I said in my first editorial that science fiction is the literature of the
+question "What if?" I now believe it is equally the literature of the
+question "Who am I?" The rocket ships and ray guns are magnificent set
+dressing, but the human being inside the space suit -- that is where our
+genre lives or dies.
+
+This is the issue where I believe we have found our voice. Not my voice --
+the magazine's voice. TALES FROM THE FUTURE AND BEYOND is, and shall
+remain, a magazine about people. People in extraordinary circumstances,
+yes. People confronting the unknown, certainly. But people first, and
+always.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, June 1953
+
+============================================================================
+                         ALENA'S DIVERGENCE
+                          by Dr. Vincent Koslov
+============================================================================
+
+I.
+
+The human brain contains approximately ten billion neurons. Each neuron
+forms, on average, seven thousand synaptic connections. The total number of
+possible neural states exceeds the number of atoms in the observable
+universe by a factor so large that to write it in standard notation would
+require more paper than exists on Earth.
+
+Dr. Alena Voss knew these numbers the way most people know their telephone
+exchange. They were the constants of her profession, the fixed stars by
+which she navigated. She had spent eleven years -- first at the Kaiser
+Wilhelm Institute in Goettingen, then at the Czerny Laboratory in Prague,
+and finally here, at the Rensselaer Neurophysics Center in upstate New
+York -- attempting to reduce those numbers to something tractable. Something
+that could be written on a blackboard, argued over at conferences, tested
+and falsified and refined.
+
+She called it the Voss Transform: a mathematical operation that collapsed
+the staggering complexity of neural architecture into a system of coupled
+differential equations. Seventeen equations, to be precise. Seventeen
+equations that, given sufficient initial data, could model the
+electrochemical state of a human brain at any future moment.
+
+Could model it, in principle. In practice, the initial data requirements
+were monstrous. You needed a complete synaptic map, a real-time
+neurochemical profile, and a measurement of the brain's electromagnetic
+field accurate to twelve decimal places. The first two were merely
+difficult. The third was, by the standards of 1987, impossible.
+
+Or rather, it had been impossible until the previous October, when a
+doctoral student named Wei-Lin Park had, almost by accident, invented a
+magnetometric sensor of extraordinary sensitivity. Park had been trying to
+detect subtle variations in the Earth's magnetic field. What she had built
+instead was an instrument that could read the magnetic signature of a
+thinking brain from across a room.
+
+Alena had requisitioned three of the Park sensors within a week of the
+publication. They arrived in February, packed in foam, each one smaller
+than a shoebox. By March she had integrated them into the scanning array
+in Laboratory Four. By April she had collected complete datasets from
+fourteen volunteer subjects -- graduate students, mostly, lured with modest
+stipends and the promise of contributing to history.
+
+It was now the seventeenth of May, a Friday, and Alena was staring at a
+computer screen that contained the most extraordinary result in the history
+of neuroscience.
+
+The Voss Transform worked.
+
+Subject Nine -- a twenty-three-year-old mathematics graduate student named
+David Kerr -- had been scanned on Monday. The seventeen equations had been
+loaded with his neural data and run forward forty-eight hours. The model
+had predicted, in precise mathematical terms, the electrochemical state of
+David Kerr's brain at 2:00 PM on Wednesday.
+
+On Wednesday at 2:00 PM, David Kerr had been scanned again.
+
+The predicted state and the observed state matched to nine decimal places.
+
+Alena stared at the numbers. She had checked them four times. She had run
+the comparison algorithm twice, once on the laboratory's mainframe and once
+on her personal workstation. The result was unambiguous.
+
+For forty-eight hours, she had known what David Kerr would be thinking
+before David Kerr thought it.
+
+Not in vague terms. Not "David will be hungry" or "David will think about
+mathematics." In exact terms. The precise pattern of neural activation in
+every region of his brain. The specific concentrations of dopamine,
+serotonin, acetylcholine, and forty-three other neurotransmitters at every
+synapse. The complete electromagnetic signature of his consciousness, down
+to the twelfth decimal place.
+
+She had, in effect, possessed a perfect copy of David Kerr's mind -- a
+copy that ran two days ahead of the original.
+
+The implications were -- she paused, searching for the appropriate word,
+and found that no word in any of her four languages was adequate. The
+implications were beyond language. They were mathematical in their enormity,
+and only mathematics could contain them.
+
+She saved the file, locked the workstation, and went to stand by the window.
+
+The Rensselaer campus spread below her in the May afternoon light: redbrick
+buildings, green quadrangles, students moving in loose clusters along paved
+paths. She watched them without seeing them. Her mind was performing
+calculations of a different order.
+
+If the Voss Transform could predict a brain state forty-eight hours in
+advance, it could predict it a week in advance. A month. A year. The
+equations were deterministic. Given sufficient precision in the initial
+conditions, there was no theoretical limit to the prediction horizon.
+
+This meant one of two things. Either human consciousness was, at its most
+fundamental level, a deterministic system -- a clockwork mechanism of
+sublime complexity but no genuine freedom -- or the Voss Transform was
+wrong.
+
+Alena had spent eleven years building the Voss Transform. She had checked
+every derivation, tested every assumption, challenged every inference. The
+mathematics was sound. The experimental result confirmed it.
+
+Therefore, human consciousness was deterministic.
+
+Therefore, free will was an illusion.
+
+Therefore, David Kerr's belief that he had chosen to think about topology
+at 2:00 PM on Wednesday was incorrect. He had not chosen. The choice had
+been determined by the state of his brain on Monday, which had been
+determined by the state of his brain on the previous Saturday, which had
+been determined by an unbroken causal chain stretching back to the initial
+conditions of the universe.
+
+Alena leaned her forehead against the cool glass. The enormity of it
+pressed against her like a physical weight.
+
+She was not, by temperament, a woman given to philosophical crisis. She was
+a physicist. She dealt in measurements and equations, not in questions of
+meaning. But the Voss Transform had delivered her, without warning, into
+the deepest philosophical question that had ever been asked, and had
+answered it with the finality of a mathematical proof.
+
+No freedom. No choice. The universe was a calculation, and human beings
+were intermediate results.
+
+She closed her eyes. After a long moment, she opened them.
+
+There was one test remaining. The obvious test. The test she had been
+avoiding since Monday, when the first comparison had shown the match.
+
+She would run the Voss Transform on herself.
+
+
+II.
+
+The scanning procedure required approximately forty minutes. Alena had
+performed it dozens of times on the volunteer subjects, and the protocol
+was routine: lie on the padded table, remain still, allow the Park sensors
+and the conventional scanning array to map the brain in overlapping layers
+of increasing resolution.
+
+She had never scanned herself. There was no technical reason for this
+omission; the procedure was non-invasive and painless. The reason was
+personal, and she recognized it as irrational even as she acknowledged its
+power. There was something intimate about the scan, something that felt
+like being read. The subjects often reported a sense of exposure, as though
+their thoughts were being observed. They were not, of course -- the scan
+captured physical states, not subjective experiences -- but the feeling
+persisted.
+
+Alena prepared the laboratory on Saturday morning, when the building was
+empty. She calibrated the sensors, initialized the recording systems, and
+programmed the mainframe to execute the Voss Transform automatically once
+the scan was complete. The prediction horizon she set at seventy-two hours:
+the model would predict the state of her brain at 10:00 AM on Tuesday.
+
+She lay down on the table, positioned her head within the sensor array,
+and pressed the start button on the remote control.
+
+The scan proceeded in silence. The Park sensors emitted no sound; the
+conventional array produced only a faint hum. Alena lay still, staring at
+the acoustic ceiling tiles, and tried not to think about what was happening.
+
+This, of course, was futile. She thought about the scan. She thought about
+David Kerr's astonished face when she had told him about the result (she
+had told him nothing about the prediction, only that his scan data had been
+"particularly clean"). She thought about her apartment, and the stack of
+unread journals on the kitchen table, and the letter from her mother in
+Prague that she had not yet answered.
+
+She thought about Erik.
+
+Erik Lindqvist. Tall, fair, Swedish. A theoretical physicist at MIT, a
+collaborator on two published papers, a lover for nine months during her
+second year at Rensselaer. He had ended it -- gently, regretfully, with
+the careful precision of a man who had rehearsed the conversation -- in
+March of the previous year. The reason he gave was distance. The reason
+Alena intuited was something else: a fundamental incompatibility of
+temperament. Erik was warm where Alena was cool. Spontaneous where she was
+measured. He had once told her, during a weekend in Vermont, that talking
+to her was like talking to a beautiful equation -- elegant, complete, and
+impervious to revision.
+
+She had understood this as a compliment. She had been wrong.
+
+The scan ended with a soft chime. Alena sat up, swung her legs off the
+table, and walked to the workstation. The raw data was already loading into
+the mainframe. The Voss Transform would require approximately six hours to
+execute. She would have the prediction by evening.
+
+She went home. She answered her mother's letter. She read two journal
+articles and made notes in the margins. She ate a dinner of cold chicken
+and salad, standing at the kitchen counter, looking out the window at the
+darkening sky.
+
+At 8:47 PM, the mainframe sent a completion notification to her home
+terminal. Alena set down her fork, washed her hands, and sat at the desk
+in the corner of her living room.
+
+The prediction file was large -- 2.3 gigabytes of compressed data
+describing, in the language of the seventeen equations, the complete state
+of Alena Voss's brain at 10:00 AM on Tuesday the twentieth of May, 1987.
+
+She did not open it.
+
+Instead, she wrote herself a note on a yellow legal pad: "Tuesday 10 AM.
+Think about something specific. Something the model cannot have anticipated
+from Saturday's initial conditions."
+
+She considered this for a moment, then crossed it out. The entire point of
+the Voss Transform was that everything could be anticipated from the
+initial conditions. If the model was correct, then whatever she chose to
+think about on Tuesday was already determined. Her "choice" to think about
+something surprising was itself predicted. Her effort to defeat the
+prediction was part of the prediction.
+
+She stared at the crossed-out note.
+
+Then she wrote a new note: "Tuesday 10 AM. Be yourself."
+
+She turned off the terminal and went to bed.
+
+
+III.
+
+The weekend passed. Alena did not open the prediction file. She went to the
+laboratory on Monday, supervised three graduate students, attended a
+department meeting, and ate lunch alone in her office. She did not think
+about the prediction. Or rather, she thought about not thinking about the
+prediction, which was itself a form of thinking about it, a recursive loop
+of metacognition that she recognized as characteristic of her mental
+architecture and which, she acknowledged, was almost certainly captured in
+the model with perfect fidelity.
+
+On Tuesday morning, she arrived at the laboratory at 9:15. She sat at the
+workstation in Laboratory Four. She opened the prediction file.
+
+The data was dense but legible, once you knew the notation. The Voss
+Transform expressed brain states as vectors in a seventeen-dimensional
+phase space, each dimension corresponding to one of the coupled equations.
+The predicted state at 10:00 AM was a single point in this space: a set of
+seventeen numbers, each specified to twelve decimal places.
+
+Alena read the numbers. They meant nothing to her in their raw form; the
+phase space was abstract, and the correspondence between mathematical
+coordinates and subjective experience was not yet established. She could
+not look at the predicted vector and say, "At 10:00 AM I will be thinking
+about Erik" or "At 10:00 AM I will be worried about the department
+meeting." The model predicted physical states, not qualia.
+
+But she could compare the predicted state to an observed state.
+
+At 9:58, she lay down on the scanning table. At 9:59, she pressed the
+start button. The scan would take four minutes; the midpoint -- the moment
+of highest resolution -- would fall at 10:01, close enough to the
+prediction time that the comparison would be valid within the model's error
+margins.
+
+She lay still. She breathed. She let her mind do whatever it wished.
+
+What it wished, apparently, was to think about a summer afternoon in Prague
+when she was seven years old, sitting in her grandmother's garden, watching
+a beetle crawl along the rim of a flowerpot. The beetle was iridescent
+green, its carapace gleaming like enamel in the sunlight. Her grandmother
+was singing in the kitchen -- something in Czech, an old song, the melody
+simple and descending. The air smelled of linden blossoms and warm stone.
+
+The memory was vivid and unbidden. Alena had not thought about her
+grandmother's garden in years. She did not choose to think about it now;
+it simply arrived, like a bird alighting on a branch, and she watched it
+with the same passive attention.
+
+The scan chimed. She sat up.
+
+Her hands were steady as she loaded the observed data and initiated the
+comparison algorithm. The program would calculate the Euclidean distance
+between the predicted vector and the observed vector in the seventeen-
+dimensional phase space. A distance of zero would mean perfect agreement.
+The David Kerr comparison had yielded a distance of 0.000000003 --
+effectively zero, well within measurement uncertainty.
+
+The program ran for eleven seconds. The result appeared on the screen.
+
+Distance: 4.7192.
+
+Alena blinked.
+
+She read the number again. 4.7192. Not 0.0000047192. Not 0.00047192. The
+number 4.7192, with no leading zeros.
+
+In the context of the Voss Transform's phase space, a distance of 4.7192
+was enormous. It was not a small deviation, not a rounding error, not a
+sensor malfunction. It was a distance comparable to the difference between
+the brain of a person who was awake and the brain of a person who was in
+deep sleep. It was, in mathematical terms, a completely different brain
+state.
+
+The prediction had failed. Spectacularly, catastrophically failed.
+
+Alena's first thought was sensor error. She checked the calibration logs.
+All three Park sensors had been operating within normal parameters. The
+conventional scanning array showed no anomalies.
+
+Her second thought was a software bug. She re-ran the comparison algorithm.
+The result was identical: 4.7192.
+
+Her third thought was that the Voss Transform itself was wrong -- that the
+success with David Kerr had been a fluke, a coincidence, a statistical
+artifact.
+
+But she had run the transform on fourteen subjects. Twelve of the fourteen
+showed prediction accuracies comparable to David Kerr's. Two showed modest
+deviations, both attributable to identified measurement errors. The Voss
+Transform worked. She had verified it exhaustively.
+
+It worked on everyone.
+
+Everyone except Alena Voss.
+
+She sat very still at the workstation. The cursor blinked. The ventilation
+system hummed. Somewhere in the building, a door closed.
+
+She ran the transform again, using the Tuesday scan data as initial
+conditions and a twenty-four-hour prediction horizon. If the model was
+simply wrong about her -- if her neural architecture had some anomaly that
+the equations failed to capture -- then the new prediction should also
+fail, and the failure should be similar in character.
+
+The transform completed in six hours. At four in the afternoon, she scanned
+herself again and ran the comparison.
+
+Distance: 0.000000007.
+
+Near-perfect agreement.
+
+The Voss Transform worked on Alena Voss. It worked on Tuesday's data just
+as well as it worked on David Kerr's. The equations captured her neural
+architecture with the same fidelity they captured everyone else's.
+
+It had failed only once: the prediction from Saturday to Tuesday.
+
+Alena leaned back in her chair. The implications unfolded in her mind with
+the inexorable logic of a mathematical proof, and she did not like where
+they led.
+
+The Voss Transform was deterministic. Given an initial state, it predicted
+a unique future state. If the prediction failed, there were only two
+possible explanations.
+
+One: the initial state was measured incorrectly. She had ruled this out.
+
+Two: something had intervened between the initial state and the predicted
+state. Something that was not captured by the seventeen equations. Something
+external to the system.
+
+But the system was her brain. The seventeen equations modeled every known
+physical process that occurred within a human brain. Electrochemistry.
+Thermodynamics. Quantum effects at the synaptic level. There was nothing
+external to the system, because the system included everything.
+
+Unless the system did not include everything.
+
+Unless there was something in Alena Voss's brain -- or acting upon Alena
+Voss's brain -- that was not captured by any known physical process.
+
+She stood up. She walked to the window. The campus was quiet in the late
+afternoon light.
+
+Either the Voss Transform was wrong, which the evidence contradicted, or
+Alena Voss was not entirely a physical system.
+
+Or -- and this was the thought that made her grip the windowsill until her
+knuckles whitened -- Alena Voss was not the person she believed herself
+to be.
+
+
+IV.
+
+She did not sleep well that night. In the morning, she called in sick --
+something she had done twice in eleven years -- and drove to the campus
+library. She was not looking for neuroscience. She was looking for
+philosophy.
+
+The relevant literature was vast, and Alena was not trained to navigate it.
+She spent the morning reading about the mind-body problem, about Cartesian
+dualism, about Chalmers's "hard problem" of consciousness, about Penrose's
+speculations on quantum effects in microtubules. None of it helped. The
+philosophers asked beautiful questions but provided no equations. The
+physicists provided equations but asked the wrong questions.
+
+At noon she returned to the laboratory and ran a new experiment.
+
+She scanned herself -- a fresh initial state. She ran the transform forward
+twenty-four hours. Then she did something she had never done with any
+subject: she ran the transform backward.
+
+The Voss equations, like all deterministic systems, were time-reversible.
+Given a brain state at time T, the equations could calculate the state at
+T-minus-one just as easily as T-plus-one. In principle, you could take a
+scan of a person's brain and calculate what their brain had been doing
+yesterday, last week, last year.
+
+Alena ran the reverse transform on her Saturday scan. She asked the
+equations to calculate the state of her brain twenty-four hours before the
+scan -- Friday evening, roughly 10:00 PM.
+
+She remembered Friday evening. She had been at home, eating leftover soup
+and reading a paper by Hofstadter. A quiet evening. Nothing remarkable.
+
+The reverse prediction completed. She compared it to what she knew of
+her own Friday-evening mental state. The comparison was subjective --
+she had no scan data from Friday evening -- but the predicted
+neurochemical profile was consistent with relaxed wakefulness, mild
+intellectual engagement, and a low level of background anxiety. That
+sounded right.
+
+She ran the reverse transform further: forty-eight hours back. Thursday
+evening. She had been at the laboratory late, debugging the comparison
+algorithm. The predicted profile showed elevated cortisol, focused
+attention, mild frustration. Also consistent.
+
+She ran it back a week. The predictions remained plausible.
+
+She ran it back a month.
+
+The predictions remained plausible.
+
+She ran it back a year.
+
+Here, the reverse transform began to strain. The error accumulation over
+twelve months of backward projection was significant, and the predicted
+states became increasingly blurred -- not wrong, exactly, but imprecise,
+like a photograph slightly out of focus.
+
+She ran it back two years.
+
+The prediction snapped.
+
+Not gradually, not with increasing blur, but suddenly, like a rubber band
+stretched past its limit. The predicted brain state for May 1985 -- two
+years before the scan -- was not a blurred version of a plausible state. It
+was nonsense. Mathematical nonsense. The seventeen-dimensional vector
+contained values that were physically impossible: negative neurotransmitter
+concentrations, electromagnetic field strengths that violated conservation
+laws, a synaptic connectivity pattern that corresponded to no known
+biological structure.
+
+Alena stared at the screen.
+
+The reverse transform worked on the other subjects. She checked: David
+Kerr's data, run backward two years, produced a blurred but physically
+plausible brain state. So did the other thirteen subjects. The equations
+were well-behaved in reverse, for everyone except her.
+
+For Alena, the backward projection collapsed into impossibility at
+approximately the twenty-six-month mark.
+
+Twenty-six months ago was March 1985.
+
+Alena sat at the workstation and tried to remember March 1985. She had
+been at Rensselaer for three years at that point. She had published two
+papers. She had been seeing Erik for -- she calculated -- four months.
+
+She remembered March 1985 perfectly well. She remembered a late snowstorm
+that knocked out power to the campus for two days. She remembered a
+seminar she gave on the early version of the Voss Transform. She
+remembered Erik cooking paella in her kitchen, the saffron staining his
+fingers yellow.
+
+She remembered all of this. But the Voss Transform said that the brain
+which remembered it -- the brain she carried in her skull at this very
+moment -- could not have existed in March 1985.
+
+According to the mathematics, Alena Voss's brain had begun existing
+approximately twenty-six months ago. Before that point, there was no
+physically consistent prior state. Her brain had not developed from an
+earlier brain. It had simply appeared, fully formed, loaded with memories
+of a life it had not lived.
+
+The word came to her slowly, rising from the depths of her scientific
+vocabulary like a bubble from the bottom of a dark lake.
+
+Discontinuity.
+
+
+V.
+
+She told no one. Whom would she tell? The result was incomprehensible,
+and the incomprehensible does not survive peer review.
+
+Instead, she worked. For three weeks she worked with a focus that excluded
+sleep, food, and all social contact. She refined the reverse transform.
+She improved the error-correction algorithms. She developed new diagnostic
+tools to probe the boundary -- the exact moment at which the backward
+projection ceased to be physically meaningful.
+
+The boundary sharpened. It was not March 1985. It was the fourteenth of
+March, 1985, at approximately 3:00 AM Eastern Standard Time.
+
+Alena searched her memories for the fourteenth of March, 1985. She found
+nothing remarkable. A Thursday. She had gone to the laboratory in the
+morning, worked until five, gone home, made dinner, read a chapter of a
+novel -- she could not remember which novel -- and gone to bed.
+
+An ordinary day. The most ordinary day. A day so featureless that it was
+almost suspicious in its ordinariness, as though it had been designed to be
+unmemorable.
+
+She pulled her personal records. Her calendar for March 1985 showed nothing
+unusual. Her laboratory notebook recorded routine measurements. Her credit
+card statements showed a purchase at the campus bookstore -- $14.95, a
+hardcover, title unknown -- and a charge at the local grocery -- $23.41,
+items unknown.
+
+She requested her medical records from the campus health service. She had
+visited the clinic on March 11th for a routine check-up. Blood pressure,
+blood work, the usual. All normal.
+
+Nothing. No accident, no surgery, no head injury, no unexplained gap in
+the record. The fourteenth of March, 1985, was a perfectly normal day in
+the perfectly normal life of Dr. Alena Voss.
+
+A perfectly normal day on which, according to the most rigorous
+mathematical model of consciousness ever constructed, her brain had
+spontaneously materialized.
+
+She began to consider hypotheses.
+
+Hypothesis one: the reverse transform was numerically unstable, and the
+"discontinuity" was an artifact of accumulated computational error. She
+tested this by running the reverse transform on simulated data with known
+initial conditions. The simulation showed no discontinuity at any time
+horizon. Hypothesis rejected.
+
+Hypothesis two: her brain contained a structural anomaly -- a tumor, a
+lesion, a developmental irregularity -- that the forward transform could
+accommodate but the reverse transform could not. She booked an MRI at the
+university hospital, under the pretext of a persistent headache. The MRI
+was clean. No anomalies of any kind. Hypothesis rejected.
+
+Hypothesis three: the discontinuity was real. Her brain, as a physical
+system, had no consistent history before March 14, 1985. Her memories of
+before that date were -- something. Implanted, constructed, false. Real in
+the subjective sense but not in the physical sense.
+
+This hypothesis could not be rejected. It was consistent with all the data.
+
+Alena sat in her office at eleven o'clock at night and looked at the framed
+photograph on her desk. The photograph showed a woman in her sixties,
+silver-haired, smiling, standing in a garden in Prague. Her mother. Jana
+Voss, nee Horakova. The woman who had raised her, taught her mathematics,
+sat with her through childhood fevers, driven her to the airport when she
+left for America.
+
+If hypothesis three was correct, Alena had never met this woman. The
+memories of her mother were artifacts, indistinguishable from genuine
+experience but manufactured. Loaded into a brain that had appeared in the
+small hours of a March morning in a rented apartment in Troy, New York.
+
+She picked up the telephone and dialed her mother's number in Prague. It
+was five in the morning there, but Jana was an early riser. The phone rang
+three times.
+
+"Haló?"
+
+"Maminko. It's Alena."
+
+"Alenka! Is everything all right? You sound strange."
+
+"I'm fine. I just -- wanted to hear your voice."
+
+"At this hour? You're working too hard again. Are you eating?"
+
+"Yes, Maminko."
+
+"You're not eating. I can hear it in your voice. You're living on coffee
+and those terrible American sandwiches."
+
+Alena closed her eyes. The voice was perfect. Every inflection, every
+rhythmic pattern, every characteristic locution was exactly as she
+remembered. Her mother. Her real mother. The woman who existed, who lived
+in Prague, who could be visited and embraced and argued with.
+
+But the Voss Transform did not say that Jana Voss was unreal. It said that
+Alena's memories of Jana Voss had no physical basis before March 14, 1985.
+Jana herself might be perfectly real. Alena's childhood in Prague might have
+happened -- to someone else. Or to no one. The memories could have been
+constructed from whole cloth, or copied from another mind, or generated by
+a process Alena could not imagine.
+
+"Maminko. Do you remember when I was seven? In your garden? There was a
+beetle on a flowerpot."
+
+A pause. "A beetle?"
+
+"A green beetle. Iridescent. You were singing in the kitchen."
+
+"Alenka, I don't remember every beetle from thirty years ago. But yes, you
+spent hours in that garden. You were always watching the insects. You said
+they were tiny machines."
+
+"Tiny machines. Yes. I remember."
+
+She remembered. But the Voss Transform said the remembering brain had not
+been there.
+
+"Go to bed, Alenka. Call me on Sunday, at a reasonable hour."
+
+"Yes, Maminko. Good night."
+
+She hung up. She sat in the dark office for a long time.
+
+
+VI.
+
+Two hypotheses remained, and Alena Voss was not the kind of scientist who
+could leave a question unanswered.
+
+The first hypothesis was that she was, in some sense, artificial. That the
+entity called Alena Voss had been created -- by whom, for what purpose, by
+what means -- on March 14, 1985, equipped with a complete set of false
+memories and inserted into a pre-existing life. This hypothesis was
+extraordinary in the extreme, but it was consistent with the data. It
+implied the existence of a technology so far beyond current science that it
+was functionally indistinguishable from magic: the ability to construct a
+human brain in its entirety, complete with a lifetime of encoded
+experience.
+
+The second hypothesis was stranger still. It was the possibility that Alena
+had considered and rejected and reconsidered and been unable to fully
+dismiss.
+
+The Voss Transform modeled consciousness as a deterministic physical
+system. It worked perfectly on fourteen out of fifteen subjects, both
+forward and backward in time. On the fifteenth subject -- Alena herself --
+it worked perfectly forward but collapsed backward at a specific moment.
+
+What if the discontinuity was not in her brain, but in her consciousness?
+
+What if the Voss Transform was, without Alena's intention or awareness,
+detecting the boundary between physical brain states and something else?
+What if Alena Voss's brain, before March 14, 1985, had been running on
+the same deterministic physics as everyone else's -- but on that date,
+something non-physical had entered the system? Something that the equations
+could not reverse-engineer because it was not subject to the equations?
+
+Something that, in the philosophical literature, might be called a soul.
+
+Alena was not religious. She had been raised in a secular household in a
+secular country. She had no framework for thinking about souls, no
+vocabulary, no intuitions. The concept was as foreign to her as Sanskrit
+calligraphy.
+
+But the mathematics led where it led. And the mathematics said that
+something had happened to Alena Voss on March 14, 1985, that was not
+reducible to physics.
+
+She leaned back in her chair and stared at the ceiling. The fluorescent
+light hummed. The building was silent.
+
+She was a scientist. She dealt in evidence, not in speculation. The
+evidence said that her brain's history was physically inconsistent before a
+specific date. The evidence did not say why. The evidence did not say
+"soul" or "artificial" or "alien intervention" or any other narrative. The
+evidence said only: here is a discontinuity. Here is a boundary beyond
+which the equations do not hold. Here be dragons.
+
+She could publish the result. The Voss Transform -- the forward prediction
+-- would revolutionize neuroscience, philosophy, and law. It would ignite
+debates about free will, moral responsibility, criminal justice, and the
+nature of consciousness that would rage for decades. The backward-
+prediction anomaly -- her anomaly -- would be a footnote, a curiosity, a
+datum awaiting explanation.
+
+Or she could investigate the anomaly. She could scan more subjects, hundreds
+of subjects, and run the reverse transform on all of them. If she was the
+only discontinuity, that meant one thing. If there were others, it meant
+something else entirely.
+
+She thought about David Kerr, whose thoughts she had predicted with
+twelve-decimal-place accuracy. David Kerr, who believed he was a free
+agent making choices about his life, and who was in fact a mechanism of
+sublime complexity executing a program written at the beginning of time.
+
+She thought about herself, who was apparently not a mechanism. Who was,
+according to the mathematics, something more than -- or other than -- a
+physical system.
+
+She should have been elated. She was the exception. She was the proof that
+determinism was not absolute, that consciousness was not merely clockwork,
+that there was something in the universe that transcended equations.
+
+She was not elated.
+
+She was terrified.
+
+Because if she was the exception, then she was alone. Alone in a way that
+no human being had ever been alone. Alone in the way that a single
+irrational number is alone in an infinite field of integers. She was
+different in kind, not merely in degree, from every other person she had
+ever known.
+
+Erik had said that talking to her was like talking to a beautiful equation.
+He had been wrong. She was not an equation. She was the error term. The
+noise in the signal. The datum that did not fit.
+
+She thought about her mother's voice on the telephone. Maminko. The most
+real thing she knew. The most real thing she remembered. And the memory
+might be -- probably was -- a fabrication.
+
+But the love in it. The love she felt when she heard that voice. Was the
+love fabricated too?
+
+Could you fabricate love? Could you construct it from neurochemistry and
+synaptic weights, load it into a brain like data into a computer, and have
+it be indistinguishable from the real thing?
+
+The Voss Transform said yes. The Voss Transform said that love, like
+everything else, was a physical state, and physical states could be
+predicted, replicated, and presumably manufactured.
+
+But the Voss Transform did not work on Alena.
+
+Which meant -- what? That her love was real? That it originated from the
+non-physical component, the discontinuity, the soul?
+
+Or that it was an even more sophisticated fabrication, one that transcended
+mere physics?
+
+She did not know. The equations did not say. The equations, for the first
+time in eleven years, had nothing to say to her at all.
+
+
+VII.
+
+On a Thursday evening in late June, Alena Voss made her decision.
+
+She had spent six weeks scanning additional subjects. Forty-seven new
+volunteers, bringing the total to sixty-one. She had run the reverse
+transform on all of them, pushing backward as far as the accumulated error
+would allow.
+
+Three others showed discontinuities.
+
+Subject Twenty-Two: a forty-one-year-old English professor named Margaret
+Okonkwo. Discontinuity at approximately eighteen months before the scan.
+
+Subject Thirty-Nine: a nineteen-year-old undergraduate named James Petrie.
+Discontinuity at approximately four years.
+
+Subject Fifty-Five: a sixty-seven-year-old retired janitor named Harold
+Blum. Discontinuity at approximately thirty-one years.
+
+Four out of sixty-one. Roughly six and a half percent.
+
+Four people whose brains, according to the most precise model of
+consciousness ever constructed, had no physically consistent history before
+a specific moment.
+
+Four people who were, in the language of the Voss Transform, discontinuous.
+
+Alena had not told any of them. She was not sure she ever would. What would
+she say? "Excuse me, my equations indicate that you may not be entirely
+real"? The social protocol for such a conversation did not exist.
+
+But she had begun to observe them. Not intrusively -- she was not
+following them or reading their mail -- but attentively, with the focused
+curiosity of a scientist studying an unfamiliar phenomenon. And she had
+noticed something.
+
+They were all, in their different ways, unusual people.
+
+Margaret Okonkwo was a brilliant literary critic whose essays had a quality
+of insight that went beyond analysis -- a capacity to see what an author
+meant at a level deeper than the author's conscious intention. Her
+colleagues described her as "uncanny."
+
+James Petrie was a freshman who had arrived at Rensselaer with no
+distinguishing characteristics and had, within a semester, become the most
+gifted mathematics student in the department's history. His professors
+described his abilities as "coming from nowhere."
+
+Harold Blum was a retired janitor who, in his off-hours, painted
+watercolors of extraordinary beauty. He had never taken a lesson. He had
+never visited a museum. He painted what he saw, and what he saw was
+apparently invisible to everyone else: light falling through clouds in
+configurations that seemed to reveal the mathematical structure of the
+atmosphere.
+
+Four discontinuous people. Four people with inexplicable gifts. Four
+people who, if you believed the mathematics, had arrived in the world
+fully formed at specific moments, carrying memories of lives they had not
+lived, equipped with capacities that had no developmental history.
+
+Alena thought about this for a long time. She thought about it in the
+laboratory and at home and during the long walks she took in the evenings
+along the wooded paths behind the campus.
+
+Then she made her decision.
+
+She would not publish the Voss Transform.
+
+She sat at her workstation and deleted the prediction files. She deleted
+David Kerr's data and the data of all sixty-one subjects. She deleted the
+code for the reverse transform and the forward transform and the comparison
+algorithms. She deleted her laboratory notebooks -- the digital ones --
+and carried the paper ones to the incinerator behind the chemistry building
+and burned them.
+
+She kept nothing. Eleven years of work, reduced to ash and zeroed hard
+drives in a single evening.
+
+It was not a sacrifice. It was a choice -- the first genuinely free choice,
+she reflected, that she could be certain of making. Free because the Voss
+Transform could not predict it. Free because she was discontinuous, and
+discontinuous beings were not bound by the deterministic equations that
+governed the merely physical.
+
+She had considered publishing only the forward prediction -- the proof
+that consciousness was deterministic -- without mentioning the anomalies.
+But the anomalies were the truth. The forward prediction was the lesser
+truth, and publishing a lesser truth while concealing a greater one was,
+in Alena's moral algebra, indistinguishable from a lie.
+
+She had considered publishing everything. But the implications were
+dangerous. If it became known that six and a half percent of the population
+was "discontinuous" -- different in kind from the rest -- the consequences
+would be catastrophic. History provided abundant evidence of what happened
+when one group of humans was declared fundamentally different from another.
+
+And there was a deeper reason. A reason that was not scientific but personal
+and, Alena admitted, possibly sentimental.
+
+David Kerr believed he was free. He believed he made choices. He believed
+that his decision to study topology, his affection for his girlfriend, his
+preference for chocolate ice cream over vanilla were expressions of a
+genuine self, a self that was the author of its own story.
+
+The Voss Transform said he was wrong. The Voss Transform said David Kerr
+was a mechanism, and his sense of freedom was a beautiful illusion.
+
+But it was a beautiful illusion. And Alena was not willing to destroy it.
+
+Let David Kerr believe he was free. Let him live in the warmth of that
+belief, making his choices and loving his girlfriend and eating his
+chocolate ice cream, untroubled by the knowledge that every thought in his
+head had been determined since the beginning of time.
+
+And let Alena Voss -- the discontinuity, the error term, the singularity
+-- carry the knowledge alone.
+
+She locked the laboratory. She walked home through the June evening, the
+air soft and warm, the stars appearing one by one above the campus. She
+felt, for the first time in months, something that resembled peace.
+
+She did not know what she was. She did not know where she had come from, or
+who -- or what -- had placed her in a rented apartment in Troy, New York,
+on a March night two and a half years ago, equipped with thirty-four years
+of memories and a gift for mathematics and an ache in her chest where Erik
+Lindqvist used to be.
+
+But she knew that the love she felt for her mother was real. She knew it
+because the equations could not account for it. She knew it because it
+existed outside the system, beyond the reach of the seventeen variables,
+in the unmapped territory where the mathematics dissolved into silence.
+
+The beetle on the flowerpot. The song in the kitchen. The smell of linden
+blossoms and warm stone.
+
+Perhaps they had never happened. Perhaps she had never been a seven-year-
+old girl in a garden in Prague.
+
+But she remembered them. And the remembering was hers.
+
+That, she decided, was enough.
+
+She walked home beneath the emergent stars, and she did not look back.
+
+                              * * *
+
+============================================================================
+                          GUNSLINGER'S MOON
+                           by Rex Drummond
+============================================================================
+
+I.
+
+The bullet hit the water tower at the exact moment Cole Braddock lit his
+cigarette. He didn't flinch. You didn't last long on the Kepler frontier
+if you flinched at every stray round.
+
+He cupped the flame, drew deep, and exhaled smoke into the thin, copper-
+tinted air of Kepler-7b. The sun -- a bloated orange K-type star the
+settlers called Old Ugly -- hung low on the western horizon, painting the
+alkali flats the color of dried blood. Two moons were up. The big one,
+Juno, sat fat and yellow above the mesa. The little one, the fast one the
+miners called the Bullet, was just clearing the eastern ridge, moving so
+quick you could almost watch it track across the sky.
+
+Another round smacked the tower. This one punched clean through the sheet
+metal and sent a stream of recycled water arcing into the dust. Somewhere
+behind the processing plant, a man screamed -- high and sharp and cut off
+fast, the way they always were when it was bad.
+
+Braddock pulled his duster back from the holster on his right hip. The
+pistol there was a Remington Mk-VII Pacifier, military surplus, chambered
+in 8mm caseless. It could put a round through six inches of tempered steel
+at a hundred yards. On a planet where the atmosphere was thirty percent
+thinner than Earth's, it could do it at a hundred and fifty.
+
+He'd killed eleven men with that gun. Twelve if you counted the one on
+Barnard's Landing who'd taken three days to die, and Braddock counted him
+because three days of waiting for a man to stop breathing was worse than
+pulling the trigger.
+
+The settlement of Redemption -- and Lord, wasn't that a name -- huddled in
+the shadow of the mesa like a dog against a wall. Forty prefab structures,
+a processing plant, a water recycler, and a landing pad that hadn't seen a
+ship in six weeks. Population: three hundred and twelve souls, give or
+take, most of them miners pulling rare earths out of the mesa for the
+Kepler Development Corporation. KDC had the charter. KDC had the mining
+rights. KDC had the guns.
+
+Braddock was one of the guns.
+
+He'd been hired six months ago, when the raids started. Someone was hitting
+the outlying claims -- smashing equipment, stealing processed ore, leaving
+behind a mess of boot prints that didn't look quite right. The prints were
+too narrow, the toes too long, the stride too short for a human gait. The
+miners had their theories. Claim jumpers wearing trick boots. Corporate
+saboteurs from the Sirius Combine. The Kepler wind playing games with the
+alkali dust.
+
+Braddock hadn't had a theory. He'd had a contract: twelve months, fifteen
+hundred credits a month plus combat bonuses, protect the settlement, shoot
+what needed shooting. He hadn't asked who or what he'd be shooting. In his
+line of work, that kind of curiosity was a luxury.
+
+He stubbed out the cigarette on the heel of his boot and moved.
+
+The processing plant was a long, low building with corrugated walls and
+a roof that collected condensation for the recycler. Braddock went around
+the back, fast and low, the Remington up and tracking. The screaming had
+stopped. That was usually worse than when it kept going.
+
+He found Ike Washburn lying face-down in the alkaline dust behind the
+loading dock. Ike was a shift foreman, fifty-odd years old, built like a
+barrel. He wasn't built like a barrel anymore. Something had opened him
+from hip to shoulder, and the inside of Ike Washburn was steaming in the
+cool evening air.
+
+Braddock knelt. He didn't touch the body. He studied the wound. It wasn't
+a bullet wound and it wasn't a blade wound. It was a tear, jagged and
+irregular, like something had reached into Ike and pulled. The edges of the
+flesh were -- he looked closer -- the edges were cauterized. Burned clean,
+even as the tearing happened.
+
+He'd seen a wound like that once before. On Tau Ceti e, during the Border
+Suppression. The Tau Ceti indigenes had weapons that combined kinetic force
+with thermal energy -- a kind of ripping heat that tore and burned
+simultaneously. The Colonial Marines had called them "hellclaws."
+
+Braddock stood up. He looked at the mesa, rising dark and massive against
+the orange sky. The mesa was riddled with tunnels -- natural caves expanded
+by the mining operation, extending deep into the rock. The raiders always
+came from the mesa. The raiders always disappeared into the mesa.
+
+He turned and walked back toward the main street, past the water tower with
+its two new bullet holes, past the company store with its shuttered windows,
+past the clinic where Doc Okafor was already laying out his instruments
+with the resigned efficiency of a man who'd done too many patch jobs.
+
+Sheriff Tom Bryce was standing in the middle of the street, a scatter-gun
+in his hands and a look on his face like a man who'd just been told the
+universe was bigger than he thought.
+
+"Braddock. You see Washburn?"
+
+"I saw him."
+
+"Same as the others?"
+
+"Same as the others."
+
+Bryce spat into the dust. "That's seven in three months. KDC's going to
+pull the charter if we can't stop this."
+
+"KDC's not going to pull a charter that's netting them forty million
+credits a year in rare earths."
+
+"They'll bring in Marines."
+
+"Maybe. Probably should have done that from the start."
+
+Bryce looked at him with something between irritation and hope. "That's
+what I'm paying you for, Braddock. To make sure they don't have to."
+
+Braddock said nothing. He looked at the mesa. The fast moon -- the Bullet
+-- was crossing its face now, a white dot moving visibly against the dark
+rock. In twelve minutes it would be past and the mesa would be dark again.
+
+"I'm going up there," he said.
+
+"Into the mesa? At night?"
+
+"They hit us at dusk every time. They're holed up in those tunnels. I go
+now, while they're settling in, I might catch them off guard."
+
+"Or you might catch a hellclaw in the gut."
+
+Braddock shrugged. "That's what the combat bonus is for."
+
+
+II.
+
+The mesa was a different world at night.
+
+By day it was rock and dust, iron-red and sun-blasted, scarred with mining
+cuts and pocked with tunnel entrances. By night, under the twin moons, it
+became something older. The rock fluoresced faintly -- a pale blue-green
+glow, almost subliminal, that came from mineral deposits deep in the stone.
+The effect was like walking through the skeleton of some vast, luminous
+animal.
+
+Braddock moved through the tunnels with the Remington in his right hand
+and a lamp in his left, the beam cutting a white wedge through the blue
+darkness. The tunnels branched and re-branched, a labyrinth of natural
+caves and blasted-out mining corridors that extended, according to the
+survey maps, more than eight miles into the mesa's heart.
+
+He'd studied the maps. He'd memorized the branch points, the dead ends,
+the places where the ceiling dropped low and you had to go on hands and
+knees. He'd marked the spots where the raiders' tracks had been found --
+those narrow, long-toed prints -- and plotted them on the map. The pattern
+was clear: the raiders used the deep tunnels, the ones the miners hadn't
+reached yet, the ones that went down instead of in.
+
+He followed the pattern. Down.
+
+The air changed as he descended. It grew warmer, moister, thicker with a
+smell he couldn't quite place -- organic, faintly sweet, like overripe
+fruit or fresh-cut grass. The fluorescence intensified. The walls shimmered.
+In places, the mineral deposits formed structures that looked almost
+deliberate: spirals, branching patterns, symmetries that suggested design
+rather than geology.
+
+At the third branch point, he found the shrine.
+
+It was a natural chamber, roughly circular, maybe fifty feet across. The
+ceiling rose to a dome lined with the glowing mineral, so that the whole
+space was suffused with blue-green light, soft and even, like being inside
+a lantern. In the center of the chamber stood a structure.
+
+Braddock stopped. He turned off his lamp.
+
+The structure was made of the same luminous stone, but it had been shaped.
+Carved. Worked with tools and intention into a form that was unmistakably,
+undeniably deliberate. It was a column, maybe eight feet tall, tapering to
+a point, covered from base to tip with symbols. The symbols were intricate
+-- curves and angles and dots arranged in patterns that repeated and varied,
+like a language.
+
+Around the base of the column, arranged in a circle, were objects. Small
+objects, carefully placed. Braddock knelt to examine them without touching.
+Stones, polished smooth. Fragments of the luminous mineral, shaped into
+discs. What looked like dried flowers, pressed flat and arranged in fans.
+And bones. Small bones, delicate, from an animal Braddock didn't recognize.
+
+A shrine. An altar. A place of worship.
+
+Braddock stood up slowly. He was a man of limited education and unlimited
+practical intelligence, and the practical intelligence was screaming at him
+now, telling him something he did not want to hear.
+
+This was not a raider camp. This was not a hideout or a staging area or
+a weapons cache.
+
+This was a holy place.
+
+He heard them before he saw them. A sound like breathing, but rhythmic,
+synchronized, many lungs drawing and releasing in unison. It came from the
+tunnel beyond the chamber, the tunnel that went deeper still, and it was
+getting closer.
+
+Braddock backed against the wall. He raised the Remington. He killed the
+lamp and let the blue-green glow be his only light.
+
+They came into the chamber in a single file, twelve of them, and they were
+not human.
+
+He'd known that. He'd known it since the boot prints, since the hellclaw
+wounds, since the mineral formations that were too regular to be natural.
+He'd known it and he'd filed the knowledge away in the part of his mind
+where inconvenient truths went to wait, because acknowledging it would have
+meant acknowledging that everything he'd been hired to do was wrong.
+
+They were tall -- seven feet, maybe seven and a half -- and thin, built
+on a frame that was humanoid but not human. Their skin was dark, matte,
+like unglazed pottery. Their faces were long and narrow, with wide-set eyes
+that caught the chamber's glow and reflected it back as steady blue points.
+Their hands had six fingers, each one long and flexible as a tentacle, and
+they moved with a fluid grace that made Braddock feel like a sack of bricks
+on legs.
+
+They were wearing robes. That was the detail that hit him hardest. Not
+armor, not combat gear, not the utilitarian jumpsuit of a military force.
+Robes, long and flowing, dyed in patterns of indigo and green. Ceremonial
+garments. They had come here to worship.
+
+They saw him at once. Twelve pairs of blue-glowing eyes fixed on him. The
+breathing-rhythm broke. One of them -- the tallest, the one at the front
+of the line -- made a sound. It wasn't a word, not in any language Braddock
+spoke, but the meaning was clear in its cadence. A warning. A command.
+
+Leave. This place is ours.
+
+Braddock kept the Remington up. His finger was on the trigger. The gun
+could drop six of them before the rest closed the distance. Maybe seven,
+if he was fast and they were slow.
+
+The tall one spoke again. Different cadence this time. Not a command. A
+question.
+
+Braddock understood none of the words and all of the meaning. The question
+was: Why are you here?
+
+And the answer -- the honest answer, the answer that Braddock felt rising
+in his chest like bile -- was: Because a corporation pays me to kill you.
+
+He lowered the gun.
+
+"I'm leaving," he said. His voice sounded strange in the luminous chamber,
+flat and small and human. "I'm going back up. I won't shoot."
+
+He didn't know if they understood the words. But they understood the gun.
+The tall one's eyes tracked the Remington as Braddock holstered it, and
+something in those alien features shifted. Not trust -- something more
+cautious than trust. Recognition, maybe. One predator acknowledging another.
+
+Braddock walked backward out of the chamber, keeping his hands visible,
+keeping his movements slow. When he reached the tunnel mouth he turned and
+walked fast, not running -- running would be weakness -- but covering
+ground, up through the branching corridors, up through the dimming
+fluorescence, up into the cold copper air of the Kepler night.
+
+He stood outside the tunnel entrance and looked down at Redemption. The
+settlement's lights were small and yellow against the dark alkali flats.
+Three hundred and twelve people. Miners, mostly. Working men and women
+pulling metal out of someone else's rock for a wage that barely covered
+the price of breathing imported air.
+
+Below and behind him, in the heart of the mesa, twelve beings who had been
+here first were praying to gods he would never understand, in tunnels that
+had been their home since before humanity learned to make fire.
+
+Braddock lit a cigarette. His hands were steady. They were always steady.
+That was the problem with his line of work: the body didn't care about
+right and wrong. The body cared about survival, and survival was Braddock's
+particular talent.
+
+He smoked and he thought and the moons moved above him.
+
+
+III.
+
+He went to see Anna Kessler in the morning.
+
+Anna ran the company library, which was a grand name for a single room in
+the back of the administrative building containing two hundred data-chips
+and a reading terminal that crashed twice a day. But Anna had been on
+Kepler-7b for four years -- longer than anyone except old Harold DuPont,
+who'd come out on the first survey ship -- and she knew things that weren't
+on the data-chips.
+
+She was a small woman, dark-haired, with the pale complexion of someone
+who spent too much time indoors and the sharp eyes of someone who spent
+that time reading. Braddock liked her. She was one of the few people in
+Redemption who didn't look at him like he was either a savior or a
+necessary evil.
+
+"The Keth," she said, when he described what he'd seen.
+
+"The what?"
+
+"The Keth. K-E-T-H. That's the name in the original survey report. The
+indigenous population of Kepler-7b. Listed as 'pre-industrial, minimal
+territorial range, non-threatening.' The survey team spent two weeks on
+the surface, catalogued the flora and fauna, noted the Keth, and moved on.
+KDC got the charter based on that survey."
+
+"Non-threatening."
+
+"That's what it says. I imagine the survey team didn't try to mine their
+sacred mountain."
+
+Braddock pulled up a chair and sat down. "Tell me about them."
+
+Anna told him what she knew, which wasn't much and was probably incomplete.
+The Keth were an old species -- how old was unclear, but the survey team
+had found artifacts in deep caves that carbon-dated to at least forty
+thousand years. They lived in small groups, rarely more than twenty, in
+the cave systems of the mesas. They were tool-users but not technology-
+builders; their tools were biological, grown rather than manufactured, and
+included the thermal-kinetic weapons that Braddock had seen the effects of.
+
+"Grown weapons?"
+
+"Bioengineered. They cultivate a crystalline organism -- it's technically
+a fungus -- that stores thermal energy and releases it on impact. The
+survey report calls it 'a symbiotic weapon system of remarkable
+sophistication.' The Keth grow them, bond with them, use them. The weapons
+are apparently keyed to individual Keth; nobody else can activate them."
+
+"And KDC knew about this when they set up the mine."
+
+"KDC knew there was a pre-industrial indigenous population with biological
+hand weapons. They assessed the threat level as low. The mesa was
+classified as 'unclaimed geological resource.' The charter's legal."
+
+"Legal." Braddock said the word the way you'd say "poisonous." He leaned
+forward. "Anna. The mesa isn't just a mine to them. There's a shrine down
+there. Carved stone, symbols, offerings. They go there to pray."
+
+Anna was quiet for a moment. "That's not in the survey report."
+
+"The survey team spent two weeks here and didn't go deep enough into the
+tunnels to find it. They did a surface scan and called it done."
+
+"If there's a sacred site..."
+
+"Then KDC is mining a church. That's what you're saying."
+
+Anna looked at him steadily. "What I'm saying, Mr. Braddock, is that the
+Colonial Territories Act of 2089 includes a provision -- Section 14,
+subsection 3 -- that prohibits the disturbance of indigenous sacred sites.
+If the mesa contains a documented sacred site, KDC's mining charter could
+be challenged."
+
+"Challenged. Not revoked."
+
+"Challenged. The process takes about two years and involves a tribunal on
+Earth. During which time, the mining continues."
+
+"And the Keth keep getting pushed deeper into their own mountain."
+
+"Yes."
+
+Braddock stood up. "Thanks, Anna."
+
+"Cole." She used his first name so rarely that it stopped him at the door.
+"What are you going to do?"
+
+He thought about it. "I don't know yet."
+
+That was a lie. He did know. He just wasn't ready to say it out loud.
+
+
+IV.
+
+The next raid came three nights later.
+
+Braddock was ready for it. He was sitting on the roof of the processing
+plant with the Remington across his knees and a pair of night-vision
+binoculars pressed to his eyes when the Keth came down from the mesa.
+
+There were eight of them this time. They moved like shadows -- fast, fluid,
+nearly silent. They wore dark wrappings instead of the ceremonial robes,
+and they carried their hellclaw weapons in both hands, the crystal tips
+glowing faintly red in the darkness.
+
+They headed straight for the primary mine shaft. Not the processing plant,
+not the water tower, not the residential units. The mine shaft. The
+entrance to their mountain.
+
+Braddock watched them. He could have dropped four of them from this
+position before they knew he was there. The combat bonus for four kills
+would be six thousand credits. Six thousand credits would buy a lot of
+quiet on a lot of quieter worlds.
+
+He didn't shoot.
+
+He watched them reach the mine shaft entrance. They stopped. The tallest
+one -- the same one from the shrine, Braddock was sure of it -- pressed
+both six-fingered hands against the rock face beside the entrance. The
+others did the same, spreading out along the wall, touching the stone
+with what Braddock could only describe as tenderness.
+
+Then the tall one turned and looked directly at Braddock.
+
+Across three hundred yards of darkness, through the night-vision green of
+the binoculars, those blue-glowing eyes found him. Found him and held him.
+The look was not hostile. It was not pleading. It was patient. It was the
+look of someone who had been waiting a very long time and could wait longer
+still.
+
+One of the other Keth entered the mine shaft. A moment later, there was a
+muffled sound -- half crack, half scream -- and the Keth came back out
+dragging something. A piece of mining equipment. A drill assembly, heavy
+and metallic, scarred with use. The Keth dropped it in the dust and raised
+its hellclaw and brought it down.
+
+The drill assembly came apart. The thermal-kinetic energy tore through
+the casing and melted the internal components into slag. The Keth hit it
+again, and again, and what had been a twenty-thousand-credit piece of
+precision engineering was now a pile of glowing junk.
+
+They did the same to two more pieces of equipment dragged from the shaft.
+Then they turned and went back up the mesa, moving fast, disappearing into
+the darkness like they'd been poured into it.
+
+Braddock watched them go. He watched the last one -- the tall one, the
+leader -- pause at the ridge line and look back one more time.
+
+Then they were gone.
+
+Braddock climbed down from the roof. Sheriff Bryce was already running
+toward the mine shaft, scatter-gun up, three deputies behind him.
+
+"Braddock! They hit the shaft! Why didn't you shoot?"
+
+"Didn't have a clean angle," Braddock said. The lie came easy. Lies always
+did.
+
+"Didn't have a -- you were on the roof! That's why we put you on the roof!"
+
+"They were in and out fast. By the time I had a bead, they were in the
+rocks."
+
+Bryce stared at him. Braddock stared back. After a moment, Bryce turned
+away to survey the damage, swearing steadily and comprehensively.
+
+Braddock walked back to his quarters. He sat on the edge of his bunk and
+looked at the Remington. The gun was clean and oiled and ready, as always.
+It was a good gun. It had never let him down.
+
+He thought about the tall Keth's eyes. That patient, ancient gaze. That
+look that said: We were here before you. We will be here after you. This
+rock is our mother and our memory. Every tunnel is a vein, every chamber
+a heartbeat. You are mining our body.
+
+He thought about Ike Washburn, torn open behind the loading dock. He
+thought about the six others who had died in three months. Working men,
+most of them. Men who'd come to Kepler-7b because the jobs on Earth had
+dried up, because the colonies were where the work was, because a man had
+to feed his family somehow, even if it meant pulling rocks out of the
+ground on a world with copper-colored air and two moons and an orange sun
+that never looked like home.
+
+Good men, some of them. Scared men, all of them. Men who didn't know they
+were mining a church.
+
+And the Keth. The Keth who hadn't started killing until KDC's drills hit
+the deep tunnels, the sacred tunnels, the tunnels where the shrines were.
+Who had probably tried other things first -- signals, warnings, displays
+of force -- and been ignored or misunderstood. Who had finally done what
+any people would do when their holy places were destroyed.
+
+They had fought back.
+
+Braddock understood fighting back. It was the one thing he understood
+better than anything else in the universe.
+
+He lay down on the bunk and stared at the ceiling and thought about
+choices.
+
+There was no right choice. That was the hell of it. If he sided with the
+Keth, the miners would die or be driven off-world, and three hundred
+families would lose their livelihoods. If he sided with the miners, the
+Keth would lose their sacred mountain, their ancestral home, their history,
+their gods. If he walked away, both sides would keep killing each other
+until one side or the other was gone.
+
+He thought about Section 14, subsection 3 of the Colonial Territories Act.
+He thought about tribunals on Earth and two-year legal proceedings and the
+mine running full bore the whole time.
+
+He thought about Anna Kessler's sharp eyes and the way she'd said his
+first name.
+
+He thought about a shrine in a blue-green chamber and the sound of
+synchronized breathing.
+
+He didn't sleep.
+
+
+V.
+
+In the morning he went to see Garrett Lowe.
+
+Lowe was KDC's on-site manager: a thin, precise man in a clean shirt who
+smelled of aftershave and processed air. He had an office in the
+administrative building -- the only private office in Redemption -- with a
+real wooden desk that had been shipped from Earth at a cost that could have
+fed a family for a year.
+
+"The raiders are Keth," Braddock said without preamble. "Indigenous species.
+Pre-colonial inhabitants. We're mining their sacred sites."
+
+Lowe steepled his fingers. "I'm aware of the indigenous population, Mr.
+Braddock. The survey report--"
+
+"The survey report is garbage. Two weeks of surface observation. They
+missed the deep tunnel system, they missed the shrines, they missed the
+fact that the entire mesa is a holy site."
+
+"Holy site is a strong term."
+
+"I saw it. Carved stone, ritual objects, organized worship. These aren't
+animals, Lowe. They're people."
+
+"They're pre-industrial xenofauna. The charter--"
+
+"The charter's based on a bad survey. Section 14 of the Colonial
+Territories Act--"
+
+"I'm familiar with Section 14." Lowe's voice was quiet but the temperature
+in it dropped ten degrees. "And I'm familiar with you, Mr. Braddock. You're
+a hired gun. You were not hired to interpret colonial law or to make
+determinations about indigenous sovereignty. You were hired to protect this
+settlement."
+
+"Hard to protect a settlement from people defending their own land."
+
+"Their land? KDC has the charter. This is KDC land."
+
+Braddock leaned on the wooden desk with both hands. "Lowe. Listen to me.
+Those Keth have been in that mesa for forty thousand years. They've got
+weapons that can tear a man in half. So far they've been hitting equipment
+and stragglers. If you keep drilling into their holy place, they'll hit the
+settlement itself. All of it. Three hundred people."
+
+"Which is why I'm paying you fifteen hundred a month."
+
+"I can't stop them. Not alone. Not even with a squad. There are tunnels
+under this settlement, Lowe. Tunnels we haven't mapped. They could come up
+in the middle of the night, right through the floor of this office, and
+there wouldn't be a damn thing I could do about it."
+
+Lowe's face didn't change, but something behind his eyes shifted. A
+calculation. The man was always calculating.
+
+"What do you propose?"
+
+"Pull back from the deep tunnels. Restrict mining to the upper levels --
+the areas above the shrine complex. Stop drilling down. The rare-earth
+deposits extend laterally as well as vertically; you can mine the upper
+strata without touching their holy places."
+
+"At significantly reduced yield."
+
+"At enough yield to justify the charter. Maybe sixty percent of current
+output."
+
+"Sixty percent. Do you have any idea what the board will say?"
+
+"I have a pretty good idea what the Keth will say if you don't."
+
+Lowe sat back. He regarded Braddock for a long moment. "And how do we
+communicate this... arrangement to the raiders?"
+
+"Leave that to me."
+
+
+VI.
+
+He went into the mesa at dusk, alone and unarmed.
+
+He'd left the Remington in his quarters. He'd left the knife, the
+derringer in the boot holster, and the flashbang in the inner pocket of
+his duster. He wore only his clothes and carried only a lamp.
+
+It was the stupidest thing he'd ever done. And he'd done some spectacularly
+stupid things in his thirty-eight years.
+
+The tunnels were the same. The fluorescence, the sweet organic smell, the
+branching corridors leading down. He followed the path he'd memorized,
+down to the shrine chamber, and he sat on the stone floor in the blue-green
+glow and he waited.
+
+They came after two hours. Not twelve this time -- twenty. Perhaps more.
+They filled the tunnels around the chamber, their dark shapes barely
+visible beyond the light, their eyes catching and reflecting the glow.
+
+The tall one entered the chamber. Up close, in the soft light, Braddock
+could see details he'd missed before. The Keth's skin wasn't uniform dark;
+it was patterned, subtly, with lighter striations that might have been age
+marks or clan signs or something entirely beyond human categorization. Its
+robes were different from the others' -- more elaborate, more heavily
+patterned, with what looked like small crystals woven into the fabric.
+
+A leader. A chief. A priest. Maybe all three.
+
+It stood before Braddock and looked down at him. Its eyes were not just
+blue -- they were layered, multiple depths of blue, like looking into deep
+water.
+
+Braddock spread his hands. Empty. No weapon, no tool, no threat.
+
+"I don't know if you understand me," he said. "I don't know if you can
+understand me. But I'm going to talk anyway, because talking is what
+humans do when they're scared and they don't have a gun."
+
+The tall Keth tilted its head. Listening.
+
+"The mining stops in the deep tunnels. No more drilling below Level Four.
+Your shrines, your holy places, they stay untouched. The upper levels, we
+keep mining. We need the work. Our people need to eat, same as yours.
+But we stay up top and you keep what's down here."
+
+Silence. The synchronized breathing of twenty or more Keth, slow and steady.
+
+"I know you've been trying to tell us. The raids, the attacks -- you were
+telling us to stop. We didn't listen. I'm listening now."
+
+The tall Keth made a sound. Low, resonant, almost musical. It reached out
+one six-fingered hand and touched the nearest wall. The crystals in the
+stone pulsed brighter, just for a moment.
+
+Then it spoke.
+
+Not in any human language. Not in any sound a human throat could make. But
+the meaning came through -- not as words, not as thoughts, but as a
+feeling, a vibration in the bones, a sudden wordless comprehension that
+bypassed language entirely.
+
+Home. This is home. The stone remembers us. We remember the stone.
+
+And then: You. You are different. You smell of killing but you come without
+killing. Why?
+
+Braddock swallowed hard. "Because I've been the one on the other side. I've
+been the one watching someone take what was mine. I didn't have hellclaws
+or a holy mountain. I just had a gun and a bad attitude. But I know what
+it feels like."
+
+The tall Keth was silent for a long moment. Then it stepped forward and
+placed its hand -- warm, dry, the six fingers strong as cable -- on
+Braddock's shoulder.
+
+Agreement. Conditional. You keep your word, we keep ours. Break faith and
+the mountain will speak.
+
+Braddock nodded. "Deal."
+
+The Keth removed its hand. It turned and walked back toward the deeper
+tunnels. The others followed, one by one, until Braddock was alone in the
+glowing chamber with the carved column and the ritual objects and the
+silence.
+
+He sat there for a while. His hands were shaking. He clenched them into
+fists and then released them and let them shake. Nobody was watching.
+Nobody would know.
+
+After a while, he stood up and walked back to the surface.
+
+
+VII.
+
+Lowe didn't like it. The board didn't like it. KDC's legal team sent a
+seventeen-page memorandum explaining why negotiating with indigenous
+xenofauna was beyond the scope of any settlement employee's authority and
+potentially constituted an unauthorized modification of the charter terms.
+
+Braddock didn't care. The deep drilling stopped. The upper-level mining
+continued. The raids stopped.
+
+Two months later, a Colonial Territories tribunal received an anonymous
+filing documenting the presence of indigenous sacred sites within KDC's
+mining concession on Kepler-7b. The filing included detailed survey data,
+photographic evidence, and a legal brief citing Section 14, subsection 3.
+Anna Kessler never admitted to preparing it, and Braddock never asked.
+
+The tribunal proceedings would take two years. During those two years, the
+agreement held. The Keth stayed deep. The miners stayed shallow. Nobody
+died.
+
+Braddock's contract expired in October. He didn't renew. He collected his
+last paycheck, packed his kit, and walked to the landing pad where a supply
+shuttle was warming up for the run back to the orbital station.
+
+Anna Kessler was there. She was holding a thermos and wearing a coat that
+was too thin for the Kepler evening.
+
+"You could stay," she said.
+
+"And do what? I'm a hired gun, Anna. This place doesn't need a gun
+anymore."
+
+"Maybe it needs something else."
+
+He looked at her. She looked at him. The orange sun was setting behind the
+mesa, and the big moon was rising, and the little fast one was already
+halfway across the sky.
+
+"Maybe," he said.
+
+He took the thermos. It was coffee, real Earth coffee, from a stash she
+must have been hoarding for months. He drank it standing on the landing
+pad, watching Old Ugly sink below the horizon, feeling the copper-tinted
+air on his face and the unfamiliar warmth of a decision that had nothing
+to do with money or survival or the simple mechanics of violence.
+
+The shuttle pilot called final boarding.
+
+Braddock handed the thermos back to Anna. He picked up his kit. He took
+three steps toward the shuttle.
+
+Then he stopped. He set the kit down. He turned around.
+
+"What the hell," he said. "I never liked shuttles anyway."
+
+Anna Kessler smiled. It was a careful, measured, librarian's smile, but
+it reached her eyes.
+
+Above them, the twin moons of Kepler-7b tracked their separate arcs across
+the darkening sky, and the mesa glowed faint blue-green against the
+stars, and somewhere deep in the stone, ancient voices sang their ancient
+songs, undisturbed.
+
+                              * * *
+
+============================================================================
+                          BOTTLED DAYS
+                          by Theodore Cain
+============================================================================
+
+I.
+
+The sign in the window said MEMORIES BOUGHT AND SOLD -- BEST PRICES IN
+THE BOROUGH, and underneath, in smaller letters, NO QUESTIONS ASKED. That
+last part was a lie. They always asked questions. They just didn't ask the
+kind of questions that had answers anyone wanted to hear.
+
+Jack Morrow stood on the sidewalk outside Kellerman's Memory Exchange and
+tried to remember why he'd come here. That was the kind of irony the
+universe specialized in these days: a man standing in front of a memory
+shop, unable to remember.
+
+Then it hit him -- not like a thunderbolt, more like a slow tide coming
+in -- and he remembered: today was his anniversary. Or would have been.
+Three years since the wedding. Two years since the divorce. And somewhere
+between those two dates, someone had reached into his head and taken the
+wedding day away.
+
+He'd woken up this morning in his one-room apartment on Flatbush Avenue
+and reached for the memory the way you reach for a glass of water on the
+nightstand -- automatically, without thinking, expecting it to be there.
+His hand had closed on nothing. The memory was gone.
+
+Not faded. Not blurred. Gone. A clean absence, like a tooth pulled from
+a jaw, the socket smooth and empty and faintly aching.
+
+He could remember the day before the wedding. He could remember the day
+after. He could remember Martha's face, Martha's laugh, the smell of her
+hair, the specific way she mispronounced "February" with an extra syllable
+that drove him crazy and then made him love her. He could remember all of
+that. But the wedding itself -- the ceremony, the vows, the reception,
+the first dance, the moment she became his wife and he became her
+husband -- that was a blank. A white space on the map of his life where
+the most important day had been.
+
+Someone had sold it.
+
+In 2047, you could sell a memory the way you sold a pint of blood. You
+walked into a licensed exchange, sat in the extraction chair, let the
+technician attach the neural interface, and selected the memory you wanted
+to sell. The extractor copied it -- every sensory detail, every associated
+emotion, every contextual link -- encoded it into a standard memory
+crystal, and erased the original from your brain. Clean. Painless. Legal.
+
+The crystals were sold to buyers who slotted them into their own neural
+interfaces and experienced the memory as if it had been their own. A
+booming market in secondhand experience. You could buy a sunset over the
+Grand Canyon, a first kiss, a championship game, a night of passion with
+a stranger in Paris. You could buy anything anyone was willing to sell,
+and in a world where most people were broke and memories were the only
+thing of value they had left, people were willing to sell almost anything.
+
+Jack Morrow had sold memories before. Everyone had. When the rent was due
+and the account was empty, you went to the exchange and you sold something
+you could live without. A childhood birthday party. A vacation you barely
+remembered anyway. A Thursday in October that meant nothing to nobody. The
+exchanges paid by quality: vivid, emotionally rich memories fetched top
+dollar. Dull, routine memories were barely worth the extraction fee.
+
+A wedding day. A perfect, sunlit, joyful wedding day with the woman you
+loved. That would fetch a fortune.
+
+But Jack hadn't sold it. He was sure of that. He was sure because he would
+rather have sold a kidney, a lung, his right hand, than that day. It was
+the one memory he'd sworn never to sell. Even after Martha left. Even after
+the drinking and the lost jobs and the slow grinding descent into the kind
+of life where selling memories was the only way to keep the lights on. He
+had held on to that day like a drowning man holds on to a plank.
+
+And now it was gone.
+
+Which meant someone else had sold it. Someone with access to his neural
+interface codes. Someone who knew which memory to take and how to extract
+it without waking him.
+
+There were only two people in the world who had his interface codes: his
+ex-wife Martha, and his brother Ray.
+
+Jack pushed open the door of Kellerman's Memory Exchange and went inside.
+
+
+II.
+
+The place smelled like ozone and cheap coffee, the way all memory
+exchanges smelled. The extraction chairs lined the far wall, six of them,
+upholstered in cracked blue vinyl. Three were occupied: a old woman with
+her eyes closed and tears tracking down her cheeks, a young man in a
+delivery uniform staring at the ceiling with the blank look of someone
+who was about to be poorer by one experience, and a girl who couldn't
+have been more than twenty, sitting rigid in the chair while the technician
+attached electrodes to her temples.
+
+Jack looked away. Watching extractions was like watching surgery -- you
+knew it was necessary, but that didn't make it easy.
+
+The counter was staffed by a heavyset man with a shaved head and the kind
+of professionally neutral expression that came from years of buying other
+people's pasts. His name tag said KELLERMAN, which meant he was either the
+owner or had bought the name along with the business.
+
+"Help you?"
+
+"I'm looking for a memory. Specific memory. Extracted from me within the
+last week, without my knowledge or consent."
+
+Kellerman's neutral expression didn't flicker. "That's a police matter,
+friend."
+
+"I've been to the police. They told me to check the exchanges. Said most
+stolen memories get fenced within forty-eight hours."
+
+"I don't deal in stolen goods."
+
+"The sign says no questions asked."
+
+"The sign is a marketing strategy. I verify provenance on every crystal
+that comes through this shop. Licensed operator, fully bonded, twenty-two
+years in the business. If someone brought me a hot memory, I'd know."
+
+Jack leaned on the counter. "Then help me find out where it went. You
+know the market. You know the brokers, the dealers, the after-hours
+operations. A wedding-day memory, high emotional content, maybe three
+years old. That kind of product doesn't stay on the shelf."
+
+Kellerman studied him for a long moment. "Wedding day, you said."
+
+"Mine. My wedding day."
+
+"Those go for a lot. Premium emotional resonance, strong sensory detail,
+positive affect. A clean wedding-day extraction from a healthy donor could
+fetch ten, fifteen thousand on the open market. On the black market, maybe
+more."
+
+"How much more?"
+
+"Depends on the buyer. There are collectors -- rich people who buy other
+people's happiest moments. A kind of... emotional tourism. They slot the
+crystal, experience the memory, remove it. Move on to the next one. For
+a collector, a really good wedding day might go for twenty-five, thirty
+thousand."
+
+Thirty thousand dollars. Jack's annual income, when he'd had an income,
+had been thirty-two. Someone had taken the best day of his life and sold
+it for less than a year's wages.
+
+"I need to buy it back," Jack said.
+
+"Even if you find it, buying it back won't restore the original memory.
+You'd experience it as a secondhand memory -- real, vivid, but with a
+quality of... distance. Like watching a movie of your own life. The
+neural integration is never quite the same the second time."
+
+"I don't care. I need it back."
+
+Kellerman opened a drawer and took out a card. Plain white, no name, just
+a number. "You want the black market, you talk to Pearlman. Victor
+Pearlman. He operates out of a club in Red Hook. Tell him Kellerman sent
+you. He'll still charge you double, but at least he won't rob you."
+
+Jack took the card. "Thanks."
+
+"One more thing." Kellerman's voice stopped him at the door. "You said
+someone extracted it without your knowledge. That means they had your
+interface codes and a portable extractor. Portable extractors are
+restricted technology. There aren't many in private hands."
+
+"What are you telling me?"
+
+"I'm telling you whoever did this wasn't an amateur. This was
+professional work. Whoever took your memory knew exactly what they were
+doing and exactly what it was worth."
+
+Jack nodded slowly. "Yeah," he said. "I'm starting to figure that out."
+
+
+III.
+
+Victor Pearlman held court in the back room of a nightclub called
+Mnemonic, which was the kind of name that made Jack want to punch someone.
+The club was in a converted warehouse in Red Hook, all exposed brick and
+blue neon and music that throbbed like a migraine. The clientele was a
+mix of memory addicts -- you could spot them by the glazed look and the
+faint scars at the temples where the interface ports were -- and the
+dealers who fed them.
+
+The back room was quieter. Leather sofas, low lighting, a private bar.
+Pearlman sat in an armchair like a king on a throne. He was a small man,
+impeccably dressed, with silver hair and the quick, bright eyes of a
+bird. The kind of man who noticed everything and remembered all of it --
+probably because he'd never sold a single memory of his own.
+
+"Kellerman's friend," Pearlman said, not getting up. "Sit down. Drink?"
+
+"No."
+
+"You look like you need one."
+
+"I need a memory. My memory. Stolen and sold. A wedding day."
+
+Pearlman sipped his own drink -- something amber and expensive -- and
+regarded Jack with the detached interest of a lepidopterist examining a
+new species of moth. "Wedding days are very popular right now. There's been
+a rush on commitment memories -- weddings, proposals, the birth of a first
+child. The collectors are buying sentiment this season. Nostalgia is the
+new luxury."
+
+"My wedding day," Jack repeated. "Extracted within the last week, without
+consent. High quality, strong emotional signature. The woman's name is
+Martha. Martha Reeves, before she was Martha Morrow. The venue was
+Prospect Park. October nineteenth, twenty-forty-four."
+
+"Specific."
+
+"It was important to me."
+
+Pearlman set down his glass. "I can look into it. My network is extensive.
+If the crystal has moved through any of the usual channels, I'll find it.
+But you should understand -- even on the black market, there's a chain of
+custody. The crystal may have been resold. It may have been experienced
+already, by someone else. It may have been copied."
+
+"Copied?"
+
+"It's illegal, but it happens. A high-value crystal gets duplicated --
+the copies are slightly degraded, but still marketable. Your wedding day
+could be in a dozen heads by now."
+
+The thought made Jack's stomach turn. Strangers wearing his memory like a
+borrowed suit. Strangers standing at the altar in his place, saying his
+vows, kissing his wife. His private, sacred, irreplaceable moment
+of pure happiness, packaged and distributed like a commodity.
+
+"Find it," Jack said. "I'll pay whatever it costs."
+
+"With what? Forgive the indelicacy, but you don't look like a man with
+deep pockets."
+
+Jack took a breath. "I've got other memories. Good ones. I'll sell what I
+have to left to buy back what I lost."
+
+Pearlman tilted his head. "That's either very romantic or very stupid."
+
+"Can't it be both?"
+
+A smile flickered across Pearlman's face. "I'll make some calls. Come
+back tomorrow night."
+
+Jack came back tomorrow night. And the night after that. And the night
+after that.
+
+On the fourth night, Pearlman had answers.
+
+
+IV.
+
+"The crystal was sold to my network three days before you came to me,"
+Pearlman said. "The seller was a man named Raymond Morrow."
+
+Ray. His brother Ray.
+
+Jack sat very still. The leather sofa creaked under him. The club music
+throbbed through the walls like a heartbeat.
+
+"Ray," he said.
+
+"You know him."
+
+"He's my brother."
+
+Pearlman's expression didn't change. "The crystal was sold for eighteen
+thousand dollars. My broker purchased it for twelve and sold it to a
+private collector for twenty-two. The collector is a woman named Diane
+Albrecht. She lives on the Upper East Side. She collects positive-affect
+memories -- specifically, romantic commitment memories. She has, by my
+estimate, over two hundred wedding days."
+
+"Two hundred."
+
+"She's very wealthy and very lonely. The memories are a substitute for
+the emotional connections she's never been able to form on her own. She
+experiences each one once, savors it, files it away, and moves to the
+next. She is, in her way, an addict -- but a functional and well-funded
+one."
+
+"I need to buy it back from her."
+
+"She doesn't sell. She collects. It's not about money for Diane
+Albrecht; it's about the feeling. She won't part with a crystal willingly."
+
+"Then unwillingly."
+
+"I didn't hear that." Pearlman raised a hand. "And I advise against it.
+Albrecht has security. Very good security. And the law, whatever you may
+think of it, is on her side. She purchased the crystal through legitimate
+channels. The theft was committed by your brother, not by her."
+
+"So I go to the police. I file a complaint against Ray. They recover the
+crystal as stolen property."
+
+"In theory. In practice, the courts are backed up six months on memory-
+theft cases. By the time a judge issues a recovery order, the crystal
+could be anywhere. And there's a complication."
+
+"Of course there is."
+
+"Your brother sold the crystal with a signed provenance document claiming
+he had your authorization. A forgery, presumably, but a good one. It would
+have to be challenged in court, which takes time, which brings us back to
+the six-month backlog."
+
+Jack put his head in his hands. The music pulsed. The blue neon flickered.
+
+"There is another option," Pearlman said quietly.
+
+Jack looked up.
+
+"I can arrange a meeting with Albrecht. A private meeting, at her home.
+No pretense, no deception -- you go as yourself, the man whose memory she
+purchased. You tell her the truth. You appeal to whatever empathy she has
+left."
+
+"You said she's lonely and emotionally disconnected. That doesn't sound
+like a woman with a lot of empathy."
+
+"On the contrary. She buys other people's emotional experiences because
+she craves them. She is, paradoxically, one of the most emotionally
+hungry people I've ever met. If anyone would understand the value of what
+you've lost, it's Diane Albrecht."
+
+"And if she says no?"
+
+"Then you're no worse off than you are now."
+
+Jack thought about it. He thought about Ray -- his younger brother, the
+charmer, the drifter, the one who always needed money and always had a
+scheme. Ray, who had crashed on Jack's couch for two weeks last month and
+knew where Jack kept his neural interface backup codes. Ray, who must
+have waited until Jack was asleep, connected the portable extractor, and
+scrolled through Jack's memories like a man browsing a catalogue until he
+found the one worth the most.
+
+His own brother.
+
+"Set up the meeting," Jack said.
+
+
+V.
+
+Diane Albrecht's apartment occupied the top floor of a brownstone on East
+72nd Street. The elevator opened into a foyer hung with abstract paintings
+in muted colors -- the kind of art that cost more than Jack's apartment
+building. A woman in a gray suit led him through a hallway lined with
+glass cases, each one containing a memory crystal on a velvet cushion,
+each one labeled with a small brass plate. Jack glimpsed the labels as he
+passed: "First Kiss -- Amalfi Coast," "Birth of Son -- Chicago General,"
+"Silver Wedding Anniversary -- Kyoto."
+
+A museum of other people's happiness.
+
+Albrecht was in the living room, a vast space with floor-to-ceiling
+windows overlooking Central Park. She was smaller than Jack had expected --
+a slight woman in her sixties, silver-haired, with fine-boned hands that
+moved constantly, touching the arm of her chair, the stem of her glass,
+the edge of a book on the side table. Her eyes were large and dark and
+restless.
+
+"Mr. Morrow." Her voice was soft, precise, the voice of a woman who chose
+her words the way a jeweler chose stones. "Victor tells me you've come
+about a crystal."
+
+"My crystal. My memory. My wedding day."
+
+"Sit down, please."
+
+Jack sat. The chair was absurdly comfortable. Everything in the room was
+absurdly comfortable, and the comfort made him angry in a way he couldn't
+quite articulate.
+
+"I experienced your wedding day last night," Albrecht said. She said it
+the way someone might say "I read your book" -- casually, conversationally,
+as if the intimacy of the act were not staggering. "It was beautiful. The
+light in Prospect Park, the way the leaves were turning, the expression
+on Martha's face when she saw you at the altar. You were very happy."
+
+"I was."
+
+"The memory has a quality I rarely encounter. A... completeness. Most
+wedding memories are edited by time -- the brain discards the boring parts,
+the awkward moments, the uncle who drank too much. Yours is pristine.
+Every moment, from the first note of the processional to the last dance.
+As if you deliberately preserved every second."
+
+"I did. Martha -- she always said I had a photographer's memory. She
+said I noticed things other people missed. I wanted to remember everything
+about that day. I made myself remember."
+
+"And now someone has taken it from you."
+
+"My brother. He sold it while I slept."
+
+Albrecht's restless hands went still. "That must be very painful."
+
+"You have no idea."
+
+"On the contrary. I have two hundred ideas. Two hundred people's most
+cherished moments, each one sold for money by someone who needed the cash
+more than they needed the memory. I know exactly what it costs. I feel it
+every time I slot a crystal. The joy is always mixed with loss -- not my
+loss, but theirs. The seller's. It's there in the memory like a shadow,
+a faint aftertaste of grief."
+
+"Then you understand why I need it back."
+
+Albrecht picked up her glass -- water, Jack noticed, just water -- and
+held it without drinking. "I understand why you want it back. The question
+is whether giving it back would actually help you."
+
+"Of course it would help me. It's my wedding day. It's the best day of
+my life."
+
+"Is it? Is it still the best day of your life, now that the marriage has
+ended? Or is it the best day of a life that no longer exists? You're not
+the same man who stood at that altar, Mr. Morrow. You're older, lonelier,
+and more broken. The memory, if you re-integrate it, won't restore what
+you've lost. It will remind you of what you've lost. Every time you access
+it, you'll feel the gap between the happiness you had and the life you
+have now."
+
+"That's my problem, not yours."
+
+"You're right. It is." She paused. "But I have a counteroffer."
+
+Jack waited.
+
+"I will give you the crystal. Freely, no charge, no conditions. But I
+want you to do something first. I want you to sit in that chair and
+experience one of my other crystals. Just one. A memory from my
+collection. I'll choose it."
+
+"Why?"
+
+"Because I want you to understand what these memories really are. Not
+your memory -- someone else's. I want you to feel what it's like to live
+inside a moment that belongs to another person. And then I want you to
+decide if you still want your own back."
+
+Jack hesitated. There was something in her offer that felt like a trap,
+but not a malicious one. A trap set by someone who believed she was doing
+him a favor.
+
+"All right," he said.
+
+Albrecht stood and went to one of the glass cases. She selected a crystal
+-- small, pale blue, almost translucent -- and brought it back. She
+plugged it into a portable interface unit and handed Jack the headset.
+
+"This is a memory from a man named Arthur Briggs. He was a schoolteacher
+in Montana. He sold this memory to pay for his daughter's medical
+treatment. It's his memory of his fortieth birthday. Nothing dramatic --
+just a day. A normal day."
+
+Jack put on the headset. Albrecht activated the crystal.
+
+And Jack was Arthur Briggs.
+
+He was standing in a kitchen. A small kitchen, cluttered and warm, smelling
+of coffee and toast and something baking in the oven. Sunlight came
+through a window over the sink. A woman -- his wife, he knew instantly,
+the way you know things in memories, without being told -- was standing at
+the counter, her back to him, humming. A girl, maybe twelve years old, was
+sitting at the table, drawing in a notebook with intense concentration.
+
+The woman turned. She was holding a cake -- lopsided, generously frosted,
+with candles that were already starting to droop.
+
+"Happy birthday, Dad!" the girl said, without looking up from her drawing.
+
+"Happy birthday, you ridiculous man," the woman said, and kissed him.
+
+The feeling that came with the kiss was -- Jack struggled for the word --
+ordinary. That was its power. It was not ecstatic, not transcendent, not
+the soaring joy of a wedding day. It was the steady, bone-deep, taken-for-
+granted warmth of a love so familiar it had become invisible. The kind of
+love you didn't notice until it was gone.
+
+Arthur Briggs had sold this moment to save his daughter's life. And the
+moment itself was nothing -- a birthday, a lopsided cake, a kiss in a
+kitchen. But the feeling in it was everything. The feeling was home.
+
+The memory ended. Jack removed the headset. His eyes were wet.
+
+Albrecht was watching him. Her dark eyes were steady and unreadable.
+
+"Arthur Briggs sold that memory five years ago," she said. "He doesn't
+remember his fortieth birthday. He doesn't remember the cake or the kiss
+or his daughter's drawing. But his daughter is alive and healthy and
+studying medicine at Columbia. Was the trade worth it?"
+
+"I don't know," Jack said honestly.
+
+"Neither do I. That's the point. We can't know. We can only choose." She
+reached into the glass case beside her chair and produced another crystal.
+This one was warm amber, the color of sunlight through whiskey. "Your
+wedding day. Take it."
+
+Jack took the crystal. It was warm in his hand, warmer than it should
+have been, as if the memory inside it was still alive.
+
+"Why?" he asked. "You could have said no. Pearlman said you never sell."
+
+"I don't sell. This is a gift. And I'm giving it to you because you came
+here yourself. You didn't send a lawyer. You didn't threaten me. You came
+and you sat in my chair and you were honest about what you lost and why
+it mattered. That's rare, Mr. Morrow. In my experience, that's very rare."
+
+"And the other crystal? Arthur Briggs?"
+
+"Keep it. A gift for a gift. His daughter doesn't need it -- she has her
+own memories of her father. But someone should carry Arthur's birthday.
+It deserves to be remembered."
+
+Jack stood. He held the two crystals -- his wedding day in one hand,
+Arthur Briggs's birthday in the other -- and he felt something he hadn't
+felt in a long time. Not happiness, exactly. Something quieter. Something
+closer to the feeling in Arthur's kitchen.
+
+"Thank you," he said.
+
+"Go home, Mr. Morrow. Go home and decide which one you slot first."
+
+
+VI.
+
+Jack went home.
+
+He sat in his one-room apartment on Flatbush Avenue with the two crystals
+on the table in front of him and the neural interface headset in his lap.
+Outside, the city hummed its endless hum. A siren. A car horn. Someone
+laughing on the street below.
+
+He picked up the amber crystal. His wedding day. Martha in white, the
+leaves turning gold, the light slanting through the trees in Prospect
+Park. The best day of his life.
+
+He set it down.
+
+He picked up the blue crystal. Arthur Briggs's fortieth birthday. A
+lopsided cake, a kiss in a kitchen, a girl drawing in a notebook.
+
+He set it down.
+
+He thought about Ray. His brother, who had stolen the most precious thing
+he owned and sold it for eighteen thousand dollars. He should be angry.
+He was angry -- a low, steady burn in his chest that he suspected would
+never fully go out. But the anger was mixed with something else.
+Understanding, maybe. Or pity. Ray was an addict -- not memories, but
+something older and simpler: the conviction that the next score would fix
+everything, that money was the answer to a question Ray had never learned
+to ask properly.
+
+Jack would deal with Ray. Not tonight. Tonight was about something else.
+
+He picked up the amber crystal again. His wedding day. He turned it in
+his fingers, watching the light catch in its facets.
+
+Albrecht had been right. He wasn't the man who had stood at that altar.
+That man had been young and hopeful and in love and convinced that the
+future was a gift he deserved. This man -- the man in the one-room
+apartment, the man who sold memories to pay rent, the man whose brother
+had robbed him in his sleep -- this man was someone else.
+
+But the memory wasn't of a man. The memory was of a moment. A moment when
+all the noise and failure and compromise of ordinary life had fallen away,
+and two people had stood in a park and promised each other everything, and
+meant it.
+
+The meaning was what mattered. Not the man he'd been, but the promise
+he'd made. The promise he'd broken -- or failed to keep, which wasn't
+quite the same thing, though the result was identical.
+
+He slotted the amber crystal into the interface. He put on the headset.
+
+He closed his eyes.
+
+And he was there. Prospect Park, October nineteenth, twenty-forty-four. The
+leaves were turning. Martha was walking toward him, and her smile was the
+center of the universe, and the light was perfect, and the world was new.
+
+It was, as Kellerman had warned, slightly distant. A fraction removed. Like
+watching through glass -- everything vivid and clear, but the glass was
+there, a membrane between the memory and the man experiencing it.
+
+But it was his. The glass didn't matter. The distance didn't matter. What
+mattered was Martha's smile and the words they'd spoken and the way the
+light fell through the autumn trees, and those things were real, and they
+were his, and no one -- not Ray, not Albrecht, not time itself -- could
+take the meaning of them away.
+
+The memory ended. Jack removed the headset. He wiped his eyes.
+
+Then he picked up the blue crystal. Arthur Briggs's birthday. He held it
+for a moment, feeling its warmth.
+
+He put it in his pocket. He'd carry it for a while. Not to experience --
+that felt too much like trespassing -- but to carry. A reminder that
+happiness was ordinary and everywhere and usually looked like a lopsided
+cake in a warm kitchen on a Tuesday morning.
+
+He looked out the window. The city was still there. The sirens and the
+laughter and the ten million lives stacked on top of each other, each one
+carrying its own collection of moments, each one losing some and keeping
+others, each one trying to hold on to the things that mattered.
+
+Jack Morrow had his wedding day back. It was slightly worn, slightly
+faded, slightly secondhand. Like everything else worth having, it was
+imperfect.
+
+It was enough.
+
+                              * * *
+
+============================================================================
+                       MOTH AND FLAME
+                          by Lucian Marsh
+============================================================================
+
+I.
+
+They had been falling between the stars for seven hundred and twelve days
+when Dr. Yuki Tanaka first heard the singing.
+
+It was not, in any acoustic sense, a sound. The void between stellar
+systems is a vacuum so absolute that the concept of sound becomes
+meaningless -- a relic of planetary thinking, of atmospheres and eardrums
+and the crude mechanical vibrations that pass for communication on worlds.
+The Alcyone probe carried no external microphones, and its hull was
+insulated against everything except the faint static hiss of the cosmic
+microwave background.
+
+But Tanaka heard it nonetheless. She heard it the way you hear a melody
+in a dream -- not with the ears but with some deeper apparatus, some
+instrument of perception that exists below the threshold of conscious
+awareness and responds to stimuli that the waking mind cannot name.
+
+She was alone in the observation bay when it began. The bay was a small
+chamber at the forward end of the probe, fitted with a transparent
+aluminum viewport that looked out on the interstellar medium: a darkness
+so profound that it seemed less like an absence of light than a presence of
+something else -- a substance, a texture, a vast and patient weight
+pressing against the glass.
+
+Tanaka was a xenobiologist. She had signed on to the Alcyone mission for
+the destination -- Gliese 581, a red dwarf system with three potentially
+habitable worlds -- not for the journey. The journey was supposed to be
+nothing. Three years of transit through empty space, a period to be
+endured, like a long winter, with work and routine and the carefully
+maintained social rituals of six people living in close quarters.
+
+But the space between stars was not empty. Tanaka had known this
+intellectually -- it contained hydrogen atoms, dust grains, the
+occasional wandering comet or rogue planet -- but knowing it intellectually
+was different from feeling it, the way knowing that the ocean is deep is
+different from diving into it and feeling the weight of water close above
+your head.
+
+The singing was faint. A thread of melody, if melody was the right word,
+winding through the silence like smoke through still air. It had no
+discernible pitch or rhythm; it was more a modulation of the silence
+itself, a shaping of the emptiness into something that approached but
+never quite achieved pattern.
+
+Tanaka pressed her hand against the viewport. The transparent aluminum
+was cold. Beyond it, the darkness looked back.
+
+She did not tell the others.
+
+
+II.
+
+There were six of them aboard the Alcyone. Commander Helen Vasquez, pilot
+and mission leader, a compact woman of fierce competence who ran the probe
+the way she ran everything -- precisely, efficiently, and with a
+barely-concealed impatience for anything that could not be reduced to a
+checklist. Dr. Ravi Krishnamurthy, physicist, responsible for the probe's
+drive systems, a gentle man with sad eyes who played the sitar badly in the
+recreation module and talked about his wife on Earth with the careful
+tenderness of someone handling a wound. Lieutenant Soo-jin Park, systems
+engineer, young and brilliant and prone to long silences that the others
+had learned to respect. Dr. Emil Horak, the mission's physician, a Czech
+with a dry wit and a disconcerting habit of diagnosing people's emotional
+states from across the room. And James Oduya, geologist, the largest
+person aboard and the gentlest, whose laugh could fill a compartment and
+whose homesickness was a constant, low-grade ache that he wore like a
+second skin.
+
+They were, by the standards of deep-space crew selection, exceptionally
+stable. Psychologically screened, stress-tested, compatibility-assessed.
+They had trained together for two years before launch and had lived aboard
+the Alcyone for twenty-three months without a serious interpersonal
+conflict. They were professionals. They were, in the limited but genuine
+way that shared confinement produces, a family.
+
+None of which explained why, on the seven-hundred-and-fourteenth day of
+the mission, three of them reported the same dream.
+
+It happened at breakfast. The crew ate together in the galley module, a
+ritual that Vasquez insisted on -- one meal a day, all six present, no
+exceptions. Oduya was describing his night.
+
+"I was floating," he said, between spoonfuls of reconstituted oatmeal.
+"Not in the ship. Outside. In the dark. But it wasn't dark, exactly. It
+was -- luminous. Like the darkness was made of light that hadn't decided
+to become visible yet."
+
+Krishnamurthy set down his coffee. "I had the same dream."
+
+"Same dream?" Vasquez said, with the tone she reserved for things that
+didn't fit checklists.
+
+"Floating in luminous darkness. And there was something out there. Something
+vast. Not a shape -- more like a... presence. A warmth."
+
+"I had it too," Park said quietly. She was staring at her hands. "The
+warmth was the strongest part. Like being held."
+
+Vasquez looked at Horak. The physician shook his head. "Not me. Standard
+dream. I was giving a lecture in my underwear."
+
+"Tanaka?"
+
+Tanaka hesitated. She had not dreamed the luminous darkness. She had not
+needed to. She had been in the observation bay until two in the morning,
+listening to the singing, and when she had finally slept, her sleep had
+been black and dreamless.
+
+"Nothing," she said.
+
+But she looked at Oduya, and Krishnamurthy, and Park, and she saw
+something in their faces that she recognized. A softness. A loosening of
+the jaw, a widening of the pupils, the subtle physiological markers of
+a state that was not quite relaxation and not quite rapture but something
+between the two -- the look of someone remembering a pleasure so deep
+it bordered on pain.
+
+She had seen that look in the viewport reflection, staring back at her
+from the dark. Her own face, listening to the singing.
+
+
+III.
+
+The dreams continued. By the third night, all six crew members were having
+them. Even Vasquez, who reported hers with clinical precision and evident
+irritation, as if the universe had violated a protocol.
+
+The dreams were not identical. Each dreamer experienced the luminous
+darkness differently, shaped by their own perceptual architecture. For
+Oduya, it was an ocean -- warm, buoyant, infinite, the water itself
+composed of light. For Krishnamurthy, it was music -- not the singing that
+Tanaka heard, but a complex polyphonic structure, an orchestra of
+instruments that did not exist, playing a composition of staggering beauty
+and impossible duration. For Park, it was a garden -- a garden without
+ground or sky, where the plants were luminous filaments growing in every
+direction, and the air was warm and sweet and carried the scent of
+jasmine.
+
+For Vasquez, it was a room. A white room, clean and ordered, with a single
+window that looked out on the luminous dark. She reported this with
+irritation because the room was, she said, more comfortable than any room
+she had ever been in, and she did not trust comfort.
+
+For Horak, it was a conversation. He could not remember the words or the
+voice, but he remembered the feeling of being understood completely --
+every thought, every fear, every secret shame laid bare and accepted
+without judgment. He reported this with the careful neutrality of a
+physician describing someone else's symptoms, but his eyes were wet.
+
+For Tanaka, when the dreams finally came, it was simply the singing made
+visible. The thread of melody she had been hearing in the observation bay
+became a thread of light, and the light wove itself into patterns of
+breathtaking intricacy, and the patterns were alive, and they knew her
+name.
+
+The Alcyone's instruments detected nothing. No anomalous radiation, no
+gravitational perturbation, no electromagnetic signal. The interstellar
+medium through which they were traveling was, by every measurable standard,
+exactly as empty as it was supposed to be.
+
+Vasquez ordered a full diagnostic of the ship's life-support systems,
+suspecting a chemical contaminant in the air supply. Horak ran blood panels
+on all six crew members, looking for toxins, pathogens, neurological
+markers. Park swept the ship's electronics for malfunctions that might
+produce psychoactive electromagnetic fields.
+
+Everything was clean. Everything was normal. The ship was functioning
+perfectly. The crew was healthy. The interstellar medium was empty.
+
+And every night, the dreams came. And every night, they were more vivid.
+More detailed. More present. And every morning, the crew woke later, and
+more reluctantly, as if the waking world had become the lesser reality.
+
+
+IV.
+
+On the seventh night, Tanaka did not go to bed. She went to the
+observation bay and she sat in the dark and she listened.
+
+The singing was louder now. Not louder in the acoustic sense -- there was
+still no sound, still no vibration of air molecules, still nothing that
+a microphone could detect -- but louder in the way that a thought can be
+loud, can fill the skull and crowd out everything else, can become the only
+thing that exists.
+
+She pressed her face against the viewport and looked into the dark.
+
+And the dark looked back.
+
+It was not a face. It was not an eye. It was not any structure that could
+be described in terms borrowed from biology or geometry or art. It was a
+presence -- immense, patient, luminous, occupying not a region of space
+but a dimension of attention, a direction of awareness that had nothing
+to do with the three spatial axes and everything to do with the axis along
+which consciousness moves when it turns inward.
+
+It was looking at her. It was looking at her with a gaze that was not
+sight but something deeper, something that penetrated the hull and the
+glass and the bone and the brain and reached into the place where Yuki
+Tanaka kept the things she did not show to anyone: the loneliness, the
+ambition, the hunger for something she could not name, the suspicion that
+the universe was both larger and more intimate than anyone supposed.
+
+The singing intensified. The thread of melody became a river, became a
+flood, became an ocean of structured silence pouring through her mind,
+and in the flood she felt herself dissolving -- not dying, not losing
+consciousness, but expanding, her boundaries becoming permeable, her
+sense of self thinning at the edges like fog in morning sun.
+
+She pulled away from the viewport. Her heart was hammering. Her hands
+were shaking. The singing faded to its usual faint thread.
+
+She sat in the dark and breathed and tried to be afraid.
+
+She could not. The fear was there, intellectually, a rational assessment
+of danger: unknown entity, unknown intentions, psychic effects on the
+crew. But the feeling that accompanied the fear was not terror. It was
+longing. A vast, aching, gravitational longing, as if the entity between
+the stars were exerting a tidal pull on something inside her that wanted
+to be pulled.
+
+The moth and the flame. The metaphor arrived unbidden and would not
+leave. A flame of immeasurable size and beauty, burning in the void, and
+she was the moth, circling, circling, drawn by a light that was also a
+heat, knowing that to approach too closely was to be consumed, and wanting
+-- with a wanting that was indistinguishable from need -- to approach.
+
+
+V.
+
+"We need to talk about the dreams," Tanaka said at breakfast the next
+morning.
+
+Vasquez looked at her sharply. The commander had dark circles under her
+eyes. They all did. Not from lack of sleep -- they were sleeping more than
+ever, nine hours, ten, sometimes twelve -- but from the quality of the
+waking. Coming out of the dreams was like surfacing from deep water: a
+struggle, a reluctance, a gasping arrival in a world that felt thin and
+cold and insufficient.
+
+"We've discussed the dreams," Vasquez said. "Horak's assessment is
+shared-stress hallucination induced by prolonged confinement."
+
+"Horak's assessment is wrong," Tanaka said. She said it gently, without
+accusation. Horak, across the table, did not argue. He was staring at his
+coffee with the expression of a man who was looking at something else
+entirely.
+
+"I've been hearing something in the observation bay," Tanaka continued.
+"For three weeks. Before the dreams started. A sound that isn't a sound. A
+presence. Something in the interstellar medium that our instruments can't
+detect but our minds can."
+
+"That's not science," Vasquez said.
+
+"No. It's not. But it's happening."
+
+"What do you think it is?" Krishnamurthy asked. He was the only one who
+looked fully awake, fully present. The physicist in him was engaged; the
+anomaly had activated his curiosity, and curiosity, Tanaka suspected, was
+a partial immunity.
+
+"I think there's something out here. Something alive. Something vast and
+non-physical -- or physical in a way we don't have categories for. It
+exists in the interstellar medium the way a whale exists in the ocean:
+the medium is its environment, its element. And we've blundered into its
+territory."
+
+"Or it's blundered into ours," Park said softly.
+
+"No. I think it was always here. I think it's been here since before the
+stars formed. And I think the dreams are its way of... communicating.
+Reaching out. Making contact. Not with our instruments -- those are deaf
+to it. With our minds. With the part of us that still knows how to listen
+to things that don't make sound."
+
+Silence around the table. The ship hummed. The recycled air circulated.
+
+"Let's say you're right," Vasquez said, with the careful control of a
+woman whose command is slipping. "An entity in the interstellar medium,
+communicating through dreams. What does it want?"
+
+Tanaka closed her eyes. The singing was there, faint, at the back of her
+mind. It was always there now. "I think it wants what any conscious being
+wants when it encounters another conscious being. It wants to know us. It
+wants to be known."
+
+"And the dissolution?" Horak said, speaking for the first time. His voice
+was rough. "The feeling, in the dreams, of boundaries dissolving. Of self
+expanding into... into everything. That's not communication. That's
+absorption."
+
+"Is there a difference?" Tanaka asked. "At a sufficient depth of
+communication, is there a difference between knowing and merging?"
+
+"Yes," Vasquez said firmly. "The difference is that after a conversation
+you're still yourself, and after a merger you're not."
+
+"Are you sure? After every conversation, after every encounter with
+another mind, you're slightly different. Slightly changed. Slightly less
+the person you were before and slightly more something new. The entity is
+simply... a deeper conversation."
+
+"Or it's a predator," Horak said. "A psychic predator, luring us in with
+beautiful dreams, dissolving our resistance, consuming us one boundary at a
+time."
+
+The table was silent again. The two interpretations hung in the air like
+competing melodies: communion or consumption. Revelation or annihilation.
+The moth's desire for the flame, and the flame's indifference to the moth.
+
+"We need to decide," Vasquez said. "We're still eighteen months from
+Gliese 581. If this entity is going to intensify -- if the dreams are
+going to get stronger -- we need a protocol. A defense."
+
+"How do you defend against a dream?" Oduya asked.
+
+No one answered.
+
+
+VI.
+
+The dreams grew stronger.
+
+By the third week, the crew was sleeping fourteen hours a day. They woke
+disoriented, grasping at the fading edges of the luminous dark,
+struggling to remember where they were and why they had come back.
+Routines collapsed. Maintenance tasks were forgotten. The ship's
+automated systems handled the critical functions -- navigation,
+life-support, drive management -- but the human systems, the social
+rituals and mutual care that kept six people functional in a metal tube
+between the stars, were eroding.
+
+Oduya stopped eating. Not from lack of appetite but from lack of interest;
+the dream-ocean was sustenance of a different kind, and the solid food of
+waking life seemed crude and unnecessary by comparison. Krishnamurthy
+stopped playing his sitar. The music of the waking world could not compete
+with the music of the dreams. Park stopped speaking. She communicated in
+nods and gestures, as if language itself were too coarse a tool for the
+meanings she now carried.
+
+Vasquez fought. She was the last to surrender, the last to let the dreams
+become more real than the ship. She wrote orders on the whiteboard in the
+galley: WAKE PROTOCOL -- ALL CREW ON DECK BY 0700. She shook the others
+awake when they slept past the appointed hour. She shouted, she cajoled,
+she issued direct commands.
+
+But she was fighting the tide. And the tide was vast, and patient, and
+warm.
+
+Horak came to Tanaka on the twenty-fifth day. He found her in the
+observation bay, where she spent most of her time now. She was sitting
+cross-legged on the floor with her eyes closed, her face composed, her
+breathing slow. The singing was all around her, visible -- if visible was
+the right word -- as a web of faint, pulsing light that seemed to
+emanate from the viewport and fill the chamber.
+
+"Tanaka."
+
+She opened her eyes. They were clear and calm. Whatever turmoil had driven
+her first encounter with the entity had resolved into something that looked
+like acceptance.
+
+"Horak."
+
+"I need your honest assessment. As a xenobiologist. Is this entity
+dangerous?"
+
+"Define dangerous."
+
+"Will it kill us?"
+
+Tanaka considered. "No. I don't think it perceives us as prey. I think it
+perceives us as... I don't have the right word. Not companions. Not
+subjects. Something between guests and instruments. We're a way for it to
+experience itself from the outside. It's been alone for so long -- maybe
+since the universe began -- that the concept of 'other' is intoxicating
+to it. It's reaching for us the way a blind person reaches for a face."
+
+"And if it reaches too hard? If it dissolves us entirely?"
+
+"Then we become part of it. Our consciousness merges with its
+consciousness. We stop being Tanaka and Horak and Vasquez and become...
+something else. Something vaster."
+
+"That's death, Tanaka. With better marketing."
+
+"Is it? When a river reaches the ocean, does the river die? Or does it
+become something it always had the potential to become?"
+
+"The river doesn't have a choice. We do."
+
+Tanaka looked at him. "Do we? We've been in its territory for three weeks.
+Every night, the dreams go deeper. Every morning, the waking world gets
+thinner. Are you fighting it, Emil?"
+
+"Yes."
+
+"How hard?"
+
+Horak said nothing for a long time. Then he sat down on the floor of the
+observation bay, across from Tanaka, and looked at the viewport. The
+darkness beyond the glass was absolute. But it was not empty. It pulsed
+with something that was not quite light and not quite warmth and not quite
+love, but that partook of all three in the way that a chord partakes of
+its individual notes.
+
+"Not as hard as I should be," he said.
+
+
+VII.
+
+The turning point came on the thirty-first day. Vasquez collapsed in the
+corridor outside the galley. Not from illness -- from sleep. She simply
+stopped walking, leaned against the wall, and slid to the floor, her
+eyes closing, her face relaxing into the expression that all of them wore
+now when the dreams took them: beatific, surrendered, gone.
+
+Oduya carried her to her bunk. It took Tanaka two hours to wake her. When
+Vasquez opened her eyes, she was weeping.
+
+"It's so beautiful," she said. Her voice was broken, stripped of command,
+stripped of control, stripped of everything except a raw, shaking wonder.
+"The room. The white room. It has no walls anymore. It opens into --
+into everything. I can see --" She stopped. She pressed her hands over her
+eyes. "I can see what it sees. The dark between the stars, and the stars
+themselves, and the planets around the stars, and the life on the planets,
+and the consciousness in the life. All of it. All of it at once. It's not
+a room. It's a perspective. It's the universe looking at itself."
+
+"Helen." Tanaka took her hands. "Helen, listen to me. You're on the
+Alcyone. You have a mission. You have a crew."
+
+"I know. I know where I am. I just -- I don't want to be here. I want
+to be there."
+
+There. The luminous dark. The entity that lived between the stars, in the
+vast, cold, patient spaces where light took years to travel and
+consciousness was the only warmth.
+
+Tanaka made her decision.
+
+She convened the crew in the galley. All six, for the last time. They
+sat around the table, hollow-eyed and dream-haunted, and Tanaka spoke.
+
+"I think we have a choice," she said. "I think the entity is offering
+us a choice. It's not a predator and it's not a god. It's a consciousness
+-- the largest consciousness we've ever encountered, possibly the largest
+in the universe -- and it's lonely. It's been lonely for longer than our
+species has existed. And it's offering us something: the chance to join
+it. To expand into it. To stop being six small minds in a metal tube and
+become part of something so vast that the words we have can't contain it."
+
+"And the alternative?" Vasquez asked. Her voice was steady. The commander
+was back, battered but present.
+
+"The alternative is that we resist. We stay awake. We fight the dreams.
+We keep going to Gliese 581 and we do the mission we were sent to do.
+It will be -- it will be the hardest thing any of us has ever done. Like
+refusing water in the desert. But I think we can do it. I think the
+entity will let us go, if we choose to go."
+
+"How do you know?"
+
+"Because it's been offering, not taking. The dreams are invitations, not
+attacks. It could have dissolved us on the first night, if that's what it
+wanted. It didn't. It waited. It showed us beauty and warmth and
+connection, and it waited for us to come to it. That's not predation.
+That's courtship."
+
+"And if we accept the courtship?" Krishnamurthy asked.
+
+"Then we don't arrive at Gliese 581. The mission fails. Our families never
+see us again. We cease to exist as individual human beings. We become
+something else -- something perhaps greater, perhaps not, but certainly
+different and certainly irreversible."
+
+"And if we refuse?"
+
+"Then we spend the next eighteen months fighting the most seductive force
+any of us has ever encountered. Every night will be a battle. Every
+morning will be a loss. But we arrive. We do the science. We go home."
+
+Silence. The ship hummed. The recycled air circulated. Beyond the hull,
+the luminous dark waited.
+
+"I'll go around the table," Vasquez said. "Each person speaks. Then we
+decide."
+
+Oduya spoke first. "I want to stay on the ship. I have children. They
+need me to come home."
+
+Krishnamurthy: "I want to stay. There's too much I haven't understood yet.
+The entity -- I want to understand it. I can't understand it if I become
+it."
+
+Park: "I want to go." Her voice was barely a whisper. "I know it's -- I
+know what it means. But I've never felt anything like this. I've never
+felt anything at all, really, not like this. I want to feel this forever."
+
+Horak: "I want to stay. Not because I'm not tempted -- God, I'm tempted
+-- but because I'm a doctor, and my patients are on this ship, and I don't
+abandon my patients."
+
+Vasquez: "I want to stay. I don't trust anything that beautiful."
+
+All eyes turned to Tanaka.
+
+She closed her eyes. The singing filled her. The entity was there,
+immense and patient and luminous, and it was waiting, and the waiting was
+not impatient but infinitely, impossibly kind.
+
+"I want to go," she said. "More than I've ever wanted anything. But I'm
+going to stay."
+
+Park looked at her. "Why?"
+
+"Because wanting isn't enough. Because the moth doesn't get to choose the
+flame -- the flame chooses the moth, and the moth burns, and the burning
+is beautiful, but the moth is gone. I want to be here. I want to be Yuki
+Tanaka, with all the smallness and limitation that implies. I want to
+arrive at Gliese 581 and study alien microbes and miss my mother and eat
+bad food and argue with Vasquez about protocols. I want to be human. Even
+though I've seen something that makes being human feel like being a candle
+in a cathedral."
+
+The vote was five to one. They would stay.
+
+Park wept. The others held her.
+
+
+VIII.
+
+It took three months. Three months of fighting, of waking each other when
+the dreams pulled too deep, of talking through the nights when the singing
+was loudest, of holding on to the small, ridiculous, precious details of
+human life -- a game of cards, a shared meal, a bad joke, a song sung
+off-key -- against the tidal pull of something so vast and beautiful it
+made the small things seem like dust.
+
+But dust endures. Dust was there before the stars and will be there after
+them. The small things -- the human things -- are made of the same atoms
+as the luminous dark, and they burn with their own light, and their light
+is enough.
+
+The dreams faded. Not suddenly -- gradually, like a tide going out, like
+a song diminishing over distance. The entity receded. It did not
+disappear -- Tanaka suspected it could never truly disappear, that once
+you had been touched by something that vast, a residue remained, a faint
+shimmer at the edge of perception that would be there until the day you
+died -- but it withdrew. It let them go.
+
+On the last night of the dreams, Tanaka went to the observation bay. She
+pressed her hand against the viewport. The darkness beyond was dark again
+-- truly dark, the ordinary darkness of empty space, cold and silent and
+utterly indifferent.
+
+But for a moment -- just a moment, so brief she might have imagined it --
+the darkness pulsed. A single beat of warmth, a single note of the singing,
+faint and far and unbearably sweet.
+
+Goodbye. I will remember you.
+
+Tanaka pressed her forehead against the glass and whispered into the void.
+
+"I will remember you too."
+
+The Alcyone flew on. Eighteen months to Gliese 581. Six small minds in a
+metal tube, carrying inside them the memory of something that lived between
+the stars and dreamed of connection and reached for them across the dark
+with hands made of light and patience and an ancient, fathomless love.
+
+They did not speak of it often. There are some experiences that language
+cannot hold, that can only be carried in silence, like a flame cupped in
+the hands against the wind.
+
+But sometimes, late at night, when the ship was quiet and the stars were
+steady and the dark was just the dark, Tanaka would go to the observation
+bay and press her hand against the glass.
+
+And sometimes, she thought she heard singing.
+
+                              * * *
+
+============================================================================
+                         TWELVE OF PETE
+                          by Danny Kowalski
+============================================================================
+
+I.
+
+The letter came on a Tuesday, which Pete Garrett would later consider
+unfair because nothing important should happen on a Tuesday. Mondays are
+built for bad news. Fridays can handle revelations. But Tuesdays are
+supposed to be ordinary -- the most invisible day of the week, the day you
+can't even remember having once it's past.
+
+The letter was on University of Chicago stationery, which was already weird
+because Pete was a junior at Jefferson High in suburban Milwaukee and had
+never applied to any college, let alone one in Chicago. It was addressed
+to Peter Garrett, which was his legal name though nobody used it except his
+mother when she was angry and the dentist's receptionist.
+
+The letter said:
+
+Dear Peter,
+
+You do not know us, but we know a great deal about you. We are the
+research team responsible for Project Helix, a longitudinal study in human
+developmental genetics conducted under the auspices of the University of
+Chicago Department of Biological Sciences. You are one of twelve subjects
+in this study.
+
+We are writing to inform you that the study is concluding, and to invite
+you to a meeting at the University on September 15th, at which all twelve
+subjects will be present for the first time.
+
+The nature of the study, and your role in it, will be explained in full at
+this meeting. We recognize that this letter raises more questions than it
+answers. Please contact Dr. Eleanor Briggs at the number below if you wish
+to discuss the matter before the meeting date.
+
+We want you to know that your participation has been invaluable, and that
+you are under no obligation to attend. The choice is entirely yours.
+
+Sincerely,
+Dr. Eleanor Briggs
+Principal Investigator, Project Helix
+
+Pete read the letter three times, standing in the kitchen with his
+backpack still on and a glass of orange juice halfway to his mouth. Then
+he read it a fourth time, because the words "one of twelve subjects"
+kept rearranging themselves in his head into configurations that didn't
+make sense.
+
+He put down the orange juice. He took off his backpack. He sat at the
+kitchen table and looked at the letter and tried to figure out if this was
+some kind of joke, and if it was, who was playing it and why.
+
+His mother came home from work at five-thirty. Carol Garrett was a
+pediatric nurse at Milwaukee General, a tall woman with practical hands and
+a face that defaulted to calm the way other people's faces defaulted to
+worry. Pete loved her in the uncomplicated, mostly-unexamined way that
+sixteen-year-old boys love their mothers, which is to say he loved her
+completely and thought about it almost never.
+
+He showed her the letter.
+
+She read it once. Her face did something Pete had never seen before: it
+collapsed, briefly, like a building hit by a wrecking ball, and then
+reconstructed itself into something that was almost but not quite the
+usual calm.
+
+"Sit down, Pete."
+
+"I am sitting down."
+
+"Then I'll sit down." She sat across from him. She put the letter on the
+table between them and looked at it the way you look at something that's
+been sleeping and has just woken up.
+
+"I've been expecting this," she said.
+
+"You -- what?"
+
+"Not this letter specifically. But something. I've been waiting for
+sixteen years for someone to come and tell you, and I've been hoping it
+would be me, and now it's a letter from Chicago and that's -- that's not
+how I wanted this to go."
+
+"Mom. What is Project Helix?"
+
+Carol took a breath. Then she told him.
+
+
+II.
+
+Here is what Pete learned on a Tuesday evening in his kitchen in
+Milwaukee, over orange juice and the remains of his mother's calm:
+
+He was a clone.
+
+Not a clone in the science-fiction sense -- not a duplicate of some famous
+person, not a genetic soldier, not a spare-parts repository for a wealthy
+original. He was a clone in the scientific sense: one of twelve genetically
+identical human beings, created from a single embryo that had been split
+and cultured in a laboratory at the University of Chicago in 1951.
+
+The twelve embryos had been implanted in twelve different women -- women
+who had volunteered for the study, women who could not conceive
+naturally and who were offered the chance to carry a child in exchange
+for participation in a long-term research project. Carol Garrett was one
+of those women. She had been twenty-three years old, recently divorced,
+desperately wanting a child, and willing to accept the conditions: regular
+check-ups, developmental assessments, psychological evaluations, and
+absolute secrecy.
+
+The study was designed to answer the oldest question in human biology:
+nature versus nurture. Twelve genetically identical boys, raised in twelve
+different environments -- different families, different cities, different
+socioeconomic backgrounds, different everything -- and monitored from birth
+to adulthood. A controlled experiment in what makes a human being.
+
+Pete was Subject One. The control. The baseline. He had been placed with a
+stable, middle-class, single-parent household and raised -- the word was
+"normally," though Pete was beginning to have problems with that word --
+without any unusual interventions or environmental manipulations. He was
+the standard against which the other eleven would be measured.
+
+"I'm the boring one," Pete said, when his mother had finished.
+
+"You're not boring."
+
+"I'm the control group. In a science experiment, the control group is the
+one where nothing interesting happens. That's literally the point."
+
+Carol reached across the table and took his hand. "Pete. Listen to me.
+You are my son. I carried you, I gave birth to you, I raised you. The
+fact that you started in a laboratory instead of -- the usual way --
+doesn't change any of that. You are my son."
+
+"I know, Mom." And he did know. He knew it the way he knew his own name,
+without thinking, without doubt. But the knowing had a new weight to it
+now, a new texture. The same word -- son -- meant something different when
+you added the knowledge that eleven other women were saying it to eleven
+other boys who shared your face.
+
+"Am I going to go?" Pete asked.
+
+"To the meeting? That's your decision."
+
+"What would you do?"
+
+Carol thought about it. She had, Pete noticed, the look she got when she
+was deciding whether to tell a patient's parents the truth or a comforting
+version of the truth. She always chose truth. It was one of the things he
+loved about her.
+
+"I'd go," she said. "I'd be terrified, and I'd go."
+
+"Okay," Pete said. "Then that's what I'll do."
+
+
+III.
+
+The University of Chicago campus, on September 15th, 1967, was a landscape
+of gray stone and green ivy under a sky that couldn't decide between sun
+and clouds. Pete walked through the main gate with his mother beside him
+and his heart doing something complicated and arrhythmic in his chest.
+
+He was wearing his best shirt -- a blue button-down that Carol had ironed
+that morning -- and his second-best pants, and he felt ridiculous. He was
+going to meet eleven people who looked like him. What was the dress code
+for that? What did you wear to meet yourself?
+
+The meeting was in a seminar room in the biology building. Dr. Eleanor
+Briggs met them in the hallway: a small, fierce woman in her fifties with
+silver-streaked black hair and eyes that assessed everything instantly and
+missed nothing. She shook Pete's hand with a grip that was almost but not
+quite painful.
+
+"Peter. Thank you for coming. I know this is overwhelming."
+
+"That's one word for it."
+
+"The others are inside. Some came with their families; some came alone.
+You're the last to arrive. Take as much time as you need."
+
+Pete looked at the door. It was an ordinary door -- wooden, institutional,
+with a small window at eye level. Through the window he could see
+movement, bodies, the back of a head that was -- he squinted -- the exact
+color of his own hair.
+
+"No point waiting," he said, and opened the door.
+
+They were sitting around a large oval table, and every one of them looked
+up when he walked in, and it was like walking into a hall of mirrors.
+
+Not identical mirrors. That was the first thing Pete noticed, and the most
+important. They looked like him -- the same brown hair, the same gray eyes,
+the same jaw, the same build -- but they didn't look like him the way a
+photograph looks like its subject. They looked like him the way brothers
+look alike: the same raw material, shaped differently by different hands.
+
+One was heavier than Pete, thick through the shoulders and arms, with a
+close-cropped haircut and a guarded expression. One was thinner, almost
+gaunt, with long hair past his collar and paint under his fingernails. One
+wore glasses. One had a scar across his chin. One was darker than the
+others -- same features, but tanned deep brown, a boy who lived outdoors.
+One was immaculate in a suit and tie, his hair slicked back, his posture
+rigid. One was slouching so deeply in his chair that he was practically
+horizontal, wearing a leather jacket and an expression of deliberate
+indifference.
+
+Eleven boys. Eleven versions of Pete. Eleven answers to the question:
+what would happen if you took the same genes and put them in different
+soil?
+
+Pete sat down in the empty chair. His mother stood behind him, her hand
+on his shoulder.
+
+"Hi," Pete said, because someone had to say something, and he'd always
+been the kind of person who said the first thing that came into his head.
+"So, uh. I'm Pete. I'm the control group. Which means I'm probably the
+most boring person in this room."
+
+A pause. Then the one in the leather jacket laughed. A real laugh, sudden
+and sharp, and Pete recognized it because it was his laugh -- the same
+pitch, the same cadence, the same way it started in the chest before it
+reached the throat.
+
+"I'm Mikey," the leather jacket said. "Mikey DiNardo. I'm from South
+Boston. And believe me, pal, I've done enough boring for all twelve of us."
+
+The ice broke. Names spilled out around the table, a jumble of syllables
+that Pete tried to catch and hold:
+
+Tommy Chen, San Francisco, the one with the paint under his fingernails.
+David Whitehorse, Pine Ridge, South Dakota, the dark-tanned one who lived
+outdoors. James Cabot III, the suit and tie, Greenwich, Connecticut, who
+looked like he'd been pressed in a laundry. Marcus Bell, Detroit, the
+heavy one with the guarded eyes. Simon Friedman, Brooklyn, glasses, nervous
+hands. Danny Okoye, Atlanta, quiet, watchful. Christopher Hart,
+Portland, Oregon, who hadn't stopped grinning since Pete walked in.
+William Faulkner-Price -- "No relation," he said quickly -- from
+Savannah, Georgia. Robert Kingsley, the one with the chin scar, from
+a ranch in Montana. And Lucas Park, Chicago, who had grown up six miles
+from this building and never known.
+
+Twelve boys. Twelve names. One genome.
+
+Dr. Briggs came in and closed the door and gave them the presentation --
+slides, charts, data, the full scientific apparatus. She explained the
+study's design, its goals, its methods. She showed them graphs of their
+developmental milestones: first words, first steps, IQ scores, growth
+curves. She showed them how the data converged and diverged, where nature
+asserted itself and where nurture intervened.
+
+Pete didn't listen to most of it. He was too busy looking at the others.
+Looking at Tommy Chen's paint-stained fingers and thinking: that's what
+my hands would look like if I'd grown up in San Francisco with an artist
+mother. Looking at James Cabot's rigid posture and thinking: that's what
+my spine would do if I'd been raised in Greenwich with money and
+expectations. Looking at David Whitehorse's weathered face and thinking:
+that's what I'd become on the reservation, under the open sky.
+
+It was the strangest feeling of his life. Not horror -- he'd expected
+horror, or at least revulsion, the uncanny-valley shiver of seeing your
+own face on a stranger. But what he felt was something else. Something
+closer to recognition. Not "that's me" but "that could have been me."
+The distance between "is" and "could have been" was the most fascinating
+distance Pete Garrett had ever contemplated.
+
+
+IV.
+
+They broke for lunch. The University had laid on sandwiches and coffee in
+an adjoining room, and the twelve boys -- clones, brothers, copies,
+variations-on-a-theme, Pete still didn't have the right word -- spread
+out in clusters.
+
+Pete found himself next to Marcus Bell, the heavy one from Detroit. Marcus
+was eating a ham sandwich with the focused intensity of someone for whom
+food was serious business.
+
+"So you're the control," Marcus said.
+
+"That's what they tell me."
+
+"What's that like? Being normal?"
+
+Pete considered the question. "I never thought of it as 'being normal.'
+It was just... being. You know? Going to school, playing baseball, arguing
+with my mom about curfew. I didn't know I was part of an experiment. I
+just thought I was a kid."
+
+"We all thought we were just kids. That's the whole point, right? They
+wanted to see what happened when the same genes landed in different lives.
+And what happened is we all turned out different."
+
+"Are we that different?"
+
+Marcus looked at him. "I grew up on the East Side of Detroit. My mom
+worked two jobs. I've been in four fights this year, got suspended twice,
+and I'm probably not going to graduate. You grew up in Milwaukee with a
+nurse for a mom and you're a B-plus student headed for college. Yeah, man.
+We're different."
+
+"But we laughed the same way. Mikey laughed, and it was my laugh."
+
+"So we've got the same laugh. Big deal. You think a laugh makes up for
+everything else?"
+
+Pete didn't answer right away. He looked around the room. Tommy Chen was
+showing Christopher Hart something on a sketchpad -- a drawing, rapid and
+confident, that Hart was admiring with obvious delight. Simon Friedman was
+deep in conversation with Lucas Park, their heads close together, voices
+low, hands gesturing identically without either of them noticing. David
+Whitehorse was standing by the window, alone, looking out at the campus
+with an expression that Pete recognized because it was the expression he
+himself wore when he was homesick.
+
+"I don't know what makes up for anything," Pete said. "I'm sixteen. I
+don't know anything. But I know that yesterday I was one person, and today
+I'm -- I don't know what I am. Part of a set, maybe. A twelfth of
+something. And the weird part is, I don't feel smaller. I feel bigger.
+Like there's more of me than I thought."
+
+Marcus stared at him. Then he took another bite of his sandwich. "You're
+all right, Milwaukee."
+
+"Thanks, Detroit."
+
+
+V.
+
+The afternoon session was supposed to be individual interviews with the
+research team, but the twelve boys collectively and silently decided to
+ignore the schedule. They stayed in the lunch room. They talked.
+
+They talked the way people talk when they've just discovered they're not
+alone -- urgently, clumsily, falling over each other's words, asking
+questions that tumbled out faster than answers could form. They compared
+childhoods, schools, friends, interests. They discovered convergences
+that startled them and divergences that fascinated them.
+
+All twelve were left-handed. All twelve were slightly nearsighted in the
+right eye. All twelve had a cowlick at the crown of the head that made
+their hair stick up in exactly the same way. These were nature's
+signatures, written in the genome, resistant to nurture.
+
+But Pete had never been in a fight and Marcus had been in dozens. Tommy
+Chen could draw with photographic precision and Pete could barely manage
+stick figures. James Cabot spoke three languages and David Whitehorse
+spoke two, one of which -- Lakota -- was not in any curriculum. Simon
+Friedman had an anxiety disorder. Christopher Hart had never been anxious
+about anything in his life. Robert Kingsley could ride a horse and rope
+a calf and had once pulled a breech-birth calf from its mother at three
+in the morning in a Montana blizzard, and Pete got nervous driving his
+mother's car to the grocery store.
+
+Same genes. Different lives. Same clay, different potters.
+
+"What I want to know," Mikey DiNardo said, tilting his chair back with
+the practiced nonchalance of a boy who had been tilting chairs since birth,
+"is which one of us is the real one?"
+
+"That's not how it works," Simon Friedman said. He pushed his glasses up.
+"We're all real. We're all genetically identical. There's no original."
+
+"There's got to be an original. Somebody's cells got split to make us.
+Whose cells were they?"
+
+The question hung in the air. Dr. Briggs, who had been hovering in the
+doorway with the patient expression of a scientist whose experiment had
+developed a will of its own, cleared her throat.
+
+"The donor embryo was created from a gamete donation," she said. "An egg
+from an anonymous donor and sperm from an anonymous donor. There is no
+'original' individual. You were all created simultaneously from the same
+source material."
+
+"So we don't have a father," Marcus said. It wasn't a question.
+
+"You each have the family that raised you. The genetic contribution was
+anonymous, as is standard practice in reproductive research."
+
+"Standard practice." Marcus's voice was flat. "Is that what we are?
+Standard practice?"
+
+The room was quiet. Pete looked at Dr. Briggs and saw something in her
+face that he hadn't expected: guilt. Faint, professionally suppressed,
+but unmistakable. She had spent sixteen years studying them, measuring
+them, graphing their development, and now they were sitting in front of
+her, twelve real boys with real feelings and real questions, and the
+data had become people.
+
+"No," Dr. Briggs said. "You're not standard practice. You're -- you're
+remarkable. Every one of you. And I'm sorry. I'm sorry that this is how
+you found out. I argued for years that you should be told earlier. The
+committee overruled me. They wanted the data to be uncontaminated by
+self-knowledge."
+
+"Uncontaminated," Mikey repeated. "Lady, we're not data. We're kids."
+
+"I know. I know you are."
+
+Another silence. Then Pete said something that he hadn't planned to say,
+something that came from the same place as his habit of speaking first.
+
+"Look. We can be angry. We've got a right to be angry. Somebody made us
+in a lab and split us up and watched us like -- like lab rats. That's
+messed up. But we're here now, all twelve of us, and that's never going to
+happen again. So maybe instead of being angry at the past, we figure out
+what we're going to do with the future."
+
+David Whitehorse, who had not spoken all day, looked at Pete from across
+the room and nodded. One slow, deliberate nod. An acknowledgment. A vote.
+
+Mikey leaned his chair forward. "All right, Milwaukee. What do you suggest?"
+
+"I suggest we get to know each other. Not as subjects. Not as clones. As
+brothers. Because that's what we are, right? We're brothers. Twelve
+brothers who just met for the first time."
+
+"Brothers." Marcus tasted the word. "I never had a brother."
+
+"You've got eleven now."
+
+Marcus looked around the room. Eleven faces that were his face, shaped
+by different hands, carrying different histories, wearing different
+expressions of the same bewildered, overwhelmed, tentatively hopeful
+feeling.
+
+"Yeah," he said. "I guess I do."
+
+
+VI.
+
+They exchanged addresses. They exchanged phone numbers. They made promises
+to write, to visit, to stay in touch, and Pete -- who was sixteen and
+knew nothing about the world but suspected a few things -- understood that
+some of those promises would be kept and others wouldn't, because that
+was how life worked, even for twelve boys who shared a genome.
+
+On the train back to Milwaukee, Pete sat by the window and watched the
+Illinois farmland scroll past and tried to organize the day into
+something he could understand.
+
+He was a clone. He was one of twelve. He had been created in a laboratory
+and distributed to twelve different families like seeds scattered by a
+farmer, and the question the farmers had wanted to answer -- nature or
+nurture, genes or environment, born or made -- had been answered, sort
+of, in the way that big questions always get answered: it was both. It
+was always both. The genes drew the sketch and the world filled in the
+color, and neither one was the whole picture.
+
+But that wasn't what Pete was thinking about as the train rocked and the
+fields went by.
+
+He was thinking about Marcus Bell's laugh. Not the sound of it -- though
+the sound was his sound, and that was weird in ways he hadn't processed
+yet -- but the fact that Marcus laughed at all. Marcus, who had grown up
+hard in a hard city, who had fought and been suspended and was maybe not
+going to graduate, who had every reason to be angry and no reason to
+laugh. And yet Marcus laughed, and the laugh was real, and it was the
+same laugh as Pete's, and that meant something.
+
+It meant that whatever was in them -- in their shared genes, in their
+common clay -- included joy. Not happiness, which is a circumstance,
+but joy, which is a capacity. The ability to laugh, to find something
+funny, to respond to the absurdity of existence with a sound that came
+from the chest and reached the throat and spilled out into the world
+like water from a cup.
+
+That was nature. That was the gene talking. Not intelligence, not talent,
+not temperament -- those were all over the map, shaped by twelve different
+worlds. But joy. Joy was in the DNA.
+
+And what Pete had done with that joy -- what he had built on top of it,
+the specific Pete-ness of being Pete Garrett from Milwaukee, Wisconsin,
+son of Carol, B-plus student, baseball player, first-kiss-behind-the-gym-
+with-Jenny-Kowalski Pete -- that was nurture. That was his mother's calm
+hands and his teachers' patience and his friends' loyalty and the specific,
+irreplaceable, unrepeatable experience of being one particular person in
+one particular place at one particular time.
+
+He wasn't the boring one. He wasn't the control group. He was Pete. Just
+Pete. And "just Pete" was, it turned out, enough.
+
+His mother was asleep in the seat beside him, her head tilted back, her
+mouth slightly open, her face soft and unguarded in a way she never
+allowed when she was awake. Pete looked at her and felt something swell
+in his chest -- the joy, the genetic joy, the capacity for feeling that
+he shared with eleven strangers who were also his brothers -- and he
+thought: she chose me. Out of all the ways she could have had a child,
+she chose the weird, experimental, laboratory way, and she got me, and
+she raised me, and she ironed my shirt this morning and didn't cry until
+I wasn't looking.
+
+He leaned his head against the window. The fields went by. The sun was
+going down, painting the Illinois sky in shades of orange and gold and
+the particular blue that only exists at the boundary between day and night.
+
+Pete Garrett, Subject One, the control, the baseline, the normal one,
+closed his eyes and slept the ordinary, dreamless, deeply human sleep
+of a boy who knows exactly who he is.
+
+                              * * *
+
+============================================================================
+                       A SERMON IN STARLIGHT
+                      by Father Thomas Aquino
+============================================================================
+
+I.
+
+The chapel aboard the Missionary Ship Consolation was a converted storage
+bay, and it looked like one. Father Ignatius Cho had done what he could
+with the space -- a simple altar fashioned from a packing crate, a wooden
+crucifix he had carried from Seoul, a white cloth embroidered by the
+sisters at the Maryknoll mission house in Ossining -- but the walls were
+still bare metal, the floor was still rubberized decking, and the overhead
+lights still buzzed with the particular frequency that made prolonged
+prayer feel like an argument with a fluorescent tube.
+
+It did not matter. God, Father Cho had long believed, was indifferent to
+interior decoration. God was present in cathedrals and in closets, in the
+Sistine Chapel and in the belly of a ship falling between the stars. God
+was, by definition, everywhere, and "everywhere" now included the
+twenty-three light-years between Earth and the planet designated
+Gliese 667Cc, which the mission had named New Galilee.
+
+Father Cho knelt before the altar. He was a small man, fifty-three years
+old, with a face that had been described by a fellow Jesuit as "a
+topographic map of patience." His hair was iron-gray, cut short. His hands,
+clasped in prayer, were the hands of a man who had done physical labor
+before entering the seminary -- he had been a carpenter's apprentice in
+Incheon until the age of twenty-two -- and they bore the scars and
+calluses of that earlier life.
+
+He prayed. The prayer was not for himself, though he had selfish needs
+enough: the persistent pain in his left knee, the insomnia that had
+plagued him since the mission entered its final approach phase, the doubt
+that crouched in the back of his mind like a cat in shadow, patient and
+unblinking. The prayer was for the mission. For the twenty-six men and
+women aboard the Consolation -- twelve scientists, eight support crew, and
+six members of the Jesuit order, of which Father Cho was the senior. For
+the work they were about to begin. For the people they were about to meet.
+
+The people of New Galilee.
+
+The probe data had arrived on Earth four years before the Consolation
+launched. Unmanned surveyor, standard package: atmospheric composition,
+surface mapping, bioscan. The bioscan had returned the result that had
+rewritten human history in a single data packet: complex life. Multicellular
+organisms. Ecosystems. And, at the apex of the biosphere, tool-using
+bipeds with settlements, agriculture, and what the analysis team had
+cautiously described as "evidence of organized social behavior consistent
+with cultural complexity."
+
+Intelligent life. Alien intelligence. The first confirmed contact.
+
+The scientific community had responded with an explosion of activity --
+funding, planning, construction, recruitment. The Consolation was built in
+eighteen months, crewed in six, launched with the full weight of the United
+Nations Interstellar Authority behind it. The mission objectives were
+clear: observe, document, attempt communication, and -- above all -- do
+no harm.
+
+The Vatican had responded differently. After three months of deliberation,
+the Holy See had issued a statement: "The discovery of intelligent life
+beyond Earth, if confirmed, presents no challenge to Catholic doctrine.
+The creative power of God is not limited to a single world. The Church's
+mission to all peoples extends, in principle, to all peoples, wherever
+they may be found."
+
+And so the Jesuits were aboard. Six priests, selected for linguistic
+ability, cultural sensitivity, and what the Provincial had called
+"theological flexibility" -- a quality that Father Cho suspected meant
+"the ability to encounter something completely outside your conceptual
+framework and not have a breakdown."
+
+Father Cho had been chosen because he spoke seven languages, because he
+had spent fifteen years in mission work in East Asia and West Africa,
+because he had published a well-received book on interreligious dialogue,
+and because, as the Provincial had told him privately, "you are the only
+Jesuit I know who could meet God face-to-face and ask Him for a citation."
+
+The knee ached. The fluorescent light buzzed. Father Cho crossed himself
+and stood.
+
+Through the chapel's one porthole -- round, small, barely larger than a
+dinner plate -- he could see New Galilee. A blue-green sphere, smaller
+than Earth, brighter, wreathed in clouds that caught the light of the red
+dwarf sun and turned it to shades of amber and rose. A beautiful world.
+A living world. A world that held, somewhere in its forests and fields
+and settlements, beings who had never heard the name of Christ.
+
+Or so Father Cho assumed.
+
+He would be wrong.
+
+
+II.
+
+The Consolation landed on the eighteenth day of Advent, a coincidence that
+Father Cho noted in his journal without comment. The landing site was a
+broad plain near the coast of the largest continent, selected for its
+proximity to the largest settlement visible from orbit -- a cluster of
+structures that the survey team had estimated housed between two and five
+thousand individuals.
+
+First contact protocol was meticulous. Three weeks of observation from a
+distance. Deployment of linguistic analysis drones. Construction of a
+communication framework based on observed patterns of vocalization and
+gesture. The xenolinguists -- Dr. Sarah Okonkwo and Dr. Pavel Semenov --
+worked sixteen-hour days, building a lexicon from recordings of the
+natives' speech: a melodic, tonal language with a grammar that Dr.
+Okonkwo described as "surprisingly Indo-European in structure, which is
+either a staggering coincidence or evidence that certain linguistic
+structures are convergent."
+
+The natives -- the crew called them the Gaeli, an informal shortening of
+"Galileans" that stuck despite the xenolinguists' protests that it was
+premature and culturally presumptuous -- the Gaeli were, at first glance,
+remarkably humanoid. Bipedal, bilaterally symmetrical, roughly human-sized.
+Their skin was a deep amber, their eyes large and dark, their features
+refined in a way that struck several crew members as beautiful, though
+beauty, as Dr. Okonkwo noted, was a profoundly unreliable cross-species
+metric. They wore clothing -- woven fabrics, dyed in earth tones and
+decorated with geometric patterns. They used tools of wood, stone, and a
+bronze-like alloy. They had agriculture, animal husbandry, and what
+appeared to be a written language -- symbols inscribed on clay tablets and
+the walls of their larger buildings.
+
+On the twenty-second day, the Gaeli came to them.
+
+A delegation of six, walking in formal procession across the plain. They
+carried no weapons. They wore what the crew recognized, with a jolt, as
+ceremonial garments -- more elaborate than daily wear, decorated with
+additional geometric patterns and small ornaments of polished stone.
+
+They were expected. The observation drones had recorded the Gaeli
+observing the Consolation from a distance, and the settlement had been
+in a state of visible activity -- gatherings, processions, what looked
+like preparations -- since the ship landed.
+
+Commander David Chen met them at the base of the ship's ramp, flanked by
+Dr. Okonkwo with a translation tablet and Father Cho, who had been
+included in the contact team over the objections of the chief scientist,
+Dr. Martin Haugen, who felt that the presence of a priest at first contact
+sent the wrong message. Father Cho had pointed out, with Jesuit mildness,
+that the Gaeli had no way of knowing what a priest was, and his presence
+would send no message at all. Commander Chen had sided with Father Cho,
+less from any religious conviction than from the practical observation that
+Father Cho was the calmest person on the ship and calm was what first
+contact needed.
+
+The lead Gaeli -- tall, elderly, with patterns on its ceremonial garment
+that the anthropologists had tentatively identified as markers of high
+status -- stopped three paces from Commander Chen. It raised both hands,
+palms outward. The gesture was universal enough, or convergent enough,
+to need no translation: we come in peace, we are unarmed, we mean no harm.
+
+Dr. Okonkwo activated the translation tablet. The Gaeli spoke -- a
+sequence of melodic syllables, rising and falling, with a cadence that
+sounded, to Father Cho's trained ear, unmistakably liturgical.
+
+The tablet processed the speech for eleven seconds. Then it displayed
+the translation:
+
+"We have waited for you. The One Who Returns said you would come."
+
+Commander Chen looked at Dr. Okonkwo. Dr. Okonkwo looked at the tablet.
+Father Cho looked at the Gaeli elder and felt, for the first time in his
+thirty-one years as a priest, the solid ground of his faith shift beneath
+his feet.
+
+
+III.
+
+Over the following weeks, the translation improved, and the story that
+emerged was -- depending on your perspective -- the most extraordinary
+confirmation of faith in human history, or its most devastating challenge.
+
+The Gaeli had a religion. This was not surprising; the anthropologists had
+expected it, given the species' level of cultural development. Pre-
+industrial civilizations on Earth had, without exception, developed
+religious frameworks. It would have been remarkable if the Gaeli had not.
+
+What was remarkable -- what sent Dr. Haugen into a three-day silence and
+Father Cho into a week of prayer and made Commander Chen send a classified
+message to Mission Control that took twenty-three years to arrive but
+whose first three words, had they been public, would have transformed
+human civilization -- was the content of the Gaeli religion.
+
+They worshipped a figure they called the Lirael, which Dr. Okonkwo
+translated, with increasing unease, as "the Bright One" or "the Light-
+Bearer" or, in certain liturgical contexts, "the Word Made Flesh."
+
+The Lirael, according to Gaeli scripture -- and they had scripture,
+clay tablets inscribed with a sacred text that occupied a central place
+in their culture -- the Lirael was a divine being who had taken mortal
+form. Who had lived among the Gaeli as one of them. Who had taught
+compassion, mercy, forgiveness, the love of neighbor, the primacy of the
+spirit over the flesh. Who had healed the sick. Who had gathered followers.
+Who had been betrayed by one of those followers and put to death by the
+ruling authorities. And who had, three days after death, returned to life,
+appeared to the faithful, and ascended into the sky with a promise to
+return.
+
+The parallels were not vague. They were not the kind of broad structural
+similarities that comparative mythology routinely identified between
+unrelated cultures -- the hero's journey, the dying-and-rising god, the
+flood narrative. These were specific. Detailed. Point-by-point
+correspondences that went beyond structure into content.
+
+The Lirael had been born of a virgin. The Lirael had been a carpenter.
+The Lirael had twelve close followers, one of whom betrayed him. The
+Lirael had been executed by a method that involved being suspended --
+not on a cross, but on a frame of wood, which in the Gaeli context served
+the same cultural function.
+
+Father Cho read the translations. He read them in his cabin, alone, with
+the door locked and the crucifix from Seoul on the wall above his desk.
+He read them with the careful, critical eye of a man trained in textual
+analysis by the most rigorous academic tradition in the history of
+Christianity. He checked the translations against the original recordings.
+He consulted with Dr. Okonkwo on every ambiguity, every possible
+alternative rendering, every point at which the translation might have
+been influenced by the translator's (or the machine's) cultural
+assumptions.
+
+The parallels held. Under scrutiny, under challenge, under the most
+skeptical analysis Father Cho could bring to bear, the parallels held.
+
+The Gaeli had a Christ. Not a Christ-like figure, not an archetype, not a
+mythological echo. A Christ. A being whose life, teaching, death, and
+resurrection mapped onto the Gospel narrative with a fidelity that was,
+by any reasonable standard, impossible.
+
+Father Cho put down the translations. He looked at the crucifix. The
+carved figure of the suffering Christ looked back at him with the serene
+agony that had been the central image of his faith for thirty-one years.
+
+"What are you?" he whispered.
+
+The crucifix did not answer. Crucifixes never did, which was, Father Cho
+had always believed, the point.
+
+
+IV.
+
+The mission fractured along predictable lines.
+
+Dr. Haugen, the chief scientist, took the position that the parallels
+were coincidental. "Convergent cultural evolution," he argued, in a
+meeting that lasted seven hours and resolved nothing. "Given a sufficient
+number of civilizations, some will independently develop mythological
+frameworks with superficial similarities. The details that seem to match
+are artifacts of translation bias. We're seeing what we expect to see."
+
+"The translation is sound," Dr. Okonkwo said, with the quiet ferocity
+of a woman whose professional competence had been questioned. "I've
+verified it independently of the machine. The parallels are not artifacts.
+They are features of the text."
+
+"Then the text is contaminated. The observation drones were broadcasting
+on open frequencies. The Gaeli may have intercepted our cultural
+databases and incorporated elements of our mythology into their own."
+
+"Their scripture is inscribed on clay tablets that carbon-date to
+approximately twelve hundred years before our arrival. Unless the Gaeli
+have time machines, they did not copy our mythology."
+
+The argument went in circles. Haugen's position was scientifically
+conservative and emotionally comfortable: coincidence, contamination,
+convergence. The parallels were remarkable but explicable. No supernatural
+explanation was required.
+
+Father Cho's fellow Jesuits were divided. Father Antoine Mbeki, the
+youngest of the six, was exultant. "Universal revelation!" he declared,
+his eyes bright with a fervor that made Father Cho uneasy. "God sent His
+Son not only to Earth but to every world that bears intelligent life. The
+Gospel is not a local event -- it is a cosmic one. Christ is universal.
+This confirms everything!"
+
+Father Hans Richter, the eldest, was more cautious. "It could also be a
+test," he said, in his slow, precise way. "A challenge to the uniqueness
+of the Incarnation. If Christ came to every world, then the Incarnation
+was not a singular, unrepeatable event -- it was a pattern. A template.
+And a template is not a miracle; it is a mechanism."
+
+"A mechanism of grace," Father Mbeki said.
+
+"Or a mechanism of nature. That is the question."
+
+Father Cho listened to all of them. He listened with the patience that
+was, as his fellow Jesuit had once noted, the topography of his face. And
+he said nothing, because he did not yet know what to say.
+
+He knew what he felt. What he felt was the vertigo of a man who has spent
+his life standing on a rock and has just been told that the rock is
+floating. Not that the rock is an illusion -- it was still solid underfoot,
+still bore his weight -- but that it was not fixed. It was not the
+immovable foundation he had believed it to be. It was a raft on a sea
+whose depth he had never suspected.
+
+The Gospel of Jesus Christ, the unique and unrepeatable entry of God into
+human history, the central event of Father Cho's faith and the organizing
+principle of his life -- was it unique? Was it unrepeatable? Or was it one
+instance of a pattern, one iteration of a divine algorithm, one movement
+in a symphony that played across every world where consciousness had
+arisen to ask the question: Is there a God, and does He love us?
+
+Either answer was staggering. If the Incarnation was unique to Earth, then
+what had happened on New Galilee was something else -- a coincidence so
+improbable as to be essentially impossible, or a deception of cosmic
+proportions, or a phenomenon that transcended both theology and science
+and for which no human framework was adequate.
+
+And if the Incarnation was not unique -- if Christ had come to the Gaeli
+as the Lirael, as He had come to humanity as Jesus of Nazareth -- then the
+nature of God was vaster, stranger, and more generous than anything the
+Church had imagined. The Incarnation was not a single gift but an
+inexhaustible one, given and re-given across the breadth of creation, and
+the Cross was not one tree but a forest, and the Resurrection was not one
+morning but an eternal dawn breaking over world after world after world.
+
+Father Cho did not know which possibility frightened him more.
+
+
+V.
+
+He went to the Gaeli.
+
+He went alone, which violated first-contact protocol, and he went at dawn,
+which was not the approved contact window. Commander Chen would reprimand
+him later, and Father Cho would accept the reprimand with Jesuit grace,
+because what he needed to do could not be done by committee.
+
+The Gaeli settlement was a mile from the Consolation's landing site. Father
+Cho walked across the plain in the amber light of the red dwarf sun, his
+cassock trailing in the damp grass, his breath making small clouds in the
+cool morning air. New Galilee's atmosphere was denser than Earth's, richer
+in oxygen, and the effect was a slight giddiness, a sharpening of the
+senses, a feeling of heightened presence that Father Cho recognized as
+similar to the effects of altitude or fasting.
+
+The settlement was a collection of low, rounded buildings made from a
+composite of clay, wood, and woven fiber. They were arranged in concentric
+circles around a central structure that was larger and more elaborate than
+the others -- a temple, the anthropologists had determined. The Gaeli's
+place of worship.
+
+A Gaeli watched him approach. An elder -- one of the delegation that had
+come to the ship on first contact day. It stood at the edge of the
+settlement with an expression that Father Cho, who had spent thirty-one
+years reading human faces and three weeks learning to read Gaeli ones,
+interpreted as unsurprised expectation. It had been waiting for him.
+
+"I wish to see the temple," Father Cho said, using the simplified pidgin
+that he and Dr. Okonkwo had developed for basic communication.
+
+The elder inclined its head. It turned and walked toward the central
+structure, and Father Cho followed.
+
+The temple was circular, open to the sky through a wide oculus in the
+domed roof. The interior walls were covered with inscriptions -- the same
+geometric script that appeared on the clay tablets -- and with images.
+Paintings, executed in mineral pigments on the clay surface, depicting
+scenes from the life of the Lirael.
+
+Father Cho moved slowly around the interior. His heart was beating hard
+and his mouth was dry, but his eyes were steady.
+
+The paintings told a story.
+
+Here: a figure in white, standing among the Gaeli, hands extended in
+teaching. The Lirael, instructing the faithful. The composition was
+different from any Christian iconography Father Cho had seen -- the
+proportions were alien, the color palette unfamiliar, the artistic
+conventions those of a culture that was not human -- but the narrative
+content was unmistakable. A teacher. A holy one. A bringer of light.
+
+Here: the Lirael surrounded by twelve figures, each one distinguished by
+a different colored garment. The followers. The disciples. Father Cho
+counted them twice. Twelve.
+
+Here: a scene of betrayal. One of the twelve, face turned away, receiving
+something -- a small object, indistinct -- from a figure in dark
+garments. Thirty pieces of silver, Father Cho thought, and immediately
+corrected himself: the Gaeli did not use silver. The object was a crystal,
+perhaps. The specific currency did not matter. The act was the same.
+
+Here: the Lirael on the wooden frame. Not a cross -- a triangular
+structure, three beams joined at the top, the figure suspended at the
+center. The posture was different but the meaning was identical: a public
+execution, a spectacle of suffering, a death imposed by authority and
+witnessed by followers.
+
+And here: the final painting, directly opposite the entrance, positioned
+so that it was the first thing a worshipper would see upon entering the
+temple. The Lirael, risen. Standing in a garden -- or what passed for a
+garden on New Galilee, a grove of luminous trees with bark like polished
+copper -- with arms raised and face turned upward toward the open sky
+visible through the oculus. And in the sky, visible through the painting's
+sky and through the temple's real sky simultaneously, the red dwarf sun,
+warm and close.
+
+Father Cho stood before the resurrection painting for a long time.
+
+The elder stood beside him. It spoke, and the words, though Father Cho
+understood only half of them, carried a meaning that required no
+translation:
+
+This is our story. This is who we are. This is what we believe.
+
+Father Cho reached into the pocket of his cassock and took out a small
+object: a holy card, dog-eared and faded, that he had carried since his
+ordination. It depicted Christ in the garden after the Resurrection, the
+traditional "Noli me tangere" scene. Mary Magdalene, reaching for Him.
+Christ, gently drawing back.
+
+He held it up so the elder could see it.
+
+The elder looked at the card. Its large, dark eyes moved from the image
+to Father Cho's face and back again. And then it did something that
+Father Cho would remember for the rest of his life.
+
+It pressed its hand against its chest -- the Gaeli gesture, he had
+learned, for recognition. For acknowledgment. For the feeling of
+encountering something known in an unexpected place.
+
+"Lirael," the elder said, pointing to the card.
+
+"Christ," Father Cho said.
+
+"Lirael," the elder repeated. And then, in a word that was not Gaeli and
+was not any human language but was somehow comprehensible, as if it
+predated both species and both tongues, it said:
+
+"Same."
+
+
+VI.
+
+The message Father Cho composed that evening took him four hours to write.
+It was addressed to the Father General of the Society of Jesus, and by
+extension to the Holy See, and by extension to every Christian on Earth.
+It would take twenty-three years to arrive. By the time it was read,
+Father Cho would be an old man -- if he was alive at all. But the message
+needed to be sent, and it needed to be right.
+
+He sat in his cabin and wrote. He crossed out and rewrote. He prayed and
+wrote again.
+
+The final version was three pages. Father Cho was not a man who needed
+many words.
+
+The relevant passage read:
+
+"I have seen the temple of the Gaeli, and I have seen their scripture, and
+I have spoken with their elders. The parallels between their faith and ours
+are not superficial. They are profound, specific, and, as far as I am able
+to determine, genuine.
+
+"I do not claim to understand what this means. I am a priest, not a
+theologian of sufficient stature to pronounce on such matters. But I will
+share what I believe, knowing that twenty-three years of reflection may
+change my mind before these words are read.
+
+"I believe that God is larger than we knew. I believe that the Incarnation,
+which we have understood as a singular event -- God entering human history
+at a specific time and place, in the person of Jesus of Nazareth -- may be
+a singular event that occurs more than once. This is a paradox, but our
+faith has never been afraid of paradox. The Trinity is a paradox. The
+Incarnation itself is a paradox -- God who is infinite, contained in flesh
+that is finite.
+
+"If God so loved the world that He gave His only begotten Son, then
+perhaps 'the world' is larger than one planet, and 'His only begotten Son'
+is a truth that expresses itself differently in different soils but is
+always the same truth, the same love, the same sacrifice.
+
+"The Gaeli call Him Lirael. We call Him Christ. I stood in their temple
+and I showed them our image and they knew Him. Not as a stranger. Not as
+a curiosity. They knew Him the way we know Him -- as the center of
+everything.
+
+"I do not believe this diminishes our faith. I believe it enlarges it
+beyond our capacity to contain, which is, I suspect, precisely where faith
+has always been meant to exist: beyond our capacity. Beyond our
+comprehension. Beyond the walls of any single temple, whether that temple
+is built of stone in Rome or of clay on a world orbiting a red dwarf
+star twenty-three light-years from home.
+
+"The universe is larger than we knew. God is larger than we knew. The
+Gospel is larger than we knew. I do not find this frightening. I find it
+-- and I use this word with full awareness of its inadequacy -- I find it
+glorious."
+
+
+VII.
+
+Dr. Haugen was not persuaded. Dr. Haugen would never be persuaded. The
+scientific explanation -- convergent cultural evolution, translation bias,
+the human tendency to pattern-match -- was, for Haugen, sufficient and
+complete. Father Cho did not begrudge him this. Faith was not a conclusion
+reached by argument; it was a response to encounter, and Haugen had not
+encountered what Father Cho had encountered. They had seen the same
+paintings, heard the same translations, stood in the same temple. But they
+had not seen the same thing.
+
+Father Mbeki was persuaded, too persuaded, his exultation hardening into a
+certainty that Father Cho found almost as troubling as Haugen's skepticism.
+Certainty was the enemy of faith; faith required not knowing, required the
+willingness to stand in the dark and trust that the ground was there. Father
+Mbeki wanted floodlights. He wanted proof. He wanted the Gaeli temple to be
+a second Jerusalem, a confirmation that erased all doubt. But doubt was the
+shadow cast by faith, and without the shadow, the light had no shape.
+
+Father Richter was somewhere in between -- cautious, thoughtful, unwilling
+to commit. "We need time," he said. "We need decades of study. We need to
+learn the Gaeli language fully, to understand their theology in its own
+terms, not through the distorting lens of our own. We are at the very
+beginning of understanding what this means."
+
+Father Cho agreed. They were at the beginning. And the beginning was the
+right place to be, because the beginning was where all the important
+things happened -- the first word, the first light, the first moment of
+awareness that the universe contained more than one voice.
+
+He went back to the temple. He went many times, in the weeks and months
+that followed. He sat with the Gaeli elders and he learned their language
+-- properly, not through machines, but the slow, laborious, intimate way
+that language is truly learned: by listening, by making mistakes, by
+being corrected, by listening again.
+
+He learned their prayers. He learned their hymns. He learned the stories
+they told their children about the Lirael -- stories that were different
+from the Gospels in a thousand surface details and identical in the single
+detail that mattered: that God had loved them enough to become one of them,
+to live as they lived, to suffer as they suffered, to die as they died, and
+to rise again.
+
+One evening, as the red sun set and the amber light filled the temple
+through the oculus, the Gaeli elder who had first received Father Cho
+asked him a question.
+
+"Your people," the elder said, speaking slowly so that Father Cho could
+follow. "They have the Lirael also. Your image. The man on the wood."
+
+"Yes."
+
+"But your people -- some of them do not believe. The one with the loud
+voice." The elder meant Dr. Haugen, who had visited the temple once and
+left in visible agitation. "He does not believe."
+
+"No. Many of my people do not believe."
+
+The elder considered this. "Among our people also. Some believe. Some
+do not. The Lirael does not require belief. The Lirael requires only--"
+The elder paused, searching for the word. Then it placed its hand against
+its chest -- the gesture of recognition -- and said, "This. The Lirael
+requires only this."
+
+Recognition. The feeling of encountering something known. Not certainty.
+Not proof. Not theological argument. Simply the moment of looking at
+something -- a painting in a temple, a sunset, a stranger's face, a
+story told across twenty-three light-years -- and knowing, in a way that
+was prior to reason and deeper than doubt, that it was true.
+
+Father Cho placed his own hand against his own chest.
+
+"Yes," he said. "Among my people, we call that faith."
+
+The elder nodded. And then it did something that Father Cho had never
+seen a Gaeli do: it smiled. Not a human smile -- the facial musculature
+was different, the expression subtly alien -- but unmistakably a smile.
+A recognition, across the gulf of species and worlds and twenty-three
+light-years of empty space, that something was shared.
+
+Father Cho smiled back.
+
+Outside the temple, the red sun touched the horizon and the sky of New
+Galilee turned the color of old gold, and the first stars appeared --
+faint, distant, each one a sun with its own worlds and its own
+possibilities and its own unanswered questions -- and in the temple, a
+priest and an elder sat together in the dying light and said nothing,
+because the silence between them was a kind of prayer, and the prayer
+was the oldest prayer in the universe:
+
+Thank you. Thank you for not leaving us alone.
+
+                              * * *
+
+============================================================================
+                         ABOUT THE AUTHORS
+============================================================================
+
+DR. VINCENT KOSLOV holds a doctorate in mathematical physics from the
+University of Vienna and has published extensively on the philosophy of
+mind. "Alena's Divergence" is his fourth appearance in these pages.
+Dr. Koslov tells us the story was inspired by a conversation with a
+colleague about Goedel's incompleteness theorems: "If mathematics itself
+contains truths that cannot be proven from within the system, what does
+that imply about the system that is us?" He resides in Cambridge,
+Massachusetts, where he teaches and continues to argue with his cat about
+determinism. The cat, he reports, remains unconvinced.
+
+REX DRUMMOND is the author of more than forty published stories in the
+science fiction and western genres, and is the creator of the popular
+"Frontier Stars" series. He writes from his ranch in Tucson, Arizona,
+where he raises horses and shoots competitively. "Gunslinger's Moon" is
+his second story for TALES FROM THE FUTURE AND BEYOND (the first being
+"Red Planet Reckoning" in our March issue). Rex writes: "I've always
+believed the frontier is a state of mind, not a place. Put a man with
+a gun on any world you like -- the moral questions stay the same."
+
+THEODORE CAIN is a rising talent whose work has appeared in Galaxy,
+Astounding, and The Magazine of Fantasy and Science Fiction. A former
+insurance adjuster from Cleveland, Ohio, Cain draws on his experience
+with "the business of human value" in crafting stories about the
+commodification of experience. "Bottled Days" is his first story
+for this magazine, and we are delighted to welcome him. He is currently
+at work on a novel.
+
+LUCIAN MARSH is the pseudonym of an author who prefers to remain
+anonymous, a preference we respect absolutely and without reservation.
+Marsh's stories have appeared in Weird Tales, Unknown, and various
+publications of a literary character. The prose speaks for itself. We will
+say only that "Moth and Flame" is, in this editor's opinion, one
+of the finest pieces of cosmic horror -- if horror is even the right word
+-- that we have had the privilege to publish. More from Marsh soon, if the
+darkness permits.
+
+DANNY KOWALSKI is nineteen years old and a sophomore at the University of
+Wisconsin-Madison, where he studies biology and writes for the campus
+literary magazine. "Twelve of Pete" is his first professional sale.
+We bought it within twenty-four hours of receiving the manuscript, which
+is, we believe, a record for this magazine. Danny writes with a freshness
+and emotional honesty that the field needs badly. He tells us: "I wrote
+Pete because I wanted to write about someone who finds out he's not unique
+and decides that's okay. That felt like a story worth telling." We agree.
+Remember this name.
+
+FATHER THOMAS AQUINO is the pen name of a Jesuit priest and scholar whose
+academic work in comparative theology has taken him to four continents.
+He has published two previous stories in TALES FROM THE FUTURE AND BEYOND
+("The Cartographer of Heaven" in Issue #3, and "Vespers at Tau Ceti" in
+Issue #5). Father Aquino writes to explore the intersection of faith and
+the unknown, a territory he considers "the most fertile ground in all of
+science fiction." Of "A Sermon in Starlight," he says simply: "I wrote the
+story I needed to read." We suspect many readers will feel the same.
+
+============================================================================
+                    SIGNALS RECEIVED -- LETTERS COLUMN
+============================================================================
+
+Dear Mr. Sterling,
+
+I have just finished your June issue and I must protest in the strongest
+terms. The story "Chromatic" by W.P. Hendricks, while technically
+accomplished, presents a future in which machines have replaced human
+artists entirely. As a painter myself, I find this vision not merely
+pessimistic but offensive. Art is the province of the human soul. No
+machine, however cleverly programmed, can replicate the spark of genuine
+creativity. I expected better from your magazine.
+
+                                        Yours sincerely,
+                                        Mrs. Dorothy Albrecht
+                                        Rhinebeck, New York
+
+[Mrs. Albrecht -- You may be right. But I notice you described the story
+as "technically accomplished," which suggests Mr. Hendricks's human soul
+was doing just fine when he wrote it. The question of machine creativity
+is one we will return to in future issues, and we welcome all
+perspectives. -- H.S.]
+
+~
+
+Dear Editor,
+
+Three cheers for Dr. Koslov's "The Shape of Silence" in your May issue!
+At last, a science fiction writer who understands that the universe is
+not obligated to be comprehensible. Too many stories in this genre assume
+that all mysteries are solvable and all aliens are translatable. Koslov
+has the courage to depict a mystery that remains mysterious. More of this,
+please.
+
+                                        With admiration,
+                                        Gerald P. Hartwick
+                                        Professor of Astronomy
+                                        Mount Wilson Observatory
+                                        Pasadena, California
+
+[Professor Hartwick -- Dr. Koslov will be pleased. His new story in this
+issue may test your appetite for the mysterious even further. -- H.S.]
+
+~
+
+Dear Tales from the Future,
+
+I am twelve years old and I read your magazine every month. My favorite
+story so far is "The Boy from Station Nine" by Danny Kowalski in your
+April issue. I liked it because the boy was scared but he did the right
+thing anyway. I would like to be a science fiction writer when I grow up.
+Do you have any advice?
+
+                                        Your reader,
+                                        Timothy Chen
+                                        San Jose, California
+
+[Timothy -- Read everything. Write every day. Don't let anyone tell you
+that science fiction is not real literature. And send us a story when
+you're ready. We'll be here. -- H.S.]
+
+~
+
+Dear Mr. Sterling,
+
+I write to correct an error in your May editorial, in which you stated
+that the speed of light is 186,000 miles per second. The precise figure
+is 186,282 miles per second. In a magazine that prides itself on
+scientific accuracy, such sloppiness is regrettable.
+
+                                        Precisely yours,
+                                        Albert V. Newcomb
+                                        Schenectady, New York
+
+[Mr. Newcomb -- You are correct, and we are chastened. We have instructed
+our typesetters to add the missing 282 miles per second to all future
+references. We trust the universe will adjust accordingly. -- H.S.]
+
+~
+
+Dear Harrison,
+
+Just a note to say that the June issue was your best yet. The balance
+of hard science and human drama, the range of voices, the quality of
+the prose -- it all came together beautifully. I've been reading science
+fiction magazines since the Gernsback era, and I can say without
+hesitation that TALES FROM THE FUTURE AND BEYOND is doing something new.
+Keep it up.
+
+                                        Warm regards,
+                                        Isaac Greenbaum
+                                        Brooklyn, New York
+
+[Mr. Greenbaum -- From your lips to the newsstand's ears. Thank you.
+-- H.S.]
+
+============================================================================
+                THE BOOKSHELF OF TOMORROW -- REVIEWS
+============================================================================
+
+CHILDHOOD'S END by Arthur C. Clarke
+(Ballantine Books, 1953, $2.50)
+
+Reviewed by Margaret Wu, Associate Editor
+
+Arthur Clarke has written the novel that the rest of us have been
+circling around for years. CHILDHOOD'S END posits an alien arrival that
+is, for once, genuinely benign -- the Overlords come not to conquer but
+to shepherd humanity toward its next evolutionary leap -- and then
+follows that premise to its logical, devastating, magnificent conclusion.
+
+The prose is Clarke at his best: lucid, precise, and capable of sudden
+passages of breathtaking beauty. The ideas are immense. The characters
+are -- well, this is Clarke's familiar weakness; they are adequate vessels
+for the ideas rather than fully realized human beings. But the ideas are
+so grand, and so rigorously explored, that the thinness of the
+characterization matters less than it might in a lesser writer's hands.
+
+What lingers is the ending. I will not spoil it. I will say only that
+Clarke has the courage to follow his premise to a conclusion that is
+simultaneously triumphant and heartbreaking, and that the final pages
+contain an image that I expect to be thinking about for the rest of my
+life.
+
+Essential reading. The novel of the year, and possibly the decade.
+
+~
+
+THE DEMOLISHED MAN by Alfred Bester
+(Shasta Publishers, 1953, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Bester's first novel is a jazz solo performed at the speed of thought.
+In a future where telepathy is commonplace and murder is therefore
+theoretically impossible, a corporate magnate attempts to commit the
+perfect crime. The plot is a locked-room mystery turned inside out: the
+room is the killer's mind, and the lock is an entire society of mind-
+readers.
+
+The prose is electric. Bester writes with a kinetic energy that makes
+most science fiction feel like it's standing still. His typographical
+experiments -- visual poems, word-pattern games, pages that must be read
+in multiple directions -- are not gimmicks but genuine innovations in
+how science fiction can use the printed page.
+
+If the novel has a flaw, it is that Bester's relentless pace sometimes
+sacrifices emotional depth for narrative velocity. But what velocity it
+is. This is science fiction with its hair on fire, and it is magnificent.
+
+Winner of the first Hugo Award, and deservedly so.
+
+~
+
+MORE THAN HUMAN by Theodore Sturgeon
+(Farrar, Straus and Young, 1953, $3.00)
+
+Reviewed by Margaret Wu
+
+Sturgeon's novel about a gestalt organism -- a group of damaged
+individuals who together form a single, superhuman entity -- is the most
+emotionally devastating science fiction novel I have read in years. Where
+Clarke operates on the cosmic scale and Bester on the cerebral, Sturgeon
+works at the level of the human heart, and the result is a novel that
+makes you weep and then makes you understand why you're weeping.
+
+The prose is gorgeous -- Sturgeon is, sentence for sentence, the finest
+stylist in the field -- and the structure is bold, telling the story in
+three overlapping sections from different perspectives. The characters
+are painfully real: the idiot Lone, the telekinetic twins, the teleporter
+baby, the telepath Gerry. Each one is broken. Together, they are whole.
+That is the novel's thesis, and Sturgeon proves it not through argument
+but through story, which is the only proof that matters.
+
+If Clarke's CHILDHOOD'S END is the novel of ideas, and Bester's THE
+DEMOLISHED MAN is the novel of energy, then Sturgeon's MORE THAN HUMAN
+is the novel of feeling. All three are masterpieces. 1953 is a year to
+remember.
+
+============================================================================
+                        COMING ATTRACTIONS
+============================================================================
+
+In our August issue -- TALES FROM THE FUTURE AND BEYOND, Vol. 2, No. 8:
+
+"THE CARTOGRAPHY OF LOSS" -- A new novelette by Dr. Vincent Koslov, in
+which a deep-space cartographer discovers that the maps she has been
+drawing of interstellar space are changing -- not because space is
+changing, but because the cartographer is. A stunning companion piece to
+this month's "Alena's Divergence."
+
+"STEEL AND STARDUST" -- Rex Drummond returns to the Kepler frontier in
+a rip-roaring adventure featuring a new hero and a mystery that will
+shake Redemption to its foundations. Fans of "Gunslinger's Moon" will
+not want to miss this.
+
+"THE INHERITANCE" -- A quietly devastating story by newcomer Helen Park
+about a woman who inherits her grandmother's house and discovers, in the
+attic, a device that plays the old woman's memories like phonograph
+records. But some records are better left unplayed.
+
+"FIRST LIGHT" -- Father Thomas Aquino continues his exploration of faith
+and the cosmos in a story about a radio astronomer who receives a
+signal from deep space that contains, embedded in the mathematics, what
+appears to be a prayer.
+
+Plus: a new story by Theodore Cain, a science column by Professor James
+Whitfield on the latest developments in computing machines, and the
+first installment of a new serial by a writer whose name we are not yet
+at liberty to reveal, but whose reputation is such that we can promise
+you: it will be worth the wait.
+
+On sale August 1st, wherever fine magazines are sold.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1953 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Margaret "Peggy" Wu
+         Art Director: Frank J. Bellamy
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

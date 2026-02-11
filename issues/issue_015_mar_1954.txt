@@ -1,0 +1,3572 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #15 — March 1954
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "Sunbuilders" by Gerald "Gerry" Pulaski
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Dyson Initiative, Part I" by Harold "Hal" Mercer ...... p. 4
+2. "Obedience Index" by Franklin Hoyt ..................... p. 32
+3. "Treasure of the Sunken Fleet" by Rex Drummond ............. p. 52
+4. "Forking Paths" by Oscar Lennox .............. p. 70
+5. "Sandcastle Empires" by Theodore Cain ...................... p. 92
+6. "Beneath the Rust" by Agnes Whitfield ...................... p. 106
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 124
+   Signals Received: Letters to the Editor ................... p. 126
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 128
+   Coming Attractions ........................................ p. 132
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+There is something deeply human about the act of building. Long before we
+had language for it, before we had philosophy or science or even religion,
+we had the impulse to take raw materials and shape them into something
+that had not existed before. A wall. A bridge. A shelter against the
+dark. To build is to assert, in the most fundamental way possible, that
+the future matters -- that it is worth preparing for.
+
+And yet every act of building contains within it the seed of its own
+undoing. The wall crumbles. The bridge rusts. The shelter is swept away
+by wind or water or time or the simple accumulated weight of human
+neglect. Construction and destruction are not opposites; they are dance
+partners, each one giving meaning to the other.
+
+This issue of Tales from the Future and Beyond is, in a sense, about that
+dance. Harold Mercer opens our pages with the first installment of what
+promises to be his most ambitious project yet: "The Dyson Initiative," a
+tale of construction on a scale that beggars the imagination -- nothing
+less than the enclosure of our own Sun. It is engineering fiction at its
+finest, and I suspect Mercer's readers will find it worth the wait.
+Franklin Hoyt, whose devastating debut "The Committee" appeared in our
+last issue, returns with "Obedience Index," a story about a different
+kind of construction -- the building of a surveillance state so thorough
+that it can measure the loyalty inside your skull. I will say only that
+it is the most provocative story we have published to date, and that the
+letters it generates will, I suspect, fill several future issues.
+
+Rex Drummond takes us to the ocean floor of Europa -- a sentence I take
+considerable pleasure in writing -- for "Treasure of the Sunken Fleet,"
+an adventure that begins as salvage and ends as something considerably
+more alarming. Oscar Lennox contributes "Forking Paths," a
+meditation on history, possibility, and the dangerous allure of the road
+not taken. Theodore Cain, our most reliable contributor and the man I
+privately think of as the backbone of this magazine, delivers "Sandcastle
+Empires," a story of unexpected tenderness about a child who builds
+something extraordinary on a world where nothing lasts. And Agnes
+Whitfield, whose spare and luminous "After the Sirens" remains one of
+our most discussed stories, returns with "Beneath the Rust," a tale of
+discovery in the ruins of a world that built too much and maintained too
+little.
+
+Six stories. Six meditations on what we build, what we destroy, and what
+endures when both the builders and the wreckers have gone home.
+
+I am enormously proud of this issue. I hope you will find it worth the
+thirty-five cents.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, January 1954
+
+================================================================================
+
+                       THE DYSON INITIATIVE
+
+                              Part I
+
+                    by Harold "Hal" Mercer
+
+================================================================================
+
+                               I.
+
+The swarm started with a single collector.
+
+Yuki Tanaka stood in the observation gallery of Helios Station and
+watched it deploy: a hexagonal sheet of solar-reflective composite, four
+hundred meters across, unfolding from its launch cradle like an origami
+crane straightening its wings. At this distance -- nine hundred thousand
+kilometers from the Sun's photosphere -- the collector was a dark speck
+against an ocean of light. But Tanaka could see it on the display board
+behind her, rendered in clean blue lines against a black grid, its
+telemetry scrolling in real-time down the right side of the screen.
+
+Mass: 4,200 metric tons. Reflective surface area: 138,400 square meters.
+Orientation: nominal. Thermal gradient: within tolerances.
+
+One collector. The first of nineteen billion.
+
+She pressed her palms flat against the gallery's radiation-shielded
+glass and felt the warmth of the Sun through a meter of composite
+layering and electromagnetic baffling. The light out here was not the
+golden, diffuse light of Earth. It was white and absolute, a physical
+force that pressed against the station's hull with measurable radiation
+pressure. Her engineers called it "the Push." In the inner solar system,
+the Sun did not illuminate. It insisted.
+
+"Collector One is nominal," said Martin Gruber, her chief deployment
+officer, from the communications panel behind her. His voice had the
+flat, careful tone of a man reading numbers he had checked three times.
+"Attitude stable. Power generation at one hundred and four percent of
+projected baseline."
+
+"Four percent over?"
+
+"Solar output is running slightly above the mean this cycle. Nothing
+outside the design envelope."
+
+Tanaka nodded. Four percent over baseline on a single collector was a
+rounding error. Four percent over baseline on nineteen billion collectors
+was enough energy to power every human settlement in the solar system
+twice over. The margins mattered at scale. Everything mattered at scale.
+
+That was the first lesson she had learned as a structural engineer, and
+it was the lesson that governed every waking hour of her life now: the
+Dyson Initiative was a project where the difference between success and
+catastrophe could be measured in decimal places.
+
+She turned from the window and walked to the central planning table,
+where the holographic display showed the Sun as a pale yellow sphere
+surrounded by a ghostly lattice of projected collector positions. The
+lattice was beautiful in the abstract -- a geodesic grid of interlocking
+hexagons, each one representing the orbital slot for a single collector,
+the whole structure forming a partial sphere that would eventually
+intercept thirty-seven percent of the Sun's total energy output. Not a
+solid shell -- Freeman Dyson himself had noted, in his original 1960
+paper, that a rigid sphere around a star was mechanically impossible. The
+Initiative called for a swarm: billions of independent collectors
+orbiting in coordinated formation, each one a free-flying unit
+maintaining its position through ion thrusters and gravitational
+balancing.
+
+It was the largest engineering project in human history. The largest
+engineering project that could be conceived, short of disassembling a
+planet for raw materials -- which, Tanaka reflected, was also on the
+project timeline, though not until Phase IV.
+
+"Where are we on the Mercury extraction schedule?" she asked.
+
+Gruber pulled up a secondary display. "Sato's team has the first strip
+mine operational at Caloris Basin. Current output is six hundred tons of
+refined silicon per day. They're projecting full capacity -- twelve
+thousand tons per day -- by the end of the fiscal quarter."
+
+"And the fabrication plant?"
+
+"Orbital Fab One is running test batches. First production-quality
+collectors are scheduled for next month. Fab Two is still under
+construction -- they're behind schedule on the smelting modules."
+
+"How far behind?"
+
+"Three weeks."
+
+Tanaka pulled up the master schedule on her personal display and studied
+it. The Dyson Initiative had a fifty-year construction timeline, broken
+into six phases. They were fourteen months into Phase I, which called for
+the deployment of the first fifty thousand collectors -- a proof of
+concept that would demonstrate the swarm's orbital stability and energy
+capture efficiency. If Phase I succeeded, the General Assembly of the
+Solar Confederation would vote on full funding for Phases II through VI.
+If it failed, the project would be shelved, and the most ambitious thing
+humanity had ever attempted would become a footnote in the history of
+engineering.
+
+Three weeks behind on a fifty-year project should not have worried her.
+But Tanaka had spent twenty years building things in space, from the
+Lagrange habitats to the Martian rail system, and she had learned that
+delays propagated. A three-week delay on smelting modules became a six-
+week delay on fabrication output, which became a twelve-week delay on
+collector deployment, which meant they would miss their Phase I deadline,
+which meant the funding vote would slip, which meant the political
+opposition would have more time to organize.
+
+And the political opposition was already organizing.
+
+                               * * *
+
+The message from Governor Elaine Vasquez of the Mercurian Administrative
+District arrived at 14:00 station time, flagged priority-urgent, and
+Tanaka read it standing at her desk with a cup of cold coffee in her
+hand.
+
+It was politely worded, as Vasquez's communications always were. The
+Governor expressed her continued support for the Dyson Initiative and
+her admiration for the engineering team's achievements. She noted that
+the people of Mercury had always been proud to host humanity's most
+ambitious projects and that the extraction operations at Caloris Basin
+represented a welcome economic stimulus for the district.
+
+However.
+
+There was always a however.
+
+Governor Vasquez wished to bring to the Chief Architect's attention
+certain concerns that had been raised by the Mercurian Citizens'
+Council. Specifically, the Council had commissioned an independent study
+on the projected reduction in solar irradiance at Mercury's surface as
+the collector swarm reached full deployment. The study's preliminary
+findings indicated that a thirty-seven percent reduction in solar flux
+would lower Mercury's mean surface temperature by approximately one
+hundred and twenty degrees Kelvin, with significant implications for the
+thermal power generation systems that provided sixty percent of the
+district's energy.
+
+In short: if you build a sunshade around the Sun, Mercury gets cold.
+
+Tanaka set down her coffee. She had anticipated this objection. It was
+in the environmental impact assessment, volume four, section twelve,
+subsection C. The temperature reduction was real but manageable. Mercury
+had no biosphere to disrupt. Its thermal power systems could be
+supplemented -- indeed, replaced -- by direct energy feeds from the
+collector swarm itself. Mercury would receive more energy from the Dyson
+swarm than it currently received from raw sunlight, delivered in a more
+controlled and useful form.
+
+But the politics were not about energy. The politics were about
+autonomy. Mercury was the smallest and most isolated of the inner
+system's administrative districts, perpetually overshadowed by Mars
+and the Jovian settlements, and its population of eight hundred thousand
+had developed the fierce independence common to small communities in
+harsh environments. They did not want to be dependent on the Dyson
+swarm for their energy. They did not want a project designed and managed
+by people from Earth and Mars to determine their climate. They did not
+want to be told that the most visible feature of their sky -- the Sun
+itself -- was being remodeled for someone else's benefit.
+
+Tanaka understood all of this. She was the daughter of engineers who had
+built bridges in Hokkaido, and she had grown up listening to her father
+talk about the communities that fought highway projects because the
+highway would change the character of their town, even when the highway
+would also bring jobs and commerce and connection to the larger world.
+Her father had been patient with those communities. He had sat in town
+halls and listened to their concerns and modified his designs where he
+could and explained, calmly and clearly, where he could not. And
+sometimes the highway got built, and sometimes it didn't.
+
+The difference was that her father's highways served a region. The Dyson
+Initiative served the species.
+
+She opened a reply window and began to type.
+
+                               II.
+
+The Engineering Council met every Tuesday at 09:00 in the main
+conference room of Helios Station, which the staff called the Furnace
+because its eastern wall was a floor-to-ceiling viewport that faced the
+Sun. Tanaka had considered having the viewport polarized during meetings,
+but she had decided against it. The Sun was the project. It should be in
+the room.
+
+Today's meeting had twelve items on the agenda. Tanaka made it through
+the first three -- deployment statistics, fabrication output, propellant
+reserves -- before the real subject of the morning asserted itself.
+
+"We need to talk about the Venusian delegation," said Reza Amiri, her
+chief political liaison. Amiri was a compact, olive-skinned man with a
+diplomat's smile and an engineer's impatience. He had spent ten years in
+the Solar Confederation's Ministry of Infrastructure before Tanaka had
+recruited him, and he understood both the technical and political
+dimensions of the Initiative better than anyone on her staff.
+
+"What about them?"
+
+"They've formally requested a presentation on the projected impact of
+the swarm on Venus's solar irradiance. Specifically, they want to know
+how the collector deployment sequence will affect the Venusian
+terraforming schedule."
+
+Tanaka looked at him. "The deployment sequence is designed to minimize
+impact on the inner planets during Phase I. They know that."
+
+"They know it intellectually. They want to see the numbers presented
+by us, in person, to their Terraforming Authority board. They want us
+on the record."
+
+"This is about Vasquez."
+
+Amiri nodded. "Mercury's concerns are making waves. Venus doesn't share
+Mercury's objections -- they're actually net beneficiaries of the swarm,
+since the energy feeds will accelerate their atmospheric processing by a
+factor of three. But they don't want to be seen as rubber-stamping a
+project that their neighbors are questioning. They need political cover."
+
+"So we give them a presentation."
+
+"We give them a presentation," Amiri agreed. "And while we're at it, we
+should probably start thinking about Mars. The Tharsis delegation has
+been quiet, but quiet doesn't mean happy."
+
+Tanaka rubbed her eyes. She had been up since 04:00, reviewing the
+thermal stress data on the Fab Two smelting modules, and the political
+maneuvering felt like a language she could read but not speak natively.
+She thought in terms of load tolerances and material specifications.
+Amiri thought in terms of constituencies and leverage. She needed him,
+and she knew it, and it irritated her slightly.
+
+"What does Mars want?" she asked.
+
+"Mars wants what Mars always wants. Assurance that they won't be
+disadvantaged relative to the Jovians. If the swarm's energy output
+is distributed on a per-capita basis, the outer colonies get more per
+person because they have smaller populations but higher energy needs.
+Mars thinks distribution should be weighted by proximity to the Sun,
+since the inner planets are contributing more to the construction
+effort."
+
+"That's a distribution policy question. It's not an engineering
+question."
+
+"Everything is an engineering question until it becomes a political
+question," Amiri said. "And it becomes a political question the moment
+someone's tax revenue is involved."
+
+Tanaka leaned back in her chair and looked past Amiri at the Sun. It
+filled the viewport like a wall of white fire. Somewhere out there,
+Collector One was orbiting in its assigned slot, a four-hundred-meter
+hexagon that was, against the scale of the Sun, approximately the size
+of a bacterium on a basketball. Nineteen billion more to go.
+
+"Schedule the Venus presentation," she said. "And set up a call with
+the Martian infrastructure attaché. I'll talk to them."
+
+"You personally?"
+
+"Is that a problem?"
+
+Amiri hesitated. "You're the Chief Architect. Your time is -- "
+
+"My time is spent building a swarm. If the swarm doesn't get funded,
+my time is spent doing nothing. I'll talk to Mars."
+
+                               * * *
+
+After the meeting, Tanaka walked to the fabrication bay on the station's
+lower deck, where a one-tenth scale model of a collector was being
+assembled for stress testing. The bay was a cavernous space, zero-
+gravity, lit by banks of industrial LEDs that gave everything a flat,
+shadowless brightness. A crew of six technicians floated among the
+model's struts and panels, their mag-boots clicking against the
+structural members as they moved from joint to joint.
+
+She found Hiro Watanabe, her chief materials engineer, suspended upside
+down relative to her orientation, examining a stress fracture in one of
+the model's deployment hinges through a magnifying visor.
+
+"How bad?" she asked.
+
+Watanabe rotated to face her, his visor pushed up on his forehead. He
+was a small, precise man with the unflappable temperament of someone
+who had spent thirty years solving problems that could kill people if
+solved incorrectly.
+
+"Bad enough. The hinge alloy is failing at the thermal cycling spec.
+The temperature differential between sunward and shadow faces is
+producing micro-fractures at the joint after approximately forty
+thousand cycles."
+
+"Design life is two hundred thousand cycles."
+
+"Yes."
+
+Tanaka pulled herself to the hinge and examined the fracture. It was
+barely visible -- a hairline crack in the dark alloy, no wider than a
+human hair. But at scale, on a full-size collector, this crack would
+propagate. The hinge would fail. The collector would lose its ability
+to adjust its angle to the Sun. It would drift out of formation. And
+a collector out of formation was a collector that could collide with
+its neighbors, producing a cascade of debris that could take out
+dozens, hundreds, thousands of units.
+
+"Options?" she said.
+
+"Three. First, we change the alloy. I have a titanium-vanadium composite
+that tests well in the thermal range, but it's thirty percent heavier,
+which means more propellant for station-keeping, which means a larger
+propellant budget per collector, which means -- "
+
+"Which means the mass budget for Phase I doesn't close. Next."
+
+"Second, we reduce the thermal cycling by limiting the collector's
+orientation range. If we restrict the tilt angle to plus-or-minus
+fifteen degrees instead of thirty, the temperature differential drops
+enough to extend the hinge life to design spec."
+
+"What does that do to energy capture efficiency?"
+
+"Drops it by about twelve percent."
+
+Tanaka shook her head. Twelve percent efficiency loss across nineteen
+billion collectors was a staggering quantity of energy. It would push
+the breakeven point for the swarm back by years and give the political
+opposition exactly the ammunition they needed.
+
+"Third?"
+
+Watanabe looked at her with the expression of an engineer who has found
+an elegant solution and is trying not to appear too pleased with himself.
+"We redesign the hinge. Instead of a single pivot joint, we use a
+compound flexure -- essentially a living hinge that distributes the
+thermal stress across a larger volume of material. It's more complex to
+fabricate, but it eliminates the stress concentration at the pivot point
+entirely."
+
+"Cost?"
+
+"In money? About twenty percent more per hinge. In time? I need six
+weeks to design, build, and test a prototype."
+
+"We have three weeks of schedule margin."
+
+"Then I'll do it in three."
+
+Tanaka studied his face. Watanabe was not a man who made promises he
+could not keep. If he said three weeks, he meant three weeks and
+possibly four, but not five. That was a margin she could work with.
+
+"Do it," she said.
+
+                               III.
+
+The quarters assigned to the Chief Architect were on the station's
+habitation ring, which rotated at a rate that produced approximately
+one-third Earth gravity -- enough to keep the body from deteriorating,
+not enough to feel like home. Tanaka had personalized the space
+minimally: a photograph of her parents on the desk, a small ikebana
+arrangement in a magnetic vase, and a framed copy of the project charter
+signed by every member of the initial design team.
+
+She sat at her desk at 22:00, station time, and opened her personal
+log. She had kept a log since her first job out of university --
+a highway bridge in Sapporo -- and the habit was as fundamental to
+her working method as her slide rule, which she still carried in her
+breast pocket despite the existence of computers that could perform the
+same calculations a billion times faster. The slide rule had been her
+father's. He had given it to her when she graduated, along with a piece
+of advice that she had never forgotten: "The computer will give you the
+answer. The slide rule will make you understand the question."
+
+She typed:
+
+"Day 427. Collector One deployed successfully. Telemetry nominal.
+Fabrication schedule slipping -- Fab Two smelting modules behind three
+weeks. Watanabe has identified a hinge failure mode that requires
+redesign. He believes he can solve it in three weeks. I believe him.
+
+"Mercury is becoming a political problem. Vasquez is not hostile, but
+she is under pressure from her citizens' council, and she will do what
+her constituents demand. Venus is nervous. Mars is calculating. The
+Jovians have been silent, which means they are either uninterested or
+planning something.
+
+"The irony of this project is not lost on me. We are building the
+largest structure in human history, and the greatest obstacles are not
+structural. They are not thermal, orbital, or material. They are human.
+People do not object to the engineering. They object to the implications
+of the engineering. They object to someone else deciding what happens to
+their Sun.
+
+"Their Sun. Not the Sun. Their Sun.
+
+"I understand this. I grew up watching my father argue with town
+councils about highway routes. The arguments were never really about
+traffic flow or noise levels or property values. They were about
+control. Who decides what the landscape looks like? Who decides where
+the road goes? Who decides what the future holds?
+
+"In this case, the landscape is the solar system, the road is a swarm
+of nineteen billion collectors, and the future holds more energy than
+humanity has ever imagined -- if we can agree to build the thing.
+
+"Tomorrow: presentation prep for the Venusian delegation. Fab Two
+inspection. Hinge redesign review with Watanabe. Call with Martian
+infrastructure attaché, which I am looking forward to the way one
+looks forward to a dental procedure."
+
+She saved the log, closed the terminal, and went to the viewport. The
+habitation ring's rotation brought the Sun into view every ninety
+seconds, a slow sweep of light across the reinforced glass. She watched
+it pass once, twice, three times.
+
+Somewhere out there, a single hexagonal collector was orbiting in the
+dark, catching sunlight and converting it to energy. One down. Nineteen
+billion to go.
+
+She went to bed.
+
+                               IV.
+
+The call with the Martian infrastructure attaché went about as well as
+Tanaka had expected, which was to say it went politely, substantively,
+and nowhere.
+
+The attaché was a man named Devereaux, a career bureaucrat with the
+Tharsis Administrative Authority who had the smooth, unhurried manner
+of someone who had spent twenty years in meetings and had learned that
+patience was the most effective weapon in any negotiation. He listened
+to Tanaka's presentation on the collector deployment sequence, asked
+informed questions about the energy distribution model, and then
+explained, with the gentle firmness of a man who was not going to be
+rushed, that Mars had concerns.
+
+The concerns were, as Amiri had predicted, about distribution equity.
+Mars was contributing raw materials to the Initiative -- iron, aluminum,
+silicates from the Olympus Mons mining operations -- and the Tharsis
+Authority felt that this contribution entitled Mars to a preferential
+energy allocation when the swarm reached operational capacity. The
+Jovian settlements, which were contributing primarily labor, would
+receive energy on the same per-capita basis as everyone else, but Mars
+wanted a premium.
+
+"You understand our position," Devereaux said. His face on the screen
+was composed, amiable, unreadable. "We are providing the building
+blocks. Without Martian materials, the fabrication plants cannot
+operate. We feel this warrants recognition in the distribution
+framework."
+
+"The distribution framework hasn't been finalized," Tanaka said. "It's
+a Phase III agenda item."
+
+"We believe it should be a Phase I agenda item. It is difficult to ask
+our citizens to support a fifty-year project when they do not know what
+their share of the output will be."
+
+"The project benefits everyone."
+
+"In the abstract, yes. In the specific, it benefits some more than
+others, depending on how the energy is allocated. We would like to
+ensure that the specifics are favorable to those who are bearing the
+material costs."
+
+Tanaka recognized the logic. It was the logic of every infrastructure
+negotiation she had ever participated in: everyone supported the
+project in principle; everyone wanted a larger share of the output;
+everyone wanted someone else to bear more of the cost. It was rational,
+it was predictable, and it was the reason that large-scale engineering
+projects took twice as long to approve as they took to build.
+
+"I'll take your concerns to the Initiative board," she said. "We'll
+prepare a preliminary distribution analysis for your review."
+
+"We appreciate that. And Chief Architect? One more thing."
+
+"Yes?"
+
+"Governor Vasquez has invited the Tharsis Authority to co-sponsor her
+resolution to the Solar Confederation assembly calling for an
+independent environmental review of the Initiative's impact on inner-
+system solar irradiance."
+
+Tanaka felt something tighten in her chest. "And?"
+
+"We are considering it. We have not committed. But we are considering
+it."
+
+The screen went dark. Tanaka sat in her chair and stared at the blank
+display for a long time.
+
+An independent environmental review would take eighteen months. The
+Phase I deadline was in twenty-two months. By the time the review was
+complete, the funding vote would have slipped, the political window
+would have narrowed, and the opposition would have consolidated.
+Mercury and Mars, together, represented enough votes on the
+Confederation Assembly to force the review through.
+
+She needed Venus. She needed the Jovians. She needed the Phase I
+demonstration to be so successful, so undeniably impressive, that the
+political objections would collapse under the weight of the results.
+
+She needed nineteen billion collectors, and she had one.
+
+She reached into her breast pocket and pulled out her father's slide
+rule. She did not use it to calculate anything. She held it in her
+hands, feeling its weight, its smooth wooden surfaces, the precision
+of its machined markings. It was a tool from another era, an era when
+engineering problems had engineering solutions and the biggest obstacle
+to building a bridge was the river.
+
+She put it back in her pocket, opened her terminal, and went to work.
+
+                               V.
+
+Six weeks later, the hinge crisis was resolved and three new ones had
+taken its place.
+
+Watanabe delivered the compound flexure hinge on schedule, as promised.
+The test results were excellent -- the redesigned joint survived three
+hundred thousand thermal cycles without failure, well above the two-
+hundred-thousand-cycle design life. Tanaka authorized the design change,
+the fabrication specs were updated, and Fab One began producing
+collectors with the new hinges.
+
+Then the smelting modules on Fab Two failed their final inspection. A
+manufacturing defect in the heat exchangers -- a tolerance error of six-
+hundredths of a millimeter in the coolant channels -- meant that the
+modules could not maintain the precise temperature control required for
+the silicon purification process. The modules had been built by a
+subcontractor on Ceres, and the defect had not been caught during the
+subcontractor's quality assurance process because the testing protocol
+used a different thermal profile than the actual operating conditions
+at Mercury's orbital distance.
+
+Six-hundredths of a millimeter. A human hair was roughly seventy
+micrometers in diameter. The defect was smaller than a hair.
+
+It set the project back seven weeks.
+
+Tanaka spent those seven weeks doing three things: managing the
+remediation of the smelting modules, preparing for the Venusian
+delegation's visit, and reading the daily intelligence summaries that
+Amiri compiled on the political situation across the solar system.
+
+The summaries were not encouraging.
+
+Governor Vasquez had given a speech to the Mercurian Citizens' Council
+in which she described the Dyson Initiative as "the most consequential
+decision facing the people of Mercury since the founding of the
+colony," and called for a "full and transparent public debate" on the
+project's implications. The speech was moderate in tone -- Vasquez was
+too savvy a politician to oppose the Initiative openly -- but its effect
+was to legitimize opposition. Within a week, three anti-Initiative
+citizens' groups had formed on Mercury, and their messaging was
+spreading across the system's information networks.
+
+The Martian position was hardening. Devereaux's polite noncommittal had
+curdled into something more pointed: the Tharsis Authority now formally
+supported an independent environmental review, and they had begun
+lobbying the Jovian delegations to join the resolution.
+
+And on Earth, where the Initiative had originated and where its most
+passionate supporters lived, the political establishment was beginning
+to show the first signs of the disease that killed all long-term
+projects: loss of interest. The Dyson Initiative had been front-page
+news when it was announced. Three years later, it was a budget line
+item, competing for attention with a dozen other priorities, and the
+politicians who had championed it were discovering that "we're building
+a sunshade" was not the kind of slogan that won elections.
+
+Tanaka documented all of this in her log. She documented the smelting
+module remediation. She documented the hinge test results, the
+fabrication output statistics, the propellant budget revisions. She
+documented the things she could control and the things she could not,
+side by side, in the same neutral, technical language, because she was
+an engineer and an engineer's job was to describe reality accurately,
+even when reality was not cooperating.
+
+On the night before the Venusian delegation arrived, she stood in the
+observation gallery and watched the Sun. Collector One was still out
+there, still orbiting, still catching light. In the six weeks since its
+deployment, it had generated enough energy to power a small city for a
+year. A small city's worth of energy from a single collector. Multiply
+that by nineteen billion, and you had -- well, you had the future. The
+future of the species. Unlimited energy. The end of scarcity. The
+beginning of something that Tanaka did not have a word for, something
+beyond abundance, beyond prosperity, beyond anything that humanity had
+ever experienced.
+
+All they had to do was build it.
+
+She pressed her palms against the glass and felt the warmth of the Sun
+and thought about her father's bridges, and she wondered if there had
+ever been a bridge that the whole world needed to agree on before the
+first pylon could be sunk.
+
+                               * * *
+
+The Venusian delegation arrived on a diplomatic shuttle at 10:00 the
+next morning: seven officials from the Venusian Terraforming Authority,
+plus their technical staff, plus a journalist from the Venus Dispatch
+who had somehow obtained press credentials despite Tanaka's explicit
+request that the visit be kept private.
+
+Amiri met them at the docking bay with his diplomat's smile firmly in
+place. Tanaka met them in the conference room, where she had spent the
+previous evening arranging the data displays to tell a specific story:
+the story of a project that was on track, on budget, and on its way to
+delivering transformative benefits to every human settlement in the
+solar system, including and especially Venus.
+
+The delegation's leader was a woman named Chen Wei-Lin, the Authority's
+director of atmospheric processing. She was sixty, sharp-featured, with
+the direct manner of a scientist who had spent her career doing
+practical work and had no patience for abstractions. She listened to
+Tanaka's presentation with her arms folded and her expression neutral,
+and when Tanaka had finished, she asked a single question.
+
+"What happens to our atmospheric processors when the swarm blocks
+thirty-seven percent of our sunlight?"
+
+Tanaka had prepared for this question. She pulled up the energy model
+and walked Chen through it: the swarm would reduce Venus's raw solar
+irradiance, yes, but the energy feed from the collector network would
+more than compensate. Venus's atmospheric processors, which currently
+ran on solar-thermal power, would be converted to direct energy feeds
+from the swarm, tripling their throughput. The terraforming timeline
+would accelerate from three centuries to one.
+
+"You're asking us to trade our independence for efficiency," Chen said.
+
+"I'm showing you that the efficiency gains are transformative."
+
+"Transformative for whom? Right now, our processors run on sunlight.
+Sunlight is free. Sunlight does not require a political negotiation.
+If we become dependent on the swarm for our energy, we become dependent
+on whoever controls the swarm's distribution network. And that
+network's governance structure has not been defined."
+
+"It will be defined."
+
+"When?"
+
+"Phase III."
+
+Chen looked at her with the weary skepticism of a woman who had heard
+too many promises indexed to future phases. "Chief Architect, I support
+this project. My government supports this project. Venus will benefit
+enormously from the Dyson swarm, and I am not here to obstruct its
+progress. But I need to bring something back to my board -- something
+concrete, not a projection, not a promise -- that addresses the
+governance question. My people need to know who decides how the energy
+is distributed, and they need to know it before they commit to a fifty-
+year construction program that will fundamentally alter their
+relationship with the Sun."
+
+Tanaka looked at Chen, and she saw in the older woman's face the same
+expression she had seen on her father's face at a hundred town hall
+meetings: the expression of someone who understood the project's value
+but needed the project's builders to understand something in return.
+
+"Give me sixty days," Tanaka said. "I'll draft a preliminary governance
+framework for your review. Nothing binding. A starting point for
+negotiation."
+
+Chen studied her. "Sixty days."
+
+"Sixty days."
+
+"I can sell sixty days to my board." Chen uncrossed her arms. "Now show
+me the collector."
+
+                               * * *
+
+They took the delegation to the observation gallery, and Tanaka watched
+Chen Wei-Lin's face as the Sun filled the viewport. The scientist's
+expression did not change -- she was too disciplined for that -- but
+something shifted behind her eyes. Something that Tanaka recognized,
+because she had felt it herself the first time she had stood in this
+gallery and looked at the star that was the center of everything.
+
+Awe. Despite everything -- the politics, the budgets, the hinge
+failures, the smelting module defects, the endless negotiating --
+despite all of it, the project was awesome, in the old, terrifying
+sense of the word. They were building a structure around the Sun. They
+were reaching out to the source of all life in the solar system and
+wrapping it in a skin of human ingenuity. It was presumptuous. It was
+magnificent. It was, Tanaka believed with every fiber of her engineer's
+soul, necessary.
+
+Chen turned to her. "It's a hell of a thing," she said quietly.
+
+"Yes," Tanaka said. "It is."
+
+They stood together in the gallery, the Sun blazing through the
+reinforced glass, and for a moment they were not a chief architect and
+a delegation leader with competing political mandates. They were two
+human beings looking at a star and contemplating the audacity of what
+their species was attempting to do with it.
+
+Then Chen's communications officer interrupted with a priority message
+from Venus, and the moment was over, and they went back to being
+politicians.
+
+                               VI.
+
+Tanaka's log, Day 491:
+
+"Fabrication output: Collectors Two through Fourteen deployed
+successfully. All telemetry nominal. Swarm coordination protocols
+operating within parameters -- the collectors are maintaining formation
+without manual correction, which means the autonomous guidance system
+is working. This is significant. If the guidance system can handle
+fourteen units, it can handle fourteen thousand. If it can handle
+fourteen thousand, it can handle fourteen billion. Scalability is
+confirmed.
+
+"The Venusian visit was productive. Chen is an ally, though a cautious
+one. She needs governance commitments before she can provide political
+cover. I have promised a preliminary framework in sixty days, which
+means I need to do something I have been avoiding: talk to the lawyers.
+
+"Smelting module remediation is complete. Fab Two is online. Production
+rate is accelerating. If we maintain current trajectory, we will have
+five hundred collectors deployed by the end of the fiscal year, which
+is slightly ahead of the Phase I schedule. I want to bank that margin.
+We will need it.
+
+"Vasquez has scheduled a public forum on Mercury for next month.
+Anti-Initiative sentiment is growing. The messaging is effective because
+it is emotionally simple: They are stealing our Sun. It does not matter
+that it is technically inaccurate. It captures something true about the
+project's implications -- that we are proposing to alter the most
+fundamental feature of everyone's environment, and we are asking them
+to trust us.
+
+"Trust is not an engineering specification. I cannot test for it, I
+cannot calculate its load tolerance, and I cannot redesign it when it
+fails. But it is the most critical material in this project, and we
+are running low on supply.
+
+"I need to find a way to build trust the way I build collectors: one
+unit at a time, in formation, with each one supporting the others.
+
+"I do not know how to do this yet. But I am an engineer. I will figure
+it out."
+
+She saved the log. She went to bed. The Sun came around again, and
+again, and again, ninety seconds of light, ninety seconds of dark,
+and in the dark between the passes, Yuki Tanaka slept the shallow,
+restless sleep of a woman who was trying to build something too large
+for any one person to hold in her mind.
+
+                         [TO BE CONTINUED]
+
+================================================================================
+
+                       OBEDIENCE INDEX
+
+                        by Franklin Hoyt
+
+================================================================================
+
+                               I.
+
+They came for Ana Ruiz on a Tuesday, which she had always suspected they
+would. Tuesdays had a quality of administrative inevitability about them
+-- they were the days when the regime did its paperwork, processed its
+quotas, crossed its names off its lists. Monday was for announcements.
+Wednesday was for enforcement. Thursday was for trials. Friday was for
+the broadcasts that told you what to feel about the week's events.
+Saturday and Sunday were for the silence in which you tried to remember
+what it had been like before there was a schedule for everything,
+including your emotions.
+
+But Tuesday -- Tuesday was for the knock on the door.
+
+The knock came at 6:14 in the morning. Ana was already awake. She had
+been awake since four, lying in the narrow bed in her one-room
+apartment on the seventh floor of Residential Block 4417, staring at
+the ceiling and listening to the building's pre-dawn sounds: the hum
+of the centralized heating system, the distant clank of the elevator
+(which had not worked in three months but still made noises, as if the
+machine's ghost was performing the function that the machine itself
+could not), and the soft, arrhythmic creaking of the pipes that was,
+she had decided, the closest thing this building had to a heartbeat.
+
+She had been listening for the knock. Not because she knew it was
+coming today, specifically. She had been listening for it every Tuesday
+for the past seven months, since she had attended the meeting in
+Comrade Fortunato's basement and heard, for the first time, the word
+that changed everything.
+
+The word was _loyalty_. Not in the way the regime used it -- as a
+command, a demand, a condition of citizenship. In the way the
+resistance used it. As a question.
+
+What does it mean to be loyal? And loyal to what? And what happens when
+a machine can tell the difference?
+
+                               * * *
+
+The door opened before she could reach it. They had a key -- of course
+they had a key; they had keys to everything, every door, every drawer,
+every compartment of your life that you imagined was private. There were
+three of them: two Civic Order officers in their gray uniforms and a
+technician in a white coat carrying a metal case the size of a lunch
+box. The officers were young, blank-faced, interchangeable in the way
+that the regime preferred its enforcement personnel to be. The
+technician was older, perhaps fifty, with thinning hair and the
+distracted expression of a man who was thinking about calibration
+settings.
+
+"Citizen Ana Cristina Ruiz?" said the first officer. He did not phrase
+it as a question.
+
+"Yes."
+
+"You are scheduled for Patriotic Assessment. Please remain calm and
+cooperate fully. The procedure is painless and takes approximately
+twelve minutes."
+
+Ana looked at the metal case. It was brushed aluminum, with a
+manufacturer's stamp on the lid that she could not read from this
+distance. A single green light glowed on its surface.
+
+"What is Patriotic Assessment?" she asked. She knew the answer. She
+asked because not asking would be suspicious. An innocent citizen would
+ask. An innocent citizen would be mildly confused, slightly annoyed at
+the early hour, possibly curious. Ana performed these emotions with the
+skill of a woman who had spent seven months practicing the art of
+appearing to have nothing to hide.
+
+"The Patriotic Assessment is a routine wellness evaluation mandated by
+the Ministry of Civic Harmony," the officer recited. "It measures
+neurochemical indicators associated with civic engagement and
+patriotic sentiment. Citizens who score within the optimal range
+receive a certificate of patriotic health. Citizens who score below
+the optimal range are referred for treatment."
+
+"Treatment for what?"
+
+The officer paused, as though the question had momentarily exceeded his
+script. "Insufficient civic engagement," he said.
+
+The technician had already opened the case and was assembling the
+device. It was smaller than Ana had expected -- she had imagined
+something dramatic, something with wires and screens and the aesthetic
+menace of a machine designed to look into your soul. In reality, it
+looked like a medical instrument: a smooth, pale gray unit about the
+size of a paperback book, with a curved sensor pad on one end and a
+small display screen on the other. A thin cable connected it to a data
+recorder in the case.
+
+"Please sit down," the technician said, without looking at her. He was
+adjusting something on the device with a small screwdriver. "I'll need
+you to remain still for the duration of the scan."
+
+Ana sat in the room's single chair. The technician placed the sensor
+pad against her left temple and pressed a button. The device emitted a
+soft hum -- not unpleasant, more like the vibration of a tuning fork
+held near the ear.
+
+"What is it measuring?" she asked.
+
+The technician glanced at her, surprised. Most people, his expression
+suggested, did not ask. "Dopamine and oxytocin ratios in the prefrontal
+cortex, correlated with serotonin uptake patterns in the limbic system.
+The algorithm analyzes the neurochemical profile against a baseline
+model of patriotic sentiment."
+
+"A baseline model."
+
+"Yes. The Ministry has established a neurochemical signature associated
+with genuine civic loyalty. The device measures the degree of
+correspondence between your neural profile and the baseline."
+
+"How was the baseline established?"
+
+The technician looked at her more carefully now. "From a sample
+population of citizens with demonstrated patriotic commitment."
+
+"Demonstrated how?"
+
+"Through behavioral metrics. Voting participation, civic volunteer
+hours, public affirmation of state values, absence of antisocial
+indicators." He paused. "The science is sound. The correlation between
+the neurochemical profile and observable patriotic behavior is
+ninety-three percent."
+
+Ninety-three percent. Ana filed this number. It meant that seven
+percent of people who tested as loyal were not, and seven percent of
+people who tested as disloyal were. She was a mathematician by training
+-- she had taught secondary school mathematics before the regime had
+restructured the education system and replaced mathematics with
+Principles of Civic Harmony -- and she understood what seven percent
+meant. It meant that for every hundred people scanned, seven would be
+misclassified. In a city of eight million, that was five hundred and
+sixty thousand people.
+
+She sat very still and thought about what she was feeling. Fear,
+certainly. Anger, which she had long ago learned to keep below the
+surface, like a fish in dark water. And something else -- something
+that she could not name, that lived in the gap between the person she
+was performing and the person she was. She wondered which one the
+machine would see.
+
+                               II.
+
+The scan took eleven minutes. The technician watched his display with
+the focused attention of a man reading a particularly absorbing novel,
+occasionally making notes in a small ledger. The two officers stood by
+the door, their posture communicating boredom and authority in equal
+measure.
+
+When it was finished, the technician removed the sensor pad, examined
+his display, and typed a series of numbers into the data recorder. He
+did not tell Ana her score. He closed the case, nodded to the officers,
+and walked out of the room without speaking.
+
+"Your results will be processed within seventy-two hours," the first
+officer said. "You will receive notification by mail. If your assessment
+falls within the optimal range, no further action is required. If it
+does not, you will be contacted by the Ministry of Civic Harmony to
+schedule a treatment consultation."
+
+He paused, as if trying to remember the next line. "The State values
+your patriotism and thanks you for your cooperation."
+
+They left. Ana locked the door behind them -- a meaningless gesture,
+since they had a key, but the click of the deadbolt was a sound that
+she needed to hear. She sat down in the chair and pressed her hands
+flat against her knees and breathed.
+
+Seventy-two hours. Three days to find out whether the machine had seen
+through her.
+
+She thought about Comrade Fortunato's basement, and the faces of the
+eleven people who met there every Thursday night, and the conversations
+they had about what the loyalty machine meant for the resistance, and
+she wondered how many of them had already been scanned, and how many
+of them had passed, and how many of them were sitting in rooms like this
+one, pressing their hands against their knees and breathing.
+
+                               * * *
+
+She went to the meeting that night. It was a risk -- the regime
+monitored movement patterns, and a deviation from routine on the day of
+an assessment could trigger a flag in the surveillance system. But the
+meeting was necessary. The resistance needed to know about the scan, and
+they needed to know quickly, because if the machine worked -- if it
+could actually distinguish genuine loyalty from performance -- then
+everything they had built was in danger.
+
+Fortunato's basement was beneath a hardware store on the Via Republica,
+a street that had been renamed three times in Ana's lifetime and that
+she still called, in the privacy of her own mind, by its original name:
+Calle de los Muertos. The Street of the Dead. Named for a massacre that
+the regime had erased from the official history but not from the
+memories of the people who lived on the street, who walked over the
+cobblestones where the blood had been and who knew, without ever saying
+it aloud, what had happened there.
+
+The basement was small, damp, and lit by a single bare bulb. Eleven
+metal folding chairs arranged in a circle. A table with a water pitcher
+and a stack of paper cups. No records, no documents, no evidence. The
+resistance existed in the space between people, in words spoken and
+immediately forgotten, in commitments made with a glance and honored
+with a silence. It was the opposite of the regime, which existed in
+paperwork, in databases, in the obsessive documentation of every
+citizen's movements, utterances, and -- now -- neurochemistry.
+
+Fortunato was already there when Ana arrived. He was a baker by trade,
+a stout man with flour-dusted hands and a voice that carried without
+being raised, and he had organized this cell because, as he said, "a
+man who makes bread every morning knows that you cannot feed people
+with fear." He greeted Ana with a nod and did not ask about the scan.
+He did not need to ask. He could see it in her face.
+
+There were six others tonight. Pilar, who worked in the records office
+and had access to the regime's citizen databases. Diego, a mechanic who
+maintained the cell's secure communications equipment. Old Marisol, who
+had been a journalist before the press was nationalized and who served
+as the cell's strategist. Tomás, a teenager whose parents had been
+taken for treatment two years ago and who had joined the resistance the
+day he turned sixteen. Lucia, a nurse at the state hospital, who had
+seen what treatment looked like.
+
+And Elena, who was new. Ana did not know her well. She had been
+introduced by Pilar three weeks ago, and she sat in the circle with the
+stillness of someone who was either very brave or very frightened, and
+Ana could not tell which.
+
+"They scanned me this morning," Ana said.
+
+The room went quiet. Not the silence of surprise -- they had known it
+was coming, known it was spreading through the city block by block,
+building by building, door by door. The silence of attention.
+
+"Tell us," Fortunato said.
+
+Ana described the device, the technician, the procedure. She described
+the neurochemical baseline -- dopamine, oxytocin, serotonin, the
+algorithm that mapped brain chemistry to political allegiance. She
+described the ninety-three percent accuracy rate.
+
+"Seven percent error," Marisol said. She was seventy-one years old and
+had the hard, clear eyes of a woman who had survived three regimes and
+expected to survive this one. "In a population of eight million, that's
+over half a million misclassifications."
+
+"Yes."
+
+"Which means half a million loyal citizens flagged as disloyal, and
+half a million disloyal citizens passing as loyal."
+
+"Approximately."
+
+"The regime won't care about the false positives," Marisol said. "False
+positives are useful. A citizen who is loyal but flagged as disloyal can
+be treated and made more loyal. The machine converts ambiguity into
+compliance. That's the purpose."
+
+Ana nodded. Marisol had articulated what she had been thinking but had
+not yet put into words. The machine's imperfection was not a flaw. It
+was a feature. A perfect loyalty detector would only catch the disloyal.
+An imperfect one would catch the disloyal and terrorize the loyal, which
+was far more effective as a tool of control.
+
+"What about us?" Diego asked. He was a practical man who distrusted
+abstractions. "Can we beat it?"
+
+"I don't know," Ana said. "I don't know if I beat it. I won't know for
+seventy-two hours."
+
+"What did you feel during the scan?"
+
+Ana considered the question carefully. "I tried to feel nothing. I tried
+to think about mundane things -- my grocery list, a mathematical
+problem, the pattern on the ceiling. I don't know if that was the right
+strategy. The machine isn't measuring thoughts. It's measuring
+neurochemistry. You can control your thoughts. I'm not sure you can
+control your dopamine."
+
+"You can't," Lucia said. She was sitting forward in her chair, her
+nurse's hands clasped between her knees. "I've seen the treatment
+protocols. The machine measures what it measures. If your brain
+chemistry doesn't match the loyalty profile, no amount of mental
+discipline will change the reading. The only way to beat the machine
+is to genuinely feel what the machine is looking for."
+
+"Genuine patriotism," Tomás said. He was sixteen. His voice cracked on
+the word _patriotism_ as though it were a foreign language he had not
+yet learned to pronounce. "We're supposed to genuinely love the regime?"
+
+"That's what they're demanding," Lucia said. "Not behavior. Not
+compliance. Not the performance of loyalty. The real thing. The actual
+neurochemical state. They want to own your feelings."
+
+The room went quiet again. Ana looked at the faces around her -- the
+baker, the mechanic, the old journalist, the boy, the nurse, the new
+woman who had not yet spoken -- and she saw in each face a version of
+the same thought. The regime had always demanded obedience. It had
+demanded conformity, silence, the surrender of public identity to the
+state's requirements. But it had not demanded this. It had not demanded
+that you feel differently than you felt. It had not demanded that your
+brain chemistry align with a loyalty baseline constructed from the
+neural profiles of the most compliant citizens in the population.
+
+This was new. This was something else.
+
+"There's another option," Elena said. It was the first time she had
+spoken. Her voice was low, steady, and carried a quality that Ana could
+not immediately identify -- not fear, not anger, but something colder
+and more considered. "We let them take us. We let them scan us, and we
+fail, and we let them treat us."
+
+Silence.
+
+"And then what?" Fortunato asked.
+
+"Then we see what the treatment does. We see if it changes us, or if
+it just changes the readings. And if it just changes the readings, we
+come back. And if it changes us..." She paused. "Then we know what
+we're fighting."
+
+                               III.
+
+Ana spent the next seventy-two hours in a state of suspended animation.
+She went to her assigned work site -- a garment factory in the
+industrial district, where she sewed buttons on gray cotton shirts for
+nine hours a day, a job that had been given to her after her teaching
+position was eliminated and that she performed with the mechanical
+efficiency of a person who has decided that the body can do one thing
+while the mind does another. She ate in the communal cafeteria. She
+returned to her apartment. She did not go to the meeting.
+
+She thought about Elena's proposal. Let them take us. Let them treat
+us. See what happens.
+
+It was either the bravest thing she had ever heard or the most reckless,
+and she could not decide which. The treatment was not a mystery -- Lucia
+had described it in enough clinical detail to make the room flinch.
+A pharmaceutical protocol combined with intensive conditioning: drugs
+that altered the brain's neurochemistry to match the loyalty baseline,
+administered over six weeks in a residential facility, accompanied by
+daily sessions of what the Ministry called "civic recalibration" and
+what Lucia called "the reshaping." The patients emerged altered. Not
+brain-damaged, not lobotomized, nothing so crude. They emerged with
+their intelligence intact, their memories intact, their personalities
+largely intact. But something was different. Something had shifted.
+
+"They come out believing," Lucia had said. "Not performing belief. Not
+pretending. Believing. They love the regime the way you love your
+mother. It's in their eyes. It's in their voice when they talk about
+the President. It's genuine."
+
+"Is it reversible?"
+
+Lucia had hesitated. "I don't know. I've never seen anyone try to
+reverse it. Once they've been through the treatment, they don't want
+it reversed. That's the point."
+
+That was the point. The machine measured loyalty. The treatment produced
+it. Together, they formed a closed loop: scan, identify, treat, rescan.
+Every citizen either genuinely loved the regime or would be made to.
+There was no space between compliance and belief, no gap in which a
+private self could exist, no room for the silent, stubborn,
+ungovernable act of disagreeing in your own skull.
+
+On the third day, the letter arrived.
+
+It was a single sheet of heavy paper, embossed with the seal of the
+Ministry of Civic Harmony. It informed Citizen Ana Cristina Ruiz that
+her Patriotic Assessment had been evaluated and that her neurochemical
+profile fell within the optimal range for civic engagement and patriotic
+sentiment. A certificate of patriotic health was enclosed. No further
+action was required.
+
+She had passed.
+
+Ana held the certificate in both hands and stared at it. She had
+passed. The machine had scanned her brain, measured her neurochemistry,
+compared it to the loyalty baseline, and determined that she was a
+patriot. A genuine, neurochemically verified patriot.
+
+She set the certificate on her table and went to the window. The city
+spread out below her: gray blocks of residential housing, the factory
+smokestacks, the Ministry tower in the distance with its perpetual
+flag. Somewhere in this city, other people were receiving their letters.
+Some of them had passed. Some of them had not.
+
+She thought about the seven percent error rate. She had passed, but
+was she a true negative or a false negative? Was the machine correct
+that she was loyal, or had it simply failed to detect her disloyalty?
+She did not know. She did not know if the machine knew.
+
+She thought about Elena's proposal. Let them take us.
+
+She thought about what it would mean to volunteer for treatment -- to
+walk into the Ministry, surrender her body, and let them reshape her
+brain until the person who emerged was someone who genuinely loved the
+regime that had killed Tomás's parents, that had silenced Marisol's
+newspaper, that had replaced mathematics with ideology in the schools,
+that had turned a nation of citizens into a population of patients.
+
+She thought about what it would mean to become that person. Not to
+pretend. To become.
+
+Was there a version of herself, hidden in the seven percent margin of
+error, who already was that person? Was loyalty a fact about her brain
+or a choice she made every morning when she woke up in her narrow bed
+and decided, again, to be the person she was instead of the person
+the regime wanted her to be?
+
+She picked up the certificate. She turned it over. On the back, there
+was nothing -- blank paper, smooth and white.
+
+She folded it carefully, placed it in her pocket, and went to the
+meeting.
+
+                               IV.
+
+The meeting was smaller than usual. Fortunato, Marisol, Diego, Lucia.
+No Pilar -- she had been called for a shift at the records office, or
+she had been taken, and they would not know which until she appeared or
+did not. No Tomás -- his whereabouts unknown since yesterday, which
+could mean anything or nothing. No Elena.
+
+"Tomás was scanned this morning," Diego said. "My source at the Civic
+Order office confirmed it. He failed."
+
+The word _failed_ hung in the air. A sixteen-year-old boy with dead
+parents and a heart full of fury. Of course he had failed. The machine
+measured neurochemistry, and there was no drug in the world, no trick
+of mental discipline, no amount of performance, that could make Tomás's
+brain produce the chemical signature of loving the regime that had
+taken his mother and father.
+
+"Where is he?" Fortunato asked.
+
+"Treatment facility on the Avenida Nacional. Admitted this afternoon."
+
+Silence.
+
+"I passed," Ana said.
+
+They looked at her.
+
+"I received my certificate this morning. The machine says I'm a
+patriot." She paused. "I don't know why I passed. I don't know what it
+saw in my brain that it didn't see in Tomás's. Maybe the seven percent
+error is larger than they claim. Maybe I'm better at hiding than I
+think I am. Maybe some part of me actually is what they're looking for."
+
+"Does it matter?" Marisol asked. "You passed. You're safe. Use it."
+
+"Safe for now. They'll scan again. Every six months, according to
+Pilar's information. Each time, the algorithm is refined. Each time,
+the error rate drops. Eventually, the machine will see through
+everyone."
+
+"Then we have to act before eventually arrives."
+
+"Act how?" Diego demanded. "We're eleven people -- nine now, maybe
+eight. We have no weapons, no organization beyond this basement, no
+plan beyond surviving. The machine is spreading. By next month, every
+citizen in the city will have been scanned. By next year, every citizen
+in the country. What are we going to do? Destroy the machine? There
+are hundreds of them. Destroy the regime? With what?"
+
+"With the seven percent," Ana said.
+
+They looked at her.
+
+"Seven percent of the population will be misclassified. That's the
+machine's flaw. But it cuts both ways. Seven percent of the regime's
+most trusted citizens -- the ones who scan as perfectly loyal -- are
+not. They're performing. They're hiding. They're us, and we don't know
+who they are, and they don't know who we are. But they're out there.
+Half a million people who the machine says are patriots but who are,
+in their hearts, something else."
+
+"You want to find them," Marisol said.
+
+"I want to understand that they exist. That the machine's promise --
+total legibility, perfect knowledge of every citizen's inner state --
+is a lie. The regime is building its power on a ninety-three percent
+confidence interval. That means seven percent of its foundation is
+hollow. The question is whether seven percent is enough."
+
+"Enough for what?" Diego asked.
+
+Ana did not answer immediately. She looked at the circle of chairs, at
+the faces of the people who had risked everything to sit in a baker's
+basement and speak the truth to each other. She thought about Tomás, in
+a treatment facility, having his brain reshaped until the boy who hated
+the regime became a man who loved it. She thought about the certificate
+in her pocket, the regime's seal pressed into heavy paper, certifying
+that she was loyal.
+
+"Enough to matter," she said.
+
+                               V.
+
+The next Thursday, Elena came back.
+
+She walked into the basement with the same stillness she had carried
+the first time, sat down in her chair, and looked at the circle. There
+were seven of them now -- Pilar had returned, apologetic and unscanned,
+her absence explained by a double shift at the records office. Tomás
+was still in treatment. His chair was empty, and no one sat in it.
+
+"I volunteered," Elena said.
+
+The word _volunteered_ required no explanation. They understood.
+
+"Tell us," Fortunato said.
+
+"I went to the Ministry yesterday. I told them I had been experiencing
+feelings of civic disconnection and that I wanted help. They were
+delighted." A thin, humorless smile. "They don't get many volunteers.
+Most people have to be brought in. A volunteer is a propaganda coup --
+proof that the system works, that citizens recognize their own
+deficiencies and seek correction."
+
+"They scanned you?"
+
+"Immediately. Full neurochemical profile. I failed -- badly,
+apparently. The technician looked at my readings the way a doctor looks
+at a tumor." She paused. "They scheduled me for treatment. I start
+Monday."
+
+The silence in the room was absolute.
+
+"Why?" Lucia asked. Her voice was barely above a whisper.
+
+"Because someone has to know what the treatment does. Not from the
+outside, not from a clinical report. From the inside. Someone from the
+resistance has to go through it and come out the other side and tell us
+whether the person who comes out is still the person who went in."
+
+"And if they're not?" Ana asked. "If the treatment works? If the person
+who comes out is genuinely loyal?"
+
+Elena looked at her. "Then the person who comes out won't come back to
+this basement. And you'll have your answer."
+
+"That's not an answer. That's a sacrifice."
+
+"Is there a difference?"
+
+Ana wanted to argue. She wanted to say that there was always a
+difference, that a sacrifice without purpose was not courage but waste,
+that Elena was throwing herself into the machine to answer a question
+that might not have an answer anyone could use. But she looked at
+Elena's face -- calm, resolved, already somewhere beyond the room --
+and she understood that the argument had already been had, inside Elena's
+head, in the private silence where the regime could not follow, and
+that Elena had made her decision the way you make the decisions that
+define what you are: not with logic but with the part of yourself that
+knows what it can and cannot live with.
+
+"When you come out," Ana said. Not _if_. _When_.
+
+"When I come out," Elena repeated. "I'll come here. If I can. If I'm
+still the person who would come here."
+
+"How will we know?"
+
+Elena smiled -- a real smile, the first one Ana had seen from her. "Ask
+me something only I would know."
+
+"Like what?"
+
+"Like why I joined the resistance."
+
+"Why did you join the resistance?"
+
+Elena looked at her, and the smile faded, and what replaced it was
+something that Ana recognized as the closest thing to loyalty that the
+machine would never be able to measure -- not the neurochemical
+signature of compliance, not the dopamine profile of a citizen who
+loved the state, but the fierce, ungovernable, unmeasurable thing that
+makes a person look at the world as it is and decide, at the cost of
+everything, to fight for the world as it should be.
+
+"Because they told me what to feel," Elena said. "And I refused."
+
+                               * * *
+
+On Monday, Elena went to the Ministry.
+
+On Tuesday, Ana went to work and sewed buttons on gray shirts and
+thought about seven percent.
+
+On Wednesday, she went home and looked at the certificate on her table
+and wondered if the person the machine had certified as loyal was the
+same person who sat in a baker's basement on Thursday nights and
+conspired against the state.
+
+On Thursday, she went to the meeting. Elena's chair was empty. Tomás's
+chair was empty. The circle had seven people in it, and Ana could feel
+the gaps where the missing should have been, the way you feel a phantom
+limb -- the nerves still firing, the brain still expecting the weight
+of something that is no longer there.
+
+She sat in the circle and she waited.
+
+Because that was what the resistance was, in the end. Not a plan. Not
+an organization. Not a strategy or a weapon or a counter-machine. It
+was the stubborn, unreasonable, neurochemically inexplicable decision
+to remain yourself when the world demanded that you become someone else.
+It was the seven percent. It was the margin of error. It was the gap
+between what the machine could see and what a human being actually was.
+
+Ana Ruiz sat in her chair in the baker's basement and she waited, and
+she refused, and the loyalty machine hummed somewhere in the city, and
+the regime went on measuring, and measuring, and measuring, and still
+it could not measure this: a woman in a folding chair, in a circle of
+light, choosing, with every breath, not to comply.
+
+                            [THE END]
+
+================================================================================
+
+                    TREASURE OF THE SUNKEN FLEET
+
+                        by Rex Drummond
+
+================================================================================
+
+Max Coretti had been diving in bad water for fifteen years, and Europa's
+subsurface ocean was the worst water he had ever seen -- if you could
+call it water. It was black as crude oil, cold enough to freeze your
+blood in the time it took to swear, and pressurized to a degree that
+made the Mariana Trench look like a kiddie pool. The only thing it had
+going for it was that it was, technically, liquid, which meant you
+could dive in it. Whether you should was a different question.
+
+Coretti was not a man who spent a lot of time on "should."
+
+He sat in the pilot's seat of the _Barracuda_ -- a deep-ocean salvage
+submersible about as elegant as a garbage truck and roughly twice as
+stubborn -- and watched the sonar display paint the ocean floor in
+shades of green. Europa's subsurface sea was sixty miles deep and as
+dark as the inside of a coffin. The _Barracuda_'s floods cut through
+maybe two hundred meters of the murk before the particulate swallowed
+the light. Everything beyond that range was sonar, and sonar in this
+soup was about as reliable as a three-dollar compass.
+
+"You seeing what I'm seeing?" said Dex Halloran from the co-pilot's
+seat. Dex was Coretti's partner, which meant he was the person Coretti
+trusted to not get him killed, most of the time. He was a lanky redhead
+from Melbourne with a gift for mechanics and a worse gift for poker,
+which was how Coretti had won his half of the _Barracuda_ three years
+ago in a card game on Ganymede Station.
+
+"I'm seeing a whole lot of nothing," Coretti said.
+
+"Look again. Bearing two-seven-zero, range four thousand meters. Bottom
+contact."
+
+Coretti squinted at the display. The sonar return at the indicated
+bearing was faint but solid -- a series of regular shapes on the ocean
+floor, too geometric to be geological. In fifteen years of salvage
+work, Coretti had learned to read sonar the way a tracker reads prints
+in mud. Rocks were lumpy. Wrecks were angular. These shapes were
+angular, but they were also huge. The largest return was nearly five
+hundred meters long.
+
+"Could be ice ridges," Coretti said, because he had been wrong before
+and optimism was a luxury that got divers killed.
+
+"Ice ridges don't come in rows."
+
+Dex had a point. The shapes on the display were arranged in a formation
+that was too orderly for natural geology -- three rows, roughly
+parallel, with smaller objects clustered around the periphery. It
+looked, Coretti thought, like a parking lot.
+
+"Take us in. Slow."
+
+Dex throttled the _Barracuda_'s propulsion system to minimum cruise and
+adjusted their heading. The submersible groaned -- she always groaned at
+depth, her hull flexing under the pressure like a man stretching after
+a long sleep -- and began her descent toward the contact.
+
+                               * * *
+
+They had come to Europa on a contract from Jovian Salvage Incorporated,
+a company that specialized in recovering valuable materials from the
+moons of Jupiter. The official job was to survey a sector of Europa's
+ocean floor that a mining company had flagged as a potential source of
+rare-earth minerals. The unofficial job -- the one that Coretti
+actually cared about -- was to find anything interesting and, if it was
+valuable, to claim salvage rights before the mining company's own teams
+got there.
+
+Coretti had been a salvage diver since he was nineteen, when he had
+dropped out of the Merchant Marine Academy on Earth to join a
+deep-water recovery crew in the Caribbean. He had worked his way up
+from grunt to crew chief to independent operator, and he had spent the
+last decade working the outer solar system, where the salvage was
+richer and the regulations were thinner. He had pulled wrecked cargo
+haulers off the surface of Io, recovered mining equipment from the
+ammonia seas of Titan, and once -- his proudest job -- extracted a
+functional fusion reactor from a derelict research station in the rings
+of Saturn.
+
+He was forty-three years old, built like a fire hydrant, with a face
+that looked like it had been assembled from spare parts -- broken nose
+(twice), scar across the left cheekbone (bar fight on Callisto), and a
+jaw that could have been used as a doorstop. He wore a leather jacket
+that he claimed was lucky, and he smoked thin cigars that he was not
+supposed to smoke inside the submersible but smoked anyway, because
+what was the point of risking your life at the bottom of an alien ocean
+if you couldn't enjoy a cigar while you did it?
+
+"Range two thousand meters," Dex reported. "Bottom contact getting
+stronger. Max -- these aren't mineral deposits."
+
+"I can see that."
+
+"They look like ships."
+
+Coretti leaned forward and studied the display. Dex was right. As they
+closed the range, the sonar returns resolved into sharper detail, and
+the shapes on the ocean floor became unmistakable. They were ships.
+Not human ships -- the proportions were wrong, the profiles unfamiliar,
+the design language unlike anything Coretti had seen in any shipyard
+from Earth to Neptune. They were sleek, elongated, with swept-back
+structures that suggested speed even in stillness. Some of them were
+enormous -- the largest was over five hundred meters stem to stern.
+Others were smaller, clustered around the big ones like escort vessels
+around a capital ship.
+
+Coretti counted them. Fourteen large vessels. Thirty-odd smaller ones.
+Arranged in formation on the ocean floor, partially embedded in the
+ice substrate, as if they had settled there gently and been slowly
+absorbed by the environment.
+
+A fleet. A sunken fleet. An alien fleet, at the bottom of Europa's
+ocean, where no alien fleet had any business being.
+
+"Holy God," Dex said.
+
+Coretti reached for a cigar, lit it, and blew a stream of smoke at the
+viewport. Through the reinforced glass, the _Barracuda_'s floodlights
+were beginning to catch the nearest vessel -- a dark, angular shape
+emerging from the murk like a whale rising from the deep.
+
+"Salvage rights," Coretti said. "We are filing salvage rights."
+
+"Max, those are alien warships."
+
+"They're salvage. They're on the bottom. Nobody's claimed them. That
+makes them salvage."
+
+"The Confederation government is going to have opinions about this."
+
+"The Confederation government can get in line. We found them. We file
+first. That's the law."
+
+Dex stared at him. "You're insane."
+
+"Probably. Take us closer."
+
+                               * * *
+
+The nearest ship was one of the smaller vessels -- about eighty meters
+long, with a hull that was smooth and dark and reflected the
+_Barracuda_'s floodlights with a faint iridescence, like oil on water.
+It was partially encased in ice, its lower hull fused with the ocean
+floor, but its upper surfaces were clear, and as the _Barracuda_
+circled it at close range, Coretti could see details that made his
+pulse quicken.
+
+The hull was intact. Not corroded, not pitted, not damaged by
+micro-meteor impact or radiation exposure or any of the thousand things
+that destroyed human-built structures in the outer solar system over
+time. The surface was as smooth and unblemished as the day it had been
+built, whenever the hell that was.
+
+"Check the temperature on that hull," Coretti said.
+
+Dex ran the thermal scanner. "Ambient. Same as the surrounding water.
+Dead cold."
+
+"What about power emissions? Electromagnetic? Anything?"
+
+"Scanning." A pause. "I'm getting... something. Low-level
+electromagnetic output from the large vessels. Very faint. Could be
+residual charge in their power systems, could be natural -- mineral
+deposits can produce weak EM signatures."
+
+"Mineral deposits don't park in formation."
+
+"No," Dex agreed. "They don't."
+
+Coretti guided the _Barracuda_ along the length of the small ship,
+studying its contours. There were no visible ports, no windows, no
+external sensors or antennae. The hull was featureless except for a
+series of raised ridges that ran along its spine -- structural
+reinforcements, maybe, or something else entirely. At the stern, a
+cluster of nozzle-like openings suggested a propulsion system, though
+of a type Coretti had never seen. The nozzles were arranged in a ring,
+like the petals of a flower, and their inner surfaces caught the light
+with a metallic gleam that was almost -- Coretti reached for the word
+and found it -- beautiful.
+
+"I want to take a look inside," Coretti said.
+
+"Inside? Inside the alien warship? The alien warship of unknown origin
+that has been sitting at the bottom of an alien ocean for an unknown
+amount of time with unknown technology and unknown intentions?"
+
+"That's the one."
+
+"Max, no."
+
+"Max, yes. Get me the EVA suit."
+
+                               * * *
+
+The EVA suit was a deep-ocean model rated for Europa's pressures -- a
+bulky, armored affair that made Coretti look like a medieval knight
+crossed with a deep-sea crab. He cycled through the _Barracuda_'s
+ventral airlock and dropped into the water, his helmet lights cutting
+two bright cones through the darkness.
+
+The water was cold. Not Earth-cold, not jacket-and-hot-coffee cold, but
+a deep, fundamental cold that pressed against the suit's thermal
+regulation system like a hand pressing against a window. The suit's
+heaters whined and compensated, but Coretti could feel the chill seeping
+through, a reminder that this ocean existed at temperatures where human
+life was a temporary and unwelcome condition.
+
+He approached the small vessel's hull and placed his gloved hand against
+it. The surface was smooth -- impossibly smooth, smoother than any
+material Coretti had ever touched. His glove registered no texture,
+no grain, no imperfection. It was like touching a mirror made of metal.
+
+"I'm at the hull," he reported. "Surface is... strange. Perfectly
+smooth. No corrosion, no biological growth, nothing. This thing has
+been down here for God knows how long and it looks factory-new."
+
+"That's not reassuring," Dex said through the comm.
+
+"Not trying to reassure you. I'm going to follow the hull toward what
+I think is an access point. There's a seam about thirty meters aft."
+
+He moved along the hull, his magnetic boots clicking against the
+surface -- at least the material was ferromagnetic, which was a small
+mercy. The seam he had spotted from the _Barracuda_ resolved into a
+rectangular outline in the hull, about three meters tall and two meters
+wide. A door, or the alien equivalent.
+
+There was no handle, no control panel, no obvious mechanism for opening
+it. Coretti stood before it and considered his options. He could try
+to cut through with the _Barracuda_'s plasma torch. He could try to pry
+the seam open with the suit's manipulator arms. He could--
+
+The door opened.
+
+Not slowly, not dramatically, not with a hiss of escaping atmosphere
+or a groan of ancient machinery. It simply opened, sliding into the
+hull with a motion so smooth and silent that for a moment Coretti
+thought he had imagined it. One instant the rectangle was a seam in
+the hull. The next instant it was an opening, and beyond the opening
+was darkness, and in the darkness something was glowing.
+
+"Dex."
+
+"I see it on your helmet cam. Max, get out of there."
+
+"I'm going in."
+
+"Max--"
+
+"I'm going in."
+
+He stepped through the door.
+
+                               * * *
+
+The interior of the ship was dark, cold, and alive.
+
+Not alive in the biological sense -- there were no organisms, no slime,
+no space barnacles or alien fungi clinging to the walls. Alive in the
+mechanical sense. The ship's systems were running. Coretti could see it
+in the faint glow that emanated from panels set into the walls at
+irregular intervals -- a pale blue-green light that pulsed with a slow,
+rhythmic cadence, like a heartbeat. The air -- if there was air; his
+suit's sensors detected a thin atmosphere of nitrogen and trace gases,
+breathable in theory but cold enough to freeze his lungs -- carried a
+faint hum, a vibration more felt than heard, as if the ship's
+machinery was idling.
+
+The corridor was narrow by human standards, perhaps a meter and a half
+wide, with low ceilings that forced Coretti to duck in his bulky EVA
+suit. The walls were smooth and featureless, the same mirror-dark
+material as the exterior hull, and they curved slightly inward at the
+top, giving the passage the feel of walking through a large vein.
+
+"I'm inside," Coretti reported. "The ship is powered. Low-level
+systems are active. I'm seeing ambient lighting, atmospheric
+containment, and what I think is a gravity field -- I'm feeling weight,
+and it's not my boots."
+
+"Max, a powered alien warship is not salvage. A powered alien warship
+is a contact situation. You need to leave and we need to call the
+Confederation."
+
+"I'll call the Confederation after I've filed salvage rights."
+
+"You can't file salvage rights on something that's still running!"
+
+"Watch me."
+
+He moved deeper into the ship. The corridor branched, and he took the
+left fork, following the strongest concentration of the blue-green
+light. The pulsing grew more pronounced as he advanced, and the
+vibration in the walls intensified, and Coretti had the unmistakable
+feeling of something waking up.
+
+He emerged into a larger chamber -- a command center, maybe, or a
+navigation room. The space was roughly circular, about fifteen meters
+in diameter, with a low domed ceiling covered in the pulsing light
+panels. In the center of the room stood a structure that Coretti
+recognized, in the way that you recognize a chair even when it is
+designed for a body that is not shaped like yours: a console. A
+control station. A place where someone -- something -- sat and
+directed the ship.
+
+The console was dark. Whatever systems were running in the ship, the
+command station was not among them.
+
+But the walls were.
+
+As Coretti entered the chamber, the light panels flared -- not
+dramatically, not threateningly, but with the slow brightening of a
+room adjusting to a new occupant. The blue-green glow intensified, and
+patterns began to form on the walls: lines, curves, symbols that
+Coretti could not read but that he recognized, instinctively, as
+information. Maps, maybe. Diagrams. Instructions.
+
+"Dex, are you recording this?"
+
+"Every second. Max, the EM readings from the large vessels just
+spiked. Whatever you're doing in there, the rest of the fleet is
+responding."
+
+Coretti felt the hair on the back of his neck stand up -- a difficult
+trick inside an EVA suit, but his body managed it anyway. The rest of
+the fleet was responding. He was standing inside a small escort vessel,
+poking around its command center, and the capital ships were waking
+up.
+
+He looked at the patterns on the walls. They were changing, flowing
+from one configuration to another with increasing speed, and something
+about their movement pattern made Coretti think -- irrationally,
+instinctively, with the gut feeling that had kept him alive through
+fifteen years of salvage work in places where gut feelings were often
+the only warning you got -- that the ship was not just responding to
+his presence.
+
+It was assessing him.
+
+"Dex, how fast can you have the _Barracuda_ at the airlock?"
+
+"Two minutes."
+
+"Make it one."
+
+Coretti turned and moved back toward the corridor. Behind him, the
+light panels in the command chamber were now fully illuminated, and
+the hum had become a tone -- a low, resonant note that vibrated in
+his chest and made his teeth ache. The symbols on the walls were racing
+now, flowing like water, and from somewhere deep in the ship -- from
+below him, from the engineering spaces he had not explored -- he felt a
+new vibration. Heavier. More purposeful.
+
+Engines. The ship's engines were coming online.
+
+He reached the corridor and ran -- or tried to run, because running in
+a deep-ocean EVA suit was like running in a suit of armor filled with
+molasses. He lurched and stomped and swore his way back to the hull
+door, which was still open, thank God, and threw himself through it
+into the black water of Europa's ocean.
+
+Behind him, the door closed. Smoothly, silently, as if it had never
+been open.
+
+"_Barracuda_, I'm out! Get me in!"
+
+The submersible materialized out of the murk, its floodlights blazing,
+and Coretti grabbed the airlock rail and hauled himself inside with all
+the grace of a man falling up a flight of stairs. Dex sealed the lock
+and hit the thrusters, and the _Barracuda_ lurched away from the alien
+vessel.
+
+Coretti pulled off his helmet and looked at the sonar display. The
+fleet was lighting up. Not all of it -- not yet -- but the EM
+signatures from the large vessels had tripled in intensity, and the
+smaller ships, the escorts, were showing thermal signatures that
+had not been there ten minutes ago. The ship he had entered was now
+radiating heat from its stern section -- its engines were warming up.
+
+Fourteen capital ships. Thirty escorts. An alien fleet, buried in ice
+at the bottom of Europa's ocean for God knew how many millennia, and
+Max Coretti had walked in and turned on the lights.
+
+"Salvage rights," Dex said flatly. "You were going to file salvage
+rights."
+
+Coretti stared at the sonar display. The fleet was waking up. The
+largest vessel -- five hundred meters of dark, smooth hull, bigger
+than anything humanity had ever built to sail between the stars -- was
+beginning to shift in its ice cradle, its thermal output melting the
+substrate that had held it in place for eons.
+
+"Change of plan," Coretti said.
+
+"You think?"
+
+"Get us to the surface. Fast. We need to call the Confederation."
+
+"I've been saying that for twenty minutes!"
+
+"Yeah, well, I'm a slow learner."
+
+Dex threw the _Barracuda_ into a full-power ascent. The submersible
+shuddered and climbed, its hull groaning under the changing pressure,
+and behind them, on the ocean floor, the sunken fleet stirred.
+
+Coretti lit a cigar and watched the sonar. The fleet was moving now --
+slowly, agonizingly slowly, the way something moves when it has been
+asleep for a very long time and is not yet fully awake. But it was
+moving.
+
+"Dex."
+
+"What?"
+
+"What do you think they were doing down there?"
+
+"Sleeping."
+
+"Sure. But what were they doing before they were sleeping?"
+
+Dex did not answer. He did not need to. The ships were warships. Their
+design, their formation, their armament -- the weapons ports that
+Coretti had noticed on the smaller vessel's hull and chosen not to
+think about -- all pointed to a single purpose. They were built to
+fight. They had come to Europa, or been sent to Europa, or fled to
+Europa, at some point in the distant past. They had sunk to the bottom
+of the ocean and been covered in ice and they had waited.
+
+And now they were waking up.
+
+"How about this," Coretti said. "How about we worry about that later
+and focus on the part where we get to the surface before the alien
+navy decides to form up?"
+
+"Best idea you've had all day."
+
+The _Barracuda_ climbed. Behind them, the darkness stirred. And
+somewhere in the cold, black water at the bottom of Europa's sea,
+something very old and very large opened its eyes.
+
+                            [THE END]
+
+================================================================================
+
+                    FORKING PATHS
+
+                         by Oscar Lennox
+
+================================================================================
+
+                               I.
+
+The device was housed in a room with no windows, which struck Dr.
+Julian Cross as appropriate. Windows implied a relationship with the
+outside world -- a fixed perspective, a single vantage point from which
+reality could be observed. The device, by its nature, dissolved all
+fixed perspectives. It made windows irrelevant.
+
+He had been given access to it on a Tuesday in November, after three
+years of applications, security clearances, and interviews with men in
+gray suits who asked the same questions in different order and recorded
+his answers with the meticulous dispassion of bureaucrats cataloging
+something they did not understand. The Project -- it had no other name,
+at least none that anyone used in his presence -- was classified at a
+level that existed, as far as Cross could determine, specifically to
+classify this and nothing else. The security apparatus surrounding it
+was baroque, redundant, and, he suspected, largely performative.
+
+The real security was simpler: the device was difficult to explain, and
+what could not be explained could not be leaked.
+
+Cross was a historian. He was fifty-one years old, a professor of
+Modern European History at Columbia University, the author of six books
+on the political origins of the First World War, and a man who had
+spent his entire career asking a question that history, by its nature,
+could not answer: What would have happened if things had gone
+differently?
+
+The device could answer it.
+
+He understood the physics only in the most general terms. Something
+about quantum decoherence and the branching structure of the wave
+function -- the many-worlds interpretation made literal, made
+technological, made into a machine that could, for want of a better
+metaphor, tune into the radio stations of parallel reality. The
+physicists who had built it described its output as "observational
+data from adjacent probability manifolds," which Cross translated,
+in the privacy of his own mind, as: the device lets you see what
+happened in the worlds where things went the other way.
+
+The room was underground, beneath a building on a military base that
+Cross had been driven to blindfolded -- another piece of performative
+security that he had endured with the patience of a man who has spent
+three years filling out forms. The device itself was unimpressive: a
+cabinet of electronic equipment, roughly the size of an upright piano,
+connected by cables to a display screen that looked like an ordinary
+television set. A swivel chair had been placed before the screen, and
+a console with a single dial and a row of switches sat on a small table
+beside it.
+
+Dr. Evelyn Rhodes, the project physicist assigned to supervise his
+sessions, was a compact, efficient woman in her forties who wore her
+hair in a severe bun and spoke in the clipped cadences of someone
+who has explained a complex thing too many times.
+
+"The dial selects the divergence point," she said. "You specify a
+historical moment -- a decision, an event, a turning point -- and the
+device locates the nearest probability manifold in which that moment
+resolved differently. The screen displays the outcome. You can observe
+approximately six hours of elapsed time per session, at variable rates
+of compression."
+
+"Six hours of history?"
+
+"Six hours of observational time. The history you observe may span
+minutes or centuries, depending on the rate of compression you select.
+Think of it as watching a film. You can watch at normal speed, or you
+can fast-forward."
+
+"What determines which alternate timeline I see? If the Battle of
+Gettysburg goes differently, there must be millions of possible
+variations."
+
+"Trillions," Rhodes corrected. "The device selects the nearest
+adjacent manifold -- the timeline that diverges from ours at the
+specified point with the minimum quantum distance. In practical terms,
+it shows you the most probable alternative."
+
+"The most probable."
+
+"Yes. Not the most dramatic or the most interesting. The most probable.
+The timeline that deviates least from our own while still incorporating
+the specified divergence."
+
+Cross sat in the swivel chair and looked at the blank screen. "What if
+I want to see a less probable alternative?"
+
+"You adjust the dial. Clockwise increases the quantum distance --
+further from our timeline, less probable alternatives. But I should
+warn you: the further you go from our timeline, the less meaningful the
+observations become. At extreme quantum distances, the divergences
+compound to the point where the alternate reality bears no recognizable
+relationship to our own. We call it 'going deep.' The researchers who
+went deep in the early trials found it... disorienting."
+
+"Disorienting how?"
+
+Rhodes paused, and Cross saw something cross her face -- not fear,
+exactly, but a wariness that suggested she was choosing her words with
+care. "The human mind is adapted to a single timeline. We process
+reality as a sequence of events, each one following inevitably from the
+last. The device shows you that nothing is inevitable. That every
+moment is a branching point. That the life you are living is one of an
+uncountable number of lives you could be living, and that there is
+nothing -- no law of physics, no principle of history, no act of God --
+that makes your timeline more real or more valid than any other."
+
+She looked at him. "Some people find that liberating. Some people find
+it unbearable. The early researchers called it 'the vertigo.'"
+
+"The vertigo of infinite possibility."
+
+"Yes."
+
+"I'll manage," Cross said. "I've spent my career imagining alternate
+timelines. I've just never been able to see them."
+
+"Imagining is different from seeing," Rhodes said. "You'll understand
+that soon enough."
+
+                               II.
+
+He began with Sarajevo.
+
+It was the obvious choice -- the event that had defined his career, the
+moment that had launched the catastrophe of the twentieth century.
+June 28, 1914. Archduke Franz Ferdinand's motorcade in Sarajevo. The
+wrong turn. The sandwich shop. Gavrilo Princip. Two shots.
+
+Cross specified the divergence point: Princip does not fire. The
+driver does not take the wrong turn. The Archduke's car proceeds along
+the original route, and the assassin, waiting on the wrong street, sees
+nothing. The motorcade passes. Franz Ferdinand lives.
+
+He turned the dial to the nearest adjacent manifold and pressed the
+activation switch.
+
+The screen flickered. Static, briefly -- then an image resolved, and
+Cross leaned forward in his chair.
+
+He was looking at a street in Sarajevo. The same street, the same
+buildings, the same June sunlight falling on the same cobblestones. A
+motorcade was passing -- open cars, military escorts, flags. In the
+second car, a tall man in a plumed hat sat beside a woman in white.
+Franz Ferdinand and Sophie, Duchess of Hohenberg. Alive. Passing
+through Sarajevo without incident, waving to the crowds, continuing
+their tour of Bosnia.
+
+Cross felt his breath catch. He had spent twenty-three years studying
+the consequences of this man's death, and here he was, alive, on a
+screen, in a timeline where the shot was never fired.
+
+He pressed the compression control and watched the weeks unspool.
+Franz Ferdinand returned to Vienna. The crisis over the assassination
+attempt -- there had still been an attempt, by another conspirator
+earlier in the day -- produced diplomatic tensions but no ultimatum.
+Austria-Hungary did not declare war on Serbia. Russia did not mobilize.
+Germany did not activate the Schlieffen Plan. France was not invaded.
+Belgium was not violated. Britain did not enter the war.
+
+There was no war.
+
+Cross watched a year pass in compressed time, then two, then five.
+Europe without the Great War was recognizable but different -- the
+empires endured, the old order persisted, the revolutions that had
+been born in the trenches did not occur. Russia did not fall to the
+Bolsheviks. Germany did not collapse into hyperinflation and resentment.
+The social upheavals that had reshaped the world -- women's suffrage,
+the fall of aristocracy, the birth of modern mass politics -- happened
+differently, more slowly, in different forms.
+
+He watched a decade. Two decades. Three. By the 1940s, the divergence
+was profound. A Europe of aging empires, still ruled by monarchs and
+aristocrats, technologically advanced but politically stagnant. No
+Hitler -- without the trauma of the war and the humiliation of
+Versailles, the conditions that had produced fascism did not exist.
+No Stalin -- without the revolution, Russia remained a constitutional
+monarchy under the Romanovs, reformed but recognizable. No Second
+World War. No Holocaust. No atomic bomb.
+
+Cross stared at the screen. A world without the trenches. A world
+without the camps. A world without Hiroshima. Hundreds of millions of
+people who had died in his timeline, alive in this one.
+
+He reached for the notepad he had brought and found that his hand was
+trembling.
+
+                               * * *
+
+He spent the rest of his first session watching the no-war timeline
+unfold through the twentieth century. It was, by almost every
+measurable standard, a better world. Not a paradise -- there were
+conflicts, injustices, famines, epidemics. The empires suppressed
+colonial independence movements with varying degrees of brutality. The
+technological development that had been accelerated by two world wars
+was slower in this timeline -- no jet engines, no radar, no computers
+by mid-century. But the sheer absence of catastrophic violence made
+the comparison stark.
+
+By the end of the session -- six hours of observational time,
+compressed to cover nearly a century -- Cross was exhausted, exhilarated,
+and haunted. He had seen a world that was better than his own. Not
+dramatically, not utopically, but measurably, undeniably better. Fewer
+dead. Less suffering. More continuity. A world where the twentieth
+century was not defined by the mass production of death.
+
+And all it had taken was a driver who did not take a wrong turn on a
+street in Sarajevo.
+
+He walked out of the underground room and into the November air and
+stood for a long time, looking up at a sky that seemed, somehow, less
+fixed than it had that morning.
+
+                               III.
+
+He returned the next day, and the next, and the next. The Project
+allowed him three sessions per week, each six hours long, and Cross
+used every minute.
+
+He explored the American Civil War: a timeline where the Battle of
+Antietam was a decisive Confederate victory, leading to British and
+French recognition of the Confederacy and a negotiated peace. Two
+Americas, side by side, one slave and one free. The consequences were
+appalling. He watched the slave-holding nation persist into the
+twentieth century, its economy industrializing around forced labor,
+its ideology hardening into something that made the Jim Crow South
+look moderate. He stopped watching after three sessions.
+
+He explored the Reformation: a timeline where Martin Luther died of
+plague in 1517 before posting his theses. Catholic Europe endured,
+unified and powerful, but the absence of the Reformation's intellectual
+disruption produced a continent that was more stable and more stagnant.
+The Enlightenment, when it came, was different -- more gradual, more
+accommodated by the Church, less revolutionary. By the twentieth
+century, this timeline was behind his own in political liberalism but
+ahead in artistic achievement. The calculus of comparison was maddeningly
+complex.
+
+He explored the fall of Constantinople, the Spanish Armada, the
+French Revolution, the invention of the printing press. Each
+divergence point opened a new timeline, and each timeline was a world
+complete in itself -- populated by billions of people who had lived
+and died and loved and suffered in a reality that was, from their
+perspective, the only one that existed.
+
+And each time, Cross found himself performing the same calculation:
+which world was better? Which timeline produced more human flourishing,
+less human suffering? Was there a best timeline -- an optimal sequence
+of historical events that, if only the right decisions had been made at
+the right moments, would have produced the best of all possible worlds?
+
+The question consumed him.
+
+                               * * *
+
+By the third week, he had developed a methodology. He created a
+scoring system -- a set of metrics by which he could evaluate and
+compare timelines. Population. Life expectancy. Literacy. Political
+freedom (measured, imperfectly, by a rubric he had adapted from his
+own scholarship). Technological development. Artistic output. The
+metrics were crude, and Cross knew they were crude, but they gave him
+a framework for comparison, and comparison was the thing he could not
+stop doing.
+
+He filled notebook after notebook with his evaluations. Timeline 1A
+(no Sarajevo assassination): overall score 847 out of a possible 1,000.
+Timeline 2C (Confederate victory at Antietam): 412. Timeline 3B
+(Luther dies young): 731. Timeline 5A (Napoleon wins at Waterloo): 623.
+Timeline 7D (Rome does not fall): 788.
+
+He graphed them. He plotted the scores against the divergence points,
+looking for patterns. Which types of changes produced the largest
+improvements? Which historical events, if altered, had the greatest
+positive impact on human welfare?
+
+The patterns emerged slowly, but they emerged. The most important
+divergence points were not the ones he had expected. The assassination
+of an archduke or the outcome of a battle mattered less, in aggregate,
+than the invention of a technology or the survival of a particular
+institution. The timelines where the Library of Alexandria was not
+destroyed scored consistently higher than those where it was, regardless
+of other variations. The timelines where smallpox vaccination was
+developed a century early were dramatically better across every metric.
+The timelines where the printing press was invented in China in the
+eighth century instead of Germany in the fifteenth were -- surprisingly
+-- not consistently better, because the earlier spread of information
+also meant the earlier spread of certain destructive ideologies.
+
+History, Cross was discovering, was not a story with better and worse
+versions. It was a system of such staggering complexity that the
+relationship between cause and effect was, at sufficient scale,
+essentially chaotic. A change that improved one metric degraded another.
+A divergence that prevented one catastrophe enabled a different one. The
+best timelines were not the ones where the right things happened; they
+were the ones where the wrong things happened in the right order, where
+catastrophes were spaced far enough apart for recovery, where the
+random clustering of good and bad events happened to fall in a pattern
+that allowed, by sheer combinatorial luck, slightly more flourishing
+than suffering.
+
+There was no best timeline. There was no optimal path. There was only
+the vast, branching, incomprehensible forest of possibility, and every
+path through it was lit and shadowed in roughly equal measure.
+
+Cross knew this. He wrote it in his notebooks. He underlined it,
+circled it, drew arrows pointing to it. He knew it the way a
+mathematician knows a proof: as an established fact, derived from
+evidence, resistant to refutation.
+
+And still he could not stop looking.
+
+                               IV.
+
+Rhodes noticed the change in him before he noticed it himself.
+
+"You're spending too much time in there," she said. It was the sixth
+week. Cross had increased his sessions to the maximum allowed -- three
+per week, six hours each -- and he was arriving early and leaving late,
+sitting in the underground room with his notebooks, reviewing his
+observations, refining his scoring system, searching.
+
+"I'm doing research," he said.
+
+"You're doing something. I've supervised eleven researchers on this
+project, Dr. Cross. I know what the early stages look like. Excitement,
+curiosity, systematic exploration. I also know what the later stages
+look like."
+
+"And what do the later stages look like?"
+
+"Obsession. The conviction that there is a best timeline. The
+compulsion to find it. The researchers who go down that path always
+end up in the same place."
+
+"Where?"
+
+Rhodes looked at him with the flat, careful expression of a scientist
+delivering bad news. "Staring at their own lives."
+
+Cross did not respond. He did not respond because Rhodes was right,
+and he had not yet admitted it to himself, and the admission, when it
+came, arrived with the force of something that had been true for a long
+time but had been hiding in the margins of his awareness, waiting to
+be acknowledged.
+
+He had been looking at history. He had been looking at Sarajevo and
+Antietam and the Library of Alexandria. But what he had really been
+looking for, beneath all the grand historical divergences, was the
+divergence point in his own life. The moment when things could have
+gone differently. The decision he had made -- or not made -- that had
+led to the life he was living instead of the life he could have been
+living.
+
+He had been looking for the timeline where he had not lost Catherine.
+
+                               * * *
+
+Catherine Bell Cross. His wife. His former wife. They had married in
+1931, when he was twenty-eight and she was twenty-five, and they had
+been happy in the way that two intelligent, stubborn, passionate people
+are happy: intensely, argumentatively, with a force that was as
+exhausting as it was sustaining. She was a novelist. He was a historian.
+They had fought about everything -- politics, dinner, the arrangement
+of books on shelves -- and they had loved each other with the same
+ferocity with which they argued.
+
+They had divorced in 1942. The reasons were complex, as the reasons for
+a divorce always are, but Cross had reduced them, over the years of
+retrospective analysis that divorced people inflict upon themselves, to
+a single moment. A single decision. A single divergence point.
+
+In September 1941, he had been offered a position at a university in
+London. It was a prestigious appointment -- a chair in modern history,
+with a generous research budget and the opportunity to work with the
+British archives that were essential to his scholarship. Catherine had
+wanted to go. She had wanted to go to London, to live in a different
+city, to write her novels in a new landscape. She had wanted to go, and
+he had said no.
+
+He had said no because America was about to enter the war, and London
+was being bombed, and he had a perfectly good position at Columbia, and
+the move would have been impractical, inconvenient, and dangerous.
+These were rational reasons. They were good reasons. They were the
+reasons he had given Catherine, and they were true.
+
+But they were not the real reason. The real reason was simpler and less
+admirable: he was afraid. Afraid of the change, afraid of the
+uncertainty, afraid of losing the life he had built -- the routines,
+the colleagues, the familiar streets of Morningside Heights -- for
+something that was unknown and therefore threatening. He had chosen
+safety over possibility, and Catherine, who had spent her life
+choosing possibility over safety, had looked at him and seen something
+she could not love: a man whose fear was stronger than his desire.
+
+She left him three months later. She moved to London alone, and she
+wrote her best novel there, and she married a British journalist, and
+Cross had spent the next decade pretending that the divorce was mutual
+and the next decade after that admitting that it was not.
+
+He sat in the underground room and he looked at the device and he
+thought about September 1941, and he knew what he was going to do.
+
+                               V.
+
+He specified the divergence point: September 1941. Julian Cross accepts
+the London position. He and Catherine move to England.
+
+The screen flickered. Static. Then an image: a flat in Bloomsbury,
+books on every surface, a typewriter by the window. Catherine at the
+typewriter, her dark hair pinned up, her fingers moving. Cross standing
+behind her, reading over her shoulder, smiling.
+
+They were happy.
+
+Cross watched the timeline unfold with the meticulous attention of a
+historian and the anguished attention of a man watching the life he
+had failed to live. In this timeline, they survived the war together --
+the bombing was terrifying, but the shared danger drew them closer
+instead of driving them apart. He published his first book in London,
+to strong reviews. She published her novel -- the same novel she had
+written in his timeline, or nearly the same -- and it was received even
+better, because in this timeline she was happier, and the happiness
+made her work braver.
+
+They had a child. A daughter. Born in 1944, named Eleanor, after
+Catherine's mother. Cross watched the girl grow in compressed time --
+an infant, a toddler, a child with Catherine's dark hair and his own
+serious eyes. The family moved to a larger flat in Hampstead. They
+traveled. They fought -- still fought, because they were still
+themselves -- but the fights resolved into reconciliation instead of
+resentment, because in this timeline the fundamental trust between
+them had not been broken.
+
+Cross watched himself age. The other Cross -- the Cross who had said
+yes instead of no -- grew older in the screen with the serene assurance
+of a man who had taken the risk and been rewarded. He was the same man
+and a different man. The same intelligence, the same stubborn
+dedication to his work, but with something added -- a warmth, an
+openness, that Cross recognized as the quality that Catherine had
+always wanted him to have and that he had always been too frightened to
+develop.
+
+He watched until the six hours were exhausted, and then he sat in the
+dark room and cried.
+
+                               * * *
+
+He came back the next session and watched more. He watched the
+alternate Cross raise his daughter. He watched the alternate Catherine
+write four more novels, each one better than the last. He watched the
+alternate family vacation in the south of France, celebrate Christmas
+in the Hampstead flat, argue about politics at the dinner table while
+Eleanor rolled her eyes with the long-suffering patience of a teenager
+whose parents were intellectuals.
+
+He watched the alternate Cross receive an honor from the British
+Academy. He watched the alternate Catherine die, at sixty-seven, of the
+same cancer that had killed her in his timeline -- some things, it
+seemed, were invariant across probability manifolds. He watched the
+alternate Cross grieve, supported by his daughter and his grandchildren
+and the accumulated wealth of a life fully lived.
+
+He watched, and he scored. The alternate timeline was better. Not by
+every metric -- his academic output was lower in the London timeline,
+his scholarly influence somewhat diminished by his distance from the
+American academic establishment. But by the metrics that mattered --
+happiness, connection, the depth and richness of a human life -- the
+alternate timeline was overwhelmingly, crushingly, undeniably better.
+
+And all it had taken was saying yes instead of no on a September
+afternoon in 1941.
+
+                               VI.
+
+Rhodes found him in the room at the end of his eighth week, sitting in
+the dark, the screen blank, his notebooks open on his lap.
+
+"You looked at your own life," she said. It was not a question.
+
+"Yes."
+
+"And you found a better version."
+
+"Yes."
+
+She sat down in the chair beside him. "They all do. Every researcher.
+Every single one. They come in to study history, and they end up
+studying themselves, and they find a timeline where they were happier.
+It's not a coincidence. The branching structure of reality guarantees
+it. For every life, there are adjacent lives that went better. The
+device shows you the nearest one. And the nearest better life is always
+close -- always just one decision away, one small change, one moment
+of courage or honesty or luck that you didn't have in this timeline but
+did have in another."
+
+"That's the vertigo," Cross said.
+
+"That's the vertigo. The realization that your life -- the one you're
+actually living -- is not the best version of your life. That there is
+a version of you, as real as you are, who made a different choice at a
+critical moment and was rewarded for it. And that you cannot reach that
+timeline. You can see it, but you cannot enter it. You are trapped in
+the life you chose, and the device shows you, in perfect detail, the
+life you did not."
+
+Cross looked at his notebooks. Pages and pages of scores, metrics,
+evaluations. The careful, systematic assessment of which timeline was
+best, applied to the grandest events in human history and, finally,
+inevitably, to the smallest event in his own: a decision about a job
+offer, made in an apartment in Morningside Heights, thirteen years ago.
+
+"Is there a cure?" he asked. He meant it as a joke, but it came out
+sincere.
+
+"Yes," Rhodes said. "Stop looking."
+
+"I can't."
+
+"I know."
+
+They sat in the dark, and Cross thought about the branching garden of
+possibility that extended from every moment of every life, and he
+thought about the version of himself who had said yes, and he thought
+about the daughter he had never had, and he wondered whether, in some
+adjacent probability manifold, there was a version of this moment --
+this exact moment, in this underground room, in this dark -- where he
+found the strength to stand up and walk away from the machine and go
+back to the life he had, imperfect and singular and his.
+
+He wondered. But he did not move.
+
+And the branching paths extended outward, and outward, and outward,
+and each one was real, and each one was lived, and in the garden of
+forking paths there was no gardener, no plan, no best route through
+the maze -- only the paths themselves, diverging and converging and
+diverging again, forever, into a complexity that no device could fully
+display and no human mind could fully comprehend.
+
+Julian Cross sat in his chair, and he did not move, and the screen
+waited, blank and patient, for him to choose what to look at next.
+
+He already knew what it would be.
+
+It would be September 1941, again. The same moment, the same decision,
+the same woman at the door with her suitcase, asking him to come.
+
+He would watch himself say yes. Again. And again. And again.
+
+Because the device could show him every path, every possibility, every
+version of his life that might have been -- but it could not give him
+the one thing he wanted, which was not information but absolution. Not
+the knowledge of what he should have done, but the forgiveness for
+what he did.
+
+And that, Cross understood, was not a function the machine could
+perform.
+
+That was a human problem, requiring a human solution, available in
+every timeline, including this one.
+
+He reached for the dial.
+
+He paused.
+
+He sat in the dark, and the garden forked around him, and he was still.
+
+                            [THE END]
+
+================================================================================
+
+                        SANDCASTLE EMPIRES
+
+                        by Theodore Cain
+
+================================================================================
+
+The trick was to start building the moment the light changed.
+
+Mira knew this better than anyone on the strip. She was twelve years
+old, small for her age, with quick hands and dark eyes that watched the
+sky the way a sailor watches the horizon -- not for beauty, but for
+information. On Thessaly, information about the sky was the difference
+between finishing your castle and watching it melt.
+
+Thessaly was a tidally locked world, which meant that one side always
+faced its star and the other side always faced the dark. The dayside was
+a furnace -- temperatures that could soften metal, winds that could
+strip paint off a hull. The nightside was a freezer -- so cold that
+the atmosphere itself condensed into frost on the rocks. Between the
+two was the terminator: a strip of land, roughly two hundred kilometers
+wide, where the temperature was bearable and the light was permanent
+twilight. Everyone on Thessaly lived on the terminator. There was
+nowhere else to live.
+
+The settlement was called Haven, and it was a modest place: three
+hundred souls, mostly miners and support personnel for the chromium
+extraction operation that was Thessaly's reason for existing. The
+buildings were prefabricated modules, bolted to the rock, with thermal
+shielding on the dayside walls and insulation on the nightside walls.
+The streets -- if you could call them streets -- ran parallel to the
+terminator, east to west, so that you could walk from one end of town
+to the other without crossing into the zones where the temperature
+would kill you.
+
+And at the western edge of Haven, where the twilight deepened toward
+the nightside and the ground was covered in a fine, crystalline sand
+that the wind deposited in drifts and ridges, the children built their
+castles.
+
+The sand was special. It was not sand in the terrestrial sense -- not
+weathered rock, not silica. It was condensate: atmospheric compounds
+that had precipitated out of the air at the terminator's temperature
+gradient, forming tiny, regular crystals that packed together like
+grains of sugar. When you wet it -- and you could wet it, because
+there was moisture in the twilight air, drawn from the dayside by
+convection -- it became malleable, sculpt-able, almost claylike in its
+responsiveness. You could shape it into walls, towers, arches, domes.
+You could carve it with your fingernails. You could build structures
+of startling delicacy and complexity.
+
+But the sand had a flaw, and the flaw was what made the building both
+urgent and heartbreaking. The crystals were metastable. They held their
+shape for exactly as long as the temperature held steady -- roughly
+four hours, during the period that the children called "the window,"
+when the thermal gradient was at its most stable and the sand crystals
+maintained their structure. Before the window, the sand was too warm
+and too soft. After the window, the temperature shifted by a fraction
+of a degree, the crystal lattice destabilized, and everything you had
+built collapsed into powder.
+
+Four hours. That was what you had. Four hours to build a city, a
+fortress, a cathedral, a world. And then it was gone.
+
+                               * * *
+
+Mira had been building since she was seven. Her mother, Consuela, was
+a mining engineer who worked twelve-hour shifts at the chromium
+extraction site. Her father was not discussed. Mira spent her days in
+the settlement's one-room school and her evenings on the sand strip,
+where the children gathered during the window to build.
+
+She was the best builder in Haven. Everyone knew it. The other children
+were good -- some of them very good, capable of constructing castles
+with moats and battlements and towers that reached a meter high before
+the window closed. But Mira's castles were different. Mira's castles
+were not just structures. They were cities.
+
+She built them in miniature, with streets and plazas and parks and
+buildings that had doors and windows and, if you looked closely, tiny
+furnishings inside. She built aqueducts that carried real water from
+the condensation pools. She built bridges that spanned the gaps between
+dunes. She built walls with crenellations and gates that opened and
+closed on hinges made of crystallized sand so fine they were almost
+invisible.
+
+The other children gathered around her constructions and stared. Even
+the adults, walking past on their way to the evening shift, would
+stop and look. There was something about Mira's cities that was more
+than craftsmanship. They had a quality -- a rightness, a coherence --
+that made them feel not like models of imaginary places but like scale
+reproductions of places that actually existed, somewhere, in some world
+that Mira could see and the rest of them could not.
+
+"Where do you get the designs?" her friend Tomás asked her one evening,
+crouching beside a particularly elaborate construction -- a walled
+city with a central tower, built on a sand ridge overlooking the
+nightside. The city had taken Mira three hours and forty minutes of
+the four-hour window, and it was the most complex thing she had ever
+built.
+
+Mira shrugged. "I see them."
+
+"See them where?"
+
+"In my head. I see the city, and then I build it."
+
+"But where does the city come from? Do you plan it out beforehand?"
+
+Mira shook her head. "It just comes. When I start building, I know
+what goes where. Like I'm remembering it instead of inventing it."
+
+Tomás looked at the city. Its streets radiated from the central tower
+in a spiral pattern, and the buildings along each street grew smaller
+as they approached the outer wall, creating a perspective effect that
+made the city look larger than it was. Small figures -- human figures,
+or something like them -- stood in the plazas and sat on the benches
+and walked along the tiny streets. Mira had shaped them from damp sand
+with her fingertips, each one no larger than a grain of rice.
+
+"It looks real," Tomás said.
+
+"It is real," Mira said. "For now."
+
+They both looked at the sky. The window was closing. In twenty minutes,
+the temperature would shift, and the city would crumble.
+
+                               * * *
+
+The first time the castle predicted something, Mira did not recognize
+it as prediction.
+
+She was nine years old, building on the sand strip during a window
+that was unusually long -- four hours and twenty minutes, which
+happened sometimes when the atmospheric circulation patterns aligned.
+She built a mining complex: tunnels, processing buildings, a rail line
+that carried imaginary ore from the tunnels to a loading dock. It was
+a good construction, detailed and functional-looking, and she was
+proud of it.
+
+Three days later, the real mining complex experienced a tunnel collapse.
+Section Seven, the newest tunnel, caved in during a routine extraction
+shift. No one was killed -- the safety protocols worked as designed --
+but the tunnel was destroyed, and the processing schedule was disrupted
+for two weeks.
+
+Mira did not think about the connection. Why would she? Children built
+sandcastles. Mining complexes had tunnel collapses. There was no
+relationship between these things.
+
+The second time, she noticed.
+
+She was ten. She built a city with a central plaza dominated by a
+fountain -- an ambitious construction, the fountain, requiring a small
+reservoir of condensation water and channels carved with painstaking
+precision. The fountain worked for about twenty minutes, a thin stream
+of water arching from a tiny nozzle and falling into a basin that Mira
+had shaped like a bowl. Then the sand at the fountain's base eroded,
+the structure tilted, and the water spilled out across the plaza,
+flooding the surrounding streets and dissolving the buildings closest
+to the center.
+
+The next week, a pipe burst in Haven's central water recycling plant.
+The resulting flood damaged the settlement's main storage depot and
+four residential modules. Fourteen families had to be relocated
+while repairs were made.
+
+Mira stared at the damage report, posted on the school's notice board,
+and felt something cold move through her chest. The damage pattern --
+the buildings closest to the center, the outward spread, the specific
+sequence of structures affected -- was identical to what had happened
+to her sandcastle when the fountain collapsed.
+
+Identical.
+
+She told no one. What would she say? My sandcastle predicted a pipe
+burst? She was ten. She knew how that would sound.
+
+But she started paying attention.
+
+                               * * *
+
+Over the next two years, Mira tracked the correlations with the
+careful, silent attention of a child who has discovered something that
+adults would not believe. She built her cities during the window, and
+she watched what happened to them -- not just the grand collapse at the
+end, when the temperature shifted and everything fell, but the small
+events during the construction. A wall that cracked. A tower that
+leaned. A street that subsided. An arch that held longer than it should
+have.
+
+And then she watched Haven.
+
+The correlations were not exact. They were not one-to-one. A cracked
+wall in a sandcastle did not always correspond to a cracked wall in the
+settlement. But the patterns were there, if you knew how to look. A
+structural failure in the sandcastle's western quarter preceded a
+structural failure in Haven's western quarter. A successful aqueduct in
+the model preceded a successful repair to the settlement's water
+system. A tower that stood unusually long predicted a stretch of
+stable weather.
+
+The sand, Mira began to understand, was not just a building material.
+It was a medium. The crystals that formed at the terminator's
+temperature gradient were sensitive to forces that she could not name
+and did not understand -- forces that influenced the way the sand
+packed, the way the structures held, the way the tiny, metastable
+crystal lattice responded to the pressure of her hands. The sand was
+recording something. The structures she built from it were not
+inventions. They were transcriptions.
+
+She was not building the future. She was reading it.
+
+                               * * *
+
+The day she built the disaster was the day everything changed.
+
+She was twelve. The window opened at its usual time, and Mira went to
+the sand strip with her tools -- a flat stick for shaping walls, a
+thin wire for carving windows, a small bottle of condensation water
+for wetting the sand. She knelt at her usual spot, at the base of the
+largest dune, and began to build.
+
+The city came fast. Faster than usual, as if the design was urgent,
+demanding to be realized. Her hands moved with a precision that felt
+automatic, as if someone else was guiding them. Walls rose. Streets
+formed. Buildings took shape with a speed and complexity that startled
+her.
+
+But the city was wrong.
+
+Not wrong in its construction -- the construction was flawless,
+the most technically accomplished thing she had ever built. Wrong
+in its content. The city she was building was Haven -- recognizably,
+unmistakably Haven. The same layout, the same building positions,
+the same streets running east to west along the terminator. She could
+identify specific structures: the school, the medical module, her
+mother's residential block, the mining administration building.
+
+And in the city's eastern quarter, where the chromium extraction
+complex met the settlement's thermal shielding, there was a crack.
+
+Not a small crack. A fracture that ran from the base of the shielding
+wall through the foundation of the processing plant and into the
+rock beneath. A crack that, in the sandcastle, would cause the
+eastern quarter to collapse inward, taking the processing plant and
+the residential modules behind it.
+
+Mira stared at it. Her hands were trembling. She had not decided to
+build this. She had not planned it. The sand had shaped itself under
+her fingers, and what it had shaped was a warning.
+
+She looked at the sky. Ninety minutes of the window remained. In
+ninety minutes, the sandcastle would collapse, and the prediction
+would be sealed. But the event it predicted -- the real event, the
+one that would happen in Haven -- might not occur for days. Or it
+might occur tomorrow.
+
+She stood up and ran.
+
+                               * * *
+
+Her mother was on shift. Mira went to the mining administration
+building and found the duty supervisor, a man named Kowalski who had
+a gray mustache and a permanent squint from twenty years of working
+in the twilight.
+
+"I need to talk to you about the eastern thermal shielding," Mira
+said.
+
+Kowalski looked at her. She was twelve. She was covered in sand. She
+was breathing hard from running.
+
+"The thermal shielding," he repeated.
+
+"There's a fracture. In the foundation. Where the shielding meets the
+processing plant foundation. It runs into the bedrock."
+
+"How do you know this?"
+
+Mira hesitated. She could not tell him about the sandcastle. She could
+not explain that she had read the future in a construction made of
+crystallized atmospheric condensate on a sand strip at the edge of
+town. She was twelve. She knew how that would sound.
+
+"I saw it," she said. "I was walking near the eastern quarter and I
+saw a crack in the shielding base."
+
+Kowalski frowned. "The thermal shielding is inspected every six months.
+Last inspection was two months ago. No fractures reported."
+
+"It's there. Please. Just look."
+
+Something in her voice -- the urgency, the conviction, the absolute
+certainty that only a child can project because a child has not yet
+learned to doubt her own perceptions -- made Kowalski pause. He looked
+at her for a long moment, and then he picked up his comm unit and
+called the maintenance team.
+
+"Send someone to check the eastern thermal shielding," he said.
+"Foundation level. Look for fractures."
+
+The maintenance team found the crack forty-five minutes later. It was
+exactly where Mira had said it would be: a hairline fracture in the
+foundation of the thermal shielding wall, running diagonally through
+the concrete and into the basalt bedrock beneath. It was not visible
+from the surface. The maintenance crew found it using a subsurface
+scanner, and when they saw the readings, they called Kowalski, and
+Kowalski called the settlement director, and the settlement director
+called an emergency meeting.
+
+The crack was serious. Left unrepaired, it would propagate through
+the foundation over a period of weeks, weakening the thermal shielding
+until it failed. When it failed, the dayside heat would penetrate the
+eastern quarter -- processing plant, residential modules, school. The
+temperatures involved would be lethal.
+
+They evacuated the eastern quarter that night. Repairs took three
+weeks. The settlement director, in her report to the colonial
+authority, credited "an observant young resident" with identifying the
+threat before it became a catastrophe.
+
+Mira's mother hugged her and asked her how she had known. Mira said she
+had been walking and she had seen a crack and she had reported it. This
+was technically true. She had seen a crack. In a sandcastle.
+
+She went back to the sand strip the next evening. The window opened.
+The sand waited, crystalline and patient and full of information that
+Mira did not understand but could not deny.
+
+She knelt, and she built.
+
+                               * * *
+
+The castles continued. Mira built during every window, and she watched
+what the sand told her, and she kept her silence. The predictions were
+not always dramatic -- sometimes the sandcastle showed a minor
+equipment failure, a supply delay, a weather pattern. Sometimes it
+showed nothing at all, and the city she built was beautiful and
+uneventful, and Haven had a quiet week.
+
+She began to understand the rhythm. The sand was not omniscient. It
+did not show the distant future or events beyond the settlement. It
+showed what was local, what was imminent, what was already taking shape
+in the physical systems -- geological, mechanical, atmospheric -- that
+governed life on the terminator. The sand crystals were sensitive to
+vibrations, pressures, thermal gradients that human instruments were
+too coarse to detect. They were, in a sense, the most precise sensors
+on the planet, and Mira's hands were the interface.
+
+She was twelve years old, and she could read the future in sand, and
+the future lasted four hours before it turned to dust.
+
+She did not tell anyone. She did not need to. The castles were enough.
+She built them, and she watched them, and she carried what they told
+her in the quiet space inside her chest where children keep the things
+that are too large and too strange for words.
+
+And when the window closed, and the temperature shifted, and the
+cities crumbled into powder, Mira watched them fall with the steady
+gaze of someone who understood that nothing built on Thessaly was
+meant to last -- not the castles, not the settlement, not the mining
+operation, not the brief human presence on a world that had existed
+for billions of years without them and would exist for billions more
+after they were gone.
+
+But you built anyway. That was the thing. You knew it wouldn't last,
+and you built anyway, because the building was the point. Not the
+permanence. The act. The four hours of concentrated, urgent, joyful
+creation, knowing that the window would close and the sand would fall
+and tomorrow you would start again.
+
+Mira knelt on the sand strip at the edge of Haven, and the twilight
+was steady, and the crystals were patient, and her hands were quick,
+and she built.
+
+                            [THE END]
+
+================================================================================
+
+                         BENEATH THE RUST
+
+                        by Agnes Whitfield
+
+================================================================================
+
+Della found the factory on a Tuesday in October, when the light was the
+color of old brass and the wind carried the smell of rust.
+
+She had been walking the ruins since dawn, which was what she did. That
+was her work -- if you could call it work, if there was still a word
+for the thing you did every day to keep yourself and the people who
+depended on you alive. She walked the ruins. She looked for things that
+could be used. She brought them back.
+
+The ruins stretched for miles in every direction. They had been a city,
+once -- a real city, with buildings that had roofs and windows that had
+glass and streets that had names. Della did not know the city's name.
+The signs had rusted away decades before she was born, and the old
+people who might have remembered were dead, and no one who was alive
+now had the time or the inclination to care about names. The city was
+the ruins. The ruins were the world. That was enough.
+
+She was thirty-one years old, though she looked older. Everyone looked
+older. The sun aged you fast when there was no shade, and the wind
+aged you faster, and the work -- the endless, grinding, daily work of
+survival -- aged you fastest of all. She was thin, strong in the way
+that people who carry heavy things are strong, with calloused hands and
+a face that had been weathered into something beyond prettiness or
+plainness, into the hard, clear expression of a person who had no
+energy to waste on appearance.
+
+She carried a canvas sack over one shoulder and a pry bar in her right
+hand. The pry bar was the most valuable thing she owned. It was forged
+steel, solid, and it could open doors, shift rubble, pry sheets of
+metal off collapsed structures. She had found it three years ago in the
+basement of a building that had once been, she guessed from the
+remaining fixtures, a hardware store. It was the best find she had
+ever made. Until today.
+
+                               * * *
+
+The factory was underground.
+
+She found it because the floor gave way.
+
+She was working a section of ruins she had not explored before -- the
+eastern edge of the city, where the industrial buildings were larger
+and more heavily constructed, their steel frames still standing even
+after a century of weather. Most of them had been picked clean by
+scavengers before her. The easy stuff -- copper wire, aluminum
+sheeting, glass, anything that could be repurposed -- had been taken
+decades ago. What remained was the heavy infrastructure: concrete
+foundations, steel beams, cast-iron pipes. Things that were too big to
+move and too common to be worth the effort.
+
+But Della had learned that the heavy stuff sometimes hid the valuable
+stuff. A concrete floor could cover a basement. A steel beam could
+block a doorway that led to an untouched room. The ruins were layered,
+like sediment, and the deeper you went, the more likely you were to
+find something that the earlier scavengers had missed.
+
+She was crossing the floor of what had been a large industrial building
+-- a warehouse, maybe, or a manufacturing plant -- when the concrete
+beneath her right foot crumbled. She felt it give, a soft, grinding
+sensation like stepping on rotten ice, and she threw herself sideways,
+dropping her sack and clutching at a rusted beam as the floor opened
+beneath her in a cascade of broken concrete and corroded rebar.
+
+The hole was about three meters across. Dust rose from it in a thick
+plume, and Della coughed and pressed her face against her sleeve and
+waited for it to clear. When it did, she leaned over the edge and
+looked down.
+
+Below the floor, perhaps four meters down, there was another floor.
+And on that floor, in the dim light that filtered through the hole,
+she could see machines.
+
+Not ruins of machines. Not rusted hulks, not collapsed frameworks, not
+the corroded skeletons of equipment that had died a century ago. These
+machines were intact. Their surfaces were clean. Their housings were
+unpitted, undamaged, unmarked by the century of decay that had consumed
+everything above them.
+
+And they were running.
+
+Della could hear it -- a low, steady hum, felt more than heard, the
+sound of machinery in operation. Power flowing through circuits.
+Motors turning. Something being done.
+
+She stared into the hole for a long time. The machines below her were
+arranged in rows, connected by conveyor belts that moved with a slow,
+continuous motion. Something was being carried on the belts -- small
+objects, uniform in size and shape, that Della could not identify from
+this height. At the far end of the visible space, a mechanical arm
+picked objects from the belt and placed them in a container that looked
+like a large metal bin.
+
+The factory was producing. Whatever it had been built to make, it was
+still making it. A hundred years after the world ended, a hundred years
+after the city died and the people left and the buildings fell, this
+factory -- buried, hidden, sealed beneath the concrete floor -- was
+still doing its job.
+
+Della looked at the machines, and the machines hummed, and the conveyor
+belts moved, and the mechanical arm picked and placed, picked and
+placed, with the patient, tireless precision of a thing that had been
+told to do something and had never been told to stop.
+
+                               * * *
+
+She went down.
+
+There was no ladder, but the rubble from the collapsed floor had formed
+a rough slope, and Della climbed down it carefully, bracing herself
+against the broken concrete with her pry bar. The air below was
+different -- warmer, drier, with a faint chemical smell that she could
+not identify. Machine oil, maybe. Ozone. Something industrial.
+
+The floor of the underground space was smooth concrete, uncracked,
+as clean as the day it had been poured. The machines rose around her
+in rows, each one about the size of a large desk, their housings a
+dull gray metal that showed no corrosion. They were connected by a
+network of cables and pipes, all intact, all functioning. The conveyor
+belts ran between them at waist height, carrying the small objects from
+one machine to the next in a sequence that Della recognized as an
+assembly process.
+
+She picked up one of the objects from the belt. It was small -- about
+the size of her thumb -- and made of a material she did not recognize:
+smooth, dense, faintly warm, with a color that was not quite gray and
+not quite silver. It was shaped like a cylinder with a rounded top and
+a flat bottom, and its surface was inscribed with markings -- fine,
+precise lines that formed a pattern too regular to be decorative and too
+complex to be functional in any way she could understand.
+
+She turned it over in her hands. It weighed almost nothing. It felt
+solid. It did not look like anything she had ever seen, and it did not
+look like anything she could use.
+
+She walked along the assembly line, following the conveyor belt. The
+machines performed their operations in sequence: the first machine
+extruded the raw material into cylinders. The second machine shaped
+the top. The third inscribed the markings. The fourth applied the
+surface finish. The fifth tested each cylinder -- she could see a
+brief flash of light as each one passed through the testing station --
+and rejected the occasional unit, dropping it into a waste chute. The
+sixth and final machine deposited the finished cylinders into the
+metal bins at the end of the line.
+
+The bins were full. Not just the ones at the end of the active line --
+there were dozens of bins stacked against the far wall, each one packed
+with cylinders. Hundreds of thousands of them, maybe millions. A
+century of production, stacked in metal containers in an underground
+factory, waiting for someone to come and collect them.
+
+No one had come.
+
+                               * * *
+
+Della explored the factory for three hours. It was larger than she had
+first estimated -- the underground space extended well beyond the
+footprint of the building above it, a cavern of machined concrete and
+silent, efficient equipment. There were six assembly lines, all
+running. There were storage areas, maintenance bays, and a power plant
+in a sealed chamber at the far end that produced a deeper, more
+resonant hum than the manufacturing equipment. She could not identify
+the power source. It was not a generator she recognized. It was not
+solar, not wind, not combustion. It was something else, something
+beyond her understanding, and it had been running for a hundred years.
+
+She found an office. A small room, walled off from the manufacturing
+floor, with a desk and a chair and a filing cabinet. The filing
+cabinet was locked. She pried it open with her bar.
+
+Inside were papers. Real paper, yellowed but intact, preserved by the
+dry, controlled atmosphere of the underground space. Della could read
+-- her mother had taught her, from a water-damaged copy of a
+children's primer that was the settlement's most prized possession --
+but the words on these papers were difficult. Technical language.
+Engineering specifications. Production schedules. She understood
+perhaps one word in three.
+
+But she understood enough.
+
+The factory had been built before the collapse. Built underground,
+deliberately, with its own power supply and its own raw material
+reserves, designed to operate without human intervention for an
+indefinite period. It was, the documents explained, an "autonomous
+manufacturing facility" -- a factory that ran itself, maintained
+itself, and produced its product without the need for workers, managers,
+or customers.
+
+The product was described in the documents by a designation number
+that meant nothing to Della. Its function was described in language
+that she could not fully parse, but the key phrases repeated:
+"atmospheric remediation," "long-term environmental stabilization,"
+"post-event deployment protocol."
+
+She set the papers down and went back to the manufacturing floor. She
+picked up another cylinder and looked at it. Atmospheric remediation.
+The factory was making something designed to fix the atmosphere. To
+clean it, or stabilize it, or repair whatever damage had caused the
+collapse in the first place.
+
+She looked at the bins against the wall. Millions of cylinders.
+Millions of tiny atmospheric remediation devices, manufactured
+patiently and perfectly by machines that had been running for a
+hundred years, waiting for someone to come and deploy them.
+
+And no one had come. Because the people who had built the factory were
+dead, or gone, or had forgotten it existed. And the people who lived
+now -- Della and her settlement, the few hundred souls who scratched a
+living from the ruins -- did not know it was here. Did not know that
+beneath their feet, beneath the rust and the rubble and the century
+of decay, a machine was quietly, patiently, endlessly solving the
+problem that had ended their world.
+
+                               * * *
+
+She sat on the factory floor, her back against one of the machines,
+and thought.
+
+The cylinders could fix the atmosphere. Maybe. The documents said they
+could. But the documents were a hundred years old, written by people
+who had anticipated a collapse and built a solution and buried it
+underground and then -- what? Died before they could use it? Forgotten
+where they put it? Lost the knowledge, the way knowledge was lost in
+the years after everything fell apart, when the libraries burned and
+the computers stopped and the people who understood things were not
+replaced by other people who understood things?
+
+She did not know. The documents did not say. They were engineering
+specifications, not history. They told you what the machine did, not
+why no one had used it.
+
+She looked at the cylinder in her hand. It was small, precise,
+perfectly made. A hundred years of manufacturing, and every unit was
+identical. The machines did not get bored, did not make mistakes, did
+not cut corners because the shift was long and the work was tedious.
+They made the thing they were designed to make, over and over and over,
+with a fidelity that no human process could match.
+
+And no human had asked them to. The factory was not serving a purpose.
+Not anymore. The purpose had died with the people who designed it. What
+remained was the process -- the pure, purposeless, perfect process of
+making a thing that no one would collect, for a reason that no one
+remembered, in a factory that no one knew existed.
+
+Della understood this, and she understood that it was the saddest thing
+she had ever seen. Not the ruins above -- the ruins were sad, but they
+were comprehensible. Things fell apart. That was what things did. But
+this -- this patient, pointless, endless act of creation, this machine
+that had not stopped because no one had told it to stop, that continued
+to solve a problem because no one had told it the problem was no longer
+being addressed -- this was something else. This was tragedy on a scale
+that had nothing to do with human suffering and everything to do with
+human failure.
+
+They had built the solution. They had built it underground, where it
+would be safe. They had designed it to run forever. And then they had
+died, and the solution had kept running, and the problem had kept
+existing, and the distance between the two -- between the cure and the
+disease, between the factory and the sky -- was four meters of concrete
+and a hundred years of silence.
+
+                               * * *
+
+She went home.
+
+The settlement was three miles west, a cluster of shelters built from
+salvaged materials in the ruins of what had once been a residential
+neighborhood. Forty-seven people. Families, mostly. Farmers who grew
+stunted crops in soil that was slowly recovering. Scavengers like Della
+who walked the ruins and brought back anything useful. A mechanic named
+Harlan who could fix almost anything and who served as the settlement's
+closest approximation to an engineer. A teacher named Rose who ran the
+school for the eleven children.
+
+Della found Harlan in his workshop -- a lean-to attached to the
+settlement's largest shelter, filled with tools and parts and the
+organized chaos of a man who believed that everything could be fixed if
+you understood how it worked.
+
+She set one of the cylinders on his workbench.
+
+"What is that?" Harlan asked.
+
+"I don't know. I found a factory."
+
+Harlan picked up the cylinder and turned it in his fingers. He held it
+up to the light. He tapped it against the bench. He brought it close
+to his ear and listened, as if the object might whisper its purpose.
+
+"Where?"
+
+"Eastern industrial district. Underground. Beneath a warehouse floor.
+The factory is intact, Harlan. It's running. The machines are on. The
+power is on. It's been making these things for a hundred years."
+
+Harlan set the cylinder down and looked at her. "Running. For a
+hundred years."
+
+"I found documents. Engineering papers. The cylinders are for
+atmospheric remediation. They're designed to clean the air. To fix
+whatever happened."
+
+Harlan was quiet for a long time. He picked up the cylinder again and
+looked at it, and Della could see the mechanic's mind working behind
+his eyes -- the same mind that could look at a broken pump and
+understand, without being told, where the failure was and how to
+repair it.
+
+"If these do what you say they do," he said slowly, "then someone
+built a machine to fix the world. And the machine has been running
+this whole time. Making the fix. Waiting for someone to use it."
+
+"Yes."
+
+"And no one ever came."
+
+"No."
+
+Harlan put the cylinder down. He looked at his workbench, at the
+tools and parts and salvaged equipment, at the entire apparatus of
+his life's work, which was the work of keeping a small community alive
+in the ruins of a civilization that had known how to build factories
+that ran themselves.
+
+"Well," he said. "Someone's here now."
+
+                               * * *
+
+It took them six months.
+
+Six months of work, of hauling bins of cylinders from the underground
+factory to the surface, of reading the deployment documents that Della
+had found in the filing cabinet, of figuring out -- through trial and
+error and Harlan's mechanical intuition and Rose's ability to parse
+the technical language -- how the cylinders were meant to be used.
+
+The deployment was simple, once they understood it. You opened the
+cylinder -- there was a twist mechanism at the base that Harlan
+discovered by accident when he dropped one and it cracked -- and you
+set it on the ground, and the contents dispersed into the atmosphere.
+Each cylinder contained a payload of microscopic particles -- catalytic
+agents, the documents called them -- that reacted with the pollutants
+in the upper atmosphere and broke them down into harmless compounds.
+One cylinder treated approximately one square kilometer of atmosphere.
+The factory had produced enough cylinders to treat a region the size
+of a small state.
+
+They deployed them. Methodically, carefully, walking the ruins in
+teams, placing the opened cylinders at regular intervals according to
+the grid pattern specified in the documents. The work was slow and
+unglamorous -- carrying bins, twisting open cylinders, walking, placing,
+walking, placing -- and it was the most important work any of them had
+ever done.
+
+The sky began to change.
+
+It was slow. Della did not notice it at first -- you did not notice
+slow things when your days were full of urgent things. But after three
+months of deployment, someone mentioned that the sunsets were different.
+Cleaner. The perpetual haze that had hung over the ruins for as long as
+anyone could remember -- a yellowish murk that turned the sun into a
+pale disk and made the stars invisible -- was thinning. The light was
+sharper. The air tasted different.
+
+The crops grew better. Not dramatically, not overnight, but Della's
+mother -- who had kept a garden before the settlement and knew what
+healthy soil smelled like -- said the ground was changing. The rain,
+when it came, was cleaner. The water in the cisterns was clearer.
+
+The world was healing. Slowly, invisibly, one square kilometer at a
+time, the atmosphere was repairing itself, catalyzed by millions of
+tiny cylinders that had been manufactured by machines that had been
+running in the dark for a hundred years, waiting for someone to come.
+
+                               * * *
+
+Della went back to the factory one last time.
+
+The machines were still running. The conveyor belts were still moving.
+The mechanical arms were still picking and placing. The bins at the end
+of the line were filling again -- new cylinders, added to the
+stockpile, ready for deployment.
+
+She stood on the factory floor and listened to the hum. It was a
+patient sound. Not urgent, not demanding, not anxious. Patient. The
+sound of a machine doing what it was designed to do, without complaint,
+without fatigue, without the need for recognition or gratitude. It had
+been built to fix the world. It was fixing the world. That was enough.
+
+Della put her hand on the nearest machine. The metal was warm. The
+vibration traveled through her palm and up her arm, and she felt,
+for a moment, connected to the people who had built this -- the
+engineers, the designers, the planners who had looked at a world
+that was falling apart and had said: We can't stop the fall. But we
+can build something that will help them get back up.
+
+They had not lived to see it work. They had built it on faith -- faith
+not in God, not in government, not in the inherent goodness of
+humanity, but in the simpler and more durable faith that someone,
+someday, would find what they had left behind and understand what to
+do with it.
+
+Della stood in the factory, her hand on the warm machine, and the
+machines hummed, and the conveyor belts moved, and outside, above the
+rust and the rubble and the century of silence, the sky was clearing.
+
+She walked home in the late afternoon light, and the light was golden,
+and for the first time in her life, the light was golden not because of
+the haze but because that was the color the light was supposed to be.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+HAROLD "HAL" MERCER is a civil engineer and science fiction writer from
+Akron, Ohio, whose stories about large-scale engineering projects have
+made him one of our most distinctive and technically accomplished
+contributors. His previous stories for these pages include "Load-
+Bearing" (Issue #7), "The Cable" (Issue #11), and "Foundation Stress"
+(Issue #13). By day, he designs highway interchanges for the Ohio
+Department of Transportation; by night, he designs orbital habitats,
+space elevators, and -- as of this issue -- Dyson swarms. "The Dyson
+Initiative" is his most ambitious project to date, and we are pleased
+to present the first of what will be a multi-part serial. Mr. Mercer
+reports that the story is accompanied, in his files, by fourteen pages
+of engineering diagrams that we have, once again, declined to publish.
+
+FRANKLIN HOYT is a journalist and writer based in Washington, D.C.,
+whose debut story "The Committee" (Issue #14) provoked more reader mail
+than any story we have published to date. A graduate of Howard
+University and a veteran of the United States Army, Mr. Hoyt covers
+Congress for several Washington newspapers and writes science fiction
+because, as he explains, "the editorial page won't let me say what I
+actually think." "Obedience Index" is his second appearance in these
+pages and, we suspect, not his last. The opinions expressed in his
+fiction are his own, and we are proud to publish them.
+
+REX DRUMMOND needs no introduction to our regular readers. A former
+merchant marine officer, bomber pilot, and self-described "professional
+troublemaker," he has been a fixture in these pages since Issue #1. His
+previous stories include "Doublecross on Deimos," "Blood Orbit," and
+the popular Jake Corvin series. "Treasure of the Sunken Fleet"
+represents something of a departure for Mr. Drummond -- it is, he
+assures us, "the same old noise, just underwater." He lives in San
+Diego and is at work on a novel that he describes as "Moby Dick with
+spaceships," which we await with considerable anticipation and some
+trepidation.
+
+OSCAR LENNOX is a professor of history at Boston University and the
+author of some of the most intellectually ambitious fiction we have
+published. His previous stories include "The Lateral View" (Issue #8),
+"Probability Zero" (Issue #10), and "The Counterfactual Club" (Issue
+#12). A specialist in counterfactual history and the many-worlds
+interpretation of quantum mechanics, Dr. Lennox brings a historian's
+rigor and a philosopher's imagination to his fiction. He reports that
+"Forking Paths" -- whose title pays homage to a certain
+Argentine writer -- was inspired by a late-night conversation with a
+colleague about the irreversibility of regret. He lives in Brookline,
+Massachusetts, with his wife Patricia and approximately four thousand
+books.
+
+THEODORE CAIN is our most prolific contributor, and "Sandcastle Empires"
+is his fifteenth story for these pages -- a record that we suspect will
+stand for some time, as no other writer in our stable shows any sign of
+matching his output or his consistency. A former autoworker and current
+technical writer in Detroit, Mr. Cain writes with the quiet precision
+of a craftsman who understands that a well-made story, like a well-made
+engine, depends on tolerances too fine for the casual observer to
+notice. "Sandcastle Empires" is, we believe, among his finest work --
+a story of unexpected tenderness about impermanent things.
+
+AGNES WHITFIELD is a former schoolteacher from Salina, Kansas, whose
+spare, luminous fiction has been a highlight of this magazine since her
+debut, "After the Sirens" (Issue #13). Her stories -- which deal with
+survival, rebuilding, and the stubborn persistence of human community
+in the aftermath of catastrophe -- carry the authority of a writer who
+grew up watching the sky for weather and who understands, in her bones,
+that the most important things in life are the ones you cannot control.
+"Beneath the Rust" is her third appearance in these pages. She writes
+at her kitchen table in Kansas and sends her manuscripts by mail, neatly
+typed on a Royal portable typewriter.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I must write to express my admiration for Franklin Hoyt's "The
+Committee" in your February issue. It is the bravest story I have read
+in any science fiction magazine this year -- perhaps in any magazine,
+period. That a loyalty board on a space station could so precisely
+mirror the proceedings of a certain congressional committee currently
+making headlines is either a remarkable coincidence or a deliberate act
+of political commentary. I suspect the latter, and I applaud it.
+Science fiction has always been a literature of warning, and Mr. Hoyt's
+warning is as timely as tomorrow's newspaper.
+
+                              — Prof. Arthur Kimball
+                                 Department of Political Science
+                                 University of Chicago
+
+Dear Editor,
+
+Rex Drummond's "Doublecross on Deimos" in your January issue was
+terrific fun, as Drummond's stories always are, but I must take issue
+with his description of the gravity wells in the asteroid belt. At the
+distances he specifies, the gravitational influence of the asteroids
+on the Diamondback's trajectory would be negligible, not "a constant
+drag on the engines." I understand that narrative convenience sometimes
+trumps orbital mechanics, but some of us are trying to maintain
+standards.
+
+                              — Lt. Cmdr. William Hackett, USN (Ret.)
+                                 Annapolis, Maryland
+
+Dear Tales,
+
+Agnes Whitfield's "After the Sirens" brought me to tears. I grew up
+on a farm in Nebraska, and the way she writes about the land -- the
+soil, the weather, the patience required to grow anything worth
+growing -- is so precise and so true that I forgot I was reading
+science fiction. She writes about the end of the world the way my
+grandmother talked about the Depression: not with dramatics, but with
+the plain, steady voice of someone who has survived something terrible
+and intends to keep surviving. More from Miss Whitfield, please. As
+much as you can get.
+
+                              — Mrs. Dorothy Engstrom
+                                 Lincoln, Nebraska
+
+Dear Mr. Sterling,
+
+I have been reading science fiction magazines since 1938, and I believe
+"Tales from the Future and Beyond" is the finest new magazine to appear
+since Galaxy launched in 1950. Your roster of writers is superb, your
+editorial standards are high, and your willingness to publish stories
+that challenge the reader rather than merely entertain him is
+refreshing. I particularly appreciate the range of your contributors --
+Koslov's intellectual rigor, Drummond's raw energy, Thornton's
+ecological vision, and now Hoyt's political courage. Keep it up.
+
+                              — Samuel Greenbaum
+                                 Brooklyn, New York
+
+We are grateful for these letters and for the many others we have
+received. Keep writing to us at: Letters, Tales from the Future and
+Beyond, Meridian Publishing Company, 114 East 32nd Street, New York
+16, N.Y. We read every letter and publish as many as space allows.
+                                                              — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+MISSION OF GRAVITY by Hal Clement
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clement has given us what may be the purest example of "hard"
+science fiction ever written, and it is a delight. The planet Mesklin --
+a massive, rapidly spinning oblate spheroid with a surface gravity
+that varies from three times Earth's at the equator to nearly seven
+hundred times Earth's at the poles -- is the true protagonist of this
+novel. The story follows Barlennan, a caterpillar-like alien merchant
+captain, as he traverses the planet's extraordinary geography to
+recover a human probe stranded at the pole. The physics is rigorous,
+the worldbuilding is meticulous, and the reader emerges with a genuine
+understanding of how gravity, atmosphere, and rotation shape a world.
+If the human characters are somewhat wooden and the prose functional
+rather than beautiful, these are small prices to pay for a novel that
+makes you feel the weight of seven hundred gravities in your bones.
+Highly recommended for anyone who believes that science fiction should
+take its first word seriously.
+
+MORE THAN HUMAN by Theodore Sturgeon
+(Farrar, Straus and Young, 1953, $3.00)
+
+Reviewed by Maxwell Sterling
+
+If Hal Clement represents the rigorously scientific end of the
+spectrum, Theodore Sturgeon represents the other end -- the end where
+science fiction becomes a vehicle for the deepest explorations of human
+loneliness, connection, and the desperate need to belong. "More Than
+Human" is the story of a gestalt -- a group of extraordinary
+individuals who, separately, are broken and incomplete, but who
+together form a single, transcendent entity greater than the sum of
+its parts. The writing is gorgeous, lyrical, emotionally devastating.
+Sturgeon has always been the most human of science fiction writers, and
+this is his most human book. It will, I predict, be remembered long
+after many of this year's more technically accomplished novels have
+been forgotten. Essential reading.
+
+THE CAVES OF STEEL by Isaac Asimov
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Dr. Asimov has accomplished something that should not, by any
+reasonable standard, work: he has written a detective novel set in a
+science fiction future, and both the detective story and the science
+fiction are excellent. Elijah Baley, a plainclothes detective in a
+vast, enclosed, agoraphobic future New York, must solve a murder with
+the help of R. Daneel Olivaw, a humaniform robot whose presence he
+resents and whose competence he cannot deny. The mystery is clever,
+the worldbuilding is characteristically thorough (Asimov's enclosed
+cities are as convincing as Clement's high-gravity planets), and the
+relationship between Baley and Daneel provides an emotional core that
+Asimov's work does not always achieve. A thoroughly satisfying novel
+and a promising start to what one hopes will be a series.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #16 — April 1954
+
+We are pleased to announce the contents of our sixteenth issue, which
+will be on newsstands in late March:
+
+"THE DYSON INITIATIVE, PART II" by Harold "Hal" Mercer — The political
+storm around the Dyson swarm intensifies as Mercury and Mars form an
+alliance to demand an independent environmental review. Chief Architect
+Yuki Tanaka faces her greatest challenge yet: building consensus across
+a solar system that cannot agree on the future.
+
+"LONG WATCH" by Gunnar Eriksson — A lone watchkeeper on a
+generation ship maintains his vigil during the decades-long crossing
+between stars. A story of solitude, duty, and the meaning of a single
+human life against the backdrop of cosmic time. A new voice in our
+pages, and a remarkable one.
+
+"THE INHERITANCE" by Theodore Cain — A family on a colony world
+discovers that their homestead sits atop an alien artifact that is
+far more valuable than the land itself. A story about what we owe the
+past and what the past owes us.
+
+"THE SECOND COMMITTEE" by Franklin Hoyt — A sequel to his explosive
+debut. The loyalty board's methods have evolved, and the stakes have
+risen. Not for the faint of heart.
+
+Plus: a new story by Margaret Thornton, book reviews, reader letters,
+and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1954 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Gerald "Gerry" Pulaski
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================

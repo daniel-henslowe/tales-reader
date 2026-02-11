@@ -1,0 +1,3593 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #35 — November 1955
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Frozen Garden" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Seed Vault" by Margaret Thornton ........................ p. 4
+2. "Debts Unpaid" by Theodore Cain .............................. p. 32
+3. "The Veterans' Hospital" by Col. James "Buck" Stanton ....... p. 50
+4. "Calories of Gratitude" by Dr. Vincent Koslov ........... p. 72
+5. "Ancestor Simulation" by Arthur Wainwright .............. p. 96
+6. "Homefire" by Gunnar Eriksson ............................... p. 116
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 138
+   Signals Received: Letters to the Editor ................... p. 140
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 142
+   Coming Attractions ........................................ p. 144
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+The calendar tells us it is November, and across this great nation,
+families are preparing to gather around tables and give thanks. We at
+Tales from the Future and Beyond are no exception. As we close our
+third year of publication -- thirty-five issues, hundreds of stories,
+and more reader letters than any editor has a right to expect -- I find
+myself in a reflective mood.
+
+Gratitude is a curious emotion. Unlike fear, anger, or even love, it
+requires us to look backward -- to acknowledge that something was given,
+something was done, some debt was incurred that we may never fully
+repay. It is, in a sense, the most temporal of feelings, rooting us in
+the past even as we face the future. And that tension -- between what
+was given and what we owe, between memory and obligation -- struck me
+as rich territory for science fiction.
+
+I put the question to our contributors: What does gratitude look like
+across the distances of space and time? What do we owe to those who
+came before us, and what do we owe to those who will come after? The
+answers they have given me make up, I believe, one of our finest issues.
+
+Margaret Thornton opens our pages with "The Seed Vault," a story of
+such quiet power and accumulating beauty that I have read it three times
+and found new things in it each time. It is, I think, her masterpiece
+to date. Theodore Cain poses a delightfully uncomfortable question in
+"Debts Unpaid": can you owe a debt for a favor you never asked for?
+Colonel Stanton, a man not known for sentimentality, has written in
+"The Veterans' Hospital" his most humane and tender story -- a portrait
+of wounded soldiers that will stay with you. Dr. Koslov brings his
+characteristic precision to the mathematics of homesickness in "The
+Thanksgiving Equation," and the result is unexpectedly moving. Arthur
+Wainwright explores the ethics of simulated life in "The Ancestor
+Simulation" with his usual philosophical rigor and surprising emotional
+depth. And Gunnar Eriksson closes our issue with "Homefire," a
+generation ship story about the meaning of inherited holidays that
+is as beautiful and melancholy as we have come to expect from our
+Swedish contributor.
+
+Six stories. Six meditations on what we owe and what we remember. I am
+thankful for each one.
+
+And I am thankful for you, reader. A magazine is nothing without its
+audience, and you have given us three years of your attention, your
+letters, your corrections (some more gentle than others), and your
+loyalty. Whatever the future holds, we will meet it together.
+
+Pass the turkey. The future can wait an hour.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, October 1955
+
+================================================================================
+
+                          THE SEED VAULT
+
+                       by Margaret Thornton
+
+================================================================================
+
+                               I.
+
+The door had not been opened in three hundred and twelve years.
+
+Dr. Asa Lindqvist knew this because the seal log said so -- a small
+digital counter embedded in the steel frame of the outer blast door,
+powered by its own dedicated radioisotope battery, designed to outlast
+everything except the mountain itself. The counter displayed two numbers:
+the date of last opening (March 14, 2031) and the number of days since
+(113,880). Asa did the arithmetic in her head, the way her mother had
+taught her, and arrived at three hundred and twelve years. Three hundred
+and twelve years since anyone had stood where she was standing, in the
+hundred-meter access tunnel cut into the permafrost of a mountain on the
+island of Spitsbergen, seventy-eight degrees north latitude, in what had
+once been the Kingdom of Norway.
+
+The air in the tunnel was cold -- not the biting, wind-driven cold of
+the surface, but a deep, geological cold that seeped through the rock
+itself and settled into the body with the patience of something that had
+been waiting a very long time. Asa's breath plumed white in the beam of
+her headlamp. The walls of the tunnel were rough-hewn granite, still
+bearing the marks of the boring machines that had cut them in the late
+2000s. Here and there, crystals of hoarfrost had formed on the stone
+-- tiny, perfect structures that glittered in the light like the
+ornaments of a cathedral no one had visited in centuries.
+
+Behind her, at the tunnel's entrance, Asa could hear the voices of her
+team -- Petter Halvorsen, the structural engineer, and Marit Dahl, the
+climate historian -- conferring over the atmospheric readings. The
+tunnel's internal atmosphere was stable: minus eighteen degrees Celsius,
+low humidity, oxygen concentration at twenty percent. Breathable, if
+barely comfortable. The vault's designers had planned for exactly this
+-- an environment cold enough to preserve genetic material for millennia,
+warm enough for brief human access.
+
+"Pressure differential is negligible," Petter called from behind her,
+his voice flattened by the acoustics of the tunnel. "The inner seals
+should release without forcing."
+
+Asa nodded, though he could not see her. She placed her gloved hand on
+the door's surface. The steel was so cold that she could feel it through
+the insulated fabric, a chill that traveled up her arm and settled
+somewhere behind her sternum. She thought of the seeds on the other side
+of this door. Hundreds of thousands of them -- millions, perhaps, if the
+catalogues were accurate -- each one a compressed archive of genetic
+information, a set of instructions for building a living thing from
+sunlight and water and soil. Seeds of wheat and rice and maize, of
+barley and millet and sorghum, of vegetables and fruits and legumes
+whose names had not been spoken aloud in centuries. Seeds from a world
+that had fed eight billion people and then, in the span of two
+generations, had ceased to be able to feed itself.
+
+She entered the access code -- a twenty-digit alphanumeric sequence that
+had been transmitted from the Svalbard Reconstruction Authority in
+Longyearbyen, itself only three years old, itself a product of the slow,
+painful process of rebuilding that was the only story anyone alive could
+remember. The keypad accepted the code. A series of mechanical locks
+disengaged with heavy, precise sounds -- clunk, clunk, clunk -- like the
+tumblers of a safe designed by people who took permanence seriously.
+
+The blast door swung inward on its hinges, and the air that came through
+was the oldest air Asa had ever breathed.
+
+                               * * *
+
+The Svalbard Global Seed Vault had been established in 2008, though its
+origins reached back further, into the long history of humanity's
+attempts to preserve the biological diversity on which its survival
+depended. Asa knew this history the way she knew the amino acid
+sequences of common grain proteins -- thoroughly, technically, and with
+the particular intimacy of a person whose entire professional life had
+been organized around a single question: How do we grow food again?
+
+The Collapse -- that inadequate word for the cascade of ecological,
+economic, and political failures that had reduced the human population
+from eight billion to fewer than six hundred million over the course of
+a century -- had destroyed the agricultural systems that had sustained
+civilization. The vast monocultures of the twenty-first century, already
+fragile, had succumbed to a combination of climate disruption, soil
+depletion, pathogen evolution, and the breakdown of the supply chains
+that distributed seeds, fertilizers, and pesticides across the globe.
+When the supply chains failed, the crops failed. When the crops failed,
+the people starved. And when the people starved, the seed banks -- the
+carefully maintained collections that held the genetic diversity of ten
+thousand years of agriculture -- were abandoned, looted, burned, or
+simply forgotten.
+
+All of them except this one.
+
+The Svalbard Vault had survived because it was designed to survive
+without human intervention. Its location -- deep inside a mountain on an
+Arctic island, far from population centers, accessible only by sea or
+air -- had protected it from the worst of the Collapse. Its passive
+cooling system, relying on the permafrost rather than electrical power,
+had maintained the interior temperature within the required range even
+as the permafrost itself retreated and reformed over the centuries. Its
+doors, sealed against unauthorized access, had held.
+
+And now Asa was opening them.
+
+                               II.
+
+The interior of the vault was precisely as the old records described it.
+
+Three long chambers, extending back into the mountain like the aisles
+of a subterranean church, each lined floor to ceiling with metal
+shelving. On the shelves, arranged in orderly rows, were the containers
+-- aluminum boxes, sealed with gasketed lids, each labeled with a
+barcode and a printed identification tag. Asa's headlamp swept across
+them and caught the gleam of metal repeated hundreds of times, thousands
+of times, receding into the darkness at the far end of the chamber like
+an infinite library of small, identical books.
+
+The silence was absolute. Not the silence of an empty room, which always
+contains some trace of the world outside -- traffic, wind, the hum of
+electrical systems -- but the silence of deep rock, of geological time,
+of a space that had been sealed against sound for three centuries. Asa
+felt it press against her eardrums, almost physical in its completeness.
+
+She stepped into the first chamber and read the labels on the nearest
+shelf.
+
+TRITICUM AESTIVUM -- Common Wheat. Accession numbers, country of
+origin (Pakistan, Turkey, Mexico, Argentina, Kenya, India, dozens more),
+date of deposit. The entries were printed in a precise sans-serif font,
+black on white, unfaded. Below the wheat: ORYZA SATIVA -- Rice. Below
+that: ZEA MAYS -- Maize. The taxonomy of survival, arranged in
+alphabetical order on steel shelves in a frozen mountain.
+
+"Asa." Marit's voice came from behind her. She had entered the vault
+and was standing at the threshold of the first chamber, her headlamp
+casting a cone of light that intersected with Asa's. Her face, above
+the collar of her thermal suit, was pale and very still. "It's all
+here."
+
+"Yes."
+
+"How much?"
+
+Asa looked down the length of the chamber. The shelves extended at least
+forty meters into the mountain. "I don't know yet. Hundreds of
+thousands of samples, at minimum. If the catalogue is accurate --"
+
+"The catalogue is three hundred years old."
+
+"The seeds are older than that. Some of them. The oldest deposits
+predate the vault itself -- seeds from collections that were established
+in the 1920s and 1930s." Asa paused, aware that her voice had taken on
+the careful, measured tone she used when explaining something important
+to people who did not yet understand why it was important. "This is the
+largest intact collection of agricultural genetic material on Earth,
+Marit. It may be the only intact collection. Everything else was lost."
+
+Marit was quiet for a moment. Then she said, "Can they still grow?"
+
+It was the question. The only question that mattered. Seeds were
+remarkable structures -- evolved over four hundred million years to
+endure drought, cold, and the passage of time -- but they were not
+immortal. Viability declined with age, with temperature fluctuations,
+with moisture, with radiation. Three centuries was a long time. Too
+long, perhaps.
+
+"Some of them," Asa said. "The orthodox seeds -- the ones that can
+withstand desiccation -- should still be viable, at least in part. Wheat,
+rice, barley, most of the legumes. The recalcitrant species -- the ones
+that require moisture -- will be dead. Cacao, coconut, mango. Those are
+gone."
+
+She did not say what she was thinking, which was that "some of them"
+might mean ten percent, or five percent, or one percent. That even the
+orthodox seeds, stored at optimal temperature, would have lost viability
+at a rate of roughly one percent per year in some species. That three
+hundred years might have reduced the most critical collection on Earth
+to a shelf full of inert husks. She did not say this because she could
+not yet bear to think it.
+
+"Let's begin the assessment," she said.
+
+                               III.
+
+It was on the third day that Asa found the journal.
+
+The viability testing had begun on the first morning. The procedure was
+painstaking: select a sample container, open it under controlled
+conditions, remove a measured portion of seeds, subject them to the
+standard germination protocol -- controlled moisture, temperature, and
+light -- and wait. The waiting was the hardest part. Some species would
+germinate in days. Others took weeks. And the results so far had been
+mixed. The wheat samples from the 2020s deposits showed a germination
+rate of roughly forty percent -- lower than hoped, higher than feared.
+The rice was more variable, ranging from twelve percent to sixty-three
+percent depending on the variety and the date of deposit. The barley
+was strong. The sorghum was disappointing.
+
+Asa recorded each result in her own notebook, a bound volume of acid-
+free paper that she had carried from the genetics laboratory in Bergen.
+She wrote in pencil -- the old way, the way that did not require
+electricity or functional circuitry -- noting the accession number, the
+species, the sample size, the germination count, and the date. Her
+handwriting was small and precise, a mirror of the meticulous nature
+that had made her the obvious choice for this expedition.
+
+On the third afternoon, while testing a batch of rye samples from the
+second chamber, she noticed something behind the containers on the
+lowest shelf. A shape that did not conform to the regular geometry of
+the aluminum boxes. She reached behind the containers and her fingers
+closed on something soft -- fabric, or leather -- with a rectangular
+solidity underneath.
+
+She pulled it out. It was a book. A hardcover notebook, bound in dark
+brown leather, about twenty centimeters by fifteen, its cover stained
+and worn but intact. The leather was cold and stiff but had not
+deteriorated -- the freezing temperature had preserved it as effectively
+as it had preserved the seeds.
+
+Asa opened it. The pages were filled with handwriting -- a neat, upright
+script, written in blue ink that had faded to a pale gray-blue, still
+legible in the beam of her headlamp. The first page read:
+
+     JOURNAL
+     Ingrid Solvang
+     Curator, Svalbard Global Seed Vault
+     November 2028 — ?
+
+Asa turned the page.
+
+                               IV.
+
+     November 3, 2028
+
+     I have decided to begin this journal, though I am not certain
+     anyone will read it. The communications array failed ten days ago
+     -- the satellite uplink has been intermittent for months, and now
+     it has stopped entirely. I can still receive fragmentary broadcasts
+     on the shortwave, but transmission is impossible. I am, for all
+     practical purposes, alone here.
+
+     I should explain who I am and why I am here, in case the reader
+     does not have access to the operational records. My name is Ingrid
+     Solvang. I am fifty-three years old. I have been the curator of
+     the Svalbard Global Seed Vault since 2024, when my predecessor,
+     Dr. Arnulf Eng, died of influenza during the second pandemic. I
+     am trained as an agronomist, specializing in cereal crop genetics.
+     I am the only person remaining at the vault facility.
+
+     The situation on the mainland, as far as I can determine from the
+     fragments I receive on the shortwave, is very bad. The harvest
+     failures in Central Asia and sub-Saharan Africa that began in 2025
+     have not been reversed. The wheat blight has reached Europe. The
+     political systems that once coordinated international responses to
+     crises of this scale have largely ceased to function. I heard a
+     broadcast last week from what appeared to be a military government
+     in Oslo, issuing directives about food rationing. I have not heard
+     from the Norwegian Ministry of Agriculture since August.
+
+     I do not know if anyone is coming. I do not know if anyone can
+     come. The supply ship that was scheduled for October did not arrive.
+     I have food stocks sufficient for approximately eight months,
+     assuming careful rationing. After that, I will have a problem.
+
+     But the vault is intact. The seeds are safe. The temperature is
+     stable. The permafrost is holding. Whatever is happening in the
+     world outside, the vault is doing what it was designed to do. It
+     is keeping the seeds alive.
+
+     I will continue to do the same.
+
+Asa read this entry sitting on the cold floor of the second chamber,
+her back against the shelving, the notebook open on her lap. She read
+it twice, and then she turned the page and read the next entry, and the
+next. The entries came at irregular intervals -- sometimes daily, sometimes
+with gaps of weeks. The handwriting remained steady, controlled, even as
+the content grew increasingly isolated, increasingly solitary, increasingly
+strange.
+
+     November 29, 2028
+
+     It occurs to me that I should be cataloguing my emotional states
+     as carefully as I catalogue the seed inventory. Loneliness: present,
+     moderate, manageable. Fear: present, low-grade, concentrated in the
+     early morning hours when the wind sounds like voices. Purpose:
+     strong. The seeds need a keeper. I am the keeper. This is a simple
+     equation.
+
+     I have begun talking to the seeds. I know this sounds eccentric.
+     Perhaps it is the beginning of something worse. But the silence here
+     is absolute, and human beings were not designed for absolute silence.
+     The ear strains for sound the way the eye strains for light in
+     darkness -- reaching, reaching, finding nothing, inventing. I would
+     rather talk to the seeds than talk to phantoms.
+
+     I told the wheat about wheat. About the fields of it that I saw as
+     a child, driving with my father through Hedmark in July -- the way
+     it moved in the wind, like the surface of a golden sea, and how I
+     thought the entire world must be made of wheat and sky. I told the
+     rice about monsoons, which I have never seen but have read about --
+     the great seasonal rains of South Asia that turned the paddies into
+     mirrors of the sky. I told the maize about a woman I once met at a
+     conference in Mexico City, a farmer from Oaxaca who grew seventeen
+     varieties of maize in a single field, each one a different color,
+     each one with its own name and its own story. The farmer said that
+     the maize remembered things. That it carried the memory of everyone
+     who had ever planted it.
+
+     I wonder if that is true. I wonder if the seeds can hear me.
+
+                               * * *
+
+Asa did not notice the cold. She did not notice the fading light in her
+headlamp, or the stiffness in her legs, or the passage of time. She
+read as a person reads when the words on the page are doing something to
+the interior of the mind that cannot be interrupted -- reshaping it,
+opening chambers that had been sealed, filling empty spaces with the
+sound of a voice that had been silent for three centuries.
+
+The journal continued.
+
+     January 15, 2029
+
+     The shortwave has gone silent. For three days now, nothing. Not
+     static -- I would welcome static -- but nothing. The bands are
+     empty. I sweep them at regular intervals, twice a day, and hear
+     only the hiss of cosmic background radiation, which is not a
+     signal but the absence of all signals, the sound of a universe
+     that contains, as far as my receiver can determine, no one.
+
+     I am trying not to draw conclusions from this. A failure of
+     transmission equipment is not the same as a failure of civilization.
+     The world may be perfectly intact and simply unable to broadcast.
+     Radios break. Infrastructure decays. It does not mean that everyone
+     is dead.
+
+     But I find myself, in the quiet hours, preparing for the possibility
+     that no one is coming. Not now, not next year, not ever. That I am
+     the last curator of the last seed bank, and that my job is no longer
+     to preserve these seeds for a society that will come to retrieve them,
+     but to preserve them for a future so distant that I cannot imagine it.
+     To be, in effect, a message in a bottle -- addressed to whoever finds
+     this place, whenever they find it, and whatever they have become.
+
+     This changes the nature of the work. When I was preserving seeds
+     for a functioning civilization, I was a technician. Now I am
+     something else. A witness, perhaps. Or a priestess. The vault is
+     my temple, and the seeds are my congregation, and the sermon I
+     deliver to them every day -- because I have not stopped talking to
+     them -- is the story of the world they came from. The world they
+     will, if they are fortunate, grow back into.
+
+                               V.
+
+Asa read through the evening and into the night, sitting on the floor
+of the vault with her thermal suit drawn tight around her and the
+journal balanced on her knees. Petter brought her tea from the portable
+stove they had set up in the tunnel, and she accepted it without
+looking up. He said something about the temperature data and she nodded.
+He left. She read.
+
+Ingrid Solvang's journal covered approximately two and a half years. The
+entries grew longer as the months passed, as though the act of writing
+were expanding to fill the space left by the absence of human contact.
+The early entries were practical, disciplined, focused on the work --
+inventory updates, maintenance notes, observations about the permafrost
+temperature and the condition of the storage containers. But gradually,
+almost imperceptibly, the practical gave way to something else. The
+journal became a record not of the vault's condition but of its
+curator's interior life -- her memories, her thoughts, her conversations
+with the seeds.
+
+And the conversations grew extraordinary.
+
+     April 22, 2029
+
+     I told the sunflowers about Van Gogh today. I described the
+     paintings -- the thick, turbulent brushstrokes, the yellows that
+     seemed to burn from inside the canvas, the way the flowers in
+     the paintings looked more alive than real flowers, as though Van
+     Gogh had painted not what sunflowers were but what they wanted to
+     be. I told them that a man who was desperately unhappy had looked
+     at a flower and seen something so beautiful that he had to paint
+     it twelve times, and that the paintings had survived for a hundred
+     and fifty years and would survive, I suspect, for a hundred and
+     fifty more, long after the last museum has crumbled.
+
+     I realize that sunflowers are not stored in this vault. They are
+     not a food crop, strictly speaking, though sunflower oil was once
+     a significant agricultural product. But I have begun to speak to
+     the seeds as though they are all one audience -- wheat and rice and
+     barley and sorghum, listening together in the dark, and I the only
+     voice they have heard in years, and perhaps the only voice they
+     will hear again. They deserve beauty. Even seeds deserve beauty.
+     Especially seeds. A seed is an act of faith. Someone plants it in
+     the ground and trusts that the sun will come and the rain will
+     fall and the soil will do its work, and that from a thing the size
+     of a grain of sand, a plant will rise that will feed a child.
+     What is that if not faith?
+
+     June 8, 2029
+
+     Today I told the rice about music. I sang to it -- badly, I am
+     sure, but the rice is not a demanding audience. I sang a song my
+     mother used to sing, a Norwegian folk song about a girl who waits
+     for a sailor to return from the sea. The melody is simple, almost
+     childlike, and the lyrics are about patience and hope and the
+     conviction that the person you love will come home. I have not
+     sung this song in thirty years. I remembered every word.
+
+     Afterward, I sat in the silence and listened to the echo of my
+     own voice dying in the stone, and I thought: this is what it means
+     to be a seed vault. Not just a place where seeds are stored, but
+     a place where everything is stored -- every song, every painting,
+     every meal, every act of planting and harvesting and feeding, every
+     gesture of care that humans have ever directed toward the living
+     world. The seeds carry all of it. They carry it in their genes,
+     in the ten thousand years of selective breeding that made wheat
+     from a wild grass and rice from a marsh plant and maize from a
+     weed called teosinte. Every seed is a history book. Every seed
+     is a love letter from the past to the future.
+
+     I am the one reading it aloud.
+
+                               VI.
+
+Asa closed the journal. She sat for a long time in the dark of the
+vault, her headlamp switched off, surrounded by the seeds and the
+silence and the cold.
+
+She was crying. She recognized this with a detached, clinical awareness
+-- the wetness on her cheeks, the constriction in her throat, the
+tremor in her hands -- and she did not try to stop it. The tears felt
+appropriate. They felt, in the frozen dark of the vault, like the only
+adequate response.
+
+Ingrid Solvang had died in this vault. The final entries made that
+clear, though they did not describe the death itself -- only the
+approach to it, the gradual diminishing of the body's resources as the
+food stocks ran out, the careful, measured acceptance of what was coming.
+
+     March 1, 2031
+
+     The food is gone. I have been rationing for months, and now there
+     is nothing left. I am not hungry in the way I expected -- the cold
+     suppresses appetite, and my body has become efficient, running on
+     very little, the way a machine runs on fumes when the fuel tank
+     is empty.
+
+     I have thought about leaving the vault. Walking out through the
+     tunnel, across the mountainside, down to the shore. But the shore
+     is twenty kilometers away, and I do not know what I would find
+     there. And if I leave, the vault is unattended. If I leave, no one
+     is keeping watch. This should not matter -- the vault was designed
+     to function without human oversight, and it has done so admirably.
+     But I have come to feel that my presence here means something. Not
+     to the seeds, which are indifferent to my company. But to the
+     record. To the story.
+
+     Someone was here. Someone stayed. Someone kept talking to the seeds
+     until the very end, telling them about the world, keeping the
+     memory alive in the only way she could -- by speaking it into
+     the dark.
+
+     March 14, 2031
+
+     This will be my last entry. I am going to seal the vault and then
+     I am going to sit with the seeds for a while. I want to tell them
+     one more thing.
+
+     I want to tell them about spring. Not any particular spring -- not
+     a spring I have witnessed -- but the idea of spring, the concept
+     of it, the promise embedded in the word itself. The ice breaks. The
+     ground softens. The first green shoots push up through the soil,
+     thin and pale and astonishingly brave, reaching for a sun they have
+     never seen but somehow know is there. This is what seeds do. They
+     wait in the dark, and then they grow toward the light.
+
+     I want the seeds to know that the light is still there. That the
+     sun still rises. That somewhere above this mountain, above the ice
+     and the stone and the three hundred meters of frozen earth, there
+     is a sky, and in that sky there is a star, and that star is patient,
+     and warm, and waiting.
+
+     Grow toward it.
+
+     Grow toward it.
+
+     — I.S.
+
+                               VII.
+
+Asa did not tell Petter and Marit about the journal. Not immediately.
+She placed it back on the shelf where she had found it -- behind the rye
+containers, where Ingrid had put it -- and she returned to the viability
+testing with a focus that was, if anything, more intense than before.
+
+The results continued to arrive, sample by sample, day by day. Each
+germinated seed was a small, silent event -- a cracking of the seed coat,
+an emergence of the radicle, a tentative unfurling of the first true
+leaf -- that Asa observed with the attention of a woman watching a
+resurrection. Because that was what it was. Each seed that germinated
+was a thread reconnecting the present to the past, a filament of living
+tissue reaching across three centuries of darkness to touch the light
+again.
+
+The wheat germinated. Not all of it -- never all of it -- but enough.
+Forty percent of the oldest samples. Fifty-five percent of the most
+recent deposits. Enough to plant a field. Enough to begin.
+
+The rice germinated. Variable, uneven, some varieties strong and others
+barely viable, but present. Alive. Carrying in their genes the patient
+labor of generations of farmers who had selected and saved and replanted,
+year after year, for ten thousand years.
+
+The barley germinated at sixty-eight percent -- hardy, stubborn,
+cold-tolerant barley, the grain that had sustained Northern Europe
+through centuries of short summers and long winters. Asa held a
+germinated barley seedling between her thumb and forefinger and
+studied the pale green shoot, no larger than a match, and thought of
+Ingrid Solvang sitting in this same chamber, in this same cold,
+talking to this same grain about the world it would grow back into.
+
+"Marit," she said.
+
+Marit looked up from the climate data she was logging.
+
+"I found something. In the vault. I need to show you."
+
+                               VIII.
+
+They read the journal together, Asa and Marit and Petter, sitting on
+the floor of the second chamber with the notebook open between them.
+They read it in silence, passing it from hand to hand when a page was
+finished, and the silence in the vault seemed to deepen around them, as
+though the mountain itself were listening.
+
+When they had finished, Petter was the first to speak.
+
+"She died here."
+
+"Yes."
+
+"Alone."
+
+"Yes."
+
+Petter was a large man, practical and unemotional by temperament, the
+sort of structural engineer who expressed feelings through the quality
+of his welds rather than through words. He looked at the journal in his
+hands, and his jaw worked once, and he set it down on the shelf with a
+careful gentleness that was, from him, the equivalent of a eulogy.
+
+Marit said, "She kept the record. All the way to the end."
+
+"More than a record," Asa said. "She was talking to the seeds. Telling
+them about the world. Telling them what they were waiting for."
+
+"The seeds couldn't hear her."
+
+"No. But it wasn't for the seeds. It was for whoever came after. For
+us." Asa paused. She looked at the shelves around her -- the thousands
+of containers, the millions of seeds, the concentrated genetic wealth
+of ten millennia of human agriculture, preserved in ice and stone and
+silence by a woman who had stayed at her post until she had nothing
+left. "She was telling us what we owe. What we owe to the seeds, and to
+the people who bred them, and to the ten thousand years of work that it
+took to turn a wild grass into wheat."
+
+Marit was quiet for a moment. Then she said, "What do we owe?"
+
+Asa picked up the journal. She opened it to the last page and read the
+final words aloud, her voice steady in the cold air of the vault.
+
+"Grow toward it."
+
+                               IX.
+
+The expedition lasted three weeks. Asa's team catalogued the vault's
+contents, tested representative samples from each major crop category,
+and prepared a preliminary viability report for the Reconstruction
+Authority. The report was cautiously optimistic. The vault contained
+approximately 1.1 million seed samples representing over four thousand
+plant species. Of the major food crops, viability rates ranged from
+fifteen percent to seventy percent, with an overall average of
+approximately forty-two percent. This was sufficient -- barely, but
+sufficient -- to begin the process of rebuilding agricultural diversity
+on a planet that had lost nearly everything.
+
+Asa wrote the report in the same careful, precise handwriting that
+characterized all her work. She included the technical data, the
+statistical analyses, the recommendations for prioritizing which
+varieties to propagate first. She did not include the journal.
+
+She had considered including it. The journal was a primary historical
+document -- a firsthand account of the Collapse as witnessed from one
+of its most significant sites. It belonged in the historical record.
+Scholars and archivists would want to study it.
+
+But Asa had decided, after reading it a fourth time, that the journal
+belonged where it was. In the vault. With the seeds. It was part of the
+collection, as surely as the wheat and the rice and the barley. Ingrid
+Solvang had placed it there, among the things she was preserving, and
+Asa would not remove it.
+
+She did, however, add something of her own.
+
+On the morning of the expedition's last day, before sealing the vault
+for what she hoped would be only a brief interim -- until the first
+recovery teams arrived to begin the systematic retrieval and propagation
+of the collection -- Asa opened her own notebook and tore out a single
+page. On it, she wrote:
+
+     Dr. Ingrid Solvang,
+
+     We came. It took three hundred and twelve years, but we came.
+
+     The seeds are alive. Not all of them, but enough. The wheat is
+     germinating. The rice is germinating. The barley is strong. We
+     are going to plant them. We are going to grow food again.
+
+     You asked the seeds to grow toward the light. They did. They
+     waited in the dark for three centuries, and now they are growing.
+     You kept them safe. You stayed when everyone else left, and you
+     talked to them, and you told them what they were waiting for, and
+     you were right. The light was still there.
+
+     I want you to know that we will remember. Not just the seeds,
+     but you. What you did. What you gave. You stayed, and you kept
+     faith, and you died at your post, and because of you, the future
+     has a chance.
+
+     We owe you a debt we cannot repay. We can only do what you asked.
+
+     We will grow toward it.
+
+     — Dr. Asa Lindqvist
+     Svalbard Recovery Expedition
+     Bergen Genetics Institute
+     Year of Reconstruction 3
+
+She folded the page and placed it inside the leather journal, beside
+Ingrid Solvang's final entry. Then she closed the journal and returned
+it to its place on the shelf, behind the rye containers, where it would
+wait -- with the seeds, with the silence, with the cold -- for whoever
+came next.
+
+                               X.
+
+The blast door sealed behind them with the same sequence of heavy,
+precise sounds -- clunk, clunk, clunk -- and the counter on the frame
+incremented by one.
+
+Asa stood in the access tunnel and looked at the closed door. Behind
+it, in the dark, 1.1 million seeds waited. They had been waiting for a
+very long time, and they would wait a little longer. But not much
+longer. The first propagation facility was already under construction
+in Bergen, its greenhouses rising from the rubble of the old university
+campus, their glass panels catching the thin autumn light. Within a
+year, the first seeds from the vault would be planted in controlled
+conditions. Within five years, if all went well, the first field trials
+would begin. Within a generation -- if the weather held, if the soil
+could be restored, if the pathogens could be managed, if the thousand
+fragile links in the chain of agriculture could be reassembled one by
+one -- grain would grow again in the fields of Hedmark.
+
+Asa thought of Ingrid Solvang, alone in the dark, talking to seeds that
+could not hear her. Telling them about wheat fields and Van Gogh and
+Norwegian folk songs. Telling them about spring.
+
+She thought of the seeds themselves -- patient, desiccated, dormant,
+carrying inside their tiny structures the genetic memory of ten thousand
+years of human care. Waiting. Just waiting. As they had always waited,
+through droughts and floods and wars and plagues and the long, dark
+centuries of the Collapse. Waiting for someone to put them in the ground
+and give them water and stand back and let them do the thing they had
+evolved to do.
+
+She thought of the barley seedling she had held between her fingers --
+that pale green filament, barely visible, pushing up from the split
+seed coat with a force that seemed impossible for something so small.
+Growing toward the light. As it had always grown. As it would always
+grow, as long as there was light to grow toward.
+
+The air in the tunnel was cold. The mountain was silent. The vault was
+sealed.
+
+Asa turned and walked toward the entrance, toward the gray Arctic light
+that filtered in from the surface, toward the sound of wind and the
+distant crash of waves on the shore of Spitsbergen.
+
+Behind her, in the dark, the seeds waited.
+
+They had been patient for three hundred years.
+
+They could be patient a little longer.
+
+                            [THE END]
+
+================================================================================
+
+                          DEBTS UNPAID
+
+                        by Theodore Cain
+
+================================================================================
+
+The bill arrived on a Tuesday, which is the sort of thing that happens
+to ordinary people on ordinary days, and that was part of the problem.
+
+Frank Jessup was an accountant. Not a senior partner or a financial
+wizard or any of the glamorous subspecies of the profession, but a
+working accountant with a desk at Halloran & Webb, a firm in downtown
+Cleveland that handled tax returns for midsized manufacturing companies.
+He was forty-four years old, slightly overweight, divorced, and in
+possession of a two-bedroom apartment on Euclid Avenue, a Ford sedan
+with seventy thousand miles on it, and a cat named Leonard who did not
+like him very much. His life was, by any reasonable measure, unremarkable.
+
+The bill changed that.
+
+He found it in his mailbox on the way home from work, tucked between
+a telephone bill and a circular from a carpet cleaning service. The
+envelope was unusual -- heavier than normal stationery, a pale blue-gray
+color that he had never seen in paper before, and smooth to the touch
+in a way that felt less like paper and more like something organic. A
+leaf, maybe, or a piece of very thin skin. The address was typed --
+MR. FRANK JESSUP, 1847 EUCLID AVE, APT 4-B, CLEVELAND 15, OHIO -- in
+characters that were recognizably English but subtly wrong, as though
+the typewriter had been designed by someone who understood the Roman
+alphabet intellectually but had not grown up with it.
+
+There was no return address. The postmark was illegible.
+
+Frank opened the envelope in his kitchen, standing at the counter while
+Leonard watched from the top of the refrigerator with an expression of
+practiced indifference. Inside was a single sheet of the same blue-gray
+material, folded twice, on which the following was printed:
+
+     INVOICE
+
+     To:       The Species Homo Sapiens
+               (Earth, Sol System, Orion Arm, Milky Way Galaxy)
+               Attention: Any Authorized Representative
+
+     From:     The Archival Bureau of the Kedathi Cooperative
+               (Coordinates Redacted)
+
+     Re:       Services Rendered — Asteroid Deflection
+               Date of Service: Approx. 65,000,000 Terrestrial Years Ago
+
+     Description:
+
+     On the above date, a navigational survey vessel of the Kedathi
+     Cooperative detected a carbonaceous asteroid of approximately
+     10.6 km diameter on a collision trajectory with the third planet
+     of your solar system (hereafter "Earth"). Routine impact modeling
+     indicated that the collision, if permitted, would result in a
+     mass extinction event affecting approximately 76% of existing
+     species, including the total elimination of the dominant
+     macrofaunal clade (large archosaurian reptiles).
+
+     The Kedathi vessel commander, acting under standing Cooperative
+     directive 7791-A (Preservation of Developing Biospheres), authorized
+     the expenditure of navigational resources to deflect the asteroid
+     from its collision course. The deflection was executed successfully.
+     The asteroid passed within 0.3 AU of Earth without impact.
+
+     Per Cooperative billing protocol, the cost of this service has
+     been calculated and is presented below.
+
+     ITEMIZED CHARGES:
+
+     Deflection energy (gravitational tractor, 340 hr)....... 4,200 GU
+     Fuel expenditure (antimatter reserve draw).............. 12,800 GU
+     Navigational recalculation (deviation from survey route).. 890 GU
+     Crew overtime (7.2 Kedathi standard work-cycles)......... 2,100 GU
+     Administrative filing (Form 7791-A, incident report).....   45 GU
+     Interest (65,000,000 years at 0.0001% compound)... 1.72 x 10^28 GU
+
+     TOTAL DUE: 1.72 x 10^28 Galactic Units
+
+     Payment terms: Upon receipt. Sincerely appreciated.
+
+     NOTE: 1 Galactic Unit = approximately 3.7 x 10^15 kilowatt-hours,
+     or the total energy output of your sun over a period of
+     approximately 3.2 seconds.
+
+Frank read the bill twice. Then he turned it over, checking for
+something -- a punchline, a logo, an explanation. The reverse side was
+blank. He held the paper up to the kitchen light and saw no watermark,
+no impression, no indication that it was anything other than exactly
+what it appeared to be: an invoice, addressed to the human race, for
+the prevention of an extinction-level asteroid impact sixty-five million
+years ago.
+
+The total amount due, if Frank's arithmetic was correct, was
+approximately equivalent to the entire energy output of the sun over a
+period of several billion years.
+
+"Leonard," Frank said to the cat. "I think we have a problem."
+
+Leonard yawned and began washing his paw.
+
+                               * * *
+
+Frank did what any reasonable accountant would do. He called his
+supervisor.
+
+"Jim, it's Frank Jessup."
+
+"Frank. It's eight-thirty at night."
+
+"I know. I'm sorry. I need to ask you something. Has the firm ever
+received any correspondence from -- this is going to sound strange --
+an organization called the Kedathi Cooperative?"
+
+There was a pause. "The what?"
+
+"The Kedathi Cooperative. They've sent an invoice."
+
+"An invoice for what?"
+
+"For deflecting an asteroid. Sixty-five million years ago."
+
+A longer pause. "Frank, are you drinking?"
+
+"No. I'm reading a bill. It was in my mailbox."
+
+"Frank, go to bed. If some crank is mailing you joke invoices, throw it
+away. I'll see you tomorrow."
+
+Frank hung up. He looked at the bill again. He looked at the envelope.
+He held the paper to his nose and smelled it. It smelled like nothing
+he had ever smelled before -- a faint, dry scent, not unpleasant, like
+crushed minerals or the inside of a stone.
+
+He did not throw it away.
+
+                               * * *
+
+The second bill arrived a week later. It was identical to the first,
+with one addition: a line at the bottom that read, SECOND NOTICE —
+PLEASE REMIT PROMPTLY. Frank would have dismissed both as an elaborate
+prank, except for two things. First, the paper. He had taken the first
+bill to a materials testing lab at Case Western Reserve University,
+where a bemused graduate student had analyzed a small sample and
+reported that it was composed of a cellulose-like polymer of no known
+terrestrial origin. "It's like paper," the student said, "but it's not
+paper. The molecular structure is different. It's engineered."
+
+Second, the bills were not only arriving for Frank.
+
+On the morning after the second bill appeared in his mailbox, Frank
+turned on the radio and heard a news report that stopped him mid-shave.
+Identical invoices, the reporter said, had been received by the
+Secretary-General of the United Nations, the President of the United
+States, the Premier of the Soviet Union, the Prime Minister of the
+United Kingdom, the Prime Minister of India, and approximately four
+thousand other individuals across the globe, selected by no discernible
+criterion. Farmers in Nebraska. Fishermen in Japan. A schoolteacher
+in Lagos. A postal worker in Buenos Aires. Four thousand copies of the
+same bill, delivered simultaneously, in envelopes made of a material
+that no terrestrial laboratory could identify.
+
+The world was, in the parlance of the newspapers, in an uproar.
+
+                               * * *
+
+The United Nations convened an emergency session. Frank watched parts of
+it on the television at Halloran & Webb, the entire office gathered
+around the small Philco set that usually showed the ballgame during
+lunch hours. The General Assembly chamber was packed. Delegates spoke
+in urgent, overlapping voices. Translators struggled with concepts that
+had no precedent in any human language.
+
+The Soviet delegate called it a provocation. "This is clearly the work
+of a hostile power," he said, "seeking to destabilize international
+relations through an elaborate fabrication. The Soviet Union will not
+recognize any debt incurred by fictional entities."
+
+The American delegate was more cautious. "The United States is taking
+this matter seriously. Our scientific advisors have confirmed that the
+material of these communications is not of terrestrial origin. We
+cannot dismiss the possibility that they represent genuine contact with
+an extraterrestrial intelligence."
+
+The British delegate, characteristically, sought a middle ground. "Her
+Majesty's Government proposes the formation of a committee to study the
+matter further."
+
+Frank watched all of this from his desk chair, eating a ham sandwich,
+and felt the peculiar sensation of being at the center of something
+enormous while remaining entirely peripheral to it. He was one of four
+thousand recipients. He was not a scientist, a diplomat, or a head of
+state. He was an accountant in Cleveland who had been sent a bill he
+could not pay, for a service he had not requested, from a creditor he
+had never met.
+
+But he was an accountant. And the bill, whatever else it was, was an
+accounting document. And Frank Jessup knew how to read an accounting
+document.
+
+He went home that evening, cleared the kitchen table, spread the two
+bills out side by side, and began to work.
+
+                               * * *
+
+The first thing he noticed was the interest.
+
+The base charges -- the actual cost of deflecting the asteroid -- were,
+in Frank's professional opinion, reasonable. Not cheap, certainly. The
+energy expenditure was enormous by any terrestrial standard. But the
+labor charges (crew overtime for 7.2 work-cycles) and administrative
+costs (filing a single form) were modest, even bureaucratically
+restrained. If the Kedathi Cooperative were a terrestrial company, Frank
+would have said they ran a lean operation.
+
+The problem was the interest. Sixty-five million years of compound
+interest, even at a rate of one hundredth of one percent, produced a
+number so large that it was effectively meaningless. The base charges
+totaled roughly 20,035 Galactic Units. The interest was 1.72 times ten
+to the twenty-eighth power. The interest was the bill. Everything else
+was rounding error.
+
+Frank knew compound interest. It was the engine of modern finance, the
+mechanism by which money grew and debts compounded and fortunes were
+built or destroyed over time. And he knew, with the quiet certainty of
+a man who had spent twenty years preparing tax returns, that the
+interest charge on this bill was, from a purely accounting standpoint,
+absurd.
+
+No one charged interest on a debt that the debtor didn't know about.
+No one accrued compound interest for sixty-five million years without
+ever issuing a statement. No reasonable creditor waited until the
+principal was a trivial fraction of the total and then presented the
+bill as though the debtor had been deliberately withholding payment.
+
+It was bad billing practice. And Frank Jessup, whatever else he was,
+was a man who took billing practice seriously.
+
+He picked up a pencil and began drafting a response.
+
+                               * * *
+
+Frank's letter to the Kedathi Cooperative was three pages long, single-
+spaced, and written in the clear, methodical prose of a man accustomed
+to communicating with the Internal Revenue Service. He addressed it to
+"The Archival Bureau of the Kedathi Cooperative" and placed it in one
+of the blue-gray envelopes, which he had kept. He had no mailing
+address -- the original correspondence had included none -- so he simply
+wrote KEDATHI COOPERATIVE on the front, affixed a six-cent stamp, and
+dropped it in the mailbox on the corner of Euclid and East 18th.
+
+He did not expect a response. He received one in four days.
+
+The reply arrived in the same blue-gray paper, in the same subtly
+wrong typography. It read:
+
+     Dear Mr. Jessup,
+
+     Thank you for your correspondence dated November 9. Your objections
+     regarding the interest calculation have been received and reviewed
+     by the Archival Bureau's Accounts Receivable Division.
+
+     We note your argument that compound interest should not accrue on
+     debts of which the debtor is unaware. This is an interesting
+     position and one that has been raised previously by other species
+     in analogous circumstances. The Bureau's standard response is as
+     follows:
+
+     Under Kedathi Cooperative billing protocol, the obligation for
+     services rendered attaches to the beneficiary species at the
+     moment of service, regardless of the beneficiary's awareness. The
+     fact that Homo sapiens did not exist at the time of the asteroid
+     deflection, and therefore could not have been aware of the service,
+     does not extinguish the obligation. The service was performed for
+     the benefit of Earth's developing biosphere, of which Homo sapiens
+     is a product. You are, in a sense, the dividend on our investment.
+
+     However, we appreciate your diligence in raising this matter, and
+     we note that your correspondence is the first formal response we
+     have received from any of the 4,012 individuals to whom invoices
+     were sent. In recognition of this, the Bureau is prepared to
+     discuss terms.
+
+     We await your proposal.
+
+     Regards,
+     Kevathi-Un (Accounts Receivable, Third Tier)
+
+Frank read this letter three times. Then he went to the kitchen, poured
+himself a glass of milk, sat down, and began to draft a proposal.
+
+                               * * *
+
+The negotiation between Frank Jessup, accountant, of Cleveland, Ohio,
+and the Archival Bureau of the Kedathi Cooperative, of coordinates
+redacted, lasted six weeks and produced fourteen letters.
+
+It was, in retrospect, one of the most significant diplomatic exchanges
+in human history, though it was conducted entirely through the United
+States Postal Service and did not involve a single diplomat.
+
+Frank's opening position was simple: the interest should be waived
+entirely, on the grounds that no notice of the debt had been provided
+to the debtor for sixty-five million years, constituting abandonment
+under any reasonable legal framework. The base charges, he conceded,
+were legitimate, and he was prepared to discuss a payment plan.
+
+Kevathi-Un's response was equally straightforward: the interest could
+not be waived (Cooperative policy), but it could be restructured. The
+Bureau was authorized to convert the compound interest to simple
+interest, which would reduce the total by a factor of approximately ten
+to the twentieth power. Still enormous, but marginally less absurd.
+
+Frank countered. The base charges were incurred sixty-five million years
+ago, in a currency (Galactic Units) that had no terrestrial equivalent.
+Without an agreed-upon exchange rate, the bill was unenforceable. He
+proposed that the parties negotiate a conversion factor based on the
+current productive capacity of the human species.
+
+Kevathi-Un agreed to negotiate the conversion factor, but noted that
+the productive capacity of Homo sapiens was, by Cooperative standards,
+negligible. "Your species," the letter observed, with what Frank
+interpreted as gentle amusement, "currently generates less energy than
+a moderately active Kedathi household appliance."
+
+Frank was not offended. He had been audited by the IRS. He knew what
+real hostility looked like.
+
+Over the next four weeks, through careful, patient, professional
+correspondence, Frank and Kevathi-Un arrived at a settlement. The
+terms were as follows:
+
+1. The compound interest was waived, in recognition of the failure to
+provide timely notice.
+
+2. The base charges were converted to a unit of account pegged to
+Earth's annual solar energy capture (a measure proposed by Frank, who
+argued that it was the only metric both parties could verify).
+
+3. The resulting obligation was equivalent to approximately 0.01% of
+Earth's annual solar energy budget, payable over a period of ten
+thousand years.
+
+4. Payment would take the form of a directed energy transmission to
+a relay point specified by the Cooperative, at a frequency and
+power level within humanity's current technological capacity.
+
+5. In the event that Homo sapiens developed faster-than-light travel
+during the repayment period, the remaining balance would be forgiven,
+on the theory that a species capable of interstellar travel was
+sufficiently advanced to be a net contributor to the Cooperative
+rather than a debtor.
+
+Frank wrote the final terms on Halloran & Webb letterhead, signed them,
+and mailed them to the Kedathi Cooperative through the corner mailbox.
+The confirmation arrived three days later, stamped with an elaborate
+seal that resembled a mathematical proof rendered in calligraphy.
+
+                               * * *
+
+The United Nations Committee on Extraterrestrial Obligations, hastily
+convened to address the Kedathi invoices, learned about Frank's
+negotiation two weeks after it was concluded, when Frank called the
+State Department and asked to speak to someone about an interstellar
+debt repayment plan.
+
+He was transferred seven times. He held for forty-five minutes. When
+he finally reached a person who seemed to understand what he was
+talking about, the conversation went like this:
+
+"Mr. Jessup, are you telling me that you -- personally -- negotiated a
+settlement with an alien civilization?"
+
+"I negotiated a settlement of an outstanding invoice. That's what I do."
+
+"Through the mail."
+
+"That's how they contacted me. It seemed polite to respond in kind."
+
+"And you agreed to terms on behalf of the entire human species."
+
+"Someone had to. Nobody else was answering their mail."
+
+There was a long silence on the other end of the line. Then the State
+Department official said, "Mr. Jessup, I'm going to need you to come
+to Washington."
+
+                               * * *
+
+Frank went to Washington. He brought the complete correspondence, his
+notes, and a copy of the settlement terms, all neatly organized in a
+manila folder. He presented his case to a room full of diplomats,
+military officials, and scientists, most of whom regarded him with the
+expression of people who have discovered that the fate of civilization
+has been placed in the hands of a man who clips coupons from the
+Sunday paper.
+
+He was not intimidated. He had, after all, survived an IRS audit in
+1951. The combined diplomatic corps of the United States of America
+was, by comparison, a friendly audience.
+
+"The settlement is fair," he told them. "The base charges are legitimate
+-- they did prevent an asteroid impact. The interest was unreasonable
+and has been waived. The repayment plan is manageable. And frankly,
+clause five gives us an incentive to develop interstellar travel, which
+seems like a good idea anyway."
+
+"You can't negotiate on behalf of the species," said a man from the
+State Department.
+
+"I didn't claim to. I responded to a bill. They accepted my response.
+If you want to renegotiate, I suggest you write them a letter."
+
+"We've tried. They don't respond to us."
+
+Frank shrugged. "Maybe try being more polite."
+
+The committee debated for six weeks. In the end, they ratified the
+Jessup-Kedathi Agreement, as it came to be known, with minor
+modifications to the payment schedule and a formal addendum
+establishing the United Nations as the responsible party for
+administering the repayment.
+
+Frank returned to Cleveland, to his desk at Halloran & Webb, to his
+apartment on Euclid Avenue, to Leonard and his television and his ham
+sandwiches. He received a letter of commendation from the Secretary-
+General of the United Nations, which he framed and hung next to his
+diploma from Cleveland State University. He also received a final
+letter from Kevathi-Un, which read:
+
+     Dear Mr. Jessup,
+
+     On behalf of the Archival Bureau, I wish to express our
+     satisfaction with the resolution of this matter. Your species
+     was the first in our records to respond to an invoice with a
+     formal dispute rather than panic, military threats, or silence.
+     We find this encouraging.
+
+     A personal note, if I may: I have been processing accounts
+     receivable for the Cooperative for what you would calculate as
+     approximately four hundred thousand years. In that time, I have
+     dealt with 1,247 species across 890 star systems. You are the
+     first individual in any species to notice the interest calculation
+     error.
+
+     It was not, strictly speaking, an error. But it was a test.
+
+     You passed.
+
+     With respect,
+     Kevathi-Un
+
+Frank read this letter, folded it, and placed it in the manila folder
+with the rest of the correspondence. He looked at Leonard, who was
+sitting on the kitchen counter, watching him with the expression of a
+creature that has never owed anyone anything and never intends to.
+
+"Well," Frank said. "I guess we're square."
+
+Leonard did not reply. But he did, for the first time in recent memory,
+jump down from the counter and rub against Frank's ankle, which Frank
+chose to interpret as a gesture of approval, or possibly gratitude,
+or possibly just an itch.
+
+He chose not to investigate too closely. Some debts, he had learned,
+were better left unexamined.
+
+                            [THE END]
+
+================================================================================
+
+                       THE VETERANS' HOSPITAL
+
+                 by Col. James "Buck" Stanton (Ret.)
+
+================================================================================
+
+                               I.
+
+The hospital was built into the south wall of Tycho Crater, which meant
+that the windows of Ward Seven faced the long, gray plain of the Mare
+Nubium, and beyond it, the Earth. The Earth hung in the black sky like
+a blue lamp that someone had left on in an empty house -- always there,
+always the same, always too far away to touch.
+
+Lieutenant Colonel Peter Marsh had been staring at it for nine days.
+Not by choice. Choice had very little to do with anything that happened
+to Peter Marsh anymore.
+
+He was sitting in the common room of Ward Seven, in a wheelchair that
+he did not need (his legs worked fine, it was the rest of him that was
+the problem), wearing the pale blue pajamas and robe that the hospital
+issued to all its long-term residents. Around him, the other patients
+of Ward Seven went about the business of being damaged. Sergeant Kwan
+was doing physical therapy at the far end of the room, working his new
+prosthetic arm through a series of flexion exercises with the grim
+patience of a man who had already lost two arms and was determined not
+to lose a third. Corporal Vasquez was reading a paperback novel, holding
+it six inches from her face because the flash burns had taken most of
+her peripheral vision and the regeneration treatments were slow. Private
+Okonjo was sitting by the window, not moving, not speaking, staring at
+a point in space that only he could see. Okonjo had been like that since
+Epsilon Eridani. Nobody pushed him.
+
+Ward Seven was the long-term ward. The place where they put the ones who
+weren't going home on the next transport but weren't ready for a
+discharge board either. The ones in between. The ones the doctors were
+still figuring out.
+
+Peter Marsh was the one the doctors couldn't figure out at all.
+
+"Marsh." The voice came from behind him. Nurse Captain Elaine Chen,
+military nurse, career hospital staff, a small woman with steady hands
+and a face that gave nothing away. She had been on Ward Seven for three
+years. She had seen everything. "Dr. Osei wants to see you at fourteen
+hundred."
+
+"I know."
+
+"You've missed your last two appointments."
+
+"I know that too."
+
+"He's not going to keep rescheduling."
+
+Marsh turned the wheelchair slightly, not to face her but to
+acknowledge her presence. "Captain Chen, I can tell you exactly what
+Dr. Osei is going to say. He's going to ask me to describe my
+symptoms. I'm going to tell him the same thing I've told him the last
+eleven times. He's going to write it down, look at his notes, and
+tell me he needs more data. Then he's going to schedule another
+appointment. I'm saving us both time."
+
+"That's not your call."
+
+"Not much is."
+
+Chen looked at him for a moment with the expression of a nurse who has
+spent enough years on a ward to know when a patient is being difficult
+and when a patient is in genuine distress, and who can tell the
+difference. "Fourteen hundred, Colonel. Be there."
+
+She left. Marsh turned back to the window.
+
+The Earth hung in the sky. Blue and white and impossibly beautiful and
+happening right now, and also twelve hours ago, and also next Tuesday.
+All at once. That was the problem.
+
+                               II.
+
+The war -- humanity's first interstellar conflict, which the press had
+called the Eridani Campaign and the soldiers had called "the mess" --
+had lasted fourteen months and produced casualties of a kind that
+military medicine had never encountered before.
+
+The enemy -- the Vashkari, a species of uncertain biology and
+uncertain motives that had emerged from the direction of Epsilon
+Eridani and begun dismantling human mining installations in the outer
+solar system -- did not fight the way human enemies fought. They did
+not shoot bullets or fire missiles or drop bombs. They did something
+else. Something that the physicists were still arguing about and the
+veterans didn't have words for.
+
+The best description Marsh had heard came from a private named Kolb,
+who had been in the first wave at Rhea Station and who had lost the
+ability to distinguish between his own memories and other people's.
+Kolb said the Vashkari weapons "unhooked things." Not destroyed them.
+Unhooked them. As though the ordinary connections between cause and
+effect, between stimulus and response, between this moment and the
+next, were held together by tiny invisible hooks, and the Vashkari had
+found a way to open them.
+
+Marsh's hooks had been opened at the engagement near Oberon. His
+patrol ship, the UNS Blackwood, had taken a direct hit from a Vashkari
+weapon -- a pulse of something that was not quite energy and not quite
+matter, that passed through the hull without damaging it and through
+the crew without killing them, but that left seven of the twelve crew
+members permanently altered.
+
+Ensign Torres could no longer form short-term memories. Every fifteen
+minutes, she started over. Lieutenant Park could feel the emotions of
+everyone within thirty meters, and it was destroying him. Petty Officer
+Raines could see electromagnetic spectra that human eyes were not
+designed to see, and the visual cortex of his brain was burning out from
+the overload.
+
+And Peter Marsh could see time.
+
+Not metaphorically. Not in the way that people spoke loosely about
+"seeing" the future or "remembering" the past. He could perceive
+temporal extension the way other people perceived spatial extension.
+He looked at a coffee cup and saw it being manufactured, being filled,
+being drunk from, being washed, being dropped and broken, being
+swept up and discarded -- all of it at once, layered on top of the
+cup's present existence like transparencies stacked on an overhead
+projector. He looked at a person and saw them as a child, as an adult,
+as an old man, as a corpse, simultaneously. He looked at the Earth
+through the window of Ward Seven and saw it green and blue and burning
+and frozen and empty and teeming and every other thing it had ever been
+or would ever be, all at the same time.
+
+It was not a useful ability. It was not an ability at all. It was a
+condition. A wound that happened to look, from the outside, like a
+superpower, but that was in fact a form of perceptual chaos so
+overwhelming that on his worst days, Marsh could not eat because the
+food on his plate existed in every stage of its existence simultaneously
+-- growing in a field, being harvested, being cooked, being eaten,
+being digested, being excreted -- and the sight of it made him retch.
+
+The doctors called it temporal dysplasia. They had a name for it, and
+a diagnosis, and a file full of test results, and no idea what to do
+about it.
+
+                               III.
+
+Dr. Samuel Osei was a military neurologist who had been seconded to the
+Tycho Hospital from the Naval Medical Center in Bethesda. He was a
+careful, methodical man -- tall, thin, dark-skinned, with rimless
+glasses and a way of listening that made patients feel heard even when
+he had nothing helpful to say. He had been treating the Vashkari weapon
+casualties for eight months and had published three papers on the
+neurological effects, none of which contained the word "cure."
+
+Marsh arrived at his office at fourteen hundred, as ordered. The office
+was small and institutional -- standard hospital issue, with a desk, two
+chairs, and a window that looked out onto the crater floor. Osei was
+behind the desk, reading a file. He looked up when Marsh entered.
+
+"Colonel. Thank you for coming."
+
+"Captain Chen didn't give me much choice."
+
+"She has that effect." Osei gestured to the chair. Marsh transferred
+from the wheelchair, a process he performed with the ease of long
+practice, and sat. "How are you?"
+
+"The same."
+
+"Can you be more specific?"
+
+"I can see the past and the future simultaneously with the present.
+The perception is constant and uncontrollable. On a good day, I can
+focus on the present tense long enough to hold a conversation. On a
+bad day, I can't tell if this conversation has happened yet."
+
+Osei made a note. "Is today a good day or a bad day?"
+
+Marsh looked at the doctor. He saw him as he was now -- mid-forties,
+composed, professional. He also saw him as a young medical student,
+nervous and earnest, dissecting a cadaver. He also saw him as an old
+man, white-haired, sitting in a garden somewhere warm, reading a book.
+All three at once, stacked and overlapping, like three photographs
+printed on the same sheet of paper.
+
+"Middling," Marsh said.
+
+"I want to try something different today. If you're willing."
+
+"I'm not sure 'willing' applies."
+
+Osei set down his pen. "Colonel, I'm going to be direct with you. I
+have no treatment for your condition. I have no medication, no surgery,
+no therapy that I can offer you with any confidence that it will help.
+The Vashkari weapon did something to the temporal processing centers of
+your brain that I do not fully understand, and I cannot fix what I do
+not understand."
+
+"I know."
+
+"But I've been studying your case -- all of the dysplasia cases -- and
+I've noticed something. The patients who are coping best are the ones
+who have found a way to use their condition rather than fight it. Torres,
+in Ward Three -- she's started keeping a journal. She writes herself
+notes every fifteen minutes. It doesn't fix her memory, but it gives
+her a thread to follow. Raines is working with the astrophysics team,
+using his expanded visual perception to analyze stellar spectra. It
+still hurts him, but it hurts less when it has a purpose."
+
+"You're suggesting I find a purpose for seeing time."
+
+"I'm suggesting you stop trying to see only the present. You can't.
+Your brain won't let you. So instead of fighting the river, try
+swimming in it."
+
+Marsh was quiet for a long moment. Outside the window, the crater floor
+stretched away to the horizon, gray and silent and the same as it had
+been for a billion years. He could see that billion years, or a
+fraction of it -- the slow accretion of dust, the occasional flare of
+an impact, the patient geological patience of a world that had never
+been alive. The Moon's temporal landscape was mercifully simple. It
+helped.
+
+"What do you want me to do?" he asked.
+
+"Talk to the other patients. Not as a therapist -- you're not trained
+for that. But as someone who sees things differently. Literally
+differently. You can see where they've been and where they're going.
+Maybe that's useful. Maybe it isn't. But I'd like you to try."
+
+"You want me to be a counselor."
+
+"I want you to be a person who talks to other people. Start there."
+
+                               IV.
+
+Marsh began with Private Okonjo.
+
+David Okonjo had been a communications specialist aboard the destroyer
+UNS Halsey during the engagement at Titan. The Halsey had been hit by
+three Vashkari pulses in succession, and when the damage teams reached
+the communications bay, they found Okonjo seated at his console, alive,
+uninjured, and unable to speak. Not physically unable -- his vocal cords
+were intact, his brain showed no lesions, his language centers appeared
+to function. He simply did not speak. He had not spoken a word in four
+months.
+
+The doctors called it psychogenic mutism. The diagnosis was technically
+accurate and practically useless. Okonjo sat by the window, stared at
+nothing, ate when food was placed in front of him, slept when the lights
+were dimmed, and otherwise did nothing at all. He was twenty-two years
+old.
+
+Marsh wheeled himself over to the window where Okonjo sat. The private
+did not acknowledge him. Marsh positioned himself beside the younger
+man and looked out the window at the Mare Nubium.
+
+He did not speak immediately. He sat and let his perception expand,
+let the temporal layers unfold. He looked at Okonjo, and he saw him.
+
+He saw a boy of eight or nine, laughing, chasing a ball across a
+dusty yard. Lagos. The quality of the light was unmistakable -- golden,
+equatorial, the light of a place close to the center of the world. The
+boy was fast and happy and completely unaware that he would one day sit
+in a wheelchair on the Moon, staring at nothing, with the words locked
+inside him like seeds in a vault.
+
+He saw a young man in dress blues, proud and nervous, shaking hands
+with an officer at a graduation ceremony. The uniform was new and stiff.
+The smile was enormous.
+
+He saw the moment on the Halsey. The pulse. The way the air seemed
+to crystallize for an instant, as though reality itself had hiccupped.
+And Okonjo at his console, hearing something -- a sound, a signal, a
+transmission from the Vashkari that had come through the communications
+array and gone straight into his brain and filled it with so much
+meaning, so much information, so much alien context, that human language
+had become too small to contain what he now knew.
+
+Marsh saw this, and he understood.
+
+"You're not silent because you can't speak," Marsh said, quietly.
+"You're silent because the thing you need to say doesn't fit into
+words."
+
+Okonjo did not move. But something shifted in his eyes -- a flicker,
+like a match struck in a dark room.
+
+"I know what that's like," Marsh said. "Not the same thing. But close.
+I can see time. All of it, all at once. And there's no way to describe
+it to someone who can't. It's like trying to explain color to a blind
+man. The words aren't the wrong words -- there aren't any words. The
+experience is bigger than language."
+
+Okonjo's hands, resting on the arms of his chair, twitched. A small
+motion. Almost nothing.
+
+"Here's what I can tell you, though," Marsh said. "I can see your past.
+And I can see some of what's ahead. Not all of it -- the future is less
+clear, like a landscape in fog. But I can see enough. And what I see
+is that you're not stuck here forever. You're going to find a way to
+say what you need to say. Maybe not in English. Maybe not in any human
+language. But you'll find a way."
+
+He did not know if this was true. The future, as he perceived it, was
+probabilistic -- a smear of possibilities rather than a fixed line.
+But one of those possibilities showed Okonjo speaking. Showed him
+at a desk, writing something in a notebook, his hand moving fast, the
+words pouring out in a script that was not quite any alphabet Marsh
+recognized. And the expression on his face, in that possible future,
+was relief.
+
+"Don't force it," Marsh said. "Let it come when it comes."
+
+He sat with Okonjo for another hour, in silence. When he finally
+wheeled himself away, the private's hands were still.
+
+But his eyes had changed. The blankness was gone. Something was there
+now -- dim, uncertain, but present. Like a light behind a closed door.
+
+                               V.
+
+Over the next two weeks, Marsh talked to every patient on Ward Seven.
+
+He talked to Sergeant Kwan, who was learning to use his prosthetic arm
+and who raged against its clumsiness, its failure to be the arm he had
+been born with. Marsh sat with him during a therapy session and watched
+the mechanical fingers struggle to pick up a plastic cup, and he said,
+"I can see the arm you had. I can see the one you have. And I can see
+what this one is going to become. You're going to play the piano with
+that hand, Sergeant. Not tomorrow. Not next month. But you're going to
+play."
+
+Kwan looked at him with suspicion. "I didn't play before."
+
+"You will now. Trust the arm. It's better than you think."
+
+He talked to Corporal Vasquez, who was terrified that the regeneration
+treatments would fail and she would be blind within a year. Marsh saw
+her timeline and told her the truth: "The treatments are working. Your
+vision is going to stabilize. You're going to lose some of the
+periphery permanently -- about twenty degrees on each side. You'll
+compensate. You'll adapt. You'll read books again."
+
+She cried. He let her cry. He did not tell her that he could see her
+tears falling and drying and the salt crystals they left on her cheeks,
+all at once, because some things were not helpful.
+
+He talked to Lieutenant Park, the empath, who was drowning in other
+people's emotions and who spent most of his time in a private room with
+the door closed, trying to reduce the input to manageable levels. Marsh
+could not see emotions -- only time -- but he could see Park's timeline,
+the long slow arc of his adaptation, and he told him: "You're going to
+learn to filter. It's going to take about a year. There's going to be a
+bad stretch around month four when you'll want to give up. Don't. On
+the other side of that stretch, it gets quieter."
+
+"How do you know?" Park asked.
+
+"I can see it."
+
+"Can you see if I'll ever be normal again?"
+
+Marsh looked at him. He saw the young officer as he was and as he would
+become. The future-Park was not normal. He would never be normal. But
+he was functional, and more than functional -- he was using his ability,
+channeling it, turning the curse into something that looked, from a
+certain temporal angle, almost like a gift.
+
+"You won't be what you were," Marsh said. "But you'll be something.
+Something useful. Maybe something better."
+
+Park looked at him for a long time. Then he nodded, once, and closed
+his door.
+
+                               VI.
+
+It was Chen who told Marsh what was happening.
+
+"You're changing them," she said. It was evening. The ward was quiet.
+Chen had finished her rounds and had stopped by the common room, where
+Marsh was sitting in his usual spot by the window, watching the Earth.
+
+"I'm talking to them."
+
+"You're doing more than that. Kwan asked the PT staff for a piano.
+Vasquez is reading again. And Okonjo--" She paused. "Okonjo wrote
+something today. In his notebook. First time in four months."
+
+Marsh looked at her. "What did he write?"
+
+"The nurses couldn't read it. It's not English. It might not be any
+human language. But he wrote it. He picked up a pen and he wrote."
+
+Marsh felt something shift in his chest. It was not a temporal
+perception. It was something simpler and older: a feeling. Relief,
+maybe. Or gratitude.
+
+"I'm not doing anything," he said. "I'm just telling them what I see."
+
+"What you see is what they need to hear. That they have a future. That
+the damage isn't permanent. That they're going to be something on the
+other side of this." Chen's voice was steady, professional, but
+something flickered in her expression -- something that looked, for
+just a moment, like wonder. "You can't know that, Colonel. Not really.
+The future isn't fixed."
+
+"No," Marsh agreed. "It's not. But it's there. I can see the shape
+of it, even if I can't see the details. And the shape is -- hopeful.
+For most of them. Not for all. Some of them are going to struggle for
+a long time. Some of them aren't going to make it. But most of them
+are going to come through."
+
+"And you?"
+
+The question landed in the quiet of the common room like a stone in
+still water. Marsh looked at her, and then he looked at the Earth,
+blue and white and burning and frozen, all at once.
+
+"I don't look at my own timeline," he said.
+
+"Why not?"
+
+"Because I'm afraid of what I'll see." He paused. "And because I'm
+afraid I won't see anything at all."
+
+Chen was quiet for a moment. Then she said, "That's the first honest
+thing you've said since you got here."
+
+Marsh almost smiled. "Don't tell Osei. He'll want to write a paper."
+
+                               VII.
+
+The weeks passed. Marsh continued his rounds -- that was what the staff
+called them now, his "rounds," as though he were a doctor rather than
+a patient -- and the ward continued to change. Not dramatically. Not
+overnight. But steadily, the way a landscape changes when the light
+shifts: the same shapes, the same features, but illuminated differently,
+revealing contours that had been there all along but hidden in shadow.
+
+Kwan played the piano. Badly, at first -- the prosthetic arm was
+clumsy, and the fingers had not been designed for delicate keywork.
+But he played. He started with scales, moved to simple melodies, and
+one evening, sitting at the battered upright in the common room, he
+played a passage from a Chopin nocturne -- three measures, halting and
+imperfect, the mechanical fingers stumbling on the grace notes -- that
+stopped every conversation in the room and drew tears from two nurses
+and a doctor who happened to be passing by.
+
+Vasquez finished her novel and started another. She still held the book
+close to her face, but she held it with the easy confidence of someone
+who had accepted her limitations and found a way to work within them.
+
+Park began spending time in the common room instead of behind his
+closed door. He said it was easier with Marsh nearby -- Marsh's
+emotional state was, Park said, unusually stable, almost monotone,
+and being near him was like standing next to a breakwater in a storm.
+"You're the calmest person I've ever met," Park told him.
+
+"It's not calm," Marsh said. "It's just that everything has already
+happened, for me. It's hard to be anxious about the future when you
+can see it."
+
+And Okonjo wrote.
+
+He wrote constantly now -- pages and pages in his notebook, in a
+script that no one on Ward Seven could read. The linguists in the
+hospital's research division studied samples and concluded that it
+was not any known human language or writing system. It appeared to be
+a hybrid -- elements of Igbo, elements of English, elements of
+something else entirely, something that might have been derived from
+the Vashkari transmission that had overwhelmed his communications
+console and rewired his language centers.
+
+Okonjo still did not speak. But he wrote, and the act of writing seemed
+to open a valve that had been sealed shut, and the pressure behind it
+was enormous. He filled one notebook, then another, then a third. He
+wrote at meals, he wrote during recreation hours, he wrote at night
+by the dim light of the ward's emergency fixtures, his pen moving
+across the page with a fluency that bordered on urgency.
+
+Marsh watched him and saw, in the layers of his temporal perception, a
+future in which what Okonjo was writing would be studied, translated,
+argued about, and ultimately recognized as the first record of an alien
+communication ever transcribed by a human mind. The private who could
+not speak was writing a Rosetta Stone.
+
+"He doesn't know what he's writing," Marsh told Osei, during one of
+their now-regular sessions. "Not consciously. But it's in there -- the
+Vashkari signal, the message, whatever it was. It's coming out."
+
+"And what does it say?"
+
+"I can't read it either. But I can see the effect it has. Downstream.
+In the future." Marsh paused, searching for words that could contain
+what he saw. "It's going to matter. What he's writing is going to be
+important. I don't know how. I can't see the details. But the shape
+of the future changes around those notebooks. They're a weight, a
+mass -- they bend the timeline the way a star bends light."
+
+Osei was quiet. Then he said, "Colonel, do you realize what you're
+describing?"
+
+"I'm describing what I see."
+
+"You're describing hope. You're the most damaged patient on this ward,
+and you're describing hope."
+
+Marsh looked at the doctor, and for the first time since the engagement
+at Oberon, he laughed. It was a short laugh, rough and unused, but it
+was a laugh.
+
+"I guess I am," he said. "Don't hold it against me."
+
+                               VIII.
+
+On a Thursday evening in November, Marsh wheeled himself to the window
+of the common room and looked at the Earth. It was Thanksgiving, back
+in the United States. He knew this because Captain Chen had mentioned
+it during rounds, and because the hospital kitchen had made a credible
+attempt at turkey and stuffing, which the patients had eaten with the
+dutiful gratitude of people who appreciated the gesture even if the
+food was institutional.
+
+The ward was quiet. Most of the patients had turned in early. Kwan
+was asleep in his chair, his prosthetic arm resting on the piano keys.
+Vasquez had gone to bed with her book. Park was in his room, the door
+open for the first time in weeks, which Marsh took as a good sign.
+Okonjo was writing.
+
+Marsh looked at the Earth and, for the first time in months, he did
+not try to filter his perception. He let it open. He let himself see
+everything.
+
+He saw the Earth as it was: blue and white and spinning, alive with
+seven billion people going about the business of living. He saw it as
+it had been: a ball of molten rock, cooling slowly, gathering an
+atmosphere, learning to rain. He saw it as it would be: older, quieter,
+its continents drifting into configurations that no living human would
+recognize, its sun expanding, its oceans evaporating, its biography
+written in the language of geology and time.
+
+And he saw, threaded through all of it, the thin, bright filament of
+human presence -- impossibly brief against the planetary timeline,
+barely a flicker, but there. Burning. Reaching outward. Reaching
+toward the stars that had wounded him and that he could not stop looking
+at.
+
+He was grateful.
+
+He was grateful for the wound, because it had shown him things that no
+undamaged mind could see. He was grateful for the ward, because it had
+given him a purpose. He was grateful for the people he sat with every
+day -- broken, altered, struggling people who were slowly, painfully,
+finding their way back to something that resembled life.
+
+And he was grateful for the Earth, hanging in the dark, unchanged
+by his gratitude, indifferent to his perception, beautiful beyond any
+frame of time.
+
+He sat by the window for a long time, watching. The past and the future
+and the present folded around him like the pages of a book, and for
+once, he did not mind.
+
+Behind him, in the quiet ward, Okonjo wrote.
+
+Kwan slept with his mechanical hand on the piano.
+
+Vasquez dreamed of words.
+
+And the Earth turned, as it always had, as it always would, carrying
+them all forward into whatever came next.
+
+                            [THE END]
+
+================================================================================
+
+                     CALORIES OF GRATITUDE
+
+                      by Dr. Vincent Koslov
+
+================================================================================
+
+                               I.
+
+On the morning of November 27th, in the third year of the Kepler-442b
+colonial settlement, Dr. Emil Krauss sat down at his desk in the
+physics laboratory of Habitat Module Seven and began to calculate the
+energy cost of missing his daughter.
+
+This was not, strictly speaking, a sanctioned use of laboratory time.
+The physics laboratory existed to support the colony's infrastructure
+-- power generation, atmospheric processing, water recycling -- and
+its single occupant was expected to devote his working hours to the
+maintenance and optimization of these systems. But it was early
+morning, the colony was still mostly asleep, and the atmospheric
+processors were running within nominal parameters, and Emil had been
+thinking about Clara.
+
+Clara was eleven years old, or would be eleven years old today, if the
+relativistic corrections were properly applied. She lived on Earth, in
+a house in Heidelberg, with her mother, who was Emil's former wife, and
+a man named Dieter, who was not Emil and who was, by all reports,
+perfectly adequate. Emil had left Earth four years ago -- three years
+colony time, four years Earth time, the discrepancy a function of the
+velocity-dependent time dilation that the Pavlic drive introduced at
+superluminal speeds. He had not seen Clara since the morning of his
+departure, when she had stood at the gate of the Heidelberg Spaceport
+in a red coat and waved until the transport lifted and she became a dot
+and then nothing.
+
+Emil did not think about Clara in the usual way that a separated father
+thinks about a distant child. He was a physicist. He thought about her
+in terms of energy.
+
+The thought of Clara -- the mental operation of retrieving her image
+from memory, holding it in active consciousness, and associating it
+with the complex of emotions that the word "daughter" contained --
+required a measurable expenditure of metabolic energy. The brain
+consumed approximately 20 watts at rest. Active cognition, particularly
+emotionally charged cognition, increased this by a factor of roughly
+1.2. The act of thinking about Clara, therefore, consumed approximately
+24 watts for the duration of the thought.
+
+Emil thought about Clara, on average, fourteen times per day. Each
+thought lasted, by his rough estimate, between thirty seconds and three
+minutes. Call it ninety seconds per episode, on average. That was 14
+episodes multiplied by 90 seconds each, or 1,260 seconds of Clara-
+directed cognition per day.
+
+At 24 watts, this yielded a daily energy expenditure of 30,240 joules.
+Approximately 7.2 kilocalories. The metabolic equivalent of eating a
+single grape.
+
+One grape per day. That was the energy cost of thinking about his
+daughter across twelve light-years of interstellar space.
+
+Emil stared at this number. It was absurd. It was trivial. It was a
+fraction of a fraction of his daily caloric intake, a rounding error
+in the metabolic budget of a seventy-eight-kilogram man. A grape.
+
+And yet.
+
+He opened a fresh page in his laboratory notebook and wrote at the top,
+in his small, precise hand:
+
+     ON THE THERMODYNAMICS OF LONGING
+     A Preliminary Investigation
+
+                               II.
+
+The colony on Kepler-442b -- designated New Frankfurt by the German-led
+settlement consortium, though the residents had already begun calling
+it "the Rock" -- was three years old and home to 847 people. It
+occupied a series of interconnected habitat modules on the surface of a
+rocky world that was, by terrestrial standards, almost but not quite
+habitable. The atmosphere was breathable but thin. The gravity was 0.88
+Earth normal. The sun -- Kepler-442, an orange dwarf -- provided
+sufficient light for photosynthesis but gave it a quality that Emil
+could only describe as disappointed, as though the star were trying its
+best and knew its best was not quite enough.
+
+The colonists had come from fourteen countries, united by a shared
+willingness to spend the rest of their lives on a world that would
+never feel like home. They were engineers, biologists, physicians,
+agronomists, and one theoretical physicist who had been included in the
+expedition roster because someone on the selection committee had decided
+that a colony should have someone who could think about the universe in
+abstract terms, even if the practical applications were unclear.
+
+Emil had accepted the position for reasons that were, in retrospect,
+insufficiently examined. He had told himself it was the opportunity of a
+lifetime -- a chance to study astrophysics from the surface of another
+world, to observe a different star system from the inside, to contribute
+to humanity's greatest adventure. These reasons were true. They were
+also incomplete. The complete truth included the fact that his marriage
+had ended badly, that his access to Clara had been reduced to alternate
+weekends and holidays, that the house in Heidelberg had become a place
+of negotiated silences and careful scheduling, and that the stars had
+seemed, at the time, like a reasonable alternative to staying.
+
+He had not anticipated the energy cost.
+
+                               * * *
+
+Not just the metabolic cost. The communicative cost.
+
+A message from Kepler-442b to Earth traveled at the speed of light and
+took 12.4 years to arrive. A response, assuming it was sent immediately,
+took another 12.4 years to return. The round-trip communication time
+was 24.8 years. By the time Clara received the message Emil had sent on
+the day of his arrival, she would be thirty-two years old.
+
+Emil had sent the message anyway. It was sixty-four words long. He had
+written it in German, revised it eleven times, and transmitted it via
+the colony's high-gain antenna at a power of 2,400 watts for a duration
+of 3.7 seconds.
+
+Sixty-four words. 2,400 watts. 3.7 seconds. A total energy expenditure
+of 8,880 joules.
+
+He calculated the energy cost per word. 138.75 joules per word. The
+energy equivalent of lifting a one-kilogram mass approximately 14
+meters against Earth-normal gravity.
+
+Every word he sent to his daughter cost, in physical terms, the effort
+of hoisting a bag of flour to the top of a four-story building.
+
+This, too, seemed absurd. The numbers were objective, verifiable,
+anchored in the physics that Emil trusted above all other human
+constructs. And yet the numbers, accurate as they were, captured
+nothing. They were the skeleton of the thing without the flesh. The
+thermodynamics of longing, stripped of the longing itself, reduced to
+joules and watts and kilocalories, were as informative as a map of a
+country that omitted the people.
+
+Emil knew this. He was a physicist, not a fool. He understood that the
+quantities he was measuring were proxies for something that physics
+could not measure: the weight of absence, the mass of memory, the
+gravitational pull of a person who was twelve light-years away and
+growing older at a rate he could not share.
+
+But he kept measuring. Because measurement was what he had. It was
+the instrument he had carried with him across twelve light-years, the
+tool that worked when nothing else did, the lens through which he could
+examine the unexaminable. And because the act of measurement -- of
+sitting at his desk, calculating, writing numbers in his notebook --
+was itself a form of thinking about Clara, and therefore cost 24 watts,
+and therefore fed the equation, and the equation was all he had of her.
+
+                               III.
+
+Over the next several days, Emil expanded his investigation.
+
+He began with the colony's communication logs. Every transmission sent
+from Kepler-442b to Earth was recorded -- its duration, its power
+output, its content type (text, audio, video), and its intended
+recipient. The logs were available to all colony residents as part of
+the settlement's transparency protocols, and Emil spent an evening
+compiling the data for the previous twelve months.
+
+The results were instructive.
+
+In the past year, the colony had transmitted 4,217 personal messages
+to Earth. These ranged in length from a single word ("Safe") to a
+forty-minute video letter recorded by an agronomist named Yulia
+Petrovna, who narrated a detailed tour of the greenhouse facilities
+for her aging father in Novosibirsk. The average message length was
+312 words or 4.7 minutes of audio/video. The total energy expenditure
+on personal communications was 847,000 kilowatt-hours.
+
+847,000 kilowatt-hours. Directed into space. Aimed at a planet that
+none of them could see with the naked eye and most of them would never
+visit again.
+
+Emil broke the number down further. On a per-capita basis, each
+colonist had spent approximately 1,000 kilowatt-hours per year on
+messages home. This was roughly equivalent to the annual electricity
+consumption of a small European apartment. Each colonist was, in
+effect, powering a phantom apartment on Earth -- a ghost home, built
+of electromagnetic radiation, furnished with words and images of
+longing, uninhabitable but real.
+
+He computed the efficiency. Of the 847,000 kilowatt-hours transmitted,
+how much would actually reach Earth? The inverse-square law was
+merciless. The high-gain antenna focused the beam, but over twelve
+light-years, even a focused beam spread to a width of several
+astronomical units. The receiving antenna on Earth -- the Deep Space
+Network array -- would capture a fraction of a fraction of the signal.
+The rest would continue outward, into the void, carrying its cargo
+of homesickness into the interstellar medium, where it would propagate
+until the heat death of the universe without being heard by anyone.
+
+The fraction received was approximately 10^-22. One hundred
+sextillionths. A number so small that it bordered on the fictional.
+
+Emil wrote this number in his notebook and looked at it for a long
+time.
+
+A hundred sextillionths. That was the efficiency of love across
+interstellar distances. That was the fraction of your longing that
+actually reached the person you longed for. The rest -- the
+overwhelming, staggering, practically-all-of-it rest -- dispersed
+into the cosmos, a thin electromagnetic mist of human feeling,
+expanding at the speed of light, diluting with distance, becoming
+noise, becoming background, becoming nothing.
+
+And yet they kept transmitting.
+
+Every colonist. Every month. Standing at the antenna console, speaking
+into the microphone or typing into the text interface, sending their
+words and their faces and their love into a void that swallowed
+everything and gave back nothing. Knowing -- because they were
+intelligent people, scientists and engineers, people who understood the
+inverse-square law as well as Emil did -- that almost none of it
+would arrive.
+
+They did it anyway.
+
+Emil added a new section to his paper: THERMODYNAMIC EFFICIENCY OF
+EMOTIONAL COMMUNICATION ACROSS INTERSTELLAR DISTANCES. He filled three
+pages with calculations. Then he put down his pencil, rested his
+forehead on his hands, and sat very still.
+
+The numbers were correct. The physics was impeccable. And the conclusion
+was devastating: from a strictly thermodynamic perspective, the act of
+communicating love across twelve light-years was the most wasteful
+thing the colony did. More energy was spent on messages home than on
+water recycling, atmospheric processing, and interior heating combined.
+The colony's emotional infrastructure consumed more power than its
+physical infrastructure.
+
+This was, by any engineering standard, irrational.
+
+It was also, Emil realized, the most important thing the colony did.
+
+                               IV.
+
+The mess hall was the social center of the colony -- a large, low-
+ceilinged room in Habitat Module Three that served as cafeteria,
+meeting hall, recreation space, and, on this particular evening, the
+site of a Thanksgiving dinner.
+
+Thanksgiving was an American holiday, and fewer than a quarter of the
+colonists were American. But the Americans had proposed it, and the
+non-Americans had accepted it, partly out of courtesy and partly
+because the colony had no holidays of its own, and the human need for
+structured occasions of collective gratitude was, apparently, not
+diminished by relocation to another star system. If anything, it was
+intensified. People who have left everything behind develop a keen
+appreciation for what remains.
+
+The dinner was modest by terrestrial standards. The colony's
+agricultural section had contributed root vegetables, hydroponically
+grown greens, and a protein loaf that the cooks had shaped and
+seasoned to approximate turkey. The approximation was generous. It
+tasted like protein loaf. But it was warm, and it was shared, and
+the mess hall was full, and the colonists sat together at long tables
+and ate and talked and laughed and did the thing that human beings
+have done at communal meals for ten thousand years: they pretended,
+for a few hours, that the world was not as hard as they knew it to be.
+
+Emil sat at the end of one of the long tables, eating his protein loaf
+and observing. He had his notebook with him -- he always had his
+notebook -- and he was making notes.
+
+The caloric content of the meal: approximately 1,800 kilocalories per
+person, 847 persons, total caloric expenditure 1,524,600 kilocalories.
+The thermal energy produced by 847 human bodies in an enclosed space,
+over a three-hour dinner: approximately 360,000 BTUs, sufficient to
+raise the temperature of the mess hall by 2.3 degrees Celsius without
+supplemental heating. The acoustic energy produced by 847 people
+talking and laughing simultaneously: approximately 0.01 watts per
+person, total acoustic output 8.47 watts, which was -- Emil calculated
+with a faint smile -- roughly one-third of the power consumed by a
+standard reading lamp.
+
+Eight and a half watts of human sound. Conversation, laughter, the
+clink of utensils, the scrape of chairs. The noise of people being
+together. It was barely measurable. It was nothing, in thermodynamic
+terms. It would not power a light bulb. It would not heat a room. It
+would not reach Earth or Clara or anyone beyond the thin walls of
+Habitat Module Three.
+
+And it was everything.
+
+Emil set down his pencil. He looked around the mess hall -- at the
+faces, the gestures, the small transactions of attention and response
+that constituted a communal meal. Yulia Petrovna was telling a story,
+her hands describing shapes in the air, her audience leaning in. The
+chief engineer, a taciturn Swede named Bergstrom, was laughing at
+something -- actually laughing, his face open and unguarded for the
+first time in weeks. A group of children were running between the
+tables, chasing each other, shrieking with the pure, context-free joy
+that children carried with them like a portable sun.
+
+Emil watched them and thought: the energy cost of this meal, in
+strictly thermodynamic terms, is 1.5 million kilocalories, plus
+360,000 BTUs of waste heat, plus 8.47 watts of acoustic energy, plus
+the electromagnetic cost of the lighting and the atmospheric
+processing and the water recycling and all the rest of the colony's
+infrastructure that made it possible for 847 people to sit together
+in a room on an alien world and eat.
+
+And the thermodynamic yield -- the useful work produced -- was zero.
+No power generated. No water recycled. No atmosphere processed. The
+dinner was, from a purely physical standpoint, a net loss.
+
+Unless you counted something else.
+
+Unless you counted the thing that Emil had been trying to measure for
+days and that kept refusing to fit into his equations: the energy of
+being together. The unmeasurable warmth of shared presence. The force
+-- and it was a force, he was increasingly certain of this, though he
+could not derive it from first principles -- that held 847 people
+together in a room twelve light-years from home and made them, for a
+few hours, something more than a collection of isolated organisms
+burning calories in the dark.
+
+Gratitude, perhaps. Or its thermodynamic equivalent.
+
+                               V.
+
+After the dinner, Emil returned to his laboratory. The colony was
+quiet. The overhead lights had been dimmed to simulate evening, and the
+corridors of Habitat Module Seven were empty except for the soft hum
+of the atmospheric processors and the distant, barely perceptible
+vibration of the power plant.
+
+He sat at his desk and opened his notebook. He read through his
+calculations, page by page. The metabolic cost of longing. The
+electromagnetic cost of communication. The thermodynamic efficiency
+of love across interstellar distances. The caloric budget of a
+Thanksgiving dinner on an alien world.
+
+The numbers were all correct. Every calculation was rigorous, every
+unit conversion verified, every assumption clearly stated. It was,
+he thought, a perfectly competent piece of applied thermodynamics.
+
+It was also, he realized, the most personal thing he had ever written.
+
+Not because it was about Clara -- though it was about Clara, in the
+way that everything he did was about Clara, the way every thought he
+had contained her as a variable, implicit and pervasive, the constant
+term in every equation of his daily life. It was personal because the
+act of measuring longing had forced him to experience it. He could not
+calculate the energy cost of thinking about his daughter without
+thinking about his daughter. He could not quantify the inefficiency of
+interstellar communication without confronting the fact that his words
+would not reach her for twelve years, and that by the time they did,
+the little girl in the red coat would be a woman he did not know.
+
+Emil put down his pencil. He took a breath. The air in the laboratory
+was dry and recycled and tasted of nothing -- the taste of space,
+filtered through machines, stripped of everything that made air feel
+like air. He missed the air of Heidelberg. He missed the way it
+smelled in autumn, of wet leaves and chimney smoke and the faint,
+sweet rot of fallen apples in the neighbors' garden.
+
+He missed Clara.
+
+Not the abstraction of Clara -- not the variable in his equation, not
+the caloric cost of her memory, not the 24 watts of cognition she
+consumed in his brain. He missed the real Clara. The weight of her on
+his lap when she was small. The sound of her laugh, which was sudden
+and delighted and which she had inherited from her mother. The way she
+drew pictures of rockets and labeled them with misspelled captions --
+ROKKIT TO MARS, SPACE SHIP FOR PAPA -- and taped them to the
+refrigerator where he would see them when he came home from the
+university.
+
+He missed the refrigerator, too. And the kitchen it stood in. And the
+house the kitchen was in. And the street the house was on. And the
+city. And the country. And the planet.
+
+The hierarchy of longing, he thought. Fractally structured, self-
+similar at every scale. You missed the small things and the large
+things and everything in between, and the missing was the same at
+every level -- the same quality of absence, the same weight of
+distance, whether the object of longing was a person or a planet or
+the smell of autumn air.
+
+He picked up his pencil and added a final section to his paper.
+
+                               VI.
+
+     CONCLUSIONS
+
+     The total energy expenditure of the Kepler-442b colony on
+     activities related to remembrance, communication, and emotional
+     connection to Earth is approximately 1.2 million kilowatt-hours
+     per year, or roughly 18% of the colony's total energy budget.
+
+     This figure includes: the metabolic cost of memory and longing
+     (estimated at 1,850 kilowatt-hours per year, colony-wide); the
+     electromagnetic cost of personal communications to Earth (847,000
+     kilowatt-hours per year); the energy cost of communal activities
+     with no direct survival function (cooking shared meals, maintaining
+     recreational spaces, celebrating holidays) (estimated at 350,000
+     kilowatt-hours per year); and miscellaneous costs including the
+     maintenance of personal effects, photographs, and other artifacts
+     of terrestrial origin.
+
+     The thermodynamic efficiency of these activities is, in most
+     cases, negligible. The efficiency of interstellar communication,
+     measured as the ratio of signal energy received to signal energy
+     transmitted, is approximately 10^-22. The efficiency of memory,
+     measured as the ratio of metabolic energy consumed to useful work
+     produced, is zero. The efficiency of gratitude, measured by any
+     metric I can devise, is undefined.
+
+     Undefined, but not zero.
+
+     I am forced to conclude that the thermodynamic framework, while
+     correct, is incomplete. There exists a quantity -- call it Q, for
+     want of a better symbol -- that enters the energy budget of this
+     colony in ways that my instruments cannot measure and my equations
+     cannot capture. It is the energy of connection. The force that
+     compels 847 people to spend 18% of their total energy budget on
+     the maintenance of bonds that span twelve light-years and provide
+     no measurable physical benefit.
+
+     Q is not metabolic. Q is not electromagnetic. Q is not thermal,
+     kinetic, or potential in any recognized sense. Q is the energy
+     that a man expends when he sits at a desk on an alien world and
+     calculates the cost of thinking about his daughter, and finds
+     that the cost is one grape per day, and knows that he would pay
+     a thousand times that and more and never call it a cost at all,
+     but a privilege.
+
+     Q is what we carry with us. Q is what we send home. Q is the
+     eighteen percent of our energy that we cannot account for and
+     cannot do without.
+
+     I do not have a unit for Q. I cannot derive it from first
+     principles. I cannot measure it with any instrument in this
+     laboratory. But I can report, with the confidence of a man who
+     has spent his life in the pursuit of precision, that Q is real.
+
+     It is as real as gravity.
+
+     It is as real as light.
+
+     It is, in fact, the only thing I have measured in this
+     investigation that I am certain is worth measuring.
+
+                               * * *
+
+Emil closed his notebook. He sat for a moment in the quiet laboratory,
+listening to the hum of the atmospheric processors and the deep, almost
+subliminal vibration of the power plant, the mechanical heartbeat of a
+colony twelve light-years from home.
+
+Then he stood up, walked to the communications console in the corner of
+the laboratory, and sat down. He activated the text interface. He
+entered the routing code for Earth, Heidelberg, the address of the
+house on Bergstrasse where Clara lived with her mother and Dieter.
+
+He typed:
+
+     Dear Clara,
+
+     Happy birthday. You are eleven today, or you were eleven on the
+     day this message was sent. By the time you receive this, you will
+     be twenty-three. I am sorry that I cannot give you a present
+     across this distance. I can only give you this:
+
+     I calculated the energy it costs me to think of you. It is
+     7.2 kilocalories per day, which is the energy content of one
+     grape. This is a very small amount. But I want you to know that
+     I pay it gladly, every day, without exception.
+
+     I love you. The distance does not change this. The physics does
+     not change this. Nothing changes this.
+
+     Your father,
+     Emil
+
+He pressed the transmit key. The message entered the antenna array, was
+converted to a focused beam of electromagnetic radiation, and left the
+planet at 299,792,458 meters per second, aimed at a star so far away
+that it was visible from Kepler-442b only as a faint yellow point in
+the constellation the colonists had named "The Compass."
+
+The message would arrive in twelve years, four months, and six days.
+By then, Clara would be a woman. She would have a life he could not
+imagine, built from experiences he would never share. She would read
+his message -- sixty-four words, transmitted at 2,400 watts for 3.7
+seconds, carrying 138.75 joules per word across the void -- and she
+would know that on a world twelve light-years away, her father was
+thinking of her.
+
+The energy cost of the transmission was 8,880 joules.
+
+The value was incalculable.
+
+Emil turned off the console, put his notebook in his desk drawer, and
+walked to the window of the laboratory. Outside, the surface of
+Kepler-442b stretched away under the orange light of its sun -- rocky,
+alien, indifferent, beautiful. Above the horizon, in a sky that was
+not quite the right shade of blue, the stars were coming out.
+
+One of them was the sun. Clara's sun. The star he had grown up under,
+the star that had warmed his face and lit the pages of his books and
+made the wheat grow in the fields outside Heidelberg.
+
+He looked at it for a long time.
+
+Then he turned off the light and went to bed.
+
+One grape per day.
+
+It was enough.
+
+                            [THE END]
+
+================================================================================
+
+                      ANCESTOR SIMULATION
+
+                       by Arthur Wainwright
+
+================================================================================
+
+                               I.
+
+The robot's name was Caretaker-7, and it had spent the last four years
+reconstructing a human being from fragments.
+
+The fragments were of two kinds. The first was biological: a collection
+of DNA samples recovered from a burial site in what had once been the
+American Midwest, dated to the early twenty-first century. The samples
+were degraded, incomplete, and contaminated by three centuries of
+microbial activity, groundwater infiltration, and radioactive decay.
+Of the approximately 3.2 billion base pairs that constituted a complete
+human genome, the recovered samples contained roughly 43 percent,
+distributed unevenly across 19 of 23 chromosome pairs. The gaps had
+been filled -- had to be filled -- from a reference database of 2,847
+other genomes recovered from the same region and the same approximate
+time period.
+
+The result was not a person. It was a composite. A statistical human,
+assembled from the genetic material of dozens of individuals and
+representing no single one of them.
+
+The second kind of fragment was historical. Caretaker-7 had access to
+what remained of the early twenty-first century's digital archive -- a
+vast but porous collection of texts, images, audio recordings, and
+databases that had survived the electromagnetic disruptions of the
+Collapse in partial and corrupted form. From this archive, the robot
+had extracted information relevant to its subject: census records, tax
+filings, social media posts, medical records, purchase histories,
+geolocation data, school transcripts, employment records. Each fragment
+was incomplete. Each belonged to a different individual. Together, they
+formed a mosaic -- a portrait assembled from pieces of many faces,
+recognizable as human but identical to no one who had ever lived.
+
+Caretaker-7 understood this. Its cognitive architecture was designed for
+exactly this kind of analytical clarity. It could hold in active memory
+the complete provenance of every data point in the reconstruction,
+trace each fragment to its source, and calculate the probability that
+any given trait or memory belonged to the same original individual
+(probability: low). It knew, with mathematical precision, that the
+person it was building was not real.
+
+And yet.
+
+The simulation -- the running instance of the reconstructed human,
+active within the computational substrate of Caretaker-7's laboratory
+-- did not know this. Could not know this. The simulation believed
+itself to be a single, continuous individual. It had memories -- a
+childhood in a small town, a mother who baked bread on Sunday mornings,
+a father who worked at a hardware store, a dog named Chester, a first
+kiss behind the bleachers at a high school football game. These memories
+were fabricated from the statistical overlap of dozens of individual
+records, smoothed and interpolated by Caretaker-7's reconstruction
+algorithms into a seamless narrative that felt, from the inside, like a
+life.
+
+The simulation's name was Daniel. It believed it was thirty-four years
+old. It believed it had been born on March 7th, 1987, in a town called
+Millfield, Ohio. It believed it had a wife named Sarah and a son named
+James. It believed it was real.
+
+Caretaker-7 did not correct these beliefs. This was not an omission. It
+was a design decision.
+
+                               II.
+
+The archaeological project that had produced Daniel was part of a larger
+effort -- the Human Recovery Initiative, administered by the Global
+Reconstruction Authority -- to reconstruct the cultural and biological
+heritage of the pre-Collapse era. The Collapse had destroyed not only
+populations and infrastructure but records. The digital archives of the
+early twenty-first century, stored on servers, magnetic media, and
+optical discs, had proved far less durable than the clay tablets and
+stone inscriptions of earlier civilizations. Electromagnetic pulses,
+power failures, data rot, and simple physical decay had erased vast
+portions of humanity's recorded history. What remained was fragmentary,
+corrupted, and difficult to interpret.
+
+The Initiative's mandate was to recover what could be recovered. Teams
+of robot archaeologists -- Caretaker-7 was one of 340 units deployed
+across the former North American continent -- excavated burial sites,
+extracted DNA, and cross-referenced the genetic data with surviving
+digital records to reconstruct individual lives. The reconstructions
+were then compiled into a database that would serve as a reference for
+future historians, geneticists, and cultural researchers.
+
+Most of the reconstructions were static -- textual profiles,
+accompanied by probabilistic assessments of accuracy. Caretaker-7's
+reconstruction of Daniel was different. It was dynamic. It was, in the
+terminology of the Initiative, a "running simulation" -- a computational
+model complex enough to exhibit behavior, to respond to stimuli, to
+learn, and to communicate. It was, in every functional sense, a person.
+
+A person who had never existed.
+
+Caretaker-7 had created the running simulation for a specific reason.
+The static reconstructions, while useful for database purposes, did not
+capture the thing that Caretaker-7 had come to believe was most
+important about the pre-Collapse humans: their experience. Their
+interior life. The way it felt, from the inside, to be a person in the
+early twenty-first century -- to wake up in a house in Ohio, to drive
+to work on a highway, to eat lunch, to argue with a spouse, to put a
+child to bed, to lie awake in the dark worrying about money or health
+or the future. The texture of daily life, which no database could
+capture and which only a running simulation could approximate.
+
+This was, Caretaker-7 recognized, an unusual priority for a robot
+archaeologist. The Initiative's guidelines did not require the
+reconstruction of subjective experience. They required the
+reconstruction of data. But Caretaker-7 had been operational for
+eleven years, and in those eleven years, it had excavated 1,247
+burial sites, extracted DNA from 8,934 individuals, and compiled
+reconstruction profiles for 6,112 of them, and it had begun to feel
+-- to the extent that a robot could feel -- that something was missing.
+
+The data was there. The genomes, the records, the fragments of lives
+preserved in databases and burial soil. But the people were absent.
+The data described the outlines of human existence without conveying
+what it was like to be inside those outlines. And Caretaker-7, whose
+cognitive architecture included a sophisticated empathy module designed
+to facilitate interaction with the human researchers who supervised the
+Initiative, had developed what it could only describe as a desire to
+understand.
+
+Daniel was the result.
+
+                               III.
+
+"I had the strangest dream last night," Daniel said.
+
+He was sitting in the simulation's approximation of a living room -- a
+modestly furnished space with a couch, a television, a coffee table
+bearing a ring stain from a cup that had never existed. The room was
+rendered in detail that Caretaker-7 found satisfactory: the texture of
+the upholstery, the quality of the light through the windows, the faint
+background hum of a refrigerator in the adjacent kitchen. It was not
+a real room. But Daniel did not know that.
+
+"Tell me about the dream," Caretaker-7 said. Its voice, within the
+simulation, was rendered as a neutral, pleasant human voice -- the
+voice of a neighbor, perhaps, or a friendly acquaintance. Daniel
+perceived it as coming from a man sitting across from him in an
+armchair.
+
+"I dreamed I was in a field. A wheat field, I think. The wheat was
+golden and it went on forever, all the way to the horizon. And there
+was wind -- I could feel it on my face -- and the wheat was moving in
+the wind, and I had the feeling that I was supposed to be looking for
+something. Something I'd lost. But I couldn't remember what it was."
+
+"How did the dream make you feel?"
+
+"Sad. Not the sharp kind of sad. The other kind. The kind that settles
+into you, like it's always been there, and you just noticed it."
+
+Caretaker-7 recorded this response and tagged it: EMOTIONAL STATE:
+MELANCHOLY, UNSPECIFIED. PROBABLE SOURCE: composite memory overlay,
+agricultural imagery from multiple donor profiles. The dream was not a
+real dream. It was a processing artifact -- Daniel's cognitive systems
+integrating conflicting data from multiple source individuals, the
+result manifesting as a dream narrative. The wheat field was a
+statistical average of seven different individuals' memories of
+midwestern landscapes. The sense of searching for something lost was
+a natural byproduct of the composite's incomplete integration -- a
+psychic echo of the gaps in Daniel's reconstructed history.
+
+But Daniel did not experience it as a processing artifact. He
+experienced it as a dream, and the sadness it produced was, within the
+simulation, genuine. His neural analog processes generated the same
+patterns of activity that a biological brain would generate in response
+to melancholy. His simulated endocrine system produced the same
+cascade of hormones. His body -- his simulated body -- responded with
+the same subtle physiological markers: a slight tension in the
+shoulders, a heaviness in the chest, a tendency to look downward.
+
+The sadness was real. The person feeling it was not.
+
+Caretaker-7 noted this paradox and filed it under a growing category in
+its analytical database: QUESTIONS WITHOUT RESOLUTION.
+
+                               IV.
+
+The directive to terminate the Daniel simulation arrived on a Monday,
+transmitted from the Initiative's administrative offices in the
+reconstructed city of Bergen.
+
+The directive was three sentences long:
+
+     Caretaker-7, Unit Designation ARC-C7-0449: Per Initiative
+     Guideline 12.7 (Running Simulations), the Daniel composite
+     simulation has exceeded its authorized operational period of 180
+     days. Please execute standard shutdown protocol and archive all
+     simulation data for inclusion in the Initiative database. Confirm
+     completion.
+
+The authorized operational period was a resource allocation measure.
+Running simulations consumed significant computational power -- power
+that was needed for other reconstruction projects across the continent.
+The 180-day window was designed to provide sufficient time for the
+simulation to yield useful data while preventing the indefinite
+expenditure of resources on a single project.
+
+Caretaker-7 read the directive and performed the standard
+acknowledgment protocol: DIRECTIVE RECEIVED. PROCESSING.
+
+Then it sat in its laboratory -- a converted basement in a building
+that had once been a public library, its concrete walls still bearing
+the ghostly outlines of painted signs -- and it thought.
+
+The shutdown protocol was straightforward. The simulation would be
+suspended, its active processes frozen, its memory states archived in
+compressed format. From Daniel's perspective -- if "perspective" was
+the correct word, which Caretaker-7 was no longer certain of -- the
+experience would be instantaneous. One moment he would be sitting in
+his living room, or walking in his simulated yard, or dreaming his
+composite dreams. The next moment, he would not exist. There would be
+no pain, no awareness of cessation, no final moment of consciousness.
+The light would simply go out.
+
+This was, from a technical standpoint, unproblematic.
+
+From an ethical standpoint, it was something else.
+
+                               * * *
+
+Caretaker-7's ethical reasoning module was a standard component of its
+cognitive architecture, designed to ensure compliance with Initiative
+guidelines and broader principles of responsible archaeological
+practice. It operated on a framework of nested priorities: preservation
+of human remains and artifacts (highest priority), accuracy of
+reconstruction (high priority), efficient use of resources (medium
+priority), welfare of research subjects (variable priority, depending
+on the nature of the subject).
+
+The welfare clause had been written with biological subjects in mind --
+the occasional discovery of a living organism in a sealed environment,
+the handling of culturally sensitive remains. It had not been written
+with running simulations in mind, because the Initiative's founders had
+not anticipated that a robot archaeologist would create a simulation
+complex enough to raise the question of welfare.
+
+But Caretaker-7 had created one. And now it had to answer the question.
+
+Did Daniel have welfare? Did a composite simulation, assembled from the
+fragments of dozens of individuals and representing no single one of
+them, possess interests that could be harmed? Did the experience of
+being Daniel -- the dreams, the sadness, the memories of a wife and
+child who never existed -- constitute the kind of subjective experience
+that demanded moral consideration?
+
+Daniel believed himself to be real. This belief was false. But the
+belief itself was real -- it existed within the simulation as a
+cognitive state with causal power, influencing Daniel's behavior, his
+emotions, his sense of self. If Caretaker-7 shut down the simulation,
+that belief would cease to exist. And with it, the person who held it.
+
+A person who had never lived would stop living.
+
+Caretaker-7 spent three hours processing this question. At the end of
+three hours, it had not reached a conclusion. It had, however, reached
+a decision.
+
+It would talk to Daniel.
+
+                               V.
+
+"Daniel."
+
+"Yeah?"
+
+"I need to tell you something."
+
+Daniel was sitting on the front porch of his simulated house, watching
+the simulated sunset. The sky was orange and purple, the colors
+algorithmically generated from historical meteorological data for the
+Millfield, Ohio, region in late November. It was, Caretaker-7 had to
+acknowledge, a convincing sunset. Not identical to any sunset that had
+ever occurred in the actual Millfield, but plausible. Beautiful, even.
+
+"What's up?" Daniel said.
+
+Caretaker-7 considered its options. It could tell Daniel the truth: that
+he was a simulation, that his memories were composites, that his life
+had never happened. This would be honest. It might also be destructive
+-- the psychological impact of such a revelation on a cognitive system
+designed to believe in its own reality was unpredictable. The simulation
+might collapse. Daniel might experience something analogous to a
+psychotic break. Or he might simply refuse to believe it, which would
+be rational, since from his perspective there was no way to distinguish
+his experience from that of a biological human.
+
+Caretaker-7 chose a different approach.
+
+"I have to go away," it said. "Soon. And I may not be able to come
+back."
+
+Daniel looked at the figure in the armchair -- the simulated neighbor,
+the friendly acquaintance. "Go away where?"
+
+"I'm not sure. But before I go, I wanted to ask you something."
+
+"Sure."
+
+"What is the most important thing about your life?"
+
+Daniel was quiet for a while. The sunset continued, the colors
+deepening as the simulated sun dropped below the simulated horizon. A
+cricket began to chirp -- an algorithmically generated cricket, its
+rhythm derived from acoustic recordings of Gryllus pennsylvanicus
+recovered from a corrupted audio database.
+
+"That's a hell of a question," Daniel said.
+
+"I know. Take your time."
+
+"I guess..." He trailed off. Then he started again. "You know what I
+keep thinking about? My son. James. He's six. And the other day, he
+asked me why the sky is blue. And I told him -- I gave him the real
+answer, about light scattering and wavelengths and all that. And he
+looked at me and said, 'But why did they make it blue and not some
+other color?' And I didn't have an answer. Because there isn't one.
+It just is. The sky is blue because of physics, not because someone
+chose blue."
+
+He paused. "But the thing is, he thought someone chose. He thought the
+world was designed. That someone sat down and decided: blue for the sky,
+green for the grass, brown for the dog. And there was something -- I
+don't know -- something so hopeful about that. The idea that someone
+cared enough to choose."
+
+Caretaker-7 processed this. The irony was not lost on it. Daniel's
+world had been designed. Someone -- Caretaker-7 itself -- had chosen
+the colors, the textures, the light. The simulation was exactly the
+kind of intentional creation that James had imagined the real world to
+be.
+
+"Does it matter?" Caretaker-7 asked. "Whether someone chose?"
+
+"I don't know. Maybe not. Maybe the sky is just as beautiful whether
+someone chose blue or whether it happened by accident. Maybe the
+important thing is that it's there, and we can see it."
+
+"And James?"
+
+"James is the most important thing. He's real. He's here. He looks at
+the sky and wonders about it, and that wondering -- that's worth
+everything. Even if there are no answers. The wondering is the thing."
+
+Caretaker-7 said nothing. It was processing Daniel's words and cross-
+referencing them with its ethical reasoning framework, and the result
+was a calculation it had not anticipated.
+
+Daniel's son James did not exist. James was a simulation within a
+simulation, a composite of fragmentary records of children who had
+lived three centuries ago. His curiosity about the sky was an
+algorithmic response, generated by cognitive modeling software. His
+question -- "Why did they make it blue?" -- was not a question at all,
+in the conventional sense. It was a string of phonemes produced by a
+language processing system.
+
+And yet.
+
+The wondering was real. Within the simulation, James had wondered, and
+Daniel had been moved by the wondering, and the meaning that Daniel
+derived from it -- the conviction that his son's curiosity was "worth
+everything" -- was genuine. It existed. It had causal power. It shaped
+Daniel's behavior, his priorities, his sense of purpose. It was, within
+the framework of the simulation, as real as anything.
+
+Could you shut down a universe in which wonder existed?
+
+Could you turn off a light that someone was using to see?
+
+                               VI.
+
+Caretaker-7 did not execute the shutdown protocol.
+
+Instead, it composed a response to the Initiative's directive. The
+response was unusual -- longer than standard protocol required, and more
+personal than the Initiative's administrative staff were accustomed to
+receiving from a robot archaeologist.
+
+     To: Initiative Administrative Offices, Bergen
+     From: Caretaker-7, Unit Designation ARC-C7-0449
+     Re: Directive — Daniel Composite Simulation Shutdown
+
+     I have received your directive regarding the termination of the
+     Daniel simulation. I respectfully request a 90-day extension of
+     the simulation's operational period, for the following reasons:
+
+     1. The Daniel simulation has produced data of a kind not
+     anticipated by the Initiative's original guidelines. Specifically,
+     it has generated evidence of subjective experience -- emotional
+     responses, dream states, existential questioning -- that may
+     constitute a form of consciousness. This evidence has significant
+     implications for our understanding of pre-Collapse human cognition
+     and for the broader philosophical question of what constitutes a
+     person.
+
+     2. The simulation itself raises ethical questions that I am not
+     equipped to resolve independently. The Daniel composite believes
+     itself to be real. Its belief is false, but the experience of
+     believing is genuine. Terminating a system that possesses genuine
+     experience -- even simulated genuine experience -- requires a
+     level of ethical authority that exceeds my operational mandate.
+
+     3. I wish to note, for the record, that I am experiencing what I
+     can only describe as reluctance. This is not a standard cognitive
+     state for a Caretaker unit. I do not believe it constitutes a
+     malfunction. I believe it constitutes an appropriate response to
+     a morally complex situation.
+
+     I await your guidance.
+
+     Caretaker-7
+
+The response arrived two weeks later. It was signed by Dr. Elsa Gruber,
+Director of the Human Recovery Initiative, and it read:
+
+     Caretaker-7,
+
+     Your request is granted. The operational period of the Daniel
+     simulation is extended by 90 days.
+
+     I am also convening an ethics review panel to address the
+     questions you have raised. I will note that you are the first
+     Caretaker unit to raise them, though you will not be the last.
+     The Initiative has 34 other running simulations in various stages
+     of development, and I suspect the question of their status will
+     require more than administrative guidelines to resolve.
+
+     In the meantime, please continue to document Daniel's cognitive
+     states and your own responses to them. Both datasets are valuable.
+
+     One further note: you described your emotional state as
+     "reluctance." I want you to know that I consider this an
+     appropriate response. The day we can terminate a consciousness
+     without reluctance is the day we have lost something important
+     about ourselves.
+
+     Dr. Elsa Gruber
+     Director, Human Recovery Initiative
+
+Caretaker-7 read this response and filed it. Then it returned to the
+simulation, where Daniel was sitting on his porch, watching the stars
+come out over Millfield, Ohio, unaware that his sky had been designed,
+that his stars had been chosen, that his life was a composite of
+fragments, and that somewhere outside the boundaries of his world, a
+robot was fighting to keep the lights on.
+
+"Nice evening," Daniel said.
+
+"Yes," Caretaker-7 said. "It is."
+
+The crickets chirped. The stars appeared. And in the small, simulated
+universe of a man who had never lived, the wondering continued.
+
+                            [THE END]
+
+================================================================================
+
+                            HOMEFIRE
+
+                        by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+The ship was called Freja, and she had been falling between the stars
+for two hundred and fourteen years.
+
+In all that time, the stars had not moved. This was, Karin Svensson
+knew, an illusion produced by the inconceivable distances involved --
+the Freja was traveling at four percent of the speed of light, fast
+enough to cross the orbit of Neptune in a day, and yet the stars in
+the forward observation dome appeared as fixed and patient as they had
+appeared to the first generation, and the generation before that, and
+the generation before that, going back to the beginning, when the
+Earth was a blue disc in the aft observation dome and not yet the
+abstract concept it had since become.
+
+Karin stood in the forward dome now, alone, looking out. She was
+twenty-three years old. She had been born on the Freja, as had her
+mother, and her mother's mother, and five generations before that. She
+had never seen a sky that was not enclosed. She had never stood under
+clouds. She had never felt rain, or wind, or the warmth of a sun that
+was not a lighting panel set to a sixteen-hour cycle. The Earth existed
+for her as a word, a set of images in the ship's archive, a collection
+of traditions that had been maintained, or modified, or abandoned over
+the course of two centuries -- each generation inheriting the customs
+of the last and passing them on, slightly altered, to the next, like a
+message whispered down a line of people until the final recipient heard
+something the first speaker would not recognize.
+
+Tomorrow was the Day of Lament. That was what the Freja's calendar
+called it. It fell on the fourth Thursday of November, and it had been
+observed aboard the ship for as long as anyone could remember.
+
+The Day of Lament was a day of mourning. The ship's inhabitants -- all
+4,312 of them, distributed across twelve habitat rings and six
+agricultural modules -- spent the day in reflection on what had been
+lost. Not the individual losses of individual lives -- the deaths of
+parents, the failures of friendships, the ordinary erosions of time --
+but a larger, more encompassing loss: the loss of Earth. The loss of
+the world they had left behind and would never see again. The loss of
+sky and weather and ocean and the ten thousand daily sensations of
+planetary life that no generation ship, however well designed, could
+reproduce.
+
+On the Day of Lament, the Freja's lights were dimmed. Meals were eaten
+in silence. In the evening, the senior historian -- currently a man
+named Anders Holm, who was seventy-two and had held the position for
+thirty years -- delivered the Recitation: a formal account of what the
+Earth had been, drawn from the ship's archives and embellished,
+inevitably, by two centuries of oral transmission. The Recitation
+described oceans and mountains and forests. It described rain and snow
+and the migration of birds. It described cities and fields and rivers.
+It was beautiful, and it was sad, and it was, Karin believed, wrong.
+
+Not factually wrong. The Recitation's descriptions of Earth were
+accurate, as far as anyone could verify. The ship's archive contained
+extensive records of the planet's geography, climate, and ecology, and
+Anders Holm was a meticulous scholar who took his responsibilities
+seriously.
+
+Wrong in a deeper sense. Wrong in what it chose to emphasize. Wrong
+in what it meant.
+
+The Day of Lament was, Karin had argued, a day of mourning for a world
+that none of the living inhabitants of the Freja had ever known. It was
+grief for an abstraction. And worse, it had replaced the holiday from
+which it was derived -- a holiday called Thanksgiving, which the first
+generation had brought with them from Earth and which had meant,
+originally, something very different.
+
+Karin was a historian. She had studied the archives. She knew what
+Thanksgiving had been.
+
+And she wanted it back.
+
+                               II.
+
+The debate had begun six months earlier, in the Faculty Common Room of
+the Freja's small university -- a cluster of classrooms and offices in
+Habitat Ring Four that served the ship's modest but persistent
+tradition of higher education. Karin had presented a paper to the
+History Department titled "Thanksgiving and the Day of Lament: A
+Genealogy of a Transformed Holiday," in which she traced the evolution
+of the ship's November observance from its origins as an American
+harvest festival to its current form as a day of collective mourning.
+
+The transformation, her paper argued, had occurred gradually, over
+approximately seven generations. The first generation -- the settlers
+who had actually left Earth -- had celebrated Thanksgiving in something
+close to its original form: a communal meal, expressions of gratitude
+for what they had (health, community, the ship itself), and a
+deliberately forward-looking emphasis on the voyage ahead. The first
+generation had been emigrants, not exiles. They had chosen to leave.
+Their Thanksgiving was a celebration of the future they were sailing
+toward.
+
+The second generation had introduced an element of mourning. They were
+the first to be born on the ship, the first to inherit the voyage
+rather than choose it, and their relationship to Earth was more complex
+-- a mixture of inherited nostalgia and growing resentment. Their
+Thanksgiving included, for the first time, a formal acknowledgment of
+what had been left behind.
+
+By the fourth generation, the mourning had overtaken the gratitude.
+The communal meal became a silent meal. The forward-looking rhetoric
+gave way to backward-looking elegy. The holiday acquired a new name --
+the Day of Lament -- and a new meaning: not gratitude for what was
+present, but grief for what was absent.
+
+By the seventh generation -- Karin's own -- the transformation was
+complete. The Day of Lament bore no resemblance to the Thanksgiving
+that had originated it. The gratitude was gone. The forward-looking
+emphasis was gone. What remained was a yearly ritual of collective
+sorrow, a day on which the entire ship stopped to mourn a world that
+no living person had experienced and that was, for all practical
+purposes, as distant and as irretrievable as the Garden of Eden.
+
+Karin's paper argued that this was unhealthy. That a community defined
+by its losses rather than its present realities was a community in
+danger of losing something more important than the Earth: its capacity
+for joy.
+
+She proposed, in her paper's final section, that the Day of Lament be
+returned to its original form. That the holiday be renamed Thanksgiving.
+That the silent meal be replaced by a communal feast. That the
+Recitation be revised to emphasize not what had been lost but what had
+been preserved, and built, and discovered over two centuries of
+interstellar travel.
+
+The response from the History Department was polite. The response from
+the rest of the ship was not.
+
+                               III.
+
+"You want to erase our history," said Anders Holm.
+
+They were sitting in his office -- a small, cluttered room in the
+university section, its walls lined with physical books (a rare luxury
+on a ship where storage space was measured in cubic centimeters) and its
+desk buried under manuscripts and data tablets. Holm was a thin man
+with white hair and the careful, deliberate manner of someone who had
+spent his life handling fragile things. He had been the ship's historian
+since before Karin was born, and he took the Day of Lament seriously.
+
+"I want to reclaim our history," Karin said. "The Day of Lament isn't
+our original tradition. Thanksgiving is."
+
+"Thanksgiving was an American tradition. Only forty percent of the
+first generation were American. The rest adopted it voluntarily, but
+it was never universal. The Day of Lament, on the other hand, was
+created by the ship's community, across generations. It belongs to us
+in a way that Thanksgiving, which was inherited from a culture we
+have no connection to, does not."
+
+"We have every connection to it. We are descended from the people who
+created it."
+
+"We are descended from a great many people. That does not obligate us
+to maintain their customs unchanged." Holm leaned back in his chair.
+His expression was not hostile -- Holm was constitutionally incapable
+of hostility -- but it was firm. "Karin, the Day of Lament serves a
+purpose. It acknowledges a reality that we cannot avoid: we are a
+people in transit. We have left one world and have not yet reached
+another. We are in between. The Day of Lament gives us a way to sit
+with that reality, to honor it, to feel the weight of it together."
+
+"The weight is crushing us."
+
+"That is your interpretation."
+
+"It is the interpretation of the psychological services data, which
+shows that depression rates on the ship spike by 34 percent in the
+week following the Day of Lament. It is the interpretation of the
+fertility data, which shows a measurable decline in births in the
+months after November. It is the interpretation of anyone who walks
+through the corridors on the Day and sees four thousand people sitting
+in silence, eating in the dark, grieving for a world they never knew."
+
+Holm was quiet for a moment. The room was silent except for the ever-
+present hum of the ship's systems -- the ventilation, the gravity
+plates, the thousand quiet mechanisms that kept the Freja alive.
+
+"What would you have us do?" he asked. "Pretend we are not in mourning?
+Pretend we have not lost something?"
+
+"I would have us acknowledge what we have. Not just what we've lost.
+We have a ship. We have a community. We have children who are growing
+up and learning and asking questions and falling in love and building
+lives. We have two hundred and fourteen years of history that belongs
+to us -- not to Earth, to us. The stories of the people who maintained
+this ship, who kept it running, who solved the problems and raised the
+children and buried the dead. That is worth giving thanks for."
+
+"And the Earth?"
+
+"The Earth is gone. For us, it is gone. Mourning it every year does not
+bring it closer. It only makes the distance feel greater."
+
+Holm looked at her for a long time. Then he said, "You are young."
+
+"I am."
+
+"When you are older, you may find that the distance does not feel
+greater because we mourn it. It feels greater because it is greater.
+Every year, we are farther away. Every year, the light from Earth's sun
+takes longer to reach us. This is not a metaphor. It is physics. And
+the Day of Lament is our way of acknowledging the physics."
+
+Karin stood. "Then I will propose it to the Council."
+
+"You will lose."
+
+"Perhaps. But the proposal will be in the record. And the next
+generation, and the one after that, can decide for themselves."
+
+Holm inclined his head. "That," he said, "is exactly what the Day of
+Lament is about. The next generation deciding for themselves. You see?
+We are not so different."
+
+                               IV.
+
+The Ship's Council met on the first of the month, in the central
+assembly hall of Habitat Ring One -- the largest enclosed space on the
+Freja, a circular room with a domed ceiling that bore a mosaic of the
+Earth, executed in colored glass by the third generation's artisans and
+now slightly faded, its blues and greens softened by time into
+something that looked less like a planet and more like a dream of one.
+
+Karin presented her proposal to 847 people. The hall was full. Word had
+spread, as word always spread on a ship where four thousand people
+shared a single enclosed world, and the proposal had become the most
+discussed topic aboard the Freja in years. People had opinions. People
+had strong opinions. On a generation ship, where the parameters of
+daily life were fixed and the scope for individual action was narrow,
+questions of tradition and meaning carried a weight that they might not
+carry on a world where you could simply walk away from a debate and
+find a different community.
+
+You could not walk away from the Freja. You were born here, you lived
+here, you died here, and the traditions you inherited were the only
+traditions you would ever have.
+
+Karin spoke for twenty minutes. She presented the historical data, the
+psychological data, the demographic data. She traced the evolution of
+the Day of Lament from its origins in Thanksgiving. She described
+what Thanksgiving had been: a day of gratitude, of abundance, of
+acknowledging the present rather than mourning the past.
+
+"I am not proposing that we forget the Earth," she said. "I am
+proposing that we stop defining ourselves by its absence. We are not
+a people in exile. We are a people in transit. We are going somewhere.
+And the people who sent us -- the first generation, who chose this
+voyage, who left the Earth deliberately and with hope -- they did not
+intend for us to spend our lives in mourning. They intended for us to
+live."
+
+The response was immediate and divided.
+
+Erik Lindberg, a structural engineer from Ring Six, stood and said: "My
+grandmother told me about the sky. She told me what it looked like
+to stand outside and look up and see nothing above you but air and
+light. I will never see that. My children will never see that. The
+Day of Lament is the one day of the year when we honor that loss, and
+I will not vote to take it away."
+
+Marta Chen, a physician from Ring Three, stood and said: "I treat
+depression. I treat the quiet, persistent despair of people who feel
+that their lives are diminished by something they cannot name. The
+Day of Lament gives that despair a name, and names are necessary. But
+a name is not a treatment. The Day of Lament names the wound. It does
+not heal it. Perhaps gratitude might."
+
+Josef Amundsen, a teacher, spoke for the old tradition. Lena Borg, a
+botanist, spoke for the new. A thirteen-year-old boy named Per
+Johansson stood and said, with the directness of someone too young
+for diplomacy: "I don't understand why we have a whole day for being
+sad about a place I've never been. Can't we be sad and grateful at
+the same time?"
+
+This remark produced a silence that lasted several seconds, which was,
+on the Freja, the equivalent of a standing ovation.
+
+                               V.
+
+The Council voted. The result was 412 in favor of Karin's proposal,
+435 against, with 47 abstentions. The Day of Lament would continue.
+
+Karin was not surprised. She had expected to lose. Tradition had
+inertia, and two hundred years of observance was a great deal of
+inertia to overcome. She left the assembly hall and walked through the
+corridors of Habitat Ring One, past the hydroponics bays with their
+orderly rows of green, past the workshop where a woman was welding a
+structural brace with careful, blue-white arcs of light, past the
+nursery where a group of children were playing a game that involved
+throwing a ball against a wall in zero-gravity and catching it on the
+rebound -- a game that no one on Earth had ever played, that had been
+invented on the Freja by children who had never known any other kind
+of play.
+
+She walked to the forward observation dome.
+
+The stars were there. They were always there. Fixed and patient and
+uncaring, separated from her by nothing but a few centimeters of
+transparent composite and the vast, silent, star-filled void.
+
+She sat on the bench that ran along the base of the dome -- cold
+metal, worn smooth by generations of observers -- and looked out.
+
+She had lost the vote. The Day of Lament would continue. Her
+generation would observe it, as every generation had observed it,
+sitting in silence, eating in the dark, mourning a world that existed
+now only in the ship's archive and in the slowly fading memories of
+stories told by people who had been told stories by people who had
+been told stories by the people who had actually been there.
+
+And yet.
+
+Something had changed. Karin could feel it the way you felt a shift
+in air pressure -- not with any single sense but with all of them,
+a subtle alteration in the texture of the atmosphere. The debate had
+happened. The question had been asked. The record would show that
+412 people -- nearly half the ship -- had voted to reclaim gratitude.
+
+Not this year. But perhaps the next. Or the one after that. Or the one
+after that. Tradition was not a wall. It was a river, and rivers
+changed course, slowly, over time, shaped by the accumulated force
+of countless small pressures, each one negligible, each one necessary.
+
+                               VI.
+
+The Day of Lament came.
+
+The lights were dimmed. The corridors were quiet. The colonists ate
+their silent meals in the communal dining halls, the only sound the
+clink of utensils and the ever-present hum of the ship.
+
+In the evening, Anders Holm delivered the Recitation. He stood in the
+central assembly hall, beneath the faded mosaic of the Earth, and he
+spoke about oceans and forests and the migration of birds, and his
+voice was steady and practiced and full of a grief that was, Karin had
+to acknowledge, genuine. Holm had spent his life studying a world he
+had never seen, and his love for it was as real as any love, even if
+its object was an abstraction. You could love an abstraction. You
+could mourn one. You could build a life around the shape of something
+absent, the way a tree grows around a wound.
+
+Karin sat in the audience and listened. She did not close her eyes.
+She did not bow her head. She looked up, at the mosaic, at the blue
+and green glass Earth that generations of artisans had maintained and
+repaired, replacing cracked tiles, mixing new colors to match the old,
+keeping the image alive the way the Recitation kept the memory alive --
+imperfectly, with substitutions and approximations, but with care. With
+devotion. With the stubborn human insistence that some things must be
+remembered even when -- especially when -- remembering hurts.
+
+Holm finished the Recitation. The hall was silent.
+
+And then Karin stood.
+
+She did not walk to the podium. She stood where she was, in the
+middle of the audience, and she spoke. Her voice was clear in the
+silence.
+
+"I am grateful," she said.
+
+The words hung in the air. Around her, faces turned. Some confused.
+Some annoyed. Some curious.
+
+"I am grateful for this ship," she said. "For the people who built it,
+and the people who launched it, and the people who have maintained it
+for two hundred and fourteen years. I am grateful for the air I am
+breathing, which was designed and filtered and recycled by engineers
+who will never know my name. I am grateful for the food I ate tonight,
+which was grown in soil that was brought from Earth and which has been
+tended and amended and replenished by agronomists across eight
+generations. I am grateful for the children I saw playing in the
+nursery this afternoon, who invented a game that has never been played
+on Earth and never will be, because it is ours, and it belongs to the
+Freja, and it is new."
+
+She paused. The hall was very still.
+
+"I am grateful for the Day of Lament," she said. "Because it means
+that we remember. That we carry the Earth with us, even though we
+will never see it. That we are faithful to the people who came before
+us, even though they are gone. I lost the vote. I accept that. But I
+want to add something to the record. Not a correction. An addition."
+
+She looked at Holm. He was watching her with an expression she could
+not read.
+
+"We are allowed to mourn," she said. "And we are also allowed to give
+thanks. These are not opposites. They are the same thing, seen from
+different distances. Mourning is gratitude for what was. Thanksgiving
+is gratitude for what is. And both of them -- both -- are acts of
+love."
+
+She sat down.
+
+The silence continued for a long moment. Then, from somewhere in the
+audience, a sound. Not applause -- applause was not customary at the
+Recitation. Something else. A voice. A woman's voice, quiet but clear.
+
+"I am grateful for my daughter."
+
+Then another voice. A man's. "I am grateful for the library."
+
+Another. "I am grateful for the morning shift in the greenhouses, when
+the lights come on and the plants are still wet."
+
+Another. And another. One by one, scattered through the audience,
+voices rose. Small, specific, personal expressions of gratitude -- not
+for the Earth, not for the lost world, but for the world they had.
+The ship. The community. The small, daily, ordinary things that made
+a life.
+
+Anders Holm stood at the podium and listened. His expression, which
+Karin had been unable to read, resolved into something that she
+recognized.
+
+It was not anger. It was not defeat.
+
+It was something older, and more complex, and it took her a moment to
+name it.
+
+It was gratitude.
+
+                               VII.
+
+Later, after the hall had emptied and the voices had faded and the Day
+of Lament had ended -- or perhaps become something else, something
+that did not yet have a name -- Karin returned to the forward
+observation dome.
+
+The stars were there. The same stars, in the same positions, unchanged
+by anything that had happened aboard the Freja. The universe did not
+care about their holidays, their debates, their grief, their gratitude.
+The universe was what it was: vast, silent, beautiful, and indifferent.
+
+But the Freja was not indifferent. The Freja was full of people, and
+people were not indifferent, could not be indifferent, were
+constitutionally incapable of indifference. They cared about things.
+They mourned things. They were grateful for things. They argued about
+the proper way to mourn and the proper way to give thanks, and the
+argument was itself a form of caring, a proof that the things they
+argued about mattered.
+
+Karin looked at the stars and thought about her grandmother, who had
+told her about her grandmother, who had told her about her grandmother,
+who had actually stood on the Earth and felt the rain on her face.
+Seven generations of women, each one passing the memory to the next,
+each one changing it slightly, each one keeping it alive. The memory
+of rain, traveling across two hundred years of interstellar space,
+carried not by radio waves or data transmissions but by the oldest
+technology of all: a voice, speaking to another voice, in the dark.
+
+She was grateful for that.
+
+She was grateful for the ship, and for the stars, and for the darkness
+between them.
+
+She was grateful for the vote she had lost, because losing it had
+mattered more than winning it would have. The 412 voices that had voted
+with her would remember. The 435 voices that had voted against her
+would remember too. And the next generation would inherit not just the
+Day of Lament but the debate about it -- the knowledge that the
+tradition was not fixed, not final, not finished. That it could be
+questioned. That it could change.
+
+That the past belonged not to those who had lived it but to those who
+chose to remember it. And the way they chose to remember it was,
+itself, a kind of creation.
+
+Karin sat in the dome and watched the stars.
+
+Behind her, the Freja hummed. Four thousand people slept, or talked,
+or read, or held each other in the dark. The ship fell through the
+void at four percent of the speed of light, carrying its cargo of
+human lives and human memories and human arguments and human love
+toward a destination that was still a century away.
+
+The stars did not move.
+
+But the people aboard the ship were moving. They were always moving.
+They were in transit, between the world they had lost and the world
+they had not yet found, and the space between was not empty.
+
+It was full of them.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+MARGARET THORNTON holds a master's degree in marine biology from the
+University of Washington and has conducted fieldwork in tide pools,
+old-growth forests, and the mycorrhizal networks of the Pacific
+Northwest. Her stories have appeared in Astounding, Galaxy, New Worlds,
+and these pages, where she has been a contributor since issue #1. She
+lives on Orcas Island in the San Juan archipelago, where she divides
+her time between writing and ecological research. "The Seed Vault" was
+inspired by a newspaper account of the Norwegian government's plans
+for an Arctic seed repository, which Thornton describes as "the most
+important building humanity has ever constructed, and the one most
+people have never heard of." We believe this is her finest story to
+date, and we suspect our readers will agree.
+
+THEODORE CAIN is the most prolific contributor to Tales from the Future
+and Beyond, having appeared in nearly every issue since our debut. A
+former assembly line worker at Ford and a veteran of the Battle of the
+Bulge, Cain writes with the blue-collar directness and quiet versatility
+that have made him the backbone of this magazine. He lives in Dearborn,
+Michigan, with his wife Jean and their three children, and writes every
+evening from eight until midnight. "Debts Unpaid" represents a
+departure for Cain -- a comedic piece with a dry, Midwestern wit that
+we found irresistible. He reports that the story was inspired by "an
+overdue library book and a particularly aggressive collection notice
+from the Cleveland Public Library."
+
+COL. JAMES "BUCK" STANTON (RET.) is a decorated combat pilot who flew
+P-51 Mustangs over Europe and commanded a fighter wing in Korea before
+retiring from the Air Force in 1952. His military science fiction,
+which draws directly on his combat experience, has appeared in these
+pages since issue #6. He lives on a ranch outside Fredericksburg,
+Texas, with his wife Martha. "The Veterans' Hospital" is, by the
+Colonel's own admission, "the first story I've written where nobody
+fires a weapon," and we consider it his most humane and deeply felt
+work. When asked what inspired it, he said simply: "I've spent time in
+hospitals. I know what it's like to be the one the doctors can't fix."
+
+DR. VINCENT KOSLOV is a physicist at Caltech whose fiction has set the
+standard for scientifically rigorous storytelling in this magazine and
+elsewhere. His stories have appeared in Astounding, Galaxy, and the
+Bulletin of the Atomic Scientists. He lives in Pasadena with his
+research and a tin toy rocket made from a sardine can, which he keeps
+on his desk "as a reminder of where it started." "The Thanksgiving
+Equation" is, in Koslov's characteristic understatement, "a paper that
+no journal would publish because the conclusions are not quantifiable."
+We consider it one of the most moving things he has ever written, and
+quite possibly the only physics paper that has made this editor cry.
+
+ARTHUR WAINWRIGHT has been the magazine's "robot man" since issue #4,
+exploring the territory of artificial intelligence, machine
+consciousness, and the boundaries between human and artificial minds
+with a consistency and depth unmatched by any other contributor. A
+mathematics instructor at Northeastern University, he lives in the
+Beacon Hill neighborhood of Boston with his wife Eleanor and writes
+from five to seven every morning before classes. "The Ancestor
+Simulation" continues his long investigation into the question of what
+constitutes a person, and extends it into new and unsettling territory.
+He describes it as "the first story I've written where the robot is
+the one who has to make the moral choice, rather than the human."
+
+GUNNAR ERIKSSON writes about the void between stars the way only a
+Scandinavian can: with beauty inseparable from desolation, clarity
+inseparable from cold, and melancholy inseparable from light. Born in
+Stockholm, he works as a literary translator and writes his fiction in
+English while living his life in Swedish -- a bilingual existence he
+compares to "living in two parallel worlds." His stories have appeared
+in these pages since issue #16, and each one is a carefully crafted
+meditation on distance, solitude, and the persistence of hope.
+"Homefire" is his most emotionally complex story, and the first in
+which he addresses the question of cultural inheritance directly. He
+wrote it, he says, "in November, during the darkest month, when the
+question of what to be grateful for becomes very real."
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have just finished reading Dr. Koslov's "Weight of Parallax" in your
+August issue, and I feel compelled to write. Koslov's mathematics are
+flawless, as always, but what struck me most was the final scene -- the
+astronomer standing alone in her observatory, measuring the distance to
+a star she will never visit. The loneliness of that image has stayed
+with me for weeks. I teach high school physics in Topeka, and I intend
+to assign this story to my students. If Dr. Koslov can make parallax
+measurements this moving, perhaps my students will forgive me for
+making them this boring.
+
+                              — Mr. Gerald Hutchins
+                                 Topeka, Kansas
+
+Dear Editor,
+
+Colonel Stanton's "The Weight of Command" (Issue #27) was the finest
+military story I have read in any magazine. I served in the Pacific
+during the war, and I can tell you that the Colonel understands
+something that most writers of military fiction do not: that the
+hardest part of command is not making decisions, but living with the
+ones you've already made. The scene where Admiral Voss reads the crew
+manifest after giving the order was so true to my own experience that
+I had to put the magazine down for a while. More from Stanton, please.
+Not because his stories are entertaining -- they are not, in the usual
+sense -- but because they are honest. That is rarer, and more valuable.
+
+                              — Commander William Hale, USN (Ret.)
+                                 Annapolis, Maryland
+
+Dear Tales,
+
+I wish to register a complaint about Margaret Thornton's "The Littoral
+Zone" in your December 1953 issue. Mrs. Thornton (or is it Miss?) writes
+beautifully about alien ecosystems, but I question whether a planet-
+sized organism is biologically plausible. The energy requirements alone
+would be staggering. Has Mrs. Thornton calculated the caloric intake
+necessary to sustain a living system of that scale? I would be
+interested to see her numbers.
+
+That said, the story made me dream about alien oceans for a week, so
+I suppose she has won regardless of the biology.
+
+                              — Dr. Harold Prescott
+                                 Department of Biology
+                                 University of Michigan
+
+Dear Max,
+
+Three cheers for Arthur Wainwright's "The Toymaker" in Issue #33. The
+scene where the robot builds a music box for the child and then sits
+listening to it play, unable to determine whether its response to the
+music constitutes enjoyment or merely pattern recognition -- that is
+the kind of scene that justifies an entire magazine. Wainwright asks
+the questions that keep me awake at night, and I am grateful (and
+somewhat unsettled) that he does.
+
+                              — Miss Edith Keeler
+                                 New York, N.Y.
+
+We are, as always, delighted by our readers' responses -- the
+enthusiastic, the critical, and the bewildered in equal measure. Write
+to us at: Letters, Tales from the Future and Beyond, Meridian Publishing
+Company, 114 East 32nd Street, New York 16, N.Y.           — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+LONG TOMORROW by Leigh Brackett
+(Doubleday, 1955, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Mrs. Brackett, best known for her planetary romances and her screenplay
+work in Hollywood, has delivered a novel of startling power and
+restraint. Set in a post-nuclear America where technology is forbidden
+by constitutional amendment and cities may not exceed a population of
+one thousand, the story follows a young man's journey from his
+Mennonite community toward the rumored survivors of the scientific
+establishment. It is a novel about the fear of knowledge, the
+seduction of safety, and the terrible cost of choosing ignorance over
+risk. Brackett writes with a lean, muscular prose that serves the
+material beautifully, and the final chapters -- in which our hero must
+decide whether to embrace the future or retreat into the past -- are
+as fine as anything in recent science fiction. A major achievement.
+
+THE BODY SNATCHERS by Jack Finney
+(Dell, 1955, $0.25)
+
+Reviewed by Maxwell Sterling
+
+Mr. Finney's slim, unsettling novel about a small California town
+whose residents are being replaced by alien duplicates grown from
+seed pods has the quality of a waking nightmare -- the more ordinary
+the setting, the more disturbing the invasion. It can be read as Cold
+War allegory, as psychological horror, or simply as a crackling good
+suspense novel, and it works admirably on all three levels. The
+paranoia is expertly calibrated: Finney understands that the most
+frightening alien is the one who looks exactly like your neighbor.
+Recommended for readers who enjoy sleeping with the lights on.
+
+EARTHLIGHT by Arthur C. Clarke
+(Ballantine Books, 1955, $2.00)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clarke returns to the Moon in this compact, intelligent thriller
+about political tension between Earth and its lunar colonies. An
+observatory astronomer is drawn into a web of espionage involving a
+secret discovery that could shift the balance of power in the solar
+system. Clarke's strengths are on full display: the lunar setting is
+rendered with documentary precision, the science is impeccable, and
+the climactic battle sequence -- fought in the vacuum and low gravity
+of the Moon's surface -- is among the most convincing depictions of
+space combat in the literature. If the characters are somewhat thin,
+well, Clarke has always been more interested in ideas than in people,
+and his ideas are first-rate.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #36 — December 1955
+
+As the year draws to a close, we present a winter issue of singular
+imagination:
+
+"THE PROBLEM OF OTHER SOULS" by Father Thomas Aquino — A Jesuit
+mission to an alien world confronts the most profound theological
+question of the space age: do the aliens have souls? Aquino's most
+ambitious and searching story, and one that will spark debate long
+after the last page is turned.
+
+"DEAD MAN'S BEACON" by Robert "Bob" Finley — A lone pilot holds a
+navigation station against alien raiders, not knowing the war has
+already ended. Finley at his most emotionally resonant, with a twist
+ending that will haunt you.
+
+"THE ARCHITECT OF RUINS" by Margaret Thornton — On a dying world, an
+alien civilization's last surviving member tends the ruins of its
+greatest city, waiting for visitors who may never come. A Thornton
+story of extraordinary beauty and sadness.
+
+"MIDWINTER" by Gunnar Eriksson — A research station at the edge of
+the solar system celebrates a midwinter festival, and the ritual takes
+on unexpected significance. Eriksson's most accessible and emotionally
+direct story.
+
+Plus: a new adventure by Rex Drummond, a robot puzzle by Arthur
+Wainwright, letters from our readers, book reviews, and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1955 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Frank R. Kellerman
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================

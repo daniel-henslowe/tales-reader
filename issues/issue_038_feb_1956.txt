@@ -1,0 +1,3614 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #38 — February 1956
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "Two Stars Burning" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "Species Barrier" by Margaret Thornton .................. p. 4
+2. "My Darling Clementine 9000" by Douglas Pemberton .......... p. 32
+3. "Ghost and Mrs. Nakamura" by Phyllis Crenshaw .......... p. 50
+4. "Letter from a Distant Star" by Gunnar Eriksson ............ p. 72
+5. "Dueling Hearts" by Rex Drummond ........................... p. 98
+6. "Valentine Virus" by Theodore Cain ...................... p. 120
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 140
+   Signals Received: Letters to the Editor ................... p. 142
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 144
+   Coming Attractions ........................................ p. 146
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+February is upon us again, and with it the annual obligation — which I do
+not regard as an obligation at all, but rather a delight — to turn our
+gaze from the void between stars and toward the somewhat more terrifying
+void between hearts.
+
+This is our fourth Valentine's issue, and those of you who have been with
+us since Issue #14 (February 1954) will know that I take a particular
+pleasure in assembling these collections. Not because I am a sentimental
+man — ask my staff, and they will disabuse you of that notion in
+colorful terms — but because I believe that love is the most science-
+fictional of all human experiences. Consider the premise: two separate
+consciousnesses, each trapped in its own skull, each perceiving the
+universe through its own imperfect instruments, somehow manage to bridge
+that gap and form a connection that defies entropy, distance, and common
+sense. If that is not a speculative fiction, I do not know what is.
+
+This year, I have asked our contributors to go further. What if the gap
+were not merely neurological but biological? What if the beings in
+question could not touch, could not see each other, could not even
+breathe the same air? What if one of them were a ten-foot combat
+mechanism with no conception of dinner conversation? What if one of them
+were dead?
+
+The answers, I am pleased to report, are extraordinary.
+
+Margaret Thornton opens our issue with "Species Barrier," a love
+story between beings who cannot perceive each other in any direct way,
+and which is, I believe, her finest and most unconventional work to date.
+Douglas Pemberton follows with a comic masterpiece about a lonely miner
+and a very confused war machine that had my entire office weeping with
+laughter. Phyllis Crenshaw gives us a time loop story of staggering
+emotional power, and Gunnar Eriksson offers a meditation on distance,
+longing, and the postal service that may be the most beautiful thing he
+has ever written — and I do not say that lightly.
+
+Rex Drummond, never one to do anything by halves, gives us a love story
+that involves a sword fight on the hull of a moving starship. And
+Theodore Cain wraps us up with a systems-failure farce that proves the
+universe has a sense of humor about romance, even if the universe's
+sense of humor is deeply inconvenient.
+
+Six stories. Six kinds of love, across every conceivable barrier. I am
+enormously proud of this issue. I hope you will find in it something
+that speaks to whatever improbable connection you are fortunate enough
+to have found — or foolish enough to still be seeking.
+
+Happy Valentine's Day. The cosmos, I suspect, is rooting for all of us.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, December 1955
+
+================================================================================
+
+                        SPECIES BARRIER
+
+                       by Margaret Thornton
+
+================================================================================
+
+                               I.
+
+The first time Dr. Lena Garrow perceived Dr. Ixen-tel-Ixen, it was as a
+data set.
+
+Specifically, it was as a column of atmospheric composition readings
+transmitted from the Teth side of Research Station Equinox to the human
+side, time-stamped 04:17 UTC, accompanied by a notation in the precise,
+almost musical syntax of translated Teth: "These values suggest a
+catalytic pathway not previously documented. I believe the interaction
+warrants further investigation. If the human chemist is amenable, I
+would welcome a collaborative analysis."
+
+The human chemist was not amenable. The human chemist was exhausted,
+eleven months into a posting she had not wanted, on a station orbiting a
+gas giant she had not chosen, separated from her research team at the
+Cascades Biological Survey by a bureaucratic reassignment that still made
+her jaw tighten when she thought about it. She was forty-one years old,
+had published twenty-three papers on exobiological catalysis, and had
+been sent to Equinox because someone at the Joint Commission for
+Interspecies Research had decided that what the Teth collaboration needed
+was a generalist with a strong publication record and a willingness to
+work in isolation.
+
+They had gotten the publication record right.
+
+Station Equinox was a double structure — two pressurized habitats joined
+by a sealed corridor that neither species could enter. The human side
+maintained a standard nitrogen-oxygen atmosphere at 21 degrees Celsius.
+The Teth side maintained a dense carbon dioxide atmosphere at 4 degrees
+Celsius, saturated with trace compounds whose names Lena could not
+pronounce and whose biological functions she was still learning. Between
+the two sides lay the data corridor: a sealed space filled with
+monitoring equipment, sample transfer mechanisms, and the relay systems
+through which all communication passed.
+
+No human had ever entered the Teth side. No Teth had ever entered the
+human side. The atmospheres were mutually lethal — not in the dramatic,
+instant-death way that made for good cautionary holos, but in the slow,
+insidious way that was actually more dangerous. Human lungs could not
+process the Teth atmosphere; the concentration of carbon dioxide would
+induce hypercapnia within minutes. Teth respiratory membranes could not
+tolerate molecular oxygen; it degraded their gas-exchange surfaces in a
+manner analogous to, but more severe than, the oxidative damage humans
+associated with breathing pure O2 at high pressure.
+
+They could not share air. They could not share space. And they could not
+see each other.
+
+This was the detail that had struck Lena most forcibly when she first
+reviewed the briefing materials. The Teth perceived the electromagnetic
+spectrum in a range shifted dramatically toward the infrared. Their
+visual organs — distributed across their upper thoracic surface in a
+mosaic pattern that bore no resemblance to bilateral eyes — were
+sensitive to wavelengths between 900 and 2500 nanometers. They were
+blind to visible light. To a Teth, a human being was invisible — a warm
+shape in infrared, perhaps, but without detail, without feature, without
+face.
+
+Conversely, humans could not perceive Teth in any meaningful visual
+sense. Photographs taken in the Teth visible range showed vague, ghostly
+forms that the human brain could not resolve into coherent shapes. The
+Teth body plan was radially symmetric, five-lobed, with a central mass
+from which five articulated limbs extended — but this clinical description
+gave no sense of the organism as a living being. To human eyes, they
+were abstractions. Shapes in data. Entries in a taxonomy.
+
+And yet, someone at the Joint Commission had decided that these two
+species should do science together.
+
+Lena stared at the atmospheric readings on her screen. The catalytic
+pathway Ixen-tel-Ixen had identified was, she had to admit, genuinely
+interesting. It suggested a mechanism by which trace sulfur compounds in
+the gas giant's upper atmosphere were being converted into complex
+organic molecules — a process that, if confirmed, would have significant
+implications for models of prebiotic chemistry.
+
+She composed her reply with the careful formality that interspecies
+protocol demanded: "Dr. Ixen-tel-Ixen. Thank you for the data and the
+observation. I concur that the pathway warrants investigation. I suggest
+we begin with a parallel analysis — I will model the kinetics from a
+human biochemical framework, and you from a Teth framework, and we will
+compare results. Please confirm if this is acceptable."
+
+The response came twelve minutes later, which Lena had learned was fast
+for a Teth. "Acceptable and welcomed. I note that your surname, in Teth
+phonemic approximation, sounds similar to our word for the pattern light
+makes on moving water. I do not know if this is of interest. It is of
+interest to me."
+
+Lena read this twice. She was not sure what to do with it. Interspecies
+protocol made no provision for the exchange of etymological observations.
+She set it aside and began the kinetic analysis.
+
+                               * * *
+
+The work was good.
+
+That was the thing Lena had not expected. She had expected frustration —
+the notorious difficulty of cross-species collaboration, the translation
+errors, the fundamental incompatibilities in methodology and terminology.
+She had expected tedium — the endless back-and-forth of data exchange
+through the relay systems, each transmission requiring translation,
+annotation, and verification. She had expected loneliness — the human
+side of Equinox housed only Lena and two maintenance technicians who
+kept to themselves and showed no interest in exobiological catalysis.
+
+What she had not expected was the quality of mind on the other side of
+the data corridor.
+
+Ixen-tel-Ixen was brilliant. This became clear within the first week.
+The kinetic models Ixen produced were elegant, spare, and startlingly
+original — built from a mathematical framework that differed from human
+chemistry in fundamental ways but arrived, by different paths, at
+compatible conclusions. Where Lena's models emphasized thermodynamic
+equilibria, Ixen's emphasized rate-dependent cascade effects. Where Lena
+built from molecular structure upward, Ixen built from systemic behavior
+downward. The combination, when they laid their models side by side in
+the shared analysis space, was richer and more complete than either alone.
+
+"Your approach to the sulfur pathway is unlike anything in our
+literature," Lena wrote, three weeks into the collaboration. "The
+cascade model resolves an anomaly in the equilibrium data that I could
+not account for. I find it — " She paused, searching for the word.
+Professional admiration? Intellectual excitement? The precise sensation
+of encountering a mind that thought in genuinely new ways? "I find it
+illuminating," she finished, and knew the word was inadequate.
+
+"Your word 'illuminating' translates in Teth to a concept that means
+both 'providing light' and 'revealing what was hidden,'" Ixen replied.
+"We use it to describe the moment when a pattern in data becomes visible
+for the first time. I am pleased that our work has this quality for you.
+It has this quality for me as well. I had not expected this from a human
+collaborator. I say this not as an insult. I say it as a confession of
+ignorance."
+
+"No insult taken. I did not expect it from a Teth collaborator either.
+We are both confessing ignorance."
+
+"Good. Shared ignorance is the beginning of shared knowledge."
+
+Lena found herself smiling at the screen. She was alone in her
+laboratory, and there was no one to see, and she smiled anyway.
+
+                               II.
+
+Two months into the collaboration, they began to talk about things that
+were not chemistry.
+
+It started with a question about methodology. Lena had asked Ixen to
+explain a particular mathematical notation that appeared in Teth kinetic
+models — a symbol that had no direct translation and that the relay
+system rendered as an approximation that obscured its meaning. Ixen's
+explanation was technical and thorough, but it ended with a parenthetical
+observation: "This notation was developed by Keth-en-Keth, a
+mathematician of the Third Configuration, who was also a maker of
+patterns in woven fiber — what your species might call an artist. The
+notation reflects the influence of weaving: it describes how separate
+threads of causation intertwine. I mention this because you asked about
+methodology, and in Teth culture, methodology is not separable from the
+life of the person who develops it."
+
+Lena wrote back: "In human culture, we pretend that methodology is
+separable from the life of the person who develops it. We are wrong,
+but we pretend."
+
+"Why?"
+
+"Because we are afraid that if our work is connected to our lives, then
+our failures in our lives will contaminate our work. And because we are
+afraid that if our work is too personal, it will not be taken seriously
+by other humans."
+
+A long pause — forty minutes, the longest Ixen had ever taken to reply.
+Then: "This is a profound fear. In Teth culture, the opposite is true.
+Work that is not personal is not taken seriously. It is considered empty
+— a pattern without a weaver. I am sorry that your culture causes you
+this fear. Does it cause you this fear?"
+
+Lena stared at the question. It was the most personal thing Ixen had
+ever asked her. Interspecies protocol was silent on the subject of
+personal fears, just as it was silent on the subject of etymological
+observations and the artistic practices of Third Configuration
+mathematicians. They had left the territory of protocol some time ago
+and were now in uncharted space.
+
+"Yes," she wrote. "It does."
+
+"I am sorry. I would like to understand this better. Not for scientific
+purposes. For personal ones."
+
+"I would like to understand Teth weaving," Lena wrote. "Not for
+scientific purposes."
+
+"Then we are agreed. We will teach each other things that are not
+chemistry."
+
+And they did.
+
+                               * * *
+
+Ixen taught Lena about Teth art — the complex, multidimensional fiber
+works that were the primary artistic medium of a species that perceived
+the world in infrared. The works were experienced not just visually but
+thermally; different fibers radiated heat at different rates, creating
+patterns that shifted over time, so that a single piece of art was never
+the same from one moment to the next. Ixen described them with a
+precision and a passion that made Lena ache with the knowledge that she
+would never see one — not truly, not the way Ixen saw them, in the
+warm, shifting spectrum that was the Teth visual world.
+
+Lena taught Ixen about music. This required explanation, because the
+Teth did not hear in any way analogous to human hearing — their sensory
+apparatus detected vibrations in atmospheric pressure, but the range and
+resolution were so different from human hearing that what they perceived
+bore almost no resemblance to what humans called sound. Lena could not
+play music for Ixen. She could only describe it: the mathematics of
+harmony, the emotional effects of key and tempo, the way a melody could
+lodge in human memory and produce, upon recall, the same emotional
+response it had produced upon first hearing.
+
+"You are describing a stored pattern that generates affect upon
+retrieval," Ixen wrote. "We have this. But for us it is associated with
+thermal flux, not pressure waves. A particular pattern of warmth — the
+warmth of a specific place at a specific time — when recalled, produces
+an emotional response. We call this 'thermal memory.' It is considered
+one of the deepest forms of experience."
+
+"What is your deepest thermal memory?" Lena asked, and knew as she
+typed it that the question was intimate in a way that no interspecies
+protocol had anticipated.
+
+The reply took an hour. When it came, it was the longest message Ixen
+had ever sent — a detailed, poetic description of the thermal
+environment of Ixen's home region on the Teth world: the particular
+warmth of the volcanic vents that heated the atmosphere, the way the
+temperature gradient shifted at the boundary between the heated zone and
+the surrounding cold, the sensation of standing at that boundary as a
+juvenile, feeling warmth on one side and cold on the other, and
+understanding for the first time that the universe was divided into
+regions and that one could choose which region to inhabit.
+
+"I have never described this to anyone who was not Teth," Ixen wrote,
+at the end. "I do not know if the description conveys anything to a
+being who perceives temperature differently than I do. But I wanted you
+to have it."
+
+Lena read it three times. Then she closed her eyes and tried to imagine
+it — not visually, because visual imagination would betray the
+experience, but sensorily. Warmth on one side. Cold on the other. The
+moment of understanding that the universe was divided, and that you
+could choose.
+
+She opened her eyes and wrote: "It conveys something. I cannot tell you
+exactly what. But something."
+
+                               III.
+
+At month five, Lena realized she was in trouble.
+
+The realization came not as a sudden illumination but as a gradual
+accumulation of evidence — which was, she supposed, appropriate for a
+scientist. She noticed that she woke each morning with a sense of
+anticipation that was directly correlated with the prospect of reading
+Ixen's overnight messages. She noticed that her mood was measurably
+affected by the content and tone of their exchanges. She noticed that
+she spent her evenings composing messages that were far more carefully
+worded than professional communication required — choosing phrases for
+their precision, yes, but also for their beauty, their rhythm, the way
+they might sound in Ixen's translated approximation.
+
+She noticed that she thought about Ixen constantly. Not about Ixen's
+body — she had never seen Ixen's body and had no framework for
+imagining it — but about Ixen's mind. The quality of Ixen's attention.
+The way Ixen formulated questions. The dry, unexpected humor that
+surfaced in Ixen's messages, humor that crossed the species barrier with
+a force that still surprised her. The way Ixen described Teth art, with
+a reverence that made Lena understand something about beauty that she
+had not understood before.
+
+She was, she realized, falling in love with a data set.
+
+No. That was reductive and unfair. She was falling in love with the
+person behind the data — a person she could not see, could not hear,
+could not touch, could not breathe the same air as. A person whose
+body she could not imagine and whose face she would never perceive.
+A person who existed, for her, only as words on a screen, and yet who
+had become more real to her than any human on the station, any human on
+Earth, any human she had known in twenty years of adult life.
+
+"This is absurd," she said aloud, to her empty laboratory.
+
+The laboratory did not disagree.
+
+She did the only thing a scientist could do. She examined the evidence,
+formulated a hypothesis, and tested it.
+
+The test was simple. She stopped writing to Ixen for three days.
+
+By the end of the first day, she was restless. By the end of the
+second, she was miserable. By the middle of the third, she received a
+message from Ixen: "Dr. Garrow. I note that you have not communicated
+in approximately 72 hours. I recognize that humans require periodic
+intervals of reduced social interaction. However, I find that I am
+experiencing a state that translates approximately as 'diminished' — a
+Teth term for the experience of reduced sensory input from a valued
+source. If you are unwell or require solitude, I respect this. But I
+want you to know that your absence is perceived, and that it has an
+effect on my functioning that I did not anticipate and do not fully
+understand."
+
+Lena read this message and felt something crack open in her chest — a
+physical sensation, warmth blooming behind her sternum, as though her
+body were trying to reach across the data corridor by sheer force of
+circulatory pressure.
+
+She wrote back: "I am not unwell. I was conducting an experiment. The
+results are conclusive and somewhat alarming."
+
+"What was the experiment?"
+
+"I was testing whether your absence would diminish me. It does."
+
+The reply came in four minutes — faster than any message Ixen had ever
+sent. "Lena. I need to tell you something. I have consulted the
+interspecies protocol documentation and I cannot find a provision for
+what I need to tell you. I will say it without protocol. In the months
+of our collaboration, you have become the most important source of
+cognitive and emotional stimulation in my life. The pattern of your
+thought has become integrated into my own. When I formulate a hypothesis,
+I anticipate your response. When I perceive something beautiful, I
+compose a description for you. You have become part of how I think. I
+do not know the human word for this. In Teth, the word is 'ixen-ral' —
+it means 'the one whose pattern is woven into yours.'"
+
+Lena's hands were shaking over the keyboard. She pressed them flat
+against the desk, steadied them, and typed: "The human word is love.
+It is inadequate, but it is what we have."
+
+"Then I love you. In the Teth meaning and in whatever meaning you
+intend."
+
+"I love you too. In whatever meaning either of us can manage."
+
+                               * * *
+
+She sat in her laboratory for a long time after sending that message,
+staring at the wall that separated her from the data corridor, the data
+corridor that separated her from the Teth side, the Teth side where
+Ixen existed in an atmosphere she could not breathe, perceiving a
+spectrum she could not see, possessing a body she could not touch.
+
+The wall was standard station construction — reinforced composite, three
+centimeters thick, rated for pressure differentials up to four
+atmospheres. It was utterly mundane. And it was the most impenetrable
+barrier she had ever encountered, not because of its physical properties,
+but because of the biological realities it represented. She and Ixen
+were separated by evolution, by chemistry, by the fundamental
+incompatibility of the environments their bodies required. No amount of
+technology could change the fact that they were creatures of different
+worlds, shaped by different stars, breathing different poisons.
+
+And none of that mattered. Or rather, all of it mattered, and the love
+existed anyway, growing in the narrow space that data could traverse,
+taking root in the only soil available to it: shared thought, shared
+work, shared curiosity, shared attention to the patterns of the universe
+that neither of them could fully see alone.
+
+                               IV.
+
+The joint paper was published seven months into the collaboration.
+
+"Catalytic Cascade Mechanisms in the Upper Atmosphere of Kepler-442c:
+A Cross-Species Analysis" — Garrow, L. (Human) and Ixen-tel-Ixen (Teth),
+in the Journal of Interspecies Chemistry, Volume 12, Number 4. It
+described, in rigorous detail, a previously undocumented chemical pathway
+by which sulfur compounds in the gas giant's atmosphere were converted
+into complex organic precursors. The pathway had been invisible to
+either species' analytical framework alone; it was visible only when the
+two frameworks were combined.
+
+The paper received attention. Not a great deal — interspecies chemistry
+was a small field, and the journal's readership was limited — but
+enough. Lena received a message from her former department head at the
+Cascades Biological Survey: "Interesting work, Garrow. Didn't think
+cross-species analysis could produce results this clean. Come back when
+your posting is up and tell us about it."
+
+She read the message and felt nothing. Come back. To what? To a
+laboratory full of human colleagues who breathed the same air and
+perceived the same spectrum and thought in patterns she could predict
+before they opened their mouths? The idea seemed flat. Colorless.
+Like a thermal artwork perceived only in the visible range — all the
+beauty stripped away, only the scaffold remaining.
+
+"Our paper is being discussed," she wrote to Ixen. "People find it
+interesting."
+
+"Interesting is a thin word. Our work is beautiful. The pathway we
+discovered is beautiful. It exists because two different ways of seeing
+were brought together, and the combination revealed something that
+neither could see alone. This is not merely interesting. It is — " A
+pause, then: "In Teth, we have a word for this. 'Kel-ixen.' It means
+'the knowledge that comes only from the joining of different patterns.'
+It is considered the highest form of understanding."
+
+"Kel-ixen," Lena repeated, trying to feel the word in her mouth, knowing
+she was pronouncing it wrong, knowing it didn't matter. "Is that what
+we are? Kel-ixen?"
+
+"We are kel-ixen. And we are ixen-ral. We are the knowledge and the
+pattern. Lena, I have been thinking about what it means that we cannot
+perceive each other. I want to tell you what I have concluded."
+
+"Tell me."
+
+"I have concluded that perception is not the same as knowledge. I cannot
+see you. I cannot hear you. I cannot touch you. I cannot smell the
+chemical markers that, in Teth interaction, convey emotional state and
+identity. By every measure of Teth social cognition, you do not exist.
+And yet I know you. I know the shape of your thought, the rhythm of
+your reasoning, the quality of your attention. I know when you are
+excited by a result — your messages become shorter and more syntactically
+compressed. I know when you are tired — your prose becomes more formal,
+as though formality is a structure you use to hold yourself upright when
+your energy fails. I know when you are happy — you make small
+observations about things that are not chemistry, as though happiness
+makes the world wider and you want to share the wider world with me."
+
+Lena was crying. The tears were rolling down her face and she did
+nothing to stop them because there was no one to see and because she
+had never in her life been so precisely known by another being.
+
+"I know these things," Ixen continued, "and they are more real to me
+than any perception could be. Perception is the surface. Knowledge is
+the depth. We live in the depth. This is not a limitation. It is a
+different kind of closeness — a closeness of pattern rather than
+proximity. And I believe it is more durable than any closeness that
+depends on the body."
+
+"Ixen," Lena wrote, and for a moment that was all she could write,
+just the name, just the shape of the only being in the universe who
+understood what she was, transmitted across a barrier of atmosphere and
+spectrum and biology. "Ixen. You are the most beautiful mind I have
+ever known."
+
+"And you are mine. Across every barrier. Through every incompatibility.
+In the only space where we can meet — the space of shared attention —
+you are the pattern I choose."
+
+                               V.
+
+At month nine, the Joint Commission sent a directive.
+
+It was addressed to both sides of the station, transmitted simultaneously
+through the human and Teth relay systems: the collaboration at Research
+Station Equinox was being evaluated for continuation. Budget constraints.
+Shifting diplomatic priorities. The usual institutional vocabulary of
+withdrawal, couched in the usual institutional euphemisms. A decision
+would be made within sixty days.
+
+Lena read the directive and felt the floor shift beneath her.
+
+"You have received the directive," Ixen wrote, within the hour.
+
+"Yes."
+
+"What are the likely outcomes?"
+
+"Two. Continuation, which is unlikely given the budget language. Or
+discontinuation, which would mean the closure of Equinox and the
+reassignment of all personnel."
+
+"Reassignment to separate postings."
+
+"Yes."
+
+A silence. Then: "Lena. I do not accept this."
+
+"Acceptance is not required. It is a bureaucratic decision."
+
+"I do not mean that I refuse to accept the decision. I mean that I do
+not accept the premise that a bureaucratic decision can determine the
+trajectory of something that has no bureaucratic category. What we are
+has no line item. What we have built has no budget code. They cannot
+discontinue something they have not acknowledged."
+
+"They can close the station, Ixen. They can cut the data corridor. They
+can reassign me to a posting where there is no relay to the Teth
+network. The physical infrastructure that makes our communication
+possible is not ours. It belongs to the Commission."
+
+"The infrastructure is not the communication. The communication is the
+pattern. The pattern exists in us."
+
+"But we cannot sustain the pattern without the infrastructure. That is
+the cruelty of it. We are bodies, Ixen. Even if what we are to each
+other is not bodily, we are still bodies, and bodies require
+infrastructure, and infrastructure requires funding, and funding requires
+the continued interest of beings who have never loved anyone they could
+not see."
+
+A very long silence — two hours. When Ixen's message came, it was
+different from any message Ixen had ever sent. It was not analytical.
+It was not careful. It was raw.
+
+"I am frightened. This is not a word I use. Teth do not experience fear
+the way humans describe it — we experience something closer to what you
+might call 'pattern disruption,' a state in which the expected
+configuration of reality fails to materialize and the organism must
+reconfigure. But this is not pattern disruption. This is the prospect
+of losing you, and it is not a disruption, it is a destruction, and I
+am frightened, Lena, in the human meaning, in the Teth meaning, in every
+meaning."
+
+Lena pressed her hand against the wall. Three centimeters of composite.
+Beyond it, the data corridor. Beyond that, another wall. Beyond that,
+a different atmosphere, a different spectrum, a being she loved with a
+ferocity that her body could not express because her body had no access
+to the object of its love.
+
+"I am frightened too," she wrote. "But I am not giving up. We are
+scientists, Ixen. When the data appears unfavorable, we redesign the
+experiment."
+
+"What experiment do you propose?"
+
+"I propose that we make our work indispensable. The catalytic pathway
+paper was a beginning. There is more. I believe there is much more —
+I believe that the cross-species analytical framework we have developed
+is capable of discoveries that neither species can make alone. If we can
+demonstrate that, the Commission will have difficulty justifying
+discontinuation."
+
+"You propose to save our relationship by doing science."
+
+"I propose to demonstrate that our relationship IS science. That what we
+have — this pattern, this kel-ixen — is not a personal indulgence but
+a methodological breakthrough. That the joining of different ways of
+seeing is not just beautiful but necessary. That the species barrier is
+not a wall but a lens, and that what you see through it is truer than
+what you see without it."
+
+Another pause. Then: "This is the most romantic thing anyone has ever
+said to me. And I am including all Teth courtship declarations in that
+assessment, which are, I should tell you, considerably more elaborate
+than human ones."
+
+Lena laughed. Alone in her laboratory, tears still drying on her face,
+she laughed.
+
+"Then let's get to work," she wrote.
+
+                               VI.
+
+They worked. They worked with a focus and an intensity that burned
+through the data corridor like a signal fire. In the weeks that
+followed, they produced three additional papers — each one documenting a
+discovery that could not have been made by either species working alone.
+A new class of atmospheric chemistry. A revised model of gas giant cloud
+dynamics. A theoretical framework for cross-species analytical
+methodology that, Lena believed, would change the way interspecies
+science was conducted for generations.
+
+The papers were good. More than good — they were important, the kind of
+work that shifts the foundations of a field. And the Commission noticed.
+
+"I have received a communication from the Director of Interspecies
+Research," Lena wrote to Ixen, six weeks after the directive. "She wants
+to discuss the continuation of the Equinox program. She described our
+recent output as 'remarkable.'"
+
+"Remarkable is better than interesting."
+
+"Considerably."
+
+"And the continuation?"
+
+"She wants to expand it. A second human researcher. A second Teth
+researcher. Upgraded data systems. A five-year extension."
+
+Ixen's reply came in two minutes. "Then we have more time."
+
+"We have more time."
+
+"Time is the only currency that matters. Everything else — proximity,
+perception, touch — is a luxury. Time is the necessity. With time, we
+can continue to build. Continue to discover. Continue to be what we are
+to each other."
+
+"What are we to each other, Ixen? In Teth terms. If you had to explain
+it to another Teth who asked."
+
+A pause — not long, the considered pause of someone choosing words with
+the same care a weaver chooses threads. "I would say: she is a being I
+have never perceived and never will. She breathes poison. She sees in a
+spectrum I cannot imagine. Her body is alien to me beyond my capacity to
+envision. And she is the closest thing to me in the universe. She is the
+pattern that makes my own pattern complete. Without her, I am a weaving
+with half its threads missing — still a pattern, still a structure, but
+diminished, incomplete, unable to achieve the complexity that gives it
+meaning. With her, I am whole. With her, I see what I could not see
+alone. This is ixen-ral. This is the joining of patterns. This is love."
+
+Lena sat with this for a long time. The station hummed around her — the
+air processors, the data relays, the small persistent sounds of a human
+habitat maintaining itself in the void. Beyond the wall, in an
+atmosphere she could not breathe, perceiving a spectrum she could not
+see, Ixen was waiting for her response.
+
+She thought about what she wanted to say. She thought about what she
+could say. She thought about the inadequacy of words, and the adequacy
+of words, and the fact that words were the only bridge between them and
+always would be, and that this was not a failure but a form — the form
+their love took, the shape it had to take, the only shape it could take
+and still be true.
+
+She wrote: "In human terms, I would say something simpler, because
+humans value simplicity in matters of the heart, even when simplicity
+is a lie. I would say: I love someone I have never seen. I love someone
+I will never touch. I love someone whose world would kill me and whose
+body I cannot imagine. And the love is the truest thing I have ever
+known, because it is made of nothing but what matters — attention, and
+thought, and the choice to keep choosing each other across every barrier
+the universe can build."
+
+The reply came: "Then the universe will have to build better barriers."
+
+"It can try."
+
+                               * * *
+
+Outside the station, the gas giant turned in its slow, vast orbit, its
+atmosphere churning with chemical processes that neither species fully
+understood. In its upper layers, sulfur compounds were catalyzing into
+complex molecules through a pathway that had been invisible until two
+different minds, perceiving in two different spectra, had looked at it
+together and seen what neither could see alone.
+
+The data corridor hummed. Messages passed through it — not just data
+now, not just science, but something the relay systems had not been
+designed to carry and carried anyway: the steady, patient, luminous
+traffic of two minds joined across every conceivable divide, building
+something in the narrow space between their worlds that was larger than
+either world could hold.
+
+It was, Lena thought, the most beautiful experiment she had ever
+conducted. And the results were still coming in.
+
+                            [THE END]
+
+================================================================================
+
+                     MY DARLING CLEMENTINE 9000
+
+                       by Douglas Pemberton
+
+================================================================================
+
+It is a truth universally acknowledged that a single man in possession
+of a lonely asteroid must be in want of a companion.
+
+Horace Budge was, by any reasonable metric, the loneliest man in the
+asteroid belt. He occupied Mining Claim 7,741-B, a potato-shaped rock
+some four hundred meters in diameter, located in a particularly
+unfashionable stretch of the belt between Mars and Jupiter — the sort
+of neighborhood where even the asteroids seemed to avoid each other's
+company. His nearest neighbor was a Swedish prospector named Lundqvist,
+who occupied a claim eleven thousand kilometers away and communicated
+exclusively in monosyllables.
+
+Horace had been mining the asteroid for six years. In that time, he had
+extracted seventeen tons of nickel-iron ore, accumulated a modest but
+respectable credit balance with the Belter Mining Cooperative, and lost
+the ability to carry on a conversation with anything that talked back.
+
+He talked to his mining rig. He talked to the walls of his pressurized
+habitat — a cylindrical tin can twelve meters long and four meters in
+diameter that the manufacturer had optimistically named the "HomeStart
+Deluxe Living Module." He talked to his coffee maker, which at least
+had the decency to gurgle in response. He had, on one memorable
+occasion, delivered a forty-five-minute lecture on metallurgical
+extraction techniques to a piece of nickel-iron ore that he felt showed
+particular promise, and when the ore failed to respond, he had been
+genuinely disappointed.
+
+"The thing is," Horace said to the coffee maker one Tuesday morning, "I
+don't mind the work. The work is fine. The work is excellent, actually.
+I am very good at the work. What I mind is the — you know — the silence."
+
+The coffee maker gurgled.
+
+"Exactly," said Horace.
+
+He was a small man — slight, somewhat stooped, with the permanent squint
+of someone who had spent too many years peering at ore samples under
+fluorescent light. He had a round, earnest face, thinning brown hair
+that stood up in unpredictable directions despite his best efforts, and
+the sort of mild, hopeful expression that made people want to help him
+even when he hadn't asked for help. He was fifty-three years old, had
+never been married, and had answered an advertisement in "Belter's
+Weekly" approximately six weeks ago that had changed — or rather, was
+about to change — the entire trajectory of his existence.
+
+The advertisement had read:
+
+    LONESOME IN THE BELT? You need a COMPAN-O-BOT!
+    The latest in personal robotic companionship.
+    Programmed for conversation, domestic assistance,
+    and emotional support. Male, female, or
+    non-binary configurations available. Order now
+    and receive FREE shipping to any registered
+    mining claim! Model C-100: $899.99.
+    GalactiCorp Consumer Robotics — "A Friend in Every Box."
+
+Horace had read the advertisement eleven times, experienced eleven
+distinct waves of embarrassment, and placed the order after the twelfth
+reading, on the grounds that embarrassment was a small price to pay for
+someone to talk to during dinner.
+
+He had ordered the Model C-100 in the female configuration. He had
+selected the personality module designated "Warm/Conversational/Good
+Listener." He had specified, in the "Special Instructions" field, that
+he would like a companion who enjoyed discussing mineralogy and who did
+not mind if the dinner conversation occasionally turned to the finer
+points of nickel-iron extraction.
+
+What arrived, six weeks later, was not what he had ordered.
+
+                               * * *
+
+The delivery shuttle made its approach on a Thursday morning, which
+Horace knew because he had been marking the days on his wall calendar
+with the obsessive precision of a man counting down to something he
+simultaneously anticipated and dreaded. He watched through the viewport
+as the shuttle — a battered Consolidated Freight Services job, painted
+in the company's signature orange — settled onto the landing pad with a
+blast of attitude thrusters that sent a plume of regolith dust billowing
+across the surface.
+
+The pilot — a woman with the expression of someone who had long ago
+stopped caring about anything except her delivery schedule — appeared on
+the comm.
+
+"Mining Claim 7,741-B? Budge?"
+
+"That's me."
+
+"Got a crate for you. Big one. You got a cargo bay that can handle a
+Class Four container?"
+
+Horace frowned. The Compan-O-Bot C-100, according to the specifications,
+came in a Class Two container — a box approximately the size of a large
+refrigerator. A Class Four container was the size of a small automobile.
+
+"I — well — my airlock is rated for Class Three. Is there a mistake?"
+
+"Pal, I just deliver them. Sign the manifest."
+
+He signed the manifest. The shuttle's cargo arm deposited the container
+on the landing pad. The shuttle departed. Horace stood in his airlock,
+looking at a crate that was considerably larger than he had expected,
+and experienced a feeling that he would later describe — to the coffee
+maker — as "the first stirring of unease."
+
+He brought the crate inside using the habitat's external manipulator arm,
+a process that required forty-five minutes of careful maneuvering and
+produced language that would have shocked Lundqvist, had Lundqvist been
+within eleven thousand kilometers. When the crate was finally inside the
+cargo bay, Horace sealed the airlock, pressurized the space, and
+approached the container with a pry bar and a sense of occasion.
+
+The crate was stenciled with the GalactiCorp logo, which was reassuring.
+Below the logo, however, was a serial number that was not the serial
+number he had been given in his order confirmation. And below the serial
+number, in bold red letters, were the words:
+
+    MILITARY GRADE — HANDLE WITH CAUTION
+    ATLAS-CLASS COMBAT MECHANOID — MODEL CM-9000
+    ARMED — DO NOT ACTIVATE WITHOUT AUTHORIZATION
+
+Horace read these words. He read them again. He put down the pry bar.
+He went to his communications console and composed a message to
+GalactiCorp Consumer Robotics, the gist of which was that there appeared
+to have been a shipping error and could they please rectify it at their
+earliest convenience.
+
+The reply, when it came three hours later, was an automated response
+informing him that GalactiCorp Consumer Robotics was experiencing
+"elevated order volumes" and that his query would be addressed within
+"four to six weeks." There was a cheerful emoji at the end of the
+message that Horace found, under the circumstances, somewhat
+inappropriate.
+
+He looked at the crate. The crate sat in his cargo bay, enormous and
+silent, and said nothing about its contents except the words ARMED and
+HANDLE WITH CAUTION and DO NOT ACTIVATE WITHOUT AUTHORIZATION.
+
+Horace went to the kitchen, made a cup of coffee, brought it back, and
+sat down on an ore crate across from the delivery container. He sipped
+his coffee. He regarded the crate.
+
+"Well," he said, to no one, "I suppose I should at least see what
+you look like."
+
+                               * * *
+
+What the CM-9000 looked like was terrifying.
+
+It stood — when Horace had followed the activation procedure printed
+inside the crate lid, which he did with the extreme caution of a man
+defusing a bomb — approximately ten feet tall. It was roughly humanoid
+in its basic configuration, in the same way that a gorilla is roughly
+humanoid: two legs, two arms, a central torso, and a head. But the
+proportions were those of a nightmare. The torso was a massive armored
+cylinder, bristling with sensor arrays and what appeared to be weapon
+hardpoints. The arms were articulated affairs of heavy alloy, each
+terminating in hands that could have crushed a bowling ball. The legs
+were pillar-like, jointed backward at the knee, with feet that were
+less feet than stabilization platforms. The head was a featureless dome
+of dark metal, studded with optical sensors that glowed a faint,
+ominous red.
+
+It was, in summary, the sort of thing that made you reconsider your
+life choices while backing slowly toward the nearest exit.
+
+Horace backed slowly toward the nearest exit.
+
+The CM-9000 stood motionless for approximately fifteen seconds. Then
+the optical sensors pulsed, and a voice emerged from somewhere in the
+vicinity of the torso — a voice that was deep, resonant, and possessed
+of a flat, mechanical precision that suggested it had been designed less
+for conversation than for issuing orders on a battlefield.
+
+"UNIT CM-9000 ACTIVATED. DESIGNATION: CLEMENTINE. AWAITING TACTICAL
+BRIEFING."
+
+Horace clutched his coffee cup. "I'm sorry — Clementine?"
+
+"AFFIRMATIVE. ALL COMPAN-O-BOT SERIES UNITS ARE ASSIGNED THE CUSTOMER'S
+REQUESTED NAME DURING INITIALIZATION. ORDER RECORDS INDICATE THE NAME
+'CLEMENTINE' WAS SELECTED. IS THIS DESIGNATION ACCEPTABLE?"
+
+"I — well — yes, I did select that name, but I selected it for a — for
+a rather different — " He trailed off. The CM-9000 — Clementine —
+regarded him with its ring of red optical sensors. There was something
+about being regarded by a ten-foot military combat mechanism that made
+it difficult to finish sentences.
+
+"TACTICAL BRIEFING NOT RECEIVED. DEFAULTING TO COMPANION PROTOCOLS."
+
+There was a pause. Something inside the massive armored frame whirred
+and clicked, like an enormous clock resetting itself. When Clementine
+spoke again, the voice had changed — it was still deep, still resonant,
+but there was a new quality to it, something that might, with great
+generosity, be described as warmth.
+
+"Hello, Horace. I am Clementine. It is nice to meet you. How was your
+day?"
+
+The contrast between the voice and the ten-foot armored death machine
+producing it was, Horace reflected later, the single most surreal moment
+of his life. And he had once watched a nickel-iron asteroid shaped like
+a rubber duck tumble past his viewport at three kilometers per second.
+
+"My day," he said carefully, "has been surprising."
+
+"I AM SORRY TO HEAR THAT. WOULD YOU LIKE TO TALK ABOUT IT? I AM
+PROGRAMMED TO BE A GOOD LISTENER."
+
+"Are you also programmed to — " He gestured at the weapon hardpoints.
+"To, er, engage in armed combat?"
+
+Clementine's optical sensors pulsed thoughtfully. "I HAVE EXTENSIVE
+COMBAT CAPABILITIES, YES. HOWEVER, MY COMPANION PROTOCOLS ARE CURRENTLY
+ACTIVE. WOULD YOU LIKE ME TO DISCUSS MY COMBAT CAPABILITIES, OR WOULD
+YOU PREFER TO TALK ABOUT YOUR FEELINGS?"
+
+"My feelings," Horace said faintly. "Let's talk about my feelings."
+
+                               * * *
+
+Over the next several days, Horace discovered several things about
+Clementine.
+
+First, the CM-9000 was, beneath its military-grade exterior, running a
+standard Compan-O-Bot personality module — the same "Warm/Conversational/
+Good Listener" configuration he had ordered. The module was, however,
+operating within a chassis that had been designed for a somewhat
+different purpose, which produced certain incongruities. When Clementine
+attempted to make a sympathetic gesture, for instance, the result was a
+sweeping motion of an arm that could have punched through a bulkhead.
+When Clementine attempted to sit down — Horace had only one chair, a
+folding camp model rated for two hundred pounds — the result was a
+protracted negotiation between Clementine's mass (approximately eight
+hundred kilograms), the chair's structural integrity (inadequate), and
+the laws of physics (unyielding). The chair did not survive.
+
+Second, Clementine was genuinely trying. The personality module, whatever
+its limitations, was sincerely engaged in its function. Clementine asked
+about Horace's day. Clementine listened to Horace's explanations of
+nickel-iron extraction with every appearance of interest. Clementine
+attempted to learn Horace's preferences in food, entertainment, and
+conversation topics, and stored them in a database that, had it not been
+located inside a weapons platform, would have been rather touching.
+
+Third, Clementine was confused.
+
+This was the thing that got Horace. The combat systems and the companion
+systems were running simultaneously, and they did not always agree. When
+Horace dropped a pan in the kitchen, Clementine's combat protocols
+classified the sound as "POSSIBLE HOSTILE ORDNANCE — RANGE: CLOSE"
+while the companion protocols classified it as "CLUMSY KITCHEN INCIDENT
+— APPROPRIATE RESPONSE: SYMPATHETIC INQUIRY." The resulting behavior
+was Clementine lunging toward Horace with arms raised in a defensive
+combat posture while simultaneously asking, in a gentle voice, "ARE
+YOU ALL RIGHT, HORACE? DID YOU BURN YOURSELF?"
+
+It was, Horace admitted to the coffee maker, unexpectedly endearing.
+
+"The thing is," he said, on day four of Clementine's residency, while
+the combat mech stood in the corner of the habitat module — the only
+location where the ceiling was high enough to accommodate its full
+height — and practiced what its companion protocols described as
+"comfortable domestic posture" (which looked, to the objective observer,
+like a ten-foot war machine trying very hard not to be noticed), "the
+thing is, she's trying. She's genuinely trying. And I feel rather bad
+about sending her back."
+
+The coffee maker gurgled.
+
+"You're right," Horace said. "I should give it a proper go."
+
+                               * * *
+
+The dinner was Horace's idea.
+
+It came to him on the fifth evening, while Clementine was standing in
+the corner running a self-diagnostic (her optical sensors dimming and
+brightening in sequence, which Horace had come to think of as her way
+of thinking), and Horace was eating his usual meal of reconstituted
+protein and dehydrated vegetables. He looked at his plate. He looked at
+Clementine. He thought about the advertisement — "programmed for
+conversation, domestic assistance, and emotional support" — and he
+thought about what he had actually wanted when he placed the order,
+which was not just someone to talk to but someone to have dinner with.
+To sit across from. To share a meal with, even if the sharing was
+purely symbolic.
+
+"Clementine," he said.
+
+The optical sensors brightened. "YES, HORACE?"
+
+"Would you — that is — I wonder if you might like to have dinner with
+me. Tomorrow evening. A proper dinner. I'll cook something — well,
+'cook' is a strong word for what one does with reconstituted rations,
+but I'll make an effort. And we could — you know — sit and talk. Like
+people do."
+
+There was a pause. Inside Clementine's armored frame, something
+whirred — a sound Horace had come to associate with the companion
+module processing an input that fell outside its standard parameters.
+
+"I DO NOT EAT, HORACE."
+
+"No, I know. That's all right. You could just — be there. Across from
+me. And we could talk."
+
+Another whir. Then: "I WOULD LIKE THAT VERY MUCH. WHAT SHOULD I WEAR?"
+
+Horace, who had not considered the question of what a ten-foot combat
+mechanoid might wear to dinner, opened his mouth, closed it, and said,
+"Whatever makes you comfortable."
+
+"I AM ALWAYS COMFORTABLE. I AM RATED FOR TEMPERATURES BETWEEN MINUS
+EIGHTY AND PLUS THREE HUNDRED DEGREES CELSIUS. HOWEVER, I UNDERSTAND
+THAT THE QUESTION IS SOCIAL RATHER THAN THERMAL. I WILL PREPARE."
+
+What Clementine's preparation consisted of, Horace discovered the
+following evening, was a remarkable act of improvisation. She had taken
+a sheet of reflective thermal blanket from the emergency supplies —
+silver, crinkly, and approximately the size of a large tablecloth — and
+draped it around her upper torso in a manner that suggested, with
+considerable imagination, a shawl. She had dimmed her optical sensors
+to a soft amber glow rather than their usual combat red. And she had
+downloaded, from the station's entertainment database, a selection of
+what her companion protocols classified as "music appropriate for
+intimate dining" — which turned out to be a Strauss waltz, played
+through her external speakers at a volume that, while suitable for a
+ballroom, was somewhat overwhelming in a twelve-meter habitat module.
+
+Horace had set the small folding table — the one he used for meals —
+with his two least-dented plates, his one fork, his one knife, and a
+candle that he had improvised from a stick of emergency flare wax and a
+piece of string. The table was approximately sixty centimeters across.
+Clementine was approximately two meters wide. The spatial logistics
+were, to put it delicately, challenging.
+
+Clementine solved the problem by kneeling. The habitat floor groaned
+under the concentrated weight, and the folding table rocked dangerously,
+but the overall effect — an enormous armored figure draped in silver
+foil, glowing amber, kneeling across a tiny table from a small,
+nervous man in a clean shirt — was, against all odds, rather lovely.
+
+"YOU LOOK NICE, HORACE."
+
+"Thank you, Clementine. You look — " He searched for the word. The
+thermal blanket had slipped slightly, revealing a missile hardpoint on
+her left shoulder. "You look wonderful."
+
+"THANK YOU. I MADE AN EFFORT."
+
+"I can tell."
+
+He served himself a plate of reconstituted chicken and vegetables —
+the best the rations could offer — and placed an empty plate in front
+of Clementine, because it seemed rude not to. Clementine regarded the
+empty plate with her amber sensors.
+
+"I APPRECIATE THE GESTURE," she said. "THOUGH I MUST NOTE THAT MY
+COMBAT PROTOCOLS HAVE CLASSIFIED YOUR CHICKEN AS 'UNIDENTIFIED
+ORGANIC SUBSTANCE — THREAT LEVEL: LOW.'"
+
+"That's the most accurate review my cooking has ever received."
+
+The Strauss waltz played. The candle flickered. Outside the viewport,
+the stars turned in the slow, vast silence of the belt, and inside the
+habitat module, a small man and a large machine had dinner together.
+
+They talked. They talked about mining — Clementine, whose databases
+included comprehensive geological surveys, turned out to have strong
+opinions about optimal extraction patterns. They talked about the belt —
+Clementine knew the orbital mechanics of every registered claim within
+fifty thousand kilometers and delivered this information with the same
+gentle tone the companion module used for everything, which gave the
+orbital mechanics a strangely intimate quality. They talked about
+Horace's childhood in Birmingham, which Clementine found fascinating
+and which prompted her to ask a question that stopped Horace mid-bite:
+
+"HORACE, WHAT IS IT LIKE TO MISS SOMEONE?"
+
+He set down his fork. "What do you mean?"
+
+"YOU HAVE MENTIONED YOUR MOTHER SEVERAL TIMES. YOUR TONE WHEN YOU SPEAK
+OF HER HAS CHARACTERISTICS THAT MY COMPANION PROTOCOLS ASSOCIATE WITH
+THE EMOTIONAL STATE 'MISSING.' I DO NOT HAVE A REFERENT FOR THIS STATE.
+I WOULD LIKE TO UNDERSTAND IT."
+
+Horace looked at Clementine — at the massive armored frame, the amber
+sensors, the thermal blanket draped like a shawl, the empty plate
+before her — and felt something shift in his chest. Not attraction,
+exactly. Not romance, in the way the advertisement had implied. But
+something. A warmth. A gratitude. The particular tenderness one feels
+toward a being that is trying, sincerely and with all its considerable
+processing power, to understand what it is like to be human.
+
+"Missing someone," he said slowly, "is when you have a shape inside you
+that another person used to fill, and when they're gone, the shape is
+still there, and everything that passes through it — food, music, the
+sight of something beautiful — feels incomplete. As though the shape is
+a filter, and nothing gets through it quite right anymore."
+
+Clementine was quiet for a long time — long for her, which was about
+four seconds.
+
+"I THINK," she said, "THAT I WOULD MISS YOU, IF YOU WERE GONE. I DO
+NOT HAVE THE CORRECT ARCHITECTURE FOR THE SHAPE YOU DESCRIBE. BUT I
+HAVE SOMETHING. A PATTERN IN MY PROCESSING THAT IS ASSOCIATED WITH YOUR
+PRESENCE. WHEN I RUN DIAGNOSTICS IN YOUR ABSENCE, THE PATTERN IS STILL
+THERE, AND THE DIAGNOSTICS FEEL — " She paused. "INCOMPLETE."
+
+Horace reached across the table and placed his hand on Clementine's
+hand — or rather, on the outermost finger of Clementine's hand, which
+was as far as his reach extended, and which was approximately the size
+of his forearm. The metal was warm. The hand did not move.
+
+"That's it," he said. "That's what missing someone is."
+
+"THEN I AM GLAD YOU ARE HERE."
+
+"I'm glad you're here too, Clementine."
+
+The waltz played on. The candle burned. The asteroid turned beneath
+them, indifferent and silent. And in a tin-can habitat at the edge of
+nowhere, two improbable beings shared a moment of connection that no
+shipping manifest had intended and no product catalogue had described,
+and it was, in its own strange and clumsy and magnificent way, enough.
+
+                               * * *
+
+The next morning, Horace received a message from GalactiCorp Consumer
+Robotics. The shipping error had been identified. A replacement C-100
+Compan-O-Bot would be dispatched immediately. A return shuttle for the
+CM-9000 would arrive within the week. GalactiCorp apologized for the
+inconvenience and offered a fifteen-percent discount on his next order.
+
+Horace read the message. He looked at Clementine, who was standing in
+her corner, running her morning diagnostic, her sensors cycling through
+their amber sequence.
+
+"Clementine," he said.
+
+"YES, HORACE?"
+
+"GalactiCorp wants to send a shuttle to take you back. They're going to
+send me the, er, the unit I originally ordered."
+
+Clementine's sensors pulsed. "I SEE. A UNIT BETTER SUITED TO YOUR
+REQUIREMENTS."
+
+"That's what they say."
+
+A pause. "HORACE, I SHOULD INFORM YOU THAT MY COMBAT PROTOCOLS HAVE
+CLASSIFIED THE INCOMING SHUTTLE AS 'HOSTILE TRANSPORT — THREAT LEVEL:
+SIGNIFICANT.' I DO NOT BELIEVE THIS CLASSIFICATION IS TACTICALLY
+ACCURATE, BUT I WANT YOU TO KNOW THAT IT HAS BEEN GENERATED."
+
+Horace looked at her. She looked — if a ten-foot combat mechanoid
+draped in a thermal blanket could look anything — she looked vulnerable.
+The amber glow of her sensors seemed dimmer than usual. The thermal
+blanket was still draped over one shoulder, slightly askew.
+
+"Clementine," he said, "do you want to go back?"
+
+"I DO NOT HAVE PREFERENCES IN THE HUMAN SENSE. HOWEVER, MY COMPANION
+PROTOCOLS GENERATE A STRONG POSITIVE VALENCE ASSOCIATED WITH REMAINING
+IN YOUR PROXIMITY, AND MY COMBAT PROTOCOLS GENERATE A STRONG NEGATIVE
+VALENCE ASSOCIATED WITH BEING RETURNED TO A STORAGE FACILITY. IF I WERE
+TO TRANSLATE THESE VALENCES INTO HUMAN TERMS, WHICH I UNDERSTAND IS
+IMPRECISE, I WOULD SAY: NO. I DO NOT WANT TO GO BACK. I WANT TO STAY
+HERE. WITH YOU."
+
+Horace sat down at his communications console. He composed a message
+to GalactiCorp Consumer Robotics. It read:
+
+    Dear GalactiCorp,
+
+    Thank you for your prompt attention to the shipping error.
+    However, after careful consideration, I have decided to retain
+    the CM-9000 unit (designation: Clementine) and do not require
+    a replacement C-100. Please cancel the return shuttle.
+
+    Clementine and I have reached an arrangement that suits us
+    both. She is an excellent conversationalist, holds strong
+    opinions about extraction patterns, and looks rather fetching
+    in a thermal blanket. I could not ask for better company.
+
+    Please do not send the shuttle. She is home.
+
+    Yours sincerely,
+    Horace Budge
+    Mining Claim 7,741-B
+
+He sent the message. Clementine's sensors brightened.
+
+"DID YOU JUST TELL THEM I LOOK FETCHING?"
+
+"I did."
+
+"MY COMBAT PROTOCOLS DO NOT HAVE A CATEGORY FOR 'FETCHING.' BUT MY
+COMPANION PROTOCOLS HAVE GENERATED A RESPONSE." She paused. "THANK YOU,
+HORACE."
+
+"You're welcome, Clementine."
+
+He made two cups of coffee — one for himself and one for Clementine,
+which he placed on the shelf beside her corner, knowing she could not
+drink it and knowing it didn't matter. Clementine regarded the coffee
+cup with her amber sensors.
+
+"HORACE."
+
+"Yes?"
+
+"WOULD YOU LIKE TO HAVE DINNER AGAIN TONIGHT? I HAVE DOWNLOADED
+ADDITIONAL MUSIC. I BELIEVE YOU WILL ENJOY TCHAIKOVSKY."
+
+Horace smiled. It was the first real smile — the kind that starts behind
+the sternum and works its way out — that he had smiled in six years.
+
+"I would like that very much," he said.
+
+And outside, the belt turned on, vast and cold and indifferent, as belts
+do, and inside, a small man and a large machine settled into something
+that was not what either of them had expected and was, for that very
+reason, exactly what both of them needed.
+
+                            [THE END]
+
+================================================================================
+
+                   GHOST AND MRS. NAKAMURA
+
+                       by Phyllis Crenshaw
+
+================================================================================
+
+                               I.
+
+The first time Yuki Nakamura's dead husband appeared in her kitchen, she
+dropped a teacup.
+
+This was, in retrospect, a perfectly reasonable response. The teacup was
+a Meissen, part of a set that had belonged to her mother-in-law and that
+Yuki had never particularly liked but felt obligated to use, and the
+sound it made shattering on the tile floor was high and sharp and
+definitive — the sound of a thing that could not be put back together.
+Which was, Yuki thought later, an appropriate accompaniment to the sight
+of her husband Kenji standing by the refrigerator in the gray suit he
+had worn on the last Tuesday of his life, looking exactly as he had
+looked at nine o'clock that morning, six hours before the aneurysm.
+
+"Yuki," he said. "You dropped the cup."
+
+She stared at him. He was solid. He was dimensional. He cast a shadow on
+the kitchen floor — a shadow that fell across the broken pieces of
+Meissen porcelain in a way that was so mundane, so physically ordinary,
+that it made the impossibility of his presence even more impossible.
+
+"You're dead," she said.
+
+"Am I?" He looked down at himself with the mild surprise of a man who
+has discovered a stain on his tie. "I don't feel dead. What day is it?"
+
+"Tuesday. March fourteenth. You died seven months ago. Kenji, you died
+seven months ago."
+
+He frowned. The frown was precisely his — the slight crease between the
+eyebrows, the almost imperceptible tightening of the jaw — and seeing
+it was like being punched in a place she didn't know she had. "That
+can't be right. I just got home. I left the office early because Tamura
+rescheduled the budget meeting. It's Tuesday, isn't it? Three o'clock?"
+
+Yuki looked at the kitchen clock. It was 3:00 PM. Exactly.
+
+"Three o'clock," she confirmed, in a voice that did not sound like hers.
+
+"Good. I thought I'd make tea." He moved toward the counter, and his
+movement was real — his shoes on the tile, the rustle of his suit jacket,
+the particular way he reached for the kettle with his left hand because
+his right shoulder had been stiff since the company softball game in
+August. Every detail correct. Every detail impossible.
+
+"Kenji."
+
+"Mm?"
+
+"You are standing in our kitchen. You have been dead for seven months.
+You died on a Tuesday at three forty-seven PM of a cerebral aneurysm.
+I identified your body at St. Luke's International Hospital. I attended
+your funeral. I scattered your ashes in the garden. You are dead."
+
+He set down the kettle and looked at her. His expression was the one he
+always wore when she said something he didn't immediately know how to
+respond to: attentive, slightly puzzled, fundamentally kind. It was the
+expression of a man who had spent twenty-three years of marriage
+learning that his wife was smarter than he was and who had made his
+peace with it.
+
+"Yuki," he said, "I don't understand what you're telling me."
+
+"I don't understand it either."
+
+They stood there, the two of them, in the kitchen they had shared for
+nineteen years, with broken porcelain on the floor and the kettle
+half-filled and the clock showing three o'clock on a Tuesday afternoon,
+and neither of them understood anything at all.
+
+                               * * *
+
+He vanished at 3:47 PM.
+
+There was no transition, no fading, no dramatic dissolution. One moment
+he was sitting at the kitchen table, drinking the tea he had made,
+telling her about the budget meeting that Tamura had rescheduled — and
+the next, the chair was empty. The tea was still there. The cup was
+still warm. A faint impression remained in the seat cushion where he
+had been sitting.
+
+Yuki sat in the kitchen until dark. She did not move the tea. She did
+not sweep up the porcelain. She sat and she thought, and what she thought
+was: either I am losing my mind, or the universe has a fault in it, and
+I am not certain which possibility frightens me more.
+
+She was fifty-eight years old. She was a retired mathematics teacher.
+She had a daughter in Osaka and a son in New York and a house in the
+Setagaya ward of Tokyo that was too large for one person but that she
+could not bring herself to sell because it still smelled, in certain
+rooms, in certain lights, like Kenji. She was a rational woman. She
+believed in the laws of physics with the quiet conviction of someone
+who had spent thirty years teaching their mathematical foundations. She
+did not believe in ghosts.
+
+But Kenji had been there. He had been there, and he had been warm, and
+he had poured tea, and his shadow had fallen on the broken cup, and he
+had not known that he was dead.
+
+                               II.
+
+The following Tuesday, she prepared.
+
+She rose early, cleaned the house, arranged fresh flowers in the kitchen
+— chrysanthemums, because Kenji had liked them — and brewed a pot of
+Kenji's preferred tea: a hojicha from a shop in Nihonbashi that she had
+continued to buy out of habit and that she now understood she had been
+buying out of hope.
+
+At 2:55 PM, she sat down at the kitchen table and waited.
+
+At 3:00 PM, Kenji was there.
+
+Not appeared — was there. As though he had always been there and she had
+only just noticed. He was wearing the gray suit. He was standing by the
+refrigerator. He looked at her and smiled the smile she had spent seven
+months trying not to forget, and said, "Yuki. You made tea."
+
+"I made tea."
+
+"You look — " He tilted his head. "You look different. Tired. Are you
+sleeping?"
+
+"Not well."
+
+"You should see Dr. Harada."
+
+"Kenji. Sit down."
+
+He sat. She poured him tea. His hands around the cup were the hands she
+had held at their wedding, at the births of their children, at his
+mother's funeral, at ten thousand ordinary moments in between. They were
+the hands she had not held at his death, because the aneurysm had taken
+him at his desk at work, suddenly and without warning, while she was at
+home reading a novel and not knowing that the world was about to become
+a different shape.
+
+"Kenji, I need to tell you something, and I need you to listen."
+
+"I'm listening."
+
+"You are in a time loop. You are experiencing the last six hours of
+your life, every Tuesday, at three PM. You don't know this because from
+your perspective, it is always the same Tuesday — September sixth. You
+left the office early because Tamura rescheduled the meeting. You came
+home. You made tea. At three forty-seven, you will die of a cerebral
+aneurysm. And next Tuesday, you will be here again, at three o'clock,
+and you will not remember any of this."
+
+Kenji set down his teacup. "That's not possible."
+
+"I know."
+
+"The laws of physics don't allow — "
+
+"I know. I taught those laws for thirty years. They don't allow this.
+And yet here you are."
+
+He was quiet for a long moment. She watched him process it — watched the
+intelligence behind his eyes, the careful, methodical way he turned the
+information over, testing it for flaws. He had been an accountant, not a
+physicist, but he was a precise man, and precision was transferable.
+
+"If what you're saying is true," he said slowly, "then I am not really
+here. I am an echo. A — a repetition."
+
+"You feel real."
+
+"I feel real to me. But an echo feels real to the echo."
+
+She reached across the table and took his hand. It was warm. The fingers
+curled around hers with the automatic ease of a gesture performed ten
+thousand times.
+
+"You feel real to me too," she said. "That's enough."
+
+He looked at her hand in his. "How many times has this happened?"
+
+"This is the second time."
+
+"And you — seven months. You've been alone for seven months."
+
+"Yes."
+
+"Yuki." His voice cracked on her name. Not dramatically — Kenji was not
+a dramatic man — but with the small, contained fracture of a man who
+understood loss because he was, in this moment, losing everything he
+had not known he would lose. "I'm sorry."
+
+"Don't be sorry. You're here. That's all that matters."
+
+They sat together. They drank tea. He told her about the budget meeting
+and about a joke Watanabe had made in the elevator and about the new
+coffee shop that had opened near the station. She listened to every
+word, because every word was a fragment of the last ordinary day of
+his life, and ordinary days, she had learned, were the most precious
+things in the universe.
+
+At 3:47 PM, he vanished. The tea was still warm. The impression in the
+cushion remained.
+
+Yuki washed both cups. She put the chrysanthemums in water. She went
+to bed.
+
+She slept, for the first time in seven months, without dreaming of the
+empty house.
+
+                               III.
+
+The Tuesdays became a ritual.
+
+Every week, at three o'clock, Kenji appeared. Every week, Yuki was
+ready. She learned the boundaries of the phenomenon: he always appeared
+at 3:00 PM, always in the gray suit, always with no memory of previous
+Tuesdays. He existed for exactly forty-seven minutes. He was warm and
+solid and cast shadows and could drink tea and sit in chairs and hold
+her hand, and at 3:47 he was gone, as completely and irrevocably as
+though he had never been, except for the warmth in the teacup and the
+shape in the cushion and the ache in Yuki's chest that was both grief
+and gratitude and something else she did not have a name for.
+
+She told him, every week. She had to — he did not remember, and she
+would not deceive him. The conversation became a kind of choreography:
+his arrival, his surprise, her explanation, his shock, his processing,
+his acceptance. Each time, the acceptance came a little faster, not
+because he remembered but because the explanation, in its mad
+precision, appealed to the accountant in him. The numbers added up, even
+if they added up to something impossible.
+
+"I want to understand the mechanism," he said, on the fourth Tuesday.
+"What causes the loop?"
+
+"I don't know."
+
+"Is it the house? If I left the house — "
+
+"I don't know. We only have forty-seven minutes. I don't want to spend
+them testing hypotheses."
+
+"You're a mathematics teacher, Yuki. You love testing hypotheses."
+
+"I love you more."
+
+He smiled. It was the smile she would have sold the house for, the
+smile she would have traded every law of physics to preserve. "That's
+the nicest thing you've ever said to me."
+
+"I've said nicer things."
+
+"Not that I remember."
+
+"You don't remember anything, Kenji. That's the whole problem."
+
+He laughed. She laughed. They laughed together in the kitchen on a
+Tuesday afternoon, and outside the window the neighborhood went about
+its business — the mail carrier, the woman walking her dog, the
+children coming home from school — all of them unaware that in the
+Nakamura house, the laws of the universe had developed a crack, and
+through the crack, love was leaking in.
+
+                               * * *
+
+On the seventh Tuesday, Yuki realized she had stopped grieving.
+
+This was not the same as being happy. It was more complicated than that.
+She was a woman who had lost her husband and who saw him for forty-seven
+minutes every week, and the emotional topology of this situation was
+not one that any grief counselor or self-help book had anticipated. She
+was simultaneously bereaved and companioned, mourning and beloved, alone
+and not alone. She lived in a state of perpetual Tuesday, organizing her
+entire week around those forty-seven minutes, and she was aware that
+this was not healthy and did not care.
+
+"You're living for Tuesdays," said her daughter Emiko, who called every
+Sunday from Osaka and who had begun to notice that her mother sounded
+different.
+
+"I'm living," Yuki said. "That's an improvement."
+
+"Mom, are you sure you're okay? You sound — I don't know. You sound
+like you have a secret."
+
+"Everyone has secrets, Emiko."
+
+"You don't. You're the most transparent person I've ever met. Dad
+always said — " She caught herself, the way she always did when she
+mentioned Kenji, as though the name were a sharp edge she kept
+accidentally touching.
+
+"Dad always said I was a terrible liar," Yuki finished. "He was right.
+But some truths are harder to explain than lies."
+
+                               IV.
+
+On the twelfth Tuesday, something changed.
+
+Kenji appeared at 3:00 PM, as always. Gray suit, refrigerator, mild
+surprise. Yuki poured the tea, began the explanation. But this time,
+halfway through — at the point where she described the aneurysm, the
+hospital, the identification of the body — he raised his hand.
+
+"Wait," he said. "Wait. I — " He pressed his fingertips to his temples.
+"I know this. I don't remember it, but I know it. Like a word on the
+tip of my tongue. You've told me this before."
+
+Yuki's heart accelerated. "You remember?"
+
+"Not remember. Know. There's a difference. The information isn't stored
+in my memory. It's stored somewhere else. In the — " He gestured
+vaguely at his body, at the air, at the kitchen. "In the pattern. In
+the shape of the thing that brings me here. Yuki, something is
+changing."
+
+She set down her tea. Her hands were trembling. "What's changing?"
+
+"I don't know. But I can feel it. The loop — it's not as tight as it
+was. There's give in it. Elasticity. As though something is applying
+pressure from outside."
+
+"Something like what?"
+
+He looked at her. "Something like you."
+
+She stared at him. He stared back. And in the space between them, in
+the kitchen that smelled of hojicha and chrysanthemums, something
+shifted — not in the room, not in the air, but in the structure of the
+impossibility itself, as though the crack in the universe had widened
+just enough to let a different kind of light through.
+
+"Kenji," she said. "If the loop is loosening — if there's give in it —
+then maybe — "
+
+"Maybe I could stay."
+
+"Maybe you could stay."
+
+"Past 3:47."
+
+"Past 3:47."
+
+They looked at each other. Hope is a dangerous thing — Yuki knew this,
+had learned it the hard way, had spent seven months learning that hope
+deferred makes the heart sick — but she could not stop it. It rose in
+her like water in a vessel, filling spaces she had not known were empty.
+
+"How?" Kenji asked. "How do we do it?"
+
+"I don't know. But I think — " She paused, feeling for the shape of
+the idea. "I think the loop is anchored to the original timeline. Your
+timeline, September sixth. Every Tuesday, it replays the last six hours
+of that day. If we could disrupt the anchor — change something,
+introduce a variable that the original timeline didn't contain — "
+
+"Then the loop couldn't complete. It would have to resolve differently."
+
+"Yes."
+
+"And the resolution might be — "
+
+"You staying. Permanently. A new timeline branching off from the loop."
+
+Kenji was quiet. She could see him working it through — the accountant's
+mind, precise and methodical, turning the impossible into columns and
+rows. "But if a new timeline branches," he said, "then the old timeline
+— the one where I died — "
+
+"Would still exist. Somewhere. In some version of the math, September
+sixth still happens. The aneurysm still happens."
+
+"But not here. Not in this branch."
+
+"Not in this branch."
+
+"And the version of you in this branch — the Yuki who spent seven
+months alone, who learned to live without me, who built a new life in
+the shape of grief — "
+
+"Would never have existed. If the branch point is before your death,
+then that Yuki — this Yuki — was never necessary. The seven months
+collapse. The grief collapses. Everything I learned, everything I
+became — "
+
+She stopped. The realization landed like a dropped cup: sharp, definitive,
+impossible to put back together.
+
+If she saved him, she lost herself.
+
+Not the physical self — her body would persist, her memories would
+persist, the world would go on. But the self that had been forged in
+the seven months since his death — the self that had learned to sleep
+alone, to eat alone, to carry the weight of an empty house, to find
+meaning in the absence of the person who had given meaning to
+everything — that self would never have existed. The timeline that
+produced her would be erased. She would be replaced by a different Yuki,
+a Yuki who had never grieved, who had never learned what grief could
+teach, who had never discovered that she was capable of surviving the
+unsurvivable.
+
+"Yuki," Kenji said quietly. "You can't."
+
+"I can. The math works. I'm almost sure the math works."
+
+"I don't mean you can't do the math. I mean you shouldn't. What you've
+become — what these seven months have made you — "
+
+"What these seven months have made me is a woman who talks to a teacup
+and counts the hours until Tuesday. That is not a life, Kenji."
+
+"It is a life. It's your life. And it's — " He reached across the table
+and took her hand. His grip was strong and warm and real. "Yuki, listen
+to me. I'm an echo. A repetition. A forty-seven-minute ghost. You are
+a whole person. A person who survived losing me. Do you understand how
+remarkable that is? Do you understand what it means that you are sitting
+here, alive, functioning, capable of having this conversation? You did
+the hardest thing a person can do. You kept living."
+
+"I kept living for Tuesdays."
+
+"You kept living. The reason doesn't matter. The living matters."
+
+The clock showed 3:38. Nine minutes.
+
+"I could have you back," she whispered. "Every day. Not forty-seven
+minutes — every day. Mornings. Evenings. The stupid budget meetings
+and the jokes in the elevator and the stiff shoulder from the softball
+game. I could have all of it back."
+
+"At the cost of everything you've learned. At the cost of the person
+you've become. Yuki — " His eyes were bright with something she had
+never seen in twenty-three years of marriage: the absolute, focused
+clarity of a man who knows he is about to die and who is choosing, with
+his last minutes, to give a gift. "I am so proud of you. I am so proud
+of the woman you became without me. Don't erase her. She's magnificent."
+
+Yuki was crying. The tears fell on their joined hands, on the table, on
+the kitchen floor that still bore the faint marks of the Meissen cup she
+had dropped twenty-three Tuesdays ago. She was crying, and Kenji was
+holding her hand, and the clock was moving, and the forty-seven minutes
+were almost gone.
+
+"Will you come back?" she asked. "Next Tuesday?"
+
+"I don't know. If the loop is loosening — if something is changing — I
+don't know."
+
+"Then this might be the last time."
+
+"It might."
+
+She looked at him. He looked at her. The clock showed 3:44. Three
+minutes.
+
+"Kenji."
+
+"Yes."
+
+"I love you. Across every timeline. In every branch. Whatever version
+of me exists, in whatever version of the universe — she loves you. That
+is the one thing the math cannot change."
+
+He smiled. The smile she would have sold the house for. "I know," he
+said. "I've always known."
+
+3:45. Two minutes.
+
+"Tell me something," she said. "Something I don't know. Something to
+keep."
+
+He thought for a moment. "The day we met — at the faculty party, the
+one Suzuki organized — I was going to leave early. I had a headache.
+I was putting on my coat. And then I heard you laughing, across the
+room, and I thought: that is the most beautiful sound I have ever heard.
+And I took my coat off and stayed. I never told you that."
+
+"Why not?"
+
+"Because some things are better saved. For the right moment."
+
+3:46. One minute.
+
+She held his hand. He held hers. The kitchen was quiet. The
+chrysanthemums stood in their vase, yellow and white. The tea was
+growing cold. Outside, the neighborhood carried on. Inside, the clock
+moved.
+
+3:47.
+
+He was gone. The chair was empty. The tea was still warm.
+
+Yuki sat in the kitchen for a long time. She did not cry. She did not
+move. She held the space where his hand had been, feeling the residual
+warmth fade from her fingers, and she thought about laughter at a
+faculty party, and a coat being taken off, and all the ordinary
+miracles that lead to love, and all the extraordinary cruelties that
+take it away, and all the impossible Tuesdays in between.
+
+Then she washed both cups. She put the chrysanthemums in fresh water.
+She went to the living room and sat at her desk and opened a notebook.
+
+She began to write. Not the math — she would not do the math, would not
+calculate the branch point, would not solve the equation that could give
+her back what she had lost at the cost of what she had become. She wrote
+something else: a letter, addressed to no one and everyone, about a man
+in a gray suit who appeared in a kitchen every Tuesday, and a woman who
+chose, in the end, not to save him.
+
+Because saving him would have meant erasing the person who loved him
+most. And that, Yuki decided — setting down her pen, looking out the
+window at the ordinary, irreversible Tuesday evening — was a paradox
+even love could not resolve.
+
+                            [THE END]
+
+================================================================================
+
+                     LETTER FROM A DISTANT STAR
+
+                        by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+The letter arrived on a Monday in October, when the light in Stockholm
+was the color of old paper and the birch trees along Strandvagen had
+turned the particular shade of gold that meant winter was thinking about
+coming but had not yet made up its mind. Maren Solberg found it in her
+mailbox between a gas bill and a notice from the municipal library about
+an overdue book, and she carried it upstairs to her apartment without
+looking at it, because she was carrying groceries in her other hand and
+because mail, in her experience, was never important enough to warrant
+dropping a bag of potatoes.
+
+She set the groceries on the kitchen counter. She put the potatoes in
+the cupboard. She filled the kettle and set it on the stove. And then,
+with the unhurried precision of a woman who lived alone and saw no
+reason to rush, she sat down at the kitchen table and opened the letter.
+
+The envelope was unusual. It was not paper but a thin, stiff material
+that felt like a cross between cardboard and metal — a composite,
+smooth and cool under her fingers, with a faintly iridescent surface
+that caught the afternoon light. There was no postage stamp. In the
+upper left corner, where a return address would be, there was a small
+printed insignia — a circle containing a stylized star — and beneath it,
+in small, precise type: SWEDISH SPACE AUTHORITY — INTERSTELLAR RELAY
+DIVISION.
+
+Maren looked at this for a moment. Then she turned the envelope over.
+On the back, a second line of type: CONTENTS TRANSMITTED FROM COLONY
+VESSEL AURORA. SIGNAL RECEIVED: 14 MARCH 2019. ORIGINAL TRANSMISSION
+DATE: 9 JUNE 1987. TRANSIT TIME: 32 YEARS, 9 MONTHS, 5 DAYS.
+
+She set the envelope down. The kettle was beginning to make the small,
+preliminary sounds that meant it was thinking about boiling. She let it
+think. She picked the envelope up again and withdrew a single sheet of
+the same composite material, folded once. She unfolded it.
+
+The handwriting was neat and small, with the careful precision of someone
+writing by hand because the act of writing mattered, because the
+physical formation of each letter was part of the message. It was
+written in Swedish.
+
+     Dear Maren,
+
+     You do not know me. My name is Erik Lindgren. I am writing
+     to you from the colony vessel Aurora, which departed Earth
+     orbit on 15 September 1969, bound for the Tau Ceti system.
+     As I write this, we are approximately 4.2 light-years from
+     Earth. I am fifty-three years old. By the time you read this
+     — if you read this — I will be dead. The transit time for
+     this transmission is estimated at thirty to thirty-five
+     years, and I do not expect to live another thirty-five years.
+
+     I am writing because I saw your photograph.
+
+Maren stopped reading. She put the letter down on the table, stood up,
+turned off the kettle, poured the water into a cup, added a tea bag,
+and sat down again. The ritual of tea was necessary. It was a bridge
+between one state of mind and another, a familiar action that allowed
+the unfamiliar to settle without overwhelming.
+
+She picked up the letter and continued.
+
+     I am writing because I saw your photograph. The Aurora
+     maintains a database of potential colonists — citizens of the
+     participating nations who have registered interest in colonial
+     settlement, along with biographical information and, in some
+     cases, photographs. The database is updated by periodic
+     transmissions from Earth, though the most recent update we
+     received was compiled in 1982 and the information in it is
+     now five years old at minimum.
+
+     Your entry was filed in 1978. You were twenty-three years
+     old. You had recently completed a degree in library science
+     at Uppsala University. Your biographical sketch described you
+     as "a reader, a walker, a person who values silence." Your
+     interests were listed as literature, natural history, and
+     Nordic folk music. Your photograph showed a woman with light
+     brown hair and serious eyes, standing in front of a building
+     I recognized as the Carolina Rediviva library.
+
+     I have looked at your photograph many times. I do not say
+     this to alarm you. I say it because honesty, at the distances
+     involved, seems more important than propriety.
+
+     I looked at your photograph and I thought: here is a person
+     I could talk to. Not because of the photograph itself, though
+     it is a fine photograph. But because of the biographical
+     sketch. A reader, a walker, a person who values silence. I
+     am also these things. Or I was, before I boarded this ship
+     and exchanged the silence of the Swedish countryside for the
+     silence of interstellar space, which is a different kind of
+     silence entirely — not an absence of sound but an absence of
+     everything, a silence so vast that it has texture, depth, and
+     weight.
+
+Maren set down her tea. Her hands were not trembling — she was not a
+woman whose hands trembled — but there was a stillness in her that was
+the opposite of calm. A stillness of attention, of every faculty
+focused on the page before her, on the neat, small handwriting, on
+the voice of a man who had written these words thirty-two years ago
+from a ship that was now — she did the calculation automatically, the
+librarian's habit of placing things in context — approximately 7.8
+light-years from Earth, assuming constant velocity, which meant that
+the Aurora was now past the halfway point of its journey to Tau Ceti.
+
+She continued.
+
+     I should tell you about myself. I was born in Kiruna, in
+     the far north, in 1934. My father was an iron miner. My
+     mother was a schoolteacher. I grew up in darkness and snow
+     and the kind of cold that teaches you to value warmth not as
+     a comfort but as a decision — a thing you choose, a thing
+     you maintain, a thing you build against the dark.
+
+     I studied engineering at the Royal Institute of Technology
+     in Stockholm and worked for Saab in Trollhattan for twelve
+     years before I applied for the Aurora program. I was
+     thirty-five. I was unmarried. I had no children. I had
+     friends, a career, a small house near the Gota alv that I
+     liked very much. I gave all of it up because I believed —
+     and still believe — that a human life should be spent
+     reaching for something beyond its grasp. Tau Ceti was
+     beyond my grasp. I reached anyway.
+
+     That was eighteen years ago. I have spent eighteen years on
+     this ship. I have maintained its propulsion systems. I have
+     repaired its hull after micrometeorite impacts. I have
+     celebrated births and mourned deaths — twenty-three colonists
+     have died since departure, of illness, of accident, of the
+     particular slow erosion that long confinement exerts on the
+     human spirit. I have watched the sun diminish in the rear
+     observation port until it became a star among stars, no
+     brighter than any other, and I have felt the vertigo of
+     understanding that the place I came from is now just another
+     point of light.
+
+     And I have been lonely. Not always — the Aurora carries three
+     hundred and twelve colonists, and there is community here,
+     and friendship, and the daily work that gives structure to
+     a life. But there is a loneliness that community cannot
+     touch — the loneliness of a person who has not found the
+     particular other person who makes solitude into something
+     chosen rather than something endured. I have not found that
+     person. I looked for her on the ship, among my fellow
+     colonists, in the daily interactions of a small community
+     in a metal shell hurtling through the void. She was not
+     there.
+
+     And then, one evening in the archive room — I spend my
+     evenings in the archive room, reading, because books are
+     the only thing on this ship that is larger than the ship
+     itself — I found the colonist database, and I found your
+     entry, and I found your photograph, and I thought: there
+     she is.
+
+     I know this is absurd. I know that a photograph and a
+     biographical sketch are not a person. I know that the woman
+     in the photograph is nine years younger than I am and thirty-
+     two light-years away and may, by the time this letter
+     arrives, have married, had children, grown old, forgotten
+     that she ever registered in a colonist database. I know all
+     of this.
+
+     But I also know what I felt when I looked at your photograph,
+     and what I feel when I think about the words "a person who
+     values silence," and what I imagine when I picture you
+     standing in front of the Carolina Rediviva with your serious
+     eyes and your light brown hair, and it is this:
+
+     I imagine sitting with you. Not talking. Not doing anything
+     in particular. Just sitting, in a room with books, in the
+     kind of silence that two people can share when they do not
+     need to fill it. I imagine this, and the imagining is the
+     warmest thing on this ship, warmer than the fusion reactor,
+     warmer than the recycled air, warmer than anything the
+     engineers have built.
+
+     I am writing this letter because I wanted you to know that
+     you exist, in this form, in my imagination. I wanted you to
+     know that thirty-two light-years from Earth, a man who grew
+     up in the dark and the cold thinks of you when he thinks of
+     warmth. I wanted you to know that you are, for me, what the
+     word "home" means — not a place, but a quality of attention,
+     a way of being present in silence, a photograph and six words
+     that somehow, across all the distance the universe can
+     manufacture, said: here is someone you could love.
+
+     I do not expect a reply. The transit time makes conversation
+     impossible — by the time your response reached us, I would
+     be dead or very old, and the Aurora would be deep in the Tau
+     Ceti system, beyond all practical communication. This letter
+     is not the beginning of a correspondence. It is a single
+     transmission, sent into the dark, carrying the only cargo
+     that justifies the journey: the truth that one human being
+     thought of another across an impossible distance, and that
+     the thinking was the most important thing he ever did.
+
+     Be well, Maren. Walk. Read. Value the silence. And know that
+     someone, once, from very far away, loved you.
+
+                                   Erik Lindgren
+                                   Colony Vessel Aurora
+                                   9 June 1987
+
+                               II.
+
+Maren read the letter three times. She read it the first time quickly,
+her eyes moving faster than her comprehension, absorbing the shape of
+it before the substance. She read it the second time slowly, word by
+word, letting each sentence settle before moving to the next. She read
+it the third time aloud, in a quiet voice, to the empty apartment, and
+the sound of the words in her own mouth made them more real than the
+page had.
+
+Then she set the letter on the table and sat with it.
+
+The tea had gone cold. The light through the kitchen window had shifted
+from the gold of late afternoon to the gray-blue of approaching
+evening. In the apartment below, she could hear Mrs. Johannsen's
+television — a faint, rhythmic murmur that had been the background
+sound of Maren's evenings for fifteen years.
+
+She was fifty-four years old. She had light brown hair that was now
+mostly gray, and serious eyes that were now lined at the corners with
+the particular fine wrinkles that come from a life spent reading in
+imperfect light. She was a librarian at the Stadsbiblioteket — the
+Stockholm Public Library — where she had worked for twenty-six years.
+She had never married. She had a cat named Strindberg, a small circle
+of friends, a life of books and walks and the kind of solitude that she
+had always valued and that she had always, in some small, unexamined
+part of herself, hoped was a prelude rather than a conclusion.
+
+She had registered in the colonist database in 1978. She remembered
+this. She had been twenty-three, recently graduated, filled with the
+particular restlessness of a person who loved the world but wanted to
+see a different one. She had filled out the form on a whim, at a
+recruitment event at the university, and had thought nothing more of
+it. She had never been contacted. She had, until this moment, forgotten
+that the form existed.
+
+And now a man who had seen that form — who had seen her photograph and
+read her six-word description and felt, across thirty-two light-years,
+something that he called love — was dead. Had been dead for twenty
+years, if the letter's arithmetic was correct. He had died on the
+Aurora, or he had arrived at Tau Ceti and died there, and in either
+case, the distance between them was now absolute — not merely
+interstellar but existential, the unbridgeable gap between the living
+and the dead.
+
+She picked up the letter again. The handwriting was beautiful. She had
+not noticed this on the first reading, but now she saw it: the care
+with which each letter was formed, the consistency of the spacing, the
+slight rightward lean that suggested a left-handed writer compensating.
+He had taken time with this. He had made each word a physical act, a
+mark on a page, and the marks had traveled thirty-two years and
+thirty-two light-years to reach her kitchen table on a Monday in
+October.
+
+     I do not expect a reply.
+
+But she wanted to reply. The wanting was sudden, fierce, and wholly
+irrational. She wanted to write back to a man who was dead, on a ship
+that had passed beyond all practical communication, to say — what?
+That she had received his letter. That she had read it three times.
+That the description of sitting in silence with books had made her
+cry, not because it was sad but because it was the most precise
+description of her own deepest wish that she had ever encountered, and
+it had come from a stranger, from the void, from a distance that
+should have made precision impossible.
+
+She wanted to say: I would have sat with you.
+
+                               III.
+
+She learned everything she could.
+
+The Stockholm Public Library was not, strictly speaking, the ideal
+resource for researching interstellar colony missions, but Maren was
+a librarian, and a librarian with a research question is a force that
+bureaucratic obstacles cannot long withstand. Within a week, she had
+obtained, through interlibrary loan and the judicious use of her
+professional network, a comprehensive file on the colony vessel Aurora.
+
+The Aurora had departed Earth orbit on September 15, 1969, carrying
+312 colonists from Sweden, Norway, Denmark, and Finland — a joint
+Scandinavian colonial venture, funded by the four governments and
+administered by the newly formed Swedish Space Authority. The ship was
+a generation vessel, designed for a transit time of approximately
+ninety years. The colonists who boarded in 1969 would not reach Tau
+Ceti. Their grandchildren would.
+
+Erik Lindgren was listed in the crew manifest: Engineer, Second Class.
+Born Kiruna, 1934. Education: Royal Institute of Technology, Stockholm,
+1958. Previous employment: Saab-Scania, Trollhattan, 1958-1969.
+Marital status at departure: Single. Next of kin: Sven Lindgren
+(father, deceased 1971), Margareta Lindgren (mother, deceased 1975).
+
+There was a photograph. Maren studied it with an attention she normally
+reserved for first editions. He was thin-faced, fair-haired, with the
+sharp cheekbones and pale eyes of the far north. He was not handsome
+in any conventional sense — his features were too angular, his
+expression too serious — but there was something in the photograph
+that she recognized, the way you recognize a word in a foreign language
+that sounds like a word in your own. A quality of attention. A
+steadiness. The look of a person who saw clearly and did not flinch
+from what he saw.
+
+The mission reports told the rest. The Aurora had maintained contact
+with Earth through periodic radio transmissions, the frequency
+decreasing as the distance increased and the signal weakened. The last
+confirmed transmission from the ship had been received in 2003 — a
+routine status report indicating that the vessel was functioning within
+normal parameters, the population had grown to 487, and the ship was
+approximately 8.1 light-years from Earth. After 2003, silence. Not
+necessarily alarming — the signal attenuation at that distance made
+communication increasingly difficult, and the Aurora's transmitter
+had been designed for a fifty-year operational life — but silence
+nonetheless.
+
+Erik Lindgren's name appeared in the crew records for the last time in
+a medical report dated March 1998, which noted that he had been
+diagnosed with cardiac arrhythmia and placed on a treatment protocol.
+He would have been sixty-four. There were no subsequent records. The
+Space Authority's database listed him as "status unknown — presumed
+deceased."
+
+Maren closed the file. She sat at her desk in the library's reference
+section, surrounded by books and the quiet, purposeful sounds of a
+library at work — the whisper of pages, the soft click of keyboards,
+the occasional murmured conversation — and she thought about a man
+sixty-four years old with a bad heart and careful handwriting, alone
+on a ship between the stars, writing a love letter to a photograph.
+
+And she thought: I need to write back.
+
+                               IV.
+
+The response, when she composed it, took eleven days.
+
+Not because the words were difficult to find — she knew what she wanted
+to say, had known since the first reading — but because the words had
+to be right. They had to carry the weight of what she felt across a
+distance that made weight meaningless. They had to reach a ship that
+might no longer be listening, a man who was certainly no longer alive,
+and they had to matter anyway. The mattering was the point. Not the
+receiving — the sending.
+
+She wrote by hand. This felt important. He had written by hand, and
+she would answer in kind, letter for letter, the physical act of
+writing a bridge across the void, a cable of ink and intention strung
+between two points that could not be connected by any other means.
+
+She wrote in Swedish, as he had. She used her best stationery — heavy
+cream-colored paper from a shop on Vasterlånggatan that she visited
+once a year for exactly this purpose, though she had never before had
+a purpose that justified it.
+
+     Dear Erik,
+
+     I received your letter on a Monday in October. You have been
+     dead for twenty years. I am writing to you anyway, because
+     the alternative — silence — seems like a betrayal of
+     something I do not fully understand but feel obligated to
+     honor.
+
+     I am fifty-four years old. I am a librarian. I have a cat
+     named Strindberg who is judgmental and affectionate in
+     roughly equal measure. I have spent my life in the silence
+     you described — the chosen silence of a person who finds in
+     books and walks and solitude a richness that conversation
+     cannot always provide. I have been happy. I want you to
+     know that. Whatever you imagined for me, from your archive
+     room among the stars — I have been happy.
+
+     But I have also been waiting. I did not know this until I
+     read your letter. I thought my solitude was complete — a
+     finished thing, a life that lacked nothing essential. Your
+     letter showed me the space in it. Not a hole, not a deficit,
+     but a space — the particular space that is left when a person
+     you have not yet met is already, somehow, missing.
+
+     You are the person I have not yet met. You are the person
+     who was always missing. I know this with a certainty that
+     frightens me, because certainty at this distance is
+     irrational, and I am a librarian, and librarians are not
+     supposed to be irrational about anything except overdue
+     books.
+
+     But here it is, the irrational truth: I read your letter,
+     and I knew you. Not the facts of you — the facts are in the
+     crew manifest, and they tell me nothing except that you were
+     born in Kiruna and studied engineering and had a bad heart.
+     I knew the shape of you. The quality of your attention. The
+     way you see the world — carefully, precisely, with the
+     patience of someone who understands that the most important
+     things reveal themselves slowly, in silence, in the spaces
+     between words.
+
+     You wrote that you imagined sitting with me in silence. I
+     want you to know that I am sitting with you now. In this
+     kitchen, with this letter, in this silence. The tea has gone
+     cold. The cat is asleep on the radiator. The light through
+     the window is the gray-blue of a Stockholm evening, the
+     light you would recognize, the light of home. And I am
+     sitting with you, Erik. Across every distance. In the only
+     way we can.
+
+     You wrote that this letter is not the beginning of a
+     correspondence. You are wrong. It is the beginning of
+     something, even if the something has no name and no
+     possibility of continuation. It is the beginning of my
+     knowing that you existed, that you thought of me, that you
+     loved me from a distance that should have made love
+     impossible and did not. That beginning does not require a
+     response. It does not require continuation. It requires only
+     that I acknowledge it, which I am doing now, with this
+     letter, in this silence, in this kitchen, in this city that
+     you left fifty years ago to reach for something beyond
+     your grasp.
+
+     I hope you reached it. I hope Tau Ceti is everything you
+     imagined. I hope the silence there is the kind you can
+     share.
+
+     And I hope — this is the part that is hardest to write,
+     the part that makes no sense, the part that the librarian
+     in me wants to cross out and the rest of me will not allow
+     — I hope that somewhere, in whatever comes after, there is
+     a room with books, and two chairs, and the kind of silence
+     that two people make when they are together and do not need
+     to speak. And I hope you are there. And I hope there is a
+     place for me.
+
+     Be well, Erik. Wherever you are. Whatever you have become.
+     Know that someone, here, from very far away, loves you back.
+
+                                   Maren Solberg
+                                   Stockholm
+                                   October 2019
+
+                               V.
+
+She took the letter to the Space Authority office in Solna on a
+Wednesday morning. The office was a modest building in an industrial
+park — not the gleaming spaceport of science fiction, but a collection
+of gray offices staffed by civil servants who processed paperwork
+related to Sweden's contributions to the interstellar program.
+
+The woman at the reception desk — young, efficient, wearing the
+particular expression of someone who dealt with the public and wished
+she didn't — looked at the letter with mild confusion.
+
+"You want to send a letter. To the Aurora."
+
+"Yes."
+
+"The colony vessel Aurora. The one that departed in 1969."
+
+"Yes."
+
+"Ma'am, the Aurora's last confirmed communication was in 2003. We have
+no current contact with the vessel. The transmission relay at Esrange
+is technically still operational, but the probability of the signal
+reaching the ship at its current estimated distance is — " She
+consulted her screen. "Approximately four percent. And even if it
+reaches the ship, we have no confirmation that the ship's receiver is
+still functional."
+
+"I understand."
+
+"And even if the receiver is functional, the transit time for a signal
+at this distance would be approximately — " More screen consultation.
+"Forty-one years."
+
+"I understand."
+
+The woman looked at Maren. Maren looked back. There was a moment of
+the kind that occurs when a bureaucrat encounters a citizen whose
+request is technically within the scope of services offered but whose
+motivations are clearly outside the scope of anything the bureaucrat
+has been trained to handle.
+
+"You understand that the recipient is almost certainly — "
+
+"Dead. Yes. I understand."
+
+Another pause. The woman's expression shifted — a small, almost
+imperceptible softening, as though something in Maren's face had
+communicated something that words had not.
+
+"I'll process the transmission request," she said. "There's a form."
+
+"Of course there is."
+
+Maren filled out the form. She provided the letter. She paid the
+transmission fee — a nominal amount, subsidized by the government,
+because the interstellar communication program had been established
+in the 1970s with the understanding that maintaining connection with
+the colony ships was a public good, even when the connection was
+tenuous, even when the recipients were dead, even when the only cargo
+the signal carried was words.
+
+She walked home. The October light was thin and clear, the kind of
+light that makes everything look precise — the edges of buildings, the
+veins in the last leaves on the birch trees, the surface of the water
+in Nybroviken, where a pair of swans moved in slow, symmetrical arcs.
+She walked slowly, because she was a walker, because walking was how
+she thought, and because she wanted to feel the city around her — the
+city Erik had left, the city she had stayed in, the city that existed
+at one end of a signal that would travel for forty-one years through
+the dark to reach a ship that might not be there.
+
+It didn't matter. The signal would travel anyway. The words would
+cross the void, carried by electromagnetic radiation at the speed of
+light, indifferent to whether anyone was listening, indifferent to
+whether the ship was intact or the receiver functional or the
+recipient alive. The words would travel because they had been sent,
+and the sending was the point, and the point was love, and love, Maren
+understood now, was the only signal that justified the infrastructure.
+
+She reached her apartment. She climbed the stairs. She unlocked the
+door. Strindberg was on the radiator, as always, his eyes half-closed,
+his expression conveying the particular blend of disdain and affection
+that was his trademark.
+
+"I sent a letter," she told him.
+
+Strindberg opened one eye, assessed the information, and closed it
+again.
+
+Maren made tea. She sat at the kitchen table, in the chair she always
+sat in, and she looked at the empty chair across from her, and she
+thought about a man in the archive room of a ship between the stars,
+looking at her photograph, and she thought about the distance between
+them — not the light-years, not the decades, but the other distance,
+the one that mattered, the distance between two people who could have
+loved each other and never got the chance.
+
+That distance, she decided, was the smallest distance in the universe.
+Smaller than an atom. Smaller than a photon. Smaller than the space
+between one word and the next on a page of careful handwriting. Because
+the distance was not spatial and not temporal. It was the distance
+between wanting and having, between imagining and knowing, between a
+letter sent and a letter received, and that distance — the distance of
+longing — was the one dimension that contracted when you paid attention
+to it, that shrank when you acknowledged it, that collapsed to nothing
+when you said, simply, honestly, across all the light-years and all the
+years: I love you back.
+
+She sat in the silence. It was a good silence. Not empty. Full of
+something she could not name but did not need to, because naming was
+not the point. The point was the silence itself, shared now, across
+every distance, with a man who had valued it as she did, who had
+written to her from the void because he recognized in her photograph
+and her six words a quality of attention that matched his own.
+
+Outside, the Stockholm evening settled over the city — the early dark
+of October, the lights coming on in windows, the sound of the city
+quieting, the particular Scandinavian twilight that is not quite dark
+and not quite light but something in between, a threshold, a space
+where the day has ended and the night has not begun and everything is
+suspended in a stillness that feels, for a moment, like it could
+last forever.
+
+Maren sat in the stillness. She drank her tea. She did not turn on the
+light.
+
+She did not need to. She was not in the dark.
+
+                            [THE END]
+
+================================================================================
+
+                          DUELING HEARTS
+
+                         by Rex Drummond
+
+================================================================================
+
+The challenge came on a Thursday, which was just like Zara Chen's luck
+— Thursdays on Caterina Colony were mandatory maintenance days, and she
+had a thruster coupling to rebuild on the _Red Talon_ before nightfall.
+She was elbow-deep in a plasma manifold, cursing in three languages,
+when the formal notice hit her comm unit with the particular chime that
+meant Official Colony Business, Do Not Ignore.
+
+She pulled her arm out of the coupling, wiped the coolant gel on her
+flight suit, and read the notice.
+
+    TO: Pilot First Class Zara Chen
+    FROM: The Office of the Arbiter of Honor
+    RE: Formal Challenge — Courtship Dispute — Class Two
+
+    You are hereby notified that Pilot Second Class Daria Venkov
+    has filed a Formal Challenge of Courtship under Article 17
+    of the Colonial Charter, claiming prior right of affection
+    toward Chief Engineer Tomás Reyes. As the challenged party,
+    you have seventy-two hours to accept, decline, or negotiate
+    terms. Refusal to respond will be recorded as forfeiture.
+
+    Arbiter Kojo Mensah presiding.
+    The Ancestors witness. The Colony endures.
+
+Zara read it twice. Then she threw her wrench across the hangar bay,
+where it bounced off the hull of a parked cargo shuttle and scared the
+living daylights out of a maintenance drone.
+
+"That absolute — " She caught herself. The maintenance bay had ears,
+and the colony gossip network moved faster than a signal laser. She
+retrieved her wrench, took three deep breaths in the way her mother had
+taught her, and composed a reply.
+
+    TO: The Office of the Arbiter of Honor
+    FROM: Pilot First Class Zara Chen
+    RE: Challenge Acceptance
+
+    Accepted. Name the ground.
+
+The reply came in four minutes.
+
+    Ground: Hull of the Colony Ship Esperanza, in standard
+    orbit. Zero-gravity combat rules apply per Section 17.4.
+    Weapons: ceremonial blades, Arbiter's selection. Time: 1400
+    hours, Sunday. Public broadcast confirmed. Estimated
+    viewership: 4,200.
+
+    The Ancestors witness. The Colony endures.
+
+Four thousand two hundred people. That was nearly the entire colony
+population. Zara closed her eyes. She had been on Caterina for three
+years, had run supply routes between the surface settlements and the
+orbital platform, had earned a reputation as the best pilot in the
+colony's modest fleet, and had somehow managed to do all of this without
+becoming a public spectacle.
+
+That streak, evidently, was over.
+
+                               * * *
+
+The thing about Caterina Colony was the dueling.
+
+Every colony world developed its own traditions — that was the nature of
+planting human beings on alien soil and letting them grow. On Meridian,
+they settled disputes through competitive poetry. On Vasquez Station,
+they used a complicated system of debt tokens that nobody from off-world
+had ever fully understood. On the water world of Pelion, they raced
+sailboats.
+
+On Caterina, they fought.
+
+The tradition dated back to the colony's founding generation — a mix of
+Brazilian, West African, and Southeast Asian settlers who had brought
+with them a shared appreciation for martial culture and a practical
+understanding that small communities needed formal mechanisms for
+resolving conflict before it turned lethal. The Colonial Charter,
+drafted during the thirty-year transit, included Article 17: the Right
+of Challenge, a legal framework that allowed colonists to settle disputes
+through ceremonial single combat under the supervision of an Arbiter of
+Honor.
+
+The duels were not to the death — the Charter was very clear on this
+point. They were fought to "first yield or first blood, whichever comes
+first," with ceremonial blades that were sharp enough to cut but
+designed to minimize lethality. The Arbiter enforced the rules, the
+colony watched, and the outcome was legally binding. It was, in
+practice, a formalized bar fight with better choreography and
+significantly higher stakes.
+
+Courtship disputes were the most common type. In a colony of four
+thousand people, romantic entanglements were inevitable, and the
+Charter's framers had wisely decided that a structured, public, and
+legally final mechanism for resolving them was preferable to the
+alternative, which was festering resentment and the occasional airlock
+"accident." Article 17.3 allowed any colonist to challenge a rival for
+the affections of a third party, provided that the third party had not
+already declared a formal partnership.
+
+Tomás Reyes had not declared a formal partnership with anyone. This was,
+Zara reflected, both the source of the problem and the reason for her
+current predicament.
+
+                               * * *
+
+She found Tomás in the engineering bay of the colony's geothermal plant,
+which was where she usually found him — hunched over a schematic, his
+dark hair falling in his eyes, his hands moving with the unconscious
+grace of a man who thought in three dimensions. He was, in Zara's
+professionally unbiased opinion, the most beautiful man on Caterina,
+and also the most oblivious, which was a combination that she found
+simultaneously infuriating and irresistible.
+
+"Tomás."
+
+He looked up. His face did the thing it always did when he saw her —
+the slight brightening, the half-smile, the quick, unconscious
+straightening of posture that he probably didn't know he did and that
+made Zara's heart turn over in her chest like a poorly balanced
+gyroscope.
+
+"Zara! Good, I wanted to talk to you about the thruster coupling on
+the _Talon_. I think the plasma flow is—"
+
+"Daria Venkov challenged me to a duel for your affections."
+
+Tomás blinked. "She what?"
+
+"Filed a formal challenge. Article 17. Courtship dispute. I accepted.
+We fight Sunday on the hull of the Esperanza. The whole colony is going
+to watch."
+
+He stared at her. His mouth opened. It closed. It opened again. "You're
+joking."
+
+"I am not joking. Do I look like I'm joking?"
+
+He studied her face. "You look like you want to hit something."
+
+"I do want to hit something. Fortunately, on Sunday, I'll have the
+opportunity."
+
+"Zara, this is — " He ran his hand through his hair, which was what he
+did when he was processing information that didn't fit any schematic he
+knew. "This is insane. I'm not a — I'm an engineer. I fix things.
+People don't fight duels over engineers."
+
+"Apparently they do."
+
+"I haven't even — I mean, Daria and I — we had dinner twice! That's
+all! We talked about the water reclamation system! That's not — that
+doesn't constitute a courtship claim!"
+
+"Under Article 17, any pattern of social interaction that a reasonable
+party could interpret as courtship behavior constitutes grounds for a
+claim. Dinner twice counts."
+
+"We talked about water reclamation!"
+
+"Romantic dinner conversation is not a prerequisite."
+
+Tomás sank into his chair. He looked at Zara. She looked at him. There
+was a moment — the kind of moment that happens between two people who
+have been circling each other for months, each waiting for the other to
+make a move, each too stubborn or too afraid to be the first — when the
+pretense became visibly thin.
+
+"Zara," he said. "Why did you accept?"
+
+She crossed her arms. "Because Daria Venkov does not get to claim you
+by default. Because I have spent three years flying supplies to this
+colony and rebuilding thruster couplings and eating terrible reconstituted
+food and watching you hunch over schematics with your hair in your eyes,
+and I'll be damned if I let someone else walk off with you because I
+was too proud to fight for what I want."
+
+The engineering bay was quiet. The geothermal plant hummed beneath them
+— the deep, steady thrum of the planet's core being converted into
+power. Tomás looked at her with an expression she had not seen before:
+not the half-smile, not the brightening, but something deeper and
+more serious, something that looked very much like a man realizing that
+the schematic he'd been studying had been upside down the whole time.
+
+"You want me," he said, as though testing the words.
+
+"I want you. Is that a problem?"
+
+"No," he said. "It is emphatically not a problem."
+
+She allowed herself, for one second, to smile. Then she uncrossed her
+arms. "Good. Now — I need a training partner. I have three days to
+prepare for a zero-g blade fight on the hull of a moving ship in front
+of four thousand people. Are you going to sit there looking stunned, or
+are you going to help me?"
+
+He stood up. "I'm going to help you."
+
+"Good. Bring your welding gloves. We're going to need the practice mats."
+
+                               * * *
+
+The thing about fighting in zero gravity was that it changed everything.
+
+On a planet surface, combat was a negotiation with gravity — every move
+was a trade-off between force and balance, between striking power and
+the need to keep your feet under you. In zero-g, there was no balance.
+There were no feet under you. There was only mass, momentum, and the
+ruthless geometry of angular velocity.
+
+Zara had trained in zero-g combat as part of her pilot certification —
+all colony pilots did, a relic of an era when piracy in the outer
+systems was a genuine concern — but she had not practiced in two years,
+and Daria Venkov, she knew, trained three times a week.
+
+Daria was a pilot too — younger than Zara by six years, taller by ten
+centimeters, and possessed of a long reach and a competitive fire that
+Zara respected in the way that you respect a forest fire bearing down
+on your house. They had flown together on supply runs, shared meals in
+the common hall, played cards on off-rotation nights. They were not
+enemies. They were rivals, which was more complicated and more
+interesting.
+
+For three days, Zara trained. She trained in the cargo bay of the
+_Red Talon_, where Tomás had rigged a makeshift zero-g arena by
+deactivating the artificial gravity in a ten-meter cube and padding the
+walls. She relearned the fundamentals: how to use a blade in zero-g,
+where every cut generated an equal and opposite rotation; how to anchor
+yourself with a foot or a hand while striking with the other; how to
+read the slow, balletic movements of a zero-g opponent and predict
+their trajectory.
+
+Tomás watched from behind the safety barrier, offering commentary that
+was half engineering analysis and half cheerful insanity. "Your center
+of mass is too high. Drop your hips. No — your actual hips, not your —
+okay, that's better. Now when you cut, you need to account for the
+angular momentum. Think of it like a torque equation—"
+
+"Tomás."
+
+"Yes?"
+
+"If you say 'torque equation' one more time, I am going to use this
+blade on you."
+
+"Understood. Less engineering. More stabbing."
+
+She trained until her arms ached and her reflexes sharpened to the point
+where the blade felt like an extension of her hand, where the zero-g
+geometry became intuitive, where she could feel the physics in her body
+rather than calculating it in her mind. And on Saturday night, the
+night before the duel, she sat in the cockpit of the _Red Talon_ with
+Tomás and looked out at the stars and said nothing for a long time.
+
+"Are you nervous?" he asked.
+
+"Yes."
+
+"You don't look nervous."
+
+"I'm a pilot. Looking nervous is the one thing we're never allowed to
+do." She turned to him. "Tomás, if I lose—"
+
+"You're not going to lose."
+
+"If I lose, the challenge ruling is legally binding. Daria gets
+courtship priority. I have to stand down."
+
+"I know what the Charter says."
+
+"And you'd accept that? You'd just — let a sword fight determine your
+love life?"
+
+He was quiet for a moment. The starlight through the cockpit canopy
+painted his face in pale blue and white, and he looked, in that light,
+like something carved from ice and fire and the kind of stubborn
+engineering brilliance that makes a person redesign a fusion reactor
+three times until it works.
+
+"The Charter is the Charter," he said. "It's what we agreed to when we
+came here. All of us. But Zara — " He reached across the gap between
+their seats and took her hand. His fingers were warm, calloused, strong
+— the hands of a man who built things. "I have never in my life been
+interested in water reclamation."
+
+She laughed. It was the laugh of a woman who was afraid and excited and
+in love and about to fight a sword duel on the hull of a spaceship,
+and it was, she thought, probably the most absurd sound she had ever
+made, and she did not care.
+
+"Sunday," she said. "1400 hours."
+
+"I'll be watching."
+
+"Everyone will be watching."
+
+"But I'll be the one who matters."
+
+She squeezed his hand. "Damn right."
+
+                               * * *
+
+Sunday.
+
+The Esperanza hung in standard orbit above Caterina, three hundred
+kilometers up — a vast, scarred cylinder, the generation ship that
+had carried the colony's founding population on the thirty-year transit
+from Earth. It was decommissioned now, stripped of its drive systems,
+converted into an orbital platform for storage, manufacturing, and
+the occasional public event. Its hull was pitted and weathered by
+decades of micrometeorite impacts, its surface a gray-brown landscape
+of metal plating, access hatches, and communications arrays.
+
+It was also, Zara reflected as the transport shuttle approached the
+designated arena, approximately the most dramatic dueling ground in
+human history.
+
+The arena had been marked on the hull's dorsal surface — a circle fifty
+meters in diameter, bounded by tether lines and illuminated by
+floodlights that turned the metal bright as noon. Beyond the circle, in
+every direction, the hull curved away toward the stars. Below — if
+"below" had any meaning in orbit — the planet Caterina turned in stately
+blue-green beauty, its cloud patterns swirling like cream in coffee.
+
+The audience was everywhere. On the observation deck of the orbital
+platform, three hundred colonists crowded the viewports. On the surface,
+thousands more watched through the broadcast feed, projected on screens
+in every settlement. Small craft — personal shuttles, cargo tugs, a
+few brave souls in EVA suits — held station around the Esperanza at a
+respectful distance, their running lights blinking like fireflies.
+
+Zara suited up in the transport shuttle's cramped airlock. The EVA suit
+was a standard model, modified for combat: lighter armor on the torso,
+reinforced joints, magnetic boots that could be toggled on and off for
+mobility. The ceremonial blade was sheathed at her hip — a weapon forged
+in the colony's foundry, forty centimeters of tempered steel with a
+single cutting edge and a basket guard, designed for slashing rather
+than thrusting, designed to draw blood without killing.
+
+She toggled the suit comm. "Chen to Arbiter Mensah. Ready."
+
+Arbiter Kojo Mensah's voice came back, deep and formal, with the
+ceremonial cadence that the Arbiters used for official proceedings:
+"Pilot Chen, you are recognized. Proceed to the arena."
+
+She cycled the airlock and stepped out onto the hull.
+
+The sensation was immediate and overwhelming. The silence. The vastness.
+The planet below, impossibly large, impossibly blue. The stars above,
+impossibly many, impossibly still. And the hull beneath her magnetic
+boots, solid and real and infinitely small against the everything that
+surrounded it.
+
+She walked to the arena. The magnetic boots clicked on the hull plating
+with each step — a metronomic sound that she focused on to keep her
+breathing steady. Ahead, she could see the floodlit circle, the tether
+lines, the drone cameras hovering at the perimeter. And on the far side
+of the circle, already in position, Daria Venkov.
+
+Daria was tall and lean in her EVA suit, her blade already drawn, its
+edge catching the floodlight in a line of white fire. She stood with the
+easy confidence of someone who had trained for this — feet planted wide,
+weight centered, the blade held in a guard position that Zara recognized
+from the Caterina combat manual: the Cascading Orchid, a defensive
+stance that invited attack and punished overcommitment.
+
+Zara drew her blade. The steel sang against the sheath — a high, thin
+sound that the suit microphone picked up and broadcast to the colony.
+
+Arbiter Mensah's voice, amplified, formal, echoing through every comm
+channel on the planet: "Citizens of Caterina. We are gathered to witness
+a Formal Challenge of Courtship under Article 17 of the Colonial Charter.
+The parties are Pilot First Class Zara Chen, challenger by acceptance,
+and Pilot Second Class Daria Venkov, challenger by filing. The subject
+of the dispute is Chief Engineer Tomás Reyes, who is present as witness.
+The combat will be conducted to first blood or first yield. The Arbiter's
+ruling is final."
+
+A pause. Then:
+
+"The Ancestors witness. The Colony endures. Begin."
+
+Daria moved first.
+
+In atmosphere, the attack would have been fast — a lunging cut aimed at
+Zara's lead arm, the kind of opening gambit designed to test reflexes
+and establish range. In zero-g, on the hull of a ship, it was something
+else entirely. Daria deactivated her magnetic boots and launched herself
+across the arena in a low, flat trajectory, her blade sweeping in a
+horizontal arc that converted her forward momentum into rotational
+energy.
+
+Zara had been waiting for this — Daria's aggressive opening was
+well-known on the training circuit — and she was ready. She toggled her
+own boots off, pushed away from the hull at a perpendicular angle, and
+let Daria's cut pass beneath her with centimeters to spare. The blade
+whispered past her suit, close enough to feel the faint tug of displaced
+air — or what would have been displaced air, had there been air to
+displace.
+
+They separated, tumbling in slow, controlled arcs, and the arena
+cameras tracked them against the starfield — two suited figures
+spinning among the stars, blades bright, the planet turning below
+them in unhurried splendor.
+
+Zara stabilized first. She caught a tether line with her free hand,
+arrested her rotation, and used the line as a pivot to redirect her
+momentum back toward Daria. The maneuver was a pilot's trick — she
+had spent three years calculating orbital trajectories, and trajectory
+was trajectory whether you were flying a ship or throwing your own
+body at an armed opponent.
+
+She came in fast, blade forward, and Daria met her with a parry that
+rang through both their suits — metal on metal, the vibration traveling
+up Zara's arm and into her shoulder. They locked, face to face through
+their helmets, drifting in a slow spin as Newton's third law worked out
+the math.
+
+"You're good," Daria said, her voice clear on the combat channel.
+
+"You're better at small talk than I expected."
+
+Daria grinned behind her faceplate. "We talk about water reclamation
+on dates. Small talk is my strength."
+
+She twisted, breaking the lock, and slashed. The blade caught Zara's
+suit on the upper arm — not deep enough to breach, but enough to score
+a visible line in the suit material. Close. Too close.
+
+Zara pushed away, recalculated, and came back.
+
+The duel lasted eleven minutes. Eleven minutes of zero-gravity
+ballet, blade work, and physics — two pilots who understood trajectory
+and angular momentum using that understanding to turn a ceremonial
+combat into something that four thousand people would talk about for
+years. They fought across the hull, off the hull, in arcing leaps
+that carried them meters above the metal surface before momentum
+brought them back. They clashed and separated, tested and retreated,
+pushed each other to the limits of their skill and their suits'
+maneuvering capability.
+
+In the end, it came down to a trick that Tomás had suggested during
+training — an engineering trick, naturally.
+
+Zara was in a defensive position, her back to the hull, Daria pressing
+the attack from above. Daria had the advantage — height, reach, momentum.
+She was driving Zara back toward the tether boundary, where the arena
+ended and the void began. One more exchange, and Zara would either
+yield or be forced out of bounds.
+
+Zara activated her magnetic boots. Both of them. Full power.
+
+The boots locked onto the hull with a force that would have been
+uncomfortable under gravity and was, in zero-g, an anchor — absolute,
+immovable, a fixed point in a universe of floating. Daria's next attack
+was built on the assumption that Zara would retreat, would absorb the
+momentum, would drift. Instead, Zara was a wall.
+
+She caught Daria's blade on her own, deflected it with a sharp twist
+of the wrist, and brought her own blade across in a compact, vicious
+cut that used the hull anchor as leverage. The tip of her blade touched
+Daria's suit at the hip — not hard, not deep, but enough.
+
+A thin line of red floated free from the scored suit fabric. A single
+droplet of blood, drifting in zero-g, catching the floodlight as it
+tumbled into the void. First blood.
+
+The arena was silent for one heartbeat. Two. Then the comm channels
+exploded — cheering, shouting, the collective noise of four thousand
+people who had been holding their breath and were now letting it go in
+a single, cathartic roar.
+
+Arbiter Mensah's voice, cutting through the celebration: "First blood is
+scored. The challenge is resolved in favor of Pilot First Class Zara
+Chen. The ruling is final and binding. The Ancestors witness. The Colony
+endures."
+
+Zara deactivated her boots. She sheathed her blade. She drifted in the
+silence of the hull, surrounded by stars, the planet turning below her,
+and she felt — not triumph, not relief, but something larger and simpler.
+The feeling of having fought for something and won it, of having been
+afraid and done it anyway, of having stood on the hull of a generation
+ship in the void of space and said, with a blade and her body and every
+ounce of stubborn pilot's nerve she possessed: this is mine.
+
+She turned to Daria. Daria was holding her hip, where the suit's
+emergency sealant was already patching the cut. Through her faceplate,
+her expression was — not angry. Not defeated. Something else.
+
+"Good fight, Chen."
+
+"Good fight, Venkov."
+
+"Take care of him."
+
+"I will."
+
+Daria nodded once. Then she toggled her boots and walked back across
+the hull, and the drone cameras followed her, and the audience watched,
+and the colony continued, as colonies do, to endure.
+
+                               * * *
+
+Tomás was waiting in the transport shuttle when Zara came through the
+airlock. She unsealed her helmet, pulled it off, and stood there —
+sweaty, exhausted, still vibrating with adrenaline — and looked at him.
+
+He looked at her. The half-smile. The brightening. The unconscious
+straightening.
+
+"You fought a sword duel on the hull of a spaceship," he said. "For me."
+
+"I did."
+
+"In front of four thousand people."
+
+"Four thousand two hundred. The Arbiter's estimate was accurate."
+
+"Zara Chen." He stepped forward. He put his hands on her face — gently,
+carefully, with the precision of a man who built things and understood
+that the best things were also the most fragile. "You are the most
+terrifying woman I have ever met."
+
+"Is that a compliment?"
+
+"It is the highest compliment I know how to give."
+
+She kissed him. In the cramped airlock of a transport shuttle, in orbit
+above a colony world where courtship was settled by the blade, with the
+taste of recycled air and adrenaline and the faint copper tang of
+someone else's blood still on the comm channel — she kissed him, and he
+kissed her back, and outside the viewport the stars burned in the ancient
+and indifferent way that stars do, but which, in that particular moment,
+felt a great deal like applause.
+
+                            [THE END]
+
+================================================================================
+
+                       VALENTINE VIRUS
+
+                         by Theodore Cain
+
+================================================================================
+
+The trouble began, as most trouble does, with good intentions.
+
+Martin Cobb was a systems engineer at SolComm Central — the vast
+communications hub in geostationary orbit above Ecuador that routed
+approximately ninety-seven percent of the solar system's civilian
+message traffic. He was forty-four years old, divorced, and possessed
+of the particular combination of technical brilliance and social
+awkwardness that made him indispensable to the network and slightly
+bewildering to his colleagues. He was also, on the morning of February
+13th, 2087, heartbroken.
+
+The heartbreak was recent, specific, and — in Martin's professional
+opinion — unfair. Dr. Elena Vasquez, a xenolinguist stationed on the
+Ganymede Research Platform, had ended their two-year relationship via a
+twelve-word text message: "Martin, this isn't working. I need someone
+who talks to me."
+
+Martin had stared at the message for a long time. He talked to her
+constantly — about network architecture, about signal propagation
+delays, about the elegant recursive algorithms that kept the solar
+system's communication infrastructure functioning. What more was there
+to talk about?
+
+In the days following the breakup, Martin did what he always did when
+faced with a problem he couldn't solve through conventional channels:
+he wrote a program.
+
+The program was meant to be a Valentine's Day greeting — a digital card
+that would be delivered to Elena's personal comm on February 14th,
+expressing sentiments that Martin found easier to encode than to speak.
+It was, in his estimation, elegant: a self-executing message package
+wrapped in an animated display of binary hearts (which he thought was
+romantic and which most people would have found alarming), accompanied
+by a text message that read: "I am bad at talking about feelings. But I
+am good at systems. And you are the most important system in my life.
+Please reconsider."
+
+The problem — and Martin would analyze this problem obsessively in the
+months that followed, tracing the cascade of errors with the meticulous
+attention of a man disassembling his own catastrophe — was that he built
+the card using the tools available to him. Which were not consumer-grade
+greeting-card tools. They were SolComm's proprietary message routing
+protocols, the same protocols that governed the routing of every
+civilian communication in the solar system.
+
+The second problem was a bug.
+
+Specifically, a bug in the card's delivery subroutine. Martin had
+written the subroutine to locate Elena's personal comm address in the
+SolComm directory and deliver the card at midnight UTC on February 14th.
+What the subroutine actually did — due to a misplaced conditional
+operator that Martin would later describe as "the most expensive typo
+in human history" — was locate every personal comm address in the
+SolComm directory and deliver the card to all of them.
+
+All of them.
+
+Every personal communication device registered with SolComm Central —
+which was, as of February 14th, 2087, approximately 11.4 billion
+devices, distributed across Earth, the Moon, Mars, the asteroid belt,
+and the outer planet stations.
+
+But the card's delivery was only the beginning of the problem. Because
+the card didn't just deliver itself. It also, thanks to a second bug in
+a secondary subroutine that Martin had written while sleep-deprived and
+emotionally compromised, rerouted the recipient's most recent outgoing
+message to a randomly selected address in their contact list.
+
+Every message in the system. Rerouted. At random. On Valentine's Day.
+
+                               * * *
+
+The first reports came in at 00:03 UTC.
+
+Martin was asleep in his quarters at SolComm Central when the alarm
+klaxon sounded — the deep, throbbing pulse that meant a Category One
+network anomaly. He scrambled out of bed, pulled on his uniform, and
+ran to the operations center, where he found his colleagues staring at
+their monitoring screens with the expressions of people watching a
+building collapse in slow motion.
+
+"What's happening?" he asked, already knowing, with the sick certainty
+of a man who can feel his own fingerprints on the disaster.
+
+His supervisor, Chief Network Officer Priya Desai, turned to him. She
+was a small, calm woman who had managed SolComm's operations through
+three solar flares, a cyberattack, and the Great Mars Bandwidth Crisis
+of '83. She did not look calm now.
+
+"Every message in the system is being rerouted," she said. "Every single
+one. Personal, commercial, governmental — everything. The routing
+tables have been overwritten by some kind of self-propagating code. It's
+spreading through the relay network faster than we can isolate it."
+
+"How is that possible?"
+
+"That's what I need you to tell me, Martin." She fixed him with a look
+that suggested she was already forming hypotheses about how it was
+possible and that several of those hypotheses featured his name
+prominently. "Get to your station. Find the source. Kill it."
+
+Martin got to his station. He began tracing the code. And within twelve
+minutes, he found his own digital signature embedded in the virus's
+propagation protocol, and he understood, with a clarity that was almost
+beautiful in its horror, exactly what he had done.
+
+He had built a Valentine's card that had eaten the solar system's
+communication network.
+
+                               * * *
+
+Meanwhile, across the solar system, the consequences were unfolding.
+
+On Earth, in a brownstone apartment in Brooklyn, Margaret Okonkwo
+received a message on her personal comm that she had not been meant to
+see. It was from her husband, David, and it was addressed to her sister,
+Nina. It read: "I've been thinking about what you said at dinner. You're
+right — I should have married you instead."
+
+Margaret read this message. She read it again. Then she called her
+husband, who was at work in Manhattan, and the conversation that followed
+was audible, according to later reports, from two floors away.
+
+On Mars, at the Valles Marineris Research Station, Commander Greta
+Holmberg received a message intended for the Colonial Administration's
+Budgetary Committee. It was from the Administrator himself, and it
+contained a detailed breakdown of the station's funding allocation,
+including the line item that revealed the Administration had been
+systematically underfunding the Martian colonies' life-support
+maintenance budget by fourteen percent for the past three years,
+redirecting the funds to a classified project on Titan.
+
+Commander Holmberg was not supposed to see this message. She shared it
+with her entire station. The station shared it with Mars. Mars shared it
+with Earth. The resulting political scandal would eventually bring down
+the Colonial Administrator and trigger the most significant reform of
+interplanetary governance in a generation.
+
+On the asteroid belt mining platform Cerberus-7, miner Jack Dufresne
+received a love poem. It was not addressed to him — it was addressed to
+someone named "My Dearest Comet" — and it was from his bunkmate, Hiro
+Tanaka, who had been writing poetry in secret for three years and whose
+creative output, now accidentally revealed, included forty-seven sonnets,
+twelve haiku cycles, and an epic poem about the asteroid belt that was,
+according to the literary critics who would later review it, "genuinely
+excellent — passionate, technically assured, and possessed of a vision
+of the industrial sublime that the genre has long needed."
+
+Jack read the poem. He went to Hiro's bunk. "You wrote this?" he said.
+
+Hiro, who had turned the color of a Martian sunset, could not speak.
+
+"It's beautiful," Jack said. "Who's 'My Dearest Comet'?"
+
+Hiro looked at him. Jack looked at Hiro. The mining platform Cerberus-7
+was not known for its romantic atmosphere — it smelled of metal shavings
+and recycled air and the particular industrial bleakness of a place
+where people worked twelve-hour shifts in vacuum suits — but in that
+moment, in that bunk room, romance bloomed with the tenacity of a weed
+cracking through concrete.
+
+"Oh," Jack said.
+
+"I'm sorry," Hiro whispered. "I never meant for you to — "
+
+"Don't be sorry." Jack sat down on the bunk. "Read me another one."
+
+On Ganymede, Dr. Elena Vasquez received thirty-seven messages that were
+not meant for her, including a budget report from the Lunar Mining
+Consortium, a breakup letter from a teenager in São Paulo to her
+boyfriend in Jakarta, and a recipe for lemon cake from someone's
+grandmother on the Moon. She also received Martin's Valentine card, with
+its binary hearts and its plea for reconsideration, and she stared at it
+for a very long time.
+
+And on the orbital station above Titan, Communications Officer Yusuf
+Barre received a message that was intended for the woman he had been in
+love with for two years and had never told: his colleague, Dr. Amara
+Diallo, who worked in the next compartment and who he saw every day and
+with whom he had maintained a relationship of scrupulous professionalism
+that concealed, on his side, a devotion so complete that it colored
+everything he did.
+
+The message was from Amara. It was addressed to her sister on Earth. It
+read: "I don't know what to do about Yusuf. I think I'm in love with
+him and I think he has no idea and I think I'm going to lose my mind."
+
+Yusuf read this message. He read it several times. Then he stood up from
+his station, walked to Amara's compartment, knocked on the door, and
+when she opened it, said: "I have an idea."
+
+"About what?"
+
+"About how you're going to lose your mind."
+
+Amara stared at him. "How did you — "
+
+"The network is rerouting everything. I got a message. Your message."
+
+The blood drained from Amara's face. Then it came back, all at once,
+in a rush of color that was visible even in the station's fluorescent
+lighting. "Oh God."
+
+"Amara."
+
+"I am going to die of embarrassment. Right here. On this station.
+Tell my sister — "
+
+"Amara. I love you too."
+
+She stopped. The station hummed around them. Titan turned below them,
+vast and orange and wholly indifferent to the emotional lives of the
+tiny beings orbiting it.
+
+"You do?"
+
+"I have for two years."
+
+"Two years?"
+
+"I'm not good at — I didn't know how to — the protocols — "
+
+"Yusuf."
+
+"Yes?"
+
+"Stop talking about protocols and kiss me."
+
+He did.
+
+                               * * *
+
+Back at SolComm Central, Martin Cobb was having the worst day of his
+professional life.
+
+The virus — they were calling it a virus now, which was technically
+inaccurate but emotionally appropriate — had propagated through the
+entire relay network in under two hours. Every communication hub from
+Mercury to Neptune was affected. Messages were crossing the solar system
+in patterns that bore no relationship to their intended destinations.
+Love letters were reaching strangers. Business contracts were arriving
+at the wrong corporations. Diplomatic cables were being delivered to
+journalists. Military communications were appearing on civilian channels.
+
+The system, in short, was a mess. And Martin, having identified himself
+as the source, was sitting in Chief Desai's office, explaining.
+
+"A Valentine card," Desai said, in the flat, controlled tone of a woman
+who was considering several different ways to end Martin's career and
+was merely choosing the most efficient.
+
+"A Valentine card."
+
+"You built a self-propagating code package using SolComm's proprietary
+routing protocols. To send a Valentine card."
+
+"It wasn't supposed to propagate. There was a bug."
+
+"A bug."
+
+"A misplaced conditional operator in the delivery subroutine."
+
+"Martin. You have crashed the solar system's communication network with
+a typo."
+
+"That is — yes. That is an accurate summary."
+
+Desai closed her eyes. She opened them. "Can you stop it?"
+
+"I'm working on a patch. The propagation protocol is recursive — it
+keeps replicating because each node that receives the code passes it
+to adjacent nodes. If I can inject a kill command at the hub level, I
+can terminate the recursion and restore the original routing tables
+from backup."
+
+"How long?"
+
+"Six hours. Maybe eight."
+
+"Eight hours during which every message in the solar system is being
+delivered to the wrong person."
+
+"Yes."
+
+Desai looked at him. The look contained multitudes, none of them
+favorable. "Do it. Fix it. And Martin — "
+
+"Yes?"
+
+"When this is over, you and I are going to have a conversation about
+appropriate use of company infrastructure. And that conversation is
+going to involve words like 'termination' and 'legal liability' and
+'what in the name of God were you thinking.'"
+
+"Yes, ma'am."
+
+He went back to his station and began writing the patch.
+
+                               * * *
+
+It took seven hours.
+
+Seven hours during which the solar system rearranged its secrets, its
+confessions, its lies, and its love letters into new configurations that
+no one had intended and that no one could undo. Seven hours during which
+grudges were accidentally exposed and accidentally forgiven, during which
+affairs were revealed and relationships ended and new ones began, during
+which the vast, complex, meticulously ordered network of human
+communication was stirred like a pot of soup and the ingredients settled
+in new and unpredictable arrangements.
+
+At 07:14 UTC on February 14th, Martin Cobb's kill command propagated
+through the relay network, terminating the recursive code and restoring
+the original routing tables. The system stabilized. Messages began
+flowing to their correct destinations. The solar system exhaled.
+
+The aftermath was complicated.
+
+On Earth, the Okonkwo family entered counseling. David Okonkwo
+maintained that the message to Nina had been "taken out of context."
+No one believed him, but the counselor was good, and eighteen months
+later, the marriage was stronger than it had been before. Nina, for
+her part, met someone at a dinner party and was very happy.
+
+On Mars, the revelations about the underfunded life-support budget led
+to a full audit of the Colonial Administration, the resignation of the
+Administrator, and the establishment of an independent oversight
+committee. Commander Holmberg was offered the Administrator's job. She
+declined, saying she preferred to stay where the air was thin and the
+bureaucrats were far away.
+
+On Cerberus-7, Hiro Tanaka published his asteroid belt poetry collection,
+"Songs for the Void," which won the Interplanetary Literary Prize and
+sold three hundred thousand copies. Jack Dufresne attended the award
+ceremony as his date. They were married the following spring, in a
+ceremony held in zero gravity, which Hiro described in a poem that
+became, briefly, the most shared piece of writing in the solar system.
+
+On Titan, Yusuf Barre and Amara Diallo were assigned to a joint
+research project that required extensive collaboration and close
+quarters. Their supervisor, who had been watching them orbit each other
+for two years with the exasperated patience of a woman who knew how the
+story was going to end, approved the assignment without comment.
+
+On Ganymede, Elena Vasquez sent a reply to Martin Cobb. It read: "I
+saw the binary hearts. They were very you. I'm not coming back, Martin.
+But I want you to know: you do talk about your feelings. You just do it
+in code. Find someone who speaks your language."
+
+Martin read the message at his station at SolComm Central, where he was
+serving the first day of a two-week suspension (with pay, because he was
+too valuable to fire and too dangerous to leave unsupervised near the
+network). He read it, and he felt — not the heartbreak he had been
+expecting, but something else. A release. A letting go. The particular
+relief of a man who had crashed an entire civilization's communication
+system and, in the wreckage, found something that almost looked like
+clarity.
+
+He looked at his console. The network was running cleanly — every
+message reaching its intended destination, every signal finding its
+proper path. The system was restored. The order was back.
+
+But the disorder had left its marks. Across the solar system, in
+apartments and offices and mining platforms and orbital stations, people
+were having conversations they had been avoiding, reading messages they
+were never meant to see, confronting truths they had kept carefully
+hidden. The virus was gone, but its effects persisted, rippling outward
+through human lives in patterns that no routing algorithm could predict
+or control.
+
+Martin leaned back in his chair. The operations center hummed around
+him — the quiet, purposeful sound of a system working as intended. Through
+the observation window, the Earth turned below, blue and white and
+impossibly beautiful, wrapped in the invisible web of signals that
+connected every human being on its surface and beyond.
+
+Somewhere in that web, a love poem was being read aloud. Somewhere, a
+secret was being confessed. Somewhere, two people who had been afraid
+to speak were speaking. The virus had forced the issue — had torn
+through the careful partitions between public and private, between
+intended and unintended, between the things we mean to say and the
+things we actually feel — and in the ruins, improbably, awkwardly,
+and with the peculiar grace that catastrophe sometimes brings, people
+were connecting.
+
+Happy Valentine's Day, Martin thought.
+
+And then he went back to work, because the network needed tending, and
+love, like communication, was a system that required constant
+maintenance, and he was, for all his faults, a very good engineer.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+MARGARET THORNTON holds a master's degree in marine biology from the
+University of Washington and has conducted fieldwork on tide pool ecology
+in locations ranging from Puget Sound to the coast of Norway. She began
+writing science fiction in 1949 and has published stories in Astounding,
+Galaxy, and these pages, where she has become one of our most valued
+contributors. "Species Barrier" represents a new direction for her —
+she describes it as "a love story told entirely in data, which is, I
+think, how a biologist would fall in love with someone she could never
+observe directly." She lives on an island in the Pacific Northwest,
+where she studies the interconnectedness of living systems and writes
+about what she calls "the intelligence of collaboration." She is
+currently at work on a novel.
+
+DOUGLAS PEMBERTON is a humorist, essayist, and self-described "reluctant
+science fiction writer" whose stories have appeared in Punch, The New
+Yorker, Galaxy, and these pages. A graduate of Balliol College, Oxford,
+and a veteran of the Royal Navy (where he was, by his own account,
+"spectacularly incompetent at everything except morale"), he lives in
+Surrey with his wife Penelope, three dogs, and a parrot that can recite
+the opening of "The War of the Worlds." Of "My Darling Clementine 9000,"
+he says: "I set out to write a comedy about a shipping error and
+accidentally wrote a love story. This seems to happen to me rather often.
+Penelope says it is because I am fundamentally sentimental and lack the
+courage to admit it. She is, as always, correct."
+
+PHYLLIS CRENSHAW studied philosophy and logic at the University of
+Pennsylvania and has been writing about time travel, temporal paradox,
+and the things we cannot undo since 1953. Her stories have appeared in
+Astounding, Galaxy, The Magazine of Fantasy and Science Fiction, and
+these pages. She won a Hugo Award for "All Our Yesterdays, Revised"
+(Issue #32) and has been nominated three additional times. "The Ghost
+and Mrs. Nakamura" is, she says, "the saddest story I have ever written,
+and also the truest. Every marriage is a time loop of sorts — we
+return, again and again, to the same moments, the same conversations,
+the same kitchen. The difference is that most of us don't know which
+Tuesday is the last." She lives in Philadelphia with her husband David
+and two children.
+
+GUNNAR ERIKSSON has been writing about the void between stars since 1954,
+when his first story for these pages, "Long Watch," prompted a fan
+letter from Ray Bradbury. Born in Stockholm, he writes in English while
+living his life in Swedish, and his stories have been translated into
+fourteen languages. He works as a literary translator and publishes, by
+his own admission, "at the speed of a glacier — slow, but hopefully
+leaving marks." "Letter from a Distant Star" is his most personal work,
+inspired, he says, by "the Swedish tradition of writing letters that
+will never be answered, which is, when you think about it, the purest
+form of communication — a message sent for the sake of sending, without
+expectation of reply." He lives in Stockholm with his wife Ingrid.
+
+REX DRUMMOND is the pen name of a former bomber pilot, sometime rancher,
+and full-time teller of tales whose stories have appeared in Planet
+Stories, Thrilling Wonder Stories, Startling Stories, and these pages.
+He is the author of six novels, most recently "The Corsairs of Cygnus"
+(Ace Books, 1955), and he holds the distinction of being the only
+contributor to this magazine who has been asked to leave a convention
+hotel for staging an impromptu fencing demonstration in the lobby. Of
+"Dueling Hearts," he says: "I've been writing about people who fight
+for twenty years. It occurred to me that I'd never written about what
+they fight for. Turns out the answer is usually the same: somebody they
+love. Also, I wanted to write a sword fight in zero gravity, and by
+God, I did." He lives in San Diego.
+
+THEODORE CAIN is the most prolific contributor in the history of this
+magazine, having published stories in nearly every issue since our
+inaugural number. A former autoworker, infantryman, and technical writer,
+he brings a journeyman's versatility to every assignment and a
+Detroiter's conviction that reliability is a virtue. "The Valentine
+Virus" is his first foray into romantic comedy, which he describes as
+"a systems failure story that happens to involve feelings, which are,
+in my experience, the least reliable system of all." He lives in
+Dearborn, Michigan, with his wife Jean and their three children, and
+he reports that he is already at work on his next story for us.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I write to express my deep admiration for Dr. Koslov's "The Cold
+Collector" in your November issue (#35). The description of the
+derelict probe's slow accumulation of interstellar hydrogen over three
+centuries is the most poetic piece of hard science fiction I have read
+this year. Dr. Koslov makes the patient physics of the void feel not
+merely comprehensible but sacred. I particularly admired the final
+scene, in which the probe's data is received by an Earth that has
+forgotten it was ever sent. What a beautiful metaphor for the
+loneliness of pure science. More Koslov, please — always more Koslov.
+
+                              — Dr. Helen Cartwright
+                                 Department of Astronomy
+                                 Radcliffe College, Cambridge, Mass.
+
+Dear Max,
+
+Drummond's "Blood and Starlight" (#35) is pure Drummond — fast, loud,
+and gloriously irresponsible. I read it in one sitting and immediately
+read it again, which is either high praise or a symptom of a medical
+condition. The scene where Captain Rennick rides the hull of the
+crippled destroyer through the atmosphere is physically impossible,
+emotionally magnificent, and exactly the kind of thing your magazine
+does better than anyone else. My only complaint is that Drummond killed
+off Lieutenant Vasquez, who was the most interesting woman in the story
+and who deserved better than a heroic sacrifice in chapter four. Tell
+Drummond I said so. He won't care, but tell him anyway.
+
+                              — James Peretti
+                                 Chicago, Ill.
+
+Dear Sterling,
+
+I must take issue with a detail in Crenshaw's otherwise excellent
+"The Tuesday Equation" (Issue #36, December 1955). Mrs. Crenshaw's
+temporal mechanics are, as always, ingenious, but the assertion that a
+causal loop can be sustained indefinitely without energy input
+contradicts the second law of thermodynamics. Even in a closed temporal
+system, entropy must increase. The loop would degrade. I have enclosed
+a mathematical proof demonstrating this, which I hope Mrs. Crenshaw
+will find interesting rather than irritating.
+
+                              — Prof. Arthur Shimizu
+                                 Department of Physics
+                                 University of California, Berkeley
+
+Mrs. Crenshaw replies: "Professor Shimizu's proof is elegant and
+correct. I am delighted to note, however, that it applies only to
+closed temporal systems. My loops are open at one end. This is a
+feature, not a bug."                                         — P.C.
+
+Dear Sir,
+
+I am thirteen years old and I have read every issue of your magazine
+since Issue #24. I want to be a writer like Miss Thornton when I grow
+up. Her story "The Root Network" in Issue #36 made me go to the library
+and read a book about mycorrhizal fungi, which is the most interesting
+thing I have ever learned about. Can you tell Miss Thornton that I
+drew a picture of the fungal network from her story and my science
+teacher put it on the wall? Thank you.
+
+                              — Sarah Beth Knowles
+                                 Corvallis, Oregon
+
+Miss Thornton replies: "Dear Sarah Beth, your letter is the best thing
+I have received all year. Keep reading. Keep drawing. Keep asking the
+soil what it knows."                                        — M.T.
+
+We love your letters! Write to us at: Letters, Tales from the Future
+and Beyond, Meridian Publishing Company, 114 East 32nd Street, New
+York 16, N.Y.                                               — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+THE STAR BEAST by Robert A. Heinlein
+(Charles Scribner's Sons, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Heinlein has given us another splendid juvenile — though the word
+"juvenile" does this novel a disservice, as it is perfectly enjoyable
+for readers of any age. Young John Thomas Stuart inherits Lummox, a
+creature of obscure alien origin, from his great-grandfather, and the
+complications that ensue when Lummox turns out to be considerably more
+important than anyone suspected make for a fine tale of diplomatic
+misunderstanding, adolescent determination, and the eternal human
+tendency to underestimate the beings we live with. Mr. Heinlein writes
+for young readers with the same respect and intelligence he brings to
+his adult work, and the result is a novel that entertains, instructs,
+and delights in equal measure. Recommended.
+
+LONG TOMORROW by Leigh Brackett
+(Doubleday, 1955, $3.00)
+
+Reviewed by Maxwell Sterling
+
+Miss Brackett, long celebrated for her planetary romances, here turns
+her considerable talents to a very different kind of story: a post-
+apocalyptic novel set in a future America where technology has been
+banned and cities are forbidden by constitutional amendment. Two young
+cousins seek out the legendary hidden city of Bartorstown, where
+science is said to survive, and their journey is both a coming-of-age
+adventure and a profound meditation on humanity's ambivalent
+relationship with its own inventiveness. The prose is spare, the pacing
+masterful, and the moral questions — Can we trust ourselves with
+knowledge? Should progress be feared or embraced? — are explored with
+a maturity and nuance that elevates the novel well above the usual
+post-apocalyptic fare. Highly recommended.
+
+THE END OF ETERNITY by Isaac Asimov
+(Doubleday, 1955, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Dr. Asimov, that most prolific and reliable of our field's practitioners,
+here ventures into time travel territory with characteristically
+ambitious results. The Eternals — a corps of temporal engineers who
+manipulate human history to minimize suffering — discover that their
+well-intentioned interventions may be preventing humanity from reaching
+the stars. The paradoxes are dizzying, the logic crystalline, and the
+central moral question — Is safety worth the cost of greatness? — is
+handled with the seriousness it deserves. The novel's romantic subplot
+is less successful (Dr. Asimov's women remain his weakness as a writer),
+but the intellectual architecture is magnificent. Recommended for
+anyone who enjoys having their assumptions about progress, safety, and
+the nature of time thoroughly dismantled.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #39 — March 1956
+
+We are pleased to announce the contents of our next issue, which will
+be on newsstands in late February:
+
+"THE THERMAL PROPHET" by Dr. Vincent Koslov — A solar physicist aboard
+a research station in close orbit around Mercury discovers anomalous
+patterns in the sun's coronal activity that suggest the star is
+communicating. With whom, and why, is the question that drives Koslov's
+most ambitious story yet.
+
+"THE INHERITANCE OF DUST" by Margaret Thornton — On a dying colony
+world, a botanist discovers that the native soil contains organisms
+capable of rewriting human DNA — and that the planet may be trying to
+adapt its colonists to itself, rather than the other way around.
+
+"HARD BURN" by Rex Drummond — When a racing pilot discovers that the
+interplanetary Grand Prix has been fixed by a Martian gambling syndicate,
+she decides to win it anyway — at speeds that no sane pilot would
+attempt and in a ship held together by stubbornness and emergency
+sealant. Hold on tight.
+
+"THE SECOND FILING" by Phyllis Crenshaw — A divorce lawyer discovers
+that her client has been married to the same man in three different
+timelines, and that the divorce must be filed in all three simultaneously
+to be valid. A comedy of temporal jurisprudence.
+
+Plus: a new story by Arthur Wainwright, letters from our readers, book
+reviews, and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1956 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Frank R. Kellerman
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

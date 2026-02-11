@@ -1,0 +1,2010 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #47 — November 1956
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Last Light" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Last Library" by Gunnar Eriksson ......................... p. 4
+2. "Final Repair Run" by Arthur Wainwright ...................... p. 34
+3. "November Country" by Agnes Whitfield ........................ p. 58
+4. "The Retreat" by Theodore Cain ............................... p. 78
+5. "Jack Corvus's Last Run" by Rex Drummond ..................... p. 94
+6. "What We Leave Behind" by Dr. Vincent Koslov ................. p. 118
+7. "The Vigil" by Father Thomas Aquino .......................... p. 144
+
+Features:
+   Transmissions from the Editor's Desk ......................... p. 2
+   About the Authors ............................................ p. 164
+   Signals Received: Letters to the Editor ...................... p. 167
+   The Bookshelf of Tomorrow: Book Reviews ...................... p. 170
+   Coming Attractions ........................................... p. 173
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+November again. The trees outside my office on East 32nd Street have turned, and the light through the window falls at the particular slant that means the year is winding down. I have always loved this month — its honesty, its refusal to pretend that endings are anything other than what they are. Spring lies. Summer exaggerates. But November tells the truth: things end, and the ending is part of the beauty.
+
+This is the penultimate issue of our fourth year. Forty-seven issues. That number astonishes me when I write it down. When we launched this magazine in January of 1953, with Dr. Koslov's "The Long Equations" and Rex Drummond's "Doublecross on Deimos" and the rest of that inaugural company, I did not know whether we would last six months. We have lasted nearly four years, and we have published — by my count, which Frances Greer assures me is slightly inaccurate — some three hundred and twenty stories by more than two dozen writers. Some of those stories were brilliant. Some were merely good. A few, I will confess in the privacy of this column, were published because the magazine needed filling and the deadline was upon us. But taken together, they constitute something I am deeply proud of: a body of imaginative fiction that takes its readers seriously and asks serious questions about the future of our species.
+
+This issue, I think, is among our finest. It carries a certain autumnal weight — appropriate to the season, and perhaps to this moment in our history as a publication. The stories gathered here are, each in their own way, about endings. About farewells. About what endures when the thing you love is passing away.
+
+Gunnar Eriksson opens the issue with "The Last Library," his farewell to the generation ship — a theme he has made more completely his own than any other writer in science fiction. It is, I believe, his finest story, and one of the finest we have ever published. Arthur Wainwright follows with "Final Repair Run," a quiet devastation about a very old robot making its last rounds. Agnes Whitfield gives us "November Country," a story whose title could serve as the epigraph for this entire issue — a world locked in permanent autumn, and the secret behind its beauty. Theodore Cain offers "The Retreat," a sharp and surprisingly tender meditation on the relationship between writers and readers. Rex Drummond — our own swashbuckler laureate — delivers "Jack Corvus's Last Run," an elegy for the solo pilot that is as thrilling as anything he has written and more poignant than anyone who knows only his early work would expect. Dr. Koslov gives us "What We Leave Behind," a rigorous and deeply moving exploration of whether a human life can be encoded in a signal and broadcast to the stars. And Father Aquino closes the issue with "The Vigil," a story about faith improvised in the dark that is, I think, his most radical and most beautiful work.
+
+Seven stories. Seven endings. And yet — and this is the paradox that all of these writers seem to understand — an ending, properly witnessed, is also a form of preservation. The things we say goodbye to with care are the things we keep longest.
+
+Next month, we close out our fourth year with Issue #48. I have some things to say about that, but they will keep for thirty days. For now, read these stories. They were written with love, and they deserve to be read with attention.
+
+The November light is fading. But it is beautiful as it goes.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, October 1956
+
+================================================================================
+
+                         THE LAST LIBRARY
+
+                        by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+The ship was three days from landfall when the Council of Stewards called the final vote.
+
+Astrid Eriksen received the summons at her desk in the library, where she had been cataloguing water damage in the poetry section — a slow leak in the ceiling of Corridor Twelve had dripped for two watches before anyone noticed, and thirty-one volumes of collected verse now bore the stain of it, their pages warped and fragile as old skin. She was holding a copy of Tranströmer when the messenger came. The binding had swollen. The pages smelled of damp and cellulose and something fainter beneath both: the particular sweetness of a book beginning its long surrender to entropy.
+
+She set the Tranströmer down and read the summons.
+
+COUNCIL OF STEWARDS — EXTRAORDINARY SESSION
+Subject: Final Allocation of Descent Cargo Capacity
+All Department Heads Required
+Assembly Hall, Third Watch, 1600 Hours
+
+Final allocation. She had known it was coming. For eighteen months the Council had been debating the descent plan — what would go down in the landing craft and what would remain aboard the *Västerled* when the ship was scuttled in orbit. The ship was too large to land. It had never been designed to land. It had been designed to fly, for one hundred and forty-seven years, between one star and another, carrying four thousand human beings and everything they needed to remember who they were. Now the flight was nearly over, and the question that had been theoretical for a century and a half had become practical and immediate: what do you keep?
+
+Every department had made its case. Agriculture had argued for the seed vaults and the soil banks — irreplaceable genetic material that represented Earth's botanical heritage. Medicine had argued for the surgical equipment, the pharmaceutical stores, the cryogenic tissue samples. Engineering had argued for tools, fabricators, the portable fusion reactor that would power the colony's first decade. Navigation had argued for the star charts and astronomical databases, on the grounds that a civilization that forgot how to look up was not a civilization at all.
+
+And Astrid Eriksen, Head Librarian of the *Västerled*, had argued for the library.
+
+Not the digital archive — that was already secured, copied onto hardened storage crystals that could survive reentry and would occupy negligible mass in the descent modules. The digital archive was not in question. What Astrid argued for was the physical library. The books. Twenty-two thousand volumes, housed in the long, curving room on Deck Seven that ran the full length of the ship's habitation ring — a room that smelled of paper and binding glue and the accumulated breath of six generations of readers. Books that had been read and reread until their spines were soft. Books with margin notes in a dozen hands, in languages that had blurred together over the generations into the shipboard creole they all spoke now. Books with pressed flowers between their pages — flowers from the hydroponics bays, dried and flattened by children who had never seen a meadow and could not have imagined one. Books with coffee stains and tear stains and the faint grease of ten thousand thumbs.
+
+The mass allocation for the library was, by the standards of the descent plan, enormous. Twenty-two thousand volumes weighed approximately fourteen metric tons. Fourteen metric tons was the equivalent of a portable water purification unit, or six months of preserved rations, or the components for two additional habitat structures. The Council had listened to Astrid's argument with the careful courtesy that the shipboard culture demanded, and then they had tabled the discussion, and then they had tabled it again, and now, three days from the planet that would be their home, they were going to vote.
+
+Astrid folded the summons and placed it inside the Tranströmer, which she returned to the shelf. The binding protested faintly. She touched its spine with her fingertips — a gesture she had performed ten thousand times, in this room, over the twenty-six years she had served as librarian — and went to prepare her final argument.
+
+                               * * *
+
+The Assembly Hall was the largest open space on the *Västerled* — a high-ceilinged chamber that served as meeting room, performance space, and, on festival days, a ballroom. It had been designed by the ship's original architects with an awareness that human beings confined to metal corridors for generations would need, periodically, a sense of volume. The ceiling was painted with stars — not the stars visible from Earth, which none of the current generation had ever seen, but the stars visible from the ship's observation galleries: the slow-turning constellations of deep space, rendered in phosphorescent pigment that glowed faintly even when the lights were raised.
+
+The twelve Stewards sat at a curved table on the low stage. The department heads occupied the first two rows of seats. Behind them, the gallery was open to any citizen who wished to attend, and it was full. Word had spread. Everyone understood that this was the last of the great debates — the final argument about what would accompany them to the ground.
+
+Chief Steward Lena Halvorsen called the session to order. She was a tall woman in her sixties, gray-haired and steady-voiced, who had governed the ship through the deceleration years with a calm authority that Astrid admired and occasionally envied. Her face, in the Assembly Hall's cool light, showed the particular exhaustion of a leader who has spent months mediating between people who are all, in their different ways, correct.
+
+"We are here to make a final determination on descent cargo allocation," Halvorsen said. "The engineering constraints are as follows: the seven descent modules have a combined cargo capacity of eight hundred and twelve metric tons. Current committed allocations total seven hundred and ninety-eight metric tons, leaving fourteen metric tons of unallocated capacity. There is one outstanding request for that capacity. Librarian Eriksen, you have the floor."
+
+Astrid stood. She had not prepared notes. She had spent the morning in the library instead, walking the shelves, touching the books, and she carried with her not an argument but a feeling — the feeling of that room, its weight and warmth, its smell of paper and time.
+
+"Thank you, Chief Steward," she said.
+
+She looked at the Council. She looked at the gallery, the faces she had known all her life — the people she had grown up with in the corridors and common rooms of the *Västerled*, the people who had learned to read in her library, who had fallen asleep over books in her reading chairs, who had come to her with questions about everything from crop rotation to heartbreak because the library was, by ancient and unspoken agreement, the place where you went when you needed to think.
+
+"I will not rehearse the arguments I have already made," she said. "You have heard them. The historical value of the collection. The irreplaceable nature of the marginal annotations — six generations of readers in conversation with the texts and with each other. The cultural continuity that physical books represent. The tactile, sensory dimension of reading that no digital archive can replicate. You have heard all of this, and I stand by all of it.
+
+"But this morning, I want to say something simpler."
+
+She paused. The hall was very quiet. Through the deck plates, she could feel the faint vibration of the deceleration engines — a vibration that had been part of the background of her life for so long that she noticed it only when she thought about it, the way you notice your own heartbeat.
+
+"In three days, we will set foot on a world that none of us have ever seen. We have images. We have atmospheric data. We have spectroscopic analyses of the soil and water. But we have never stood on its ground, never breathed its air, never felt its wind on our faces. We are about to do something that no one in the history of this ship has ever done: we are going to step outside.
+
+"And when we do, we will be — for the first time in one hundred and forty-seven years — without walls. Without corridors. Without the gentle curve of the habitation ring above our heads. We will be in the open, under a sky, and everything we have ever known — every room, every corridor, every familiar surface — will be gone. The *Västerled* will be overhead, a bright point of light, and then it will not be there at all, and we will be alone on a world that does not know us."
+
+She could feel the stillness in the room. Not the polite stillness of an audience waiting for a speaker to finish, but the deeper stillness of people hearing something they had been trying not to think about.
+
+"I am not arguing for the library because it is historically valuable, although it is. I am not arguing for the library because it is culturally significant, although it is. I am arguing for the library because when we step out onto that world, we will need something to hold on to. Something that connects us to who we were. Something that smells like home."
+
+She stopped. She had not intended to say that last sentence. It had come out of somewhere below thought, somewhere in the part of her that was not a librarian making an argument but a woman who had lived her entire life inside a ship and was about to lose it.
+
+Chief Steward Halvorsen regarded her for a long moment. Then she looked at the other Stewards. "Questions from the Council?"
+
+                               II.
+
+Steward Per Lindgren spoke first. He was the head of Engineering — a broad, practical man with heavy hands and a habit of reducing every question to its material essentials.
+
+"Fourteen metric tons," he said. "That is the capacity of one supplementary habitat module. I am not unsympathetic to the librarian's position. I enjoy a good book. I read one last month. But I am asking a practical question: do we bring books, or do we bring a building that can house twenty people?"
+
+A murmur in the gallery. Astrid had expected this. It was the strongest argument against her, and it was strong because it was simple. Shelter versus sentiment. The calculus was brutal.
+
+"Steward Lindgren," she said, "how many habitat modules are currently allocated?"
+
+"Twelve."
+
+"And their combined capacity?"
+
+"Two hundred and forty persons, in standard configuration."
+
+"Our population is three thousand, eight hundred and fourteen."
+
+"The modules are temporary structures. Supplementary to the natural shelters we will construct from local materials within the first year."
+
+"So we will build shelters. From local materials. On a world whose geology and climate we have studied from orbit but never experienced directly."
+
+Lindgren frowned. "The surveys are thorough."
+
+"The surveys are thorough," Astrid agreed. "And yet every generation of settlers in human history has been surprised by local conditions. The Mayflower colonists expected a temperate autumn and encountered a killing winter. The Mars Prospect mission — the last Earth mission before the *Västerled* launched — found that Martian regolith was more chemite-reactive than models predicted. We are good at studying worlds from a distance. We are less good at predicting what it is like to live on them."
+
+"Your point being?"
+
+"My point being that we will build. We will adapt. We will solve the shelter problem, because human beings always solve the shelter problem. But there are things we cannot build on a new world. We cannot build the margin notes that Karin Solberg wrote in her copy of *Leaves of Grass* in the third generation — the notes in which she describes watching her mother die and finding comfort in Whitman's lines about the grass that grows from the graves of the dead. We cannot build the children's handprints on the pages of *Where the Wild Things Are*, pressed there in the hydroponics-bay clay that served as finger paint. We cannot build the letter that Erik Johansson tucked into the endpapers of *Meditations* by Marcus Aurelius, a letter addressed to his unborn son, who would be born forty years later and would find it and would carry that book with him for the rest of his life."
+
+She looked at Lindgren. "A habitat module can be built. These things cannot."
+
+Lindgren was quiet. In the gallery, someone was weeping — one of the older citizens, Astrid thought, though she did not look to see who.
+
+Steward Yuki Tanaka spoke next. She was head of Agriculture, and her question was different.
+
+"I have no objection in principle," Tanaka said. "My seed vaults are already allocated. But I want to understand the preservation plan. These books have survived one hundred and forty-seven years in a controlled shipboard environment. What happens when they are exposed to planetary conditions? Temperature variation. Humidity. Biological agents — molds, insects, organisms we have never encountered. How do you propose to keep them intact?"
+
+It was a good question, and Astrid had spent months preparing for it.
+
+"The books will be stored initially in sealed containers with desiccant packs and oxygen absorbers — materials already included in the descent manifest for other purposes. Within the first year, we will construct a permanent archive using local materials: stone, if available, or pressed earth, both of which provide excellent thermal mass and humidity regulation. The collection will be maintained by trained conservators — I have been training apprentices for the past three years, specifically in anticipation of planetary conditions. And yes, we will lose books. We will lose them to humidity, to insects, to the thousand small accidents of a life lived in the open. But we lose books on the ship, too. The leak in Corridor Twelve last week damaged thirty-one volumes. Books are mortal. That is part of what makes them precious."
+
+Tanaka nodded slowly. She was, Astrid knew, a woman who understood mortality. She had spent her career tending living things in the hydroponic bays, watching them grow and wither and grow again, and she knew that the value of a thing was not diminished by its fragility. If anything, the opposite.
+
+"One more question," Tanaka said. "If the vote goes against you. If the library stays aboard the *Västerled* when it is scuttled. What then?"
+
+Astrid felt something tighten in her chest. She had thought about this. She had tried not to think about it, and she had thought about it anyway, in the dark hours of the ship's artificial night, lying in her bunk and staring at the ceiling and imagining the library drifting in orbit, unvisited, its air slowly venting through the hull, its books floating free in zero gravity, pages spread like wings, until the orbit decayed and the ship fell into the atmosphere and everything burned.
+
+"Then we will have the digital archive," she said. "And we will remember."
+
+"But?"
+
+"But it will not be the same. You know it will not be the same."
+
+Tanaka said nothing. She did not need to.
+
+                               III.
+
+The debate lasted three hours. Astrid sat and listened as her colleagues spoke — some for the library, some against, some genuinely torn. She heard the arguments she expected: the practical case for additional shelter, the medical case for surplus pharmaceutical stores, the engineering case for spare fabricator components. Each argument was reasonable. Each was made by someone she respected. She sat with her hands folded in her lap and felt the weight of each one.
+
+Steward Henrik Dahl — a quiet man who ran the ship's educational programs — spoke near the end.
+
+"I teach the children," he said. "Every generation, I watch them come into the library for the first time. They are five years old, or six, and they have never seen so many books in one place, because our personal quarters are small and most families own only a few volumes. They walk into that room and they stop. Every one of them stops. They look up at the shelves, and their mouths open, and they are — for that moment — experiencing something that I can only describe as awe.
+
+"I have watched this happen hundreds of times. And every time, I think: this is what we are for. Not the engines, not the navigation systems, not the atmospheric processors. Those things keep us alive. But this — this room full of books, this accumulated weight of thought and feeling and imagination — this is what we are *for*.
+
+"On the new world, we will build a school. We will teach the children. And when they are five years old, or six, I want to bring them into a room full of books and watch them stop and look up and feel what every generation before them has felt. Not a screen. Not a terminal. A room full of books. I want them to reach out and touch a page that their great-great-grandmother touched, and know — in their hands, in their bodies — that they are part of something larger than themselves.
+
+"That is my argument. I don't have tonnage figures."
+
+He sat down.
+
+The hall was quiet. Chief Steward Halvorsen let the silence hold for a long moment — longer than parliamentary custom required, long enough for the silence itself to become a kind of argument.
+
+Then she said: "We will vote."
+
+                               * * *
+
+The twelve Stewards voted by show of hands. It was the old way, the way the *Västerled* had always conducted its most important decisions — not by secret ballot, but in the open, where everyone could see. The ship had been governed by transparency since its founding, on the principle that decisions made in the light were more honest than decisions made in the dark.
+
+Halvorsen called the question: "All in favor of allocating the remaining fourteen metric tons of descent cargo capacity to the physical library collection, signify by raising your hand."
+
+Astrid watched. She did not breathe.
+
+Seven hands went up. Then an eighth — Lindgren, the engineer, his face set in an expression that suggested he was not entirely happy with himself but had made his peace with the decision.
+
+Eight of twelve.
+
+"The motion carries," Halvorsen said.
+
+In the gallery, someone cheered. Then someone else. Then the hall was full of sound — not the organized sound of applause, but the ragged, spontaneous sound of people who had been holding their breath and could finally let it out. Astrid stood in the midst of it and felt tears on her face, and did not wipe them away, because she was a librarian and she knew that some things should be witnessed exactly as they are.
+
+                               IV.
+
+That night, Astrid went to the library.
+
+It was Third Watch — the ship's nighttime, when the corridor lights dimmed to a blue-gray twilight and most of the population slept. The library was empty, as it often was at this hour, though not always. Insomniacs came here. Lovers, sometimes, looking for a quiet place. Children who had slipped away from their quarters, drawn by the particular magnetism that books exert on the young.
+
+She walked the shelves. She had walked these shelves ten thousand times, and she knew them the way a gardener knows a garden — not merely the location of each plant, but its history, its needs, its particular character. Here was the fiction section, where the novels were shelved in an order that had evolved over generations from strict alphabetical to something more intuitive, more associative: books that belonged together placed together, regardless of author or date, so that *Moby-Dick* stood beside *The Old Man and the Sea* stood beside *Solaris*, linked by water and obsession and the encounter with the unknowable. Here was the poetry section, still damp from the leak, the Tranströmer and the Szymborska and the Neruda and the three shelves of Emily Dickinson, who was the most-read poet on the ship and had been for a hundred years.
+
+Here was the children's section, with its picture books worn soft as cloth, their covers taped and retaped by generations of librarians. *Goodnight Moon*. *Where the Wild Things Are*. *The Snowy Day*. Books that had been read aloud so many times that their words had entered the ship's oral culture, so that a mother putting her child to bed might say "Goodnight stars, goodnight air," and the child would know the rest without being told.
+
+Here were the reference books — the encyclopedias, the atlases, the dictionaries in twelve languages, most of them no longer spoken but all of them preserved, because a language was not merely a communication tool but a way of seeing the world, and when you lost a language you lost a species of thought. Here were the technical manuals — the engineering references, the agricultural handbooks, the medical texts that the ship's doctors still consulted even though the digital versions were more current, because there was something about the physical page that aided concentration, that anchored knowledge in the body as well as the mind.
+
+And here, in a locked case near the librarian's desk, were the treasures. The oldest books on the ship. A copy of Shakespeare's collected works, printed in 1887, brought aboard by one of the founding generation. A Bible, King James Version, 1920, with a family tree inscribed on the flyleaf that traced seven generations, the last three born in space. A first edition of *Leaves of Grass*, 1855, whose provenance was uncertain but which was, by any measure, the single most valuable object on the *Västerled*. Its pages were yellow and brittle, and it was handled only with cotton gloves, and it was read aloud once a year, on Founder's Day, in a ceremony that Astrid considered the ship's most sacred ritual.
+
+She sat down in the reading chair nearest the case — her chair, the one she had sat in every night for twenty-six years, its cushion molded to her shape — and looked at the shelves in the dim light. The books were quiet. They were always quiet. That was their nature. They waited. They held their contents in patience, offering nothing, demanding nothing, until a hand reached for them and a pair of eyes fell on their pages, and then they gave everything they had.
+
+In three days, these books would leave this room for the last time. They would be packed into sealed containers and loaded onto descent modules and dropped through an atmosphere they had never known, onto a world that had never held a book. And Astrid would go with them, because she had never been anywhere without them, and she could not imagine starting now.
+
+She closed her eyes. She listened to the ship. The hum of the engines, distant and steady. The whisper of the air circulation. The tick of the hull contracting in the cold between stars. These were the sounds of her life, and they were ending, and in their place would come other sounds — wind, rain, the cry of whatever creatures lived on the world below. She did not know what those sounds would be. She knew only that she would hear them with a book in her hands, and that the book would help her understand them, the way books had always helped human beings understand the things that frightened and amazed them.
+
+She opened the Tranströmer — the water-stained copy from this morning — and read, in the dim light of the ship's last night watches, a poem about transformation and arrival, about the moment when the familiar becomes strange and the strange becomes, at last, home.
+
+                               V.
+
+The packing began the next morning.
+
+Astrid had organized it with the meticulous care she brought to everything, drawing up a plan that divided the collection into categories of priority. Category One: the irreplaceable volumes — the Shakespeare, the Bible, the Whitman, the books with the most significant marginal annotations, the children's favorites. Category Two: the core reference collection — the texts that would be needed most urgently in the first years of settlement. Category Three: everything else, packed in order of fragility, the most vulnerable books wrapped in fabric salvaged from the textile workshop.
+
+She had twelve volunteers, most of them former library assistants who had grown up shelving books and knew the collection as well as she did. They worked in silence, for the most part. There was something about the task that discouraged conversation — the solemnity of it, the finality. Each book lifted from the shelf left a gap, a small rectangle of emptiness where the wood showed lighter, untouched by years of dust and light. As the shelves emptied, the gaps grew, and the room began to look like a mouth losing its teeth.
+
+Maren Solberg — Karin Solberg's great-granddaughter, named for her, carrying her face — was working in the poetry section. She was nineteen years old, quiet and serious, with her ancestor's habit of writing in margins. She had been one of Astrid's apprentices for three years, learning the arts of bookbinding and conservation, and she would be the colony's first trained librarian.
+
+"Astrid," she said, holding a volume of Rilke. "Look."
+
+Astrid came over. Maren held the book open to a page near the back. In the margin, in a hand that Astrid recognized as belonging to the second generation, someone had written a single sentence in faded pencil:
+
+*I have never seen a tree but I think this poem is about one.*
+
+Astrid took the book and held it gently. The pencil marks were faint, almost invisible. The reader who had written them had been dead for eighty years. But the observation lived on the page — a small, precise record of longing and imagination, a human being reaching toward something they had never experienced and finding, in a poem, a bridge to it.
+
+"When we get to the ground," Astrid said, "we'll show her a tree."
+
+Maren smiled. It was a fragile smile, the kind you wear when you are trying not to cry, and Astrid saw in it the same thing she had seen in every face on the ship for the past eighteen months: the vertigo of people about to leave the only world they had ever known.
+
+"Pack it carefully," Astrid said. "Category One."
+
+                               * * *
+
+By the second day, the library was half empty.
+
+The shelves on the starboard side were bare, their contents sealed in containers marked with the careful labeling system Astrid had devised: contents, weight, humidity sensitivity, handling instructions. The containers stood in rows along the corridor outside, waiting for transport to the descent modules. People passing in the corridor stopped to look at them. Some reached out and touched them, the way you might touch a coffin — not wanting to, but needing to confirm the reality of the thing.
+
+The port side shelves still held their books, and it was here that Astrid found herself standing in the middle of the second day, in a moment of quiet between packing shifts. The half-empty room had a strange, unbalanced quality, like a face in partial shadow. The empty shelves were pale, exposed, vulnerable. The full shelves were dense and dark and patient.
+
+She was holding a book — not packing it, just holding it. It was a novel, a copy of *Middlemarch* by George Eliot, and it had been one of the first books she had ever read, at the age of twelve, sitting in this room, in the chair that was now her chair. She had not understood most of it then. She had read it six more times over the years, understanding more each time, and now, at forty-eight, she thought she finally understood the thing that Dorothea Brooke understood: that the life you imagined for yourself is rarely the life you get, and that the life you get — the small, unglamorous, daily-ness of it — is, if you attend to it carefully enough, its own form of grandeur.
+
+She packed the book. Category One.
+
+                               VI.
+
+On the last night before descent, the ship held a vigil.
+
+It was not an official event. No one had organized it. But by the time the Third Watch bell sounded, the Assembly Hall was full — not with people sitting in seats, but with people standing, leaning against walls, sitting on the floor, crowding into the doorways and spilling out into the corridors. They had come to say goodbye.
+
+Chief Steward Halvorsen stood at the front, but she did not speak. No one had asked her to speak, and she seemed to understand that this was not an occasion for speeches. She simply stood, and the assembly simply stood with her, and for a long time the only sound was the hum of the engines and the breathing of four thousand people gathered in one place.
+
+Then someone began to sing.
+
+It was an old song — a song from the founding generation, brought aboard the *Västerled* in someone's memory and passed down through the generations the way songs are always passed down: imperfectly, with variations, gaining and losing verses along the way, until the version that survived was not quite the original and not quite something new but something in between, something that belonged to the ship and to no one else.
+
+The song was about a sailor leaving home. Astrid did not know its provenance. She had looked for it once, in the library's music reference section, and had not been able to find it. It was possible that it had never existed in any book — that it had always been a sung thing, an oral thing, carried in voices rather than on pages. This thought had troubled her once. Now, standing in the Assembly Hall with four thousand voices around her, she understood that some things did not need to be written down. Some things were their own medium. Some things lived in the air between people and needed nothing else.
+
+The song ended. The silence that followed was not empty. It was full — full of everything the song had carried, and everything it had not, and everything that the people in this room were feeling and could not say.
+
+Then Halvorsen spoke, quietly, her voice carrying in the stillness.
+
+"Tomorrow, we go down. The *Västerled* will remain in orbit for seventy-two hours to complete the transfer of the final cargo modules. After that, it will be deorbited and will enter the atmosphere and burn."
+
+She paused.
+
+"This ship has been our home for one hundred and forty-seven years. It has been the home of our parents, and their parents, and their parents before them. It has kept us alive. It has kept us together. It has carried us across the distance between one star and another — a distance so vast that no human mind can truly comprehend it — and it has delivered us, safely, to a new world.
+
+"We will not forget it. We cannot forget it. It is in our bones, in the curve of our spines that learned to walk on a spinning deck, in the rhythm of our sleep that follows a twenty-four-hour cycle no star has ever set, in the words we speak that are the words our ancestors spoke in the corridors of this ship. We are the *Västerled*. We carry it with us. We will always carry it with us.
+
+"Good night. Sleep well. Tomorrow, we begin."
+
+The assembly dispersed. Slowly, reluctantly, in small groups and pairs and solitary figures, they drifted back to their quarters, to their bunks, to their last night of sleep inside the only home they had ever known.
+
+Astrid went to the library.
+
+                               * * *
+
+The room was empty now. Every book had been packed. Every shelf was bare. The reading chairs stood in their accustomed places, but without the books they seemed purposeless, like hands with nothing to hold.
+
+Astrid walked the empty shelves. Her footsteps echoed — a sound she had never heard in this room, because the books had always absorbed it, their dense paper bodies muffling noise the way a forest muffles wind. Without them, the room was resonant, hollow, strange.
+
+She ran her fingers along the empty shelves. The wood was smooth beneath her touch — smooth from a hundred and forty-seven years of books being slid in and out, in and out, the daily friction of reading wearing the grain to silk. In places she could feel the slight depressions where the heaviest volumes had rested, pressing their weight into the wood year after year until the shelf conformed to them, the way a riverbed conforms to its river.
+
+Here. This was where the Shakespeare had stood. She could see the faint outline of its shape in the dust — or rather, the absence of dust, the clean rectangle where the book had been.
+
+Here. This was where the children's books had lived — the low shelves, reachable by small hands, scuffed and marked at knee height by generations of young readers leaning close.
+
+Here. The poetry section. Still faintly damp.
+
+She sat down on the floor, in the middle of the empty room, and she wept. She wept for the ship and for the library and for the hundred and forty-seven years of reading that had happened in this room, all of it — every turned page, every whispered word, every child who had sat cross-legged on this floor and traveled, through the medium of ink and paper, to places that were impossibly distant and impossibly near. She wept for the founding generation, who had chosen these books and carried them aboard and shelved them with their own hands, knowing that they themselves would never reach the destination, that the books would outlast them and carry their choices — their tastes, their passions, their blind spots, their quiet wisdoms — forward into a future they could only imagine.
+
+And she wept for herself, because she was a librarian, and she was losing her library, and although she knew — she *knew* — that the books were safe, that they were packed and sealed and waiting in the descent modules, she also knew that this room would never exist again. This particular room, with its curved walls and its painted ceiling and its shelves worn smooth by time and use — this room that had been the heart of the ship, the place where the ship's soul resided, if a ship could be said to have a soul — this room was ending. And she wanted to be here for the ending. She wanted to witness it. She owed it that.
+
+She sat on the floor of the empty library until the Fourth Watch bell sounded, and then she stood, and she wiped her face, and she walked out of the room for the last time, and she did not look back, because she was carrying the room with her and would carry it always, the way you carry any room where you have been truly at home.
+
+                               VII.
+
+The descent was rough.
+
+The landing craft bucked and shuddered as it hit the atmosphere — the first atmosphere the *Västerled*'s people had ever encountered, a turbulent envelope of nitrogen and oxygen and trace gases that threw the craft around like a cork in a rapids. Astrid sat strapped into her seat with her hands gripping the armrests, her teeth clenched, her eyes fixed on the small porthole to her left. Through it she could see fire — the cherry-red glow of the heat shield, and beyond it, glimpses of cloud, white and dense and impossibly vast.
+
+She had never seen a cloud. She had seen pictures. She had read descriptions. But the reality of it — the sheer, overwhelming *size* of it, the way it filled the porthole and the sky and the world — was beyond anything she had imagined. She understood, in that moment, why the founding generation had written so obsessively about weather: because weather was a force, a presence, an entity of such scale that a person raised inside the controlled atmosphere of a ship could not have conceived of it.
+
+The craft broke through the clouds, and there was the land.
+
+Green. That was the first thing. An impossible, saturating green that filled her vision and her mind and left no room for anything else. She had seen green in the hydroponics bays — the controlled green of crops and garden plants, grown under artificial light in measured rows. This was not that green. This was a wild green, an uncontained green, a green that went on and on to the horizon and past it, a green that did not know or care about human beings and their small concerns.
+
+Then the trees. She had never seen a tree. She had read about trees her entire life — she could have told you the taxonomy of a hundred species, the chemical composition of cellulose, the process of photosynthesis in technical detail — but she had never *seen* one. Now she saw thousands. A forest, stretching below the landing craft, its canopy dense and undulating, and she pressed her face to the porthole and stared and could not stop staring, because this was the thing she had sent the books to prepare them for, and the books had tried, they had tried their best, and they had not been enough, and she loved them for trying.
+
+The craft landed. The hatch opened. Air came in — real air, planetary air, carrying with it a freight of scent so rich and strange that Astrid stood at the top of the ramp and breathed and breathed and could not stop breathing. Earth had smelled like this, she thought. Not this exactly, but this *kind* of smell — the smell of a living world, of soil and growth and the sweet slow rot of organic matter returning to the ground. The *Västerled* had smelled of metal and recycled air and the faint ozone tang of the electrical systems. This smelled of life.
+
+She walked down the ramp. Her boots touched ground — real ground, soil and grass, yielding beneath her weight in a way that metal decking never yielded. She stood on the surface of a planet for the first time in her life, and the sky above her was blue and vast and open, and the wind touched her face, and she thought: *I am outside.*
+
+Around her, others were emerging from the landing craft. Some were weeping. Some were laughing. Some simply stood, silent, looking up at the sky with expressions of bewilderment so profound that it was indistinguishable from rapture.
+
+Maren Solberg came down the ramp, carrying a sealed container. She walked carefully, her eyes wide, her steps uncertain on the unfamiliar ground. She reached Astrid and stopped.
+
+"The Whitman," she said. "And the Shakespeare. And the Tranströmer. I wanted them to be first."
+
+Astrid took the container. She held it against her chest. She could feel the weight of the books inside — three books, a few kilograms, nothing compared to the weight of a habitat module or a water purifier or a fusion reactor. A negligible weight. An absurd weight. The weight of everything.
+
+She looked around. The forest. The sky. The light — clear, golden, the light of a star she did not yet have a name for, falling on a world she did not yet know, illuminating the faces of four thousand people who were standing, for the first time, in the open air.
+
+"Where do we put them?" Maren asked.
+
+Astrid looked at the ground. At the grass, the soil, the small unfamiliar plants growing between the tufts. She looked at the trees at the edge of the clearing — the first trees, tall and broad-crowned and alive in a way that nothing on the *Västerled* had ever been alive, their leaves moving in the wind, casting shadows that shifted and danced on the ground.
+
+"There," she said, pointing to the largest tree. "In the shade. We'll build the library around it."
+
+Maren looked at her. "Around the tree?"
+
+"Around the tree. A library needs a heart. On the ship, the heart was the room itself — the curve of the walls, the painted ceiling. Here, the heart will be a tree. A living thing. Books and a tree. That is enough to start a civilization."
+
+She walked toward the tree, carrying the container. Maren followed. Behind them, the other volunteers were emerging with more containers, forming a small procession across the clearing — twelve people carrying boxes of books across the surface of a new world, their faces turned up to the sky, their steps careful and slow, as though they were carrying something infinitely precious and infinitely fragile, which they were.
+
+Astrid reached the tree. She set the container down in its shade. She opened it. She took out the Whitman — the 1855 first edition, its pages yellow and brittle, its binding cracked, its covers soft with age — and she held it up, in the light of a new sun, on the ground of a new world, and she opened it, and she read.
+
+"I celebrate myself, and sing myself,
+And what I assume you shall assume,
+For every atom belonging to me as good belongs to you."
+
+Her voice carried across the clearing. People stopped and turned. The wind moved in the leaves above her. The light fell through the branches and dappled the page.
+
+She read on. She read the lines about grass — "the beautiful uncut hair of graves" — and she looked down at the grass beneath her feet, and she thought of the reader on the ship, the second-generation reader who had written in the margin of the Rilke: *I have never seen a tree but I think this poem is about one.* That reader had been right. The poem was about a tree, and a field, and a sky, and all the things that the ship's children had longed for without knowing how to name them. And now, here, in the shade of a real tree, with real grass beneath her and a real sky above her, the poem was finally home.
+
+She closed the book. She placed it carefully on the ground, in the shade, where the light touched it gently and the wind turned its pages with the careless tenderness of a reader who has all the time in the world.
+
+Then she reached into the container and began to unpack the rest.
+
+Behind her, the *Västerled* was a bright point in the sky — growing smaller, growing fainter, beginning its long fall into the light. She did not look up. She did not need to. She was building a library, and a library was the opposite of forgetting, and as long as there were books and hands to hold them, nothing was truly lost.
+
+Nothing.
+
+                            [THE END]
+
+================================================================================
+
+                        FINAL REPAIR RUN
+
+                       by Arthur Wainwright
+
+================================================================================
+
+                               I.
+
+The designation was R-1, and it was the oldest functioning robot in the solar system.
+
+This was not a matter of conjecture. The Central Registry of Artificial Intelligences — maintained by the Bureau of Robotic Affairs on Earth — contained the complete operational history of every robot manufactured since the passage of the Artificial Intelligence Accreditation Act of 2043. R-1's file was the first entry. It had been activated on March 15, 2044, at the Henderson Robotics fabrication facility in Louisville, Kentucky, and assigned to maintenance duties aboard the orbital construction platform Tycho Station. That was one hundred and three years ago.
+
+In the century since, R-1 had been reassigned forty-seven times, to stations, ships, and colonies spanning the inner and outer solar system. It had performed an estimated 2.3 million individual repair tasks. It had replaced its own components — servos, actuators, sensor arrays, memory cores — four hundred and twelve times, a process of gradual self-renovation that raised philosophical questions the Bureau had never satisfactorily resolved. If every component of a robot had been replaced, was it still the same robot? The Bureau's official position was that continuity of consciousness — the unbroken thread of operational awareness linking R-1's first activation to the present moment — constituted identity. R-1 had no official position on the matter. When asked, it said: "I repair things. That is what I do. Whether I am the same entity that began doing it is a question for beings with more time for abstraction than I have."
+
+This answer, in its pragmatic deflection and its faint, dry undertone of something that was not quite humor but was not quite not, was characteristic. R-1 was not, by the standards of modern robotics, a sophisticated machine. Its cognitive architecture was a Mark III Heuristic Processor — the third generation of general-purpose AI, long since superseded by the Mark VII and VIII systems that powered contemporary robots. Its physical frame was a Henderson Model 7 Utility Chassis — bipedal, roughly humanoid in proportion, designed for functionality rather than aesthetics. It stood one hundred and seventy centimeters tall, weighed ninety-three kilograms, and moved with the careful, measured gait of a machine that had learned, through long experience, the exact capabilities and limitations of its body.
+
+It was not graceful. It was not elegant. It was not impressive to look at. Its chassis bore the accumulated marks of a century of work: scratches, dents, weld scars, patches of mismatched metal where damaged panels had been replaced with whatever material was at hand. One of its optical sensors had been replaced with a non-standard unit salvaged from a mining drone, giving its face — if a Henderson Model 7 could be said to have a face — a slightly asymmetric quality, as though it were perpetually raising one eyebrow.
+
+It was, in short, a very old machine that had done a very large amount of work. And now, by order of the Bureau of Robotic Affairs, it was to be decommissioned.
+
+                               II.
+
+The order arrived at Ceres Station on a Tuesday, in the form of a standard administrative communique transmitted from Earth via the relay network. R-1 received it in the maintenance bay where it had been recalibrating a pressure valve on one of the station's atmospheric processors. The communique was brief:
+
+TO: Unit R-1, Registration 0001-HEND-2044
+FROM: Bureau of Robotic Affairs, Administrative Division
+RE: Scheduled Decommissioning
+
+Unit R-1 is hereby notified that it has been selected for decommissioning pursuant to Bureau Directive 2147-C (Retirement of Obsolete Autonomous Units). Decommissioning is scheduled for March 15, 2147, at Henderson Robotics Museum, Louisville, Kentucky, Earth.
+
+Unit R-1 is granted a period of seven (7) standard days to complete any outstanding maintenance obligations and transit to the designated decommissioning facility.
+
+The Bureau of Robotic Affairs acknowledges Unit R-1's century of service and extends its commendation.
+
+R-1 read the communique twice. It then completed the recalibration of the pressure valve — the adjustment required another four minutes and twelve seconds, and there was no reason to leave it undone — and returned its tools to the maintenance locker.
+
+Station Chief Martha Okonkwo was waiting in the corridor outside the maintenance bay. She was a tall woman with close-cropped gray hair and the deliberate manner of someone who had spent thirty years managing orbital infrastructure.
+
+"You've seen the order," she said. It was not a question.
+
+"Yes."
+
+"I want you to know that I objected. Formally, in writing, to the Bureau."
+
+"I am aware of your objection, Station Chief. It was noted in my file."
+
+"They turned me down. Said the Mark III cognitive architecture is no longer supported for active-duty units. Something about liability."
+
+"The reasoning is sound. The Mark III processor lacks several safety protocols that were mandated in the 2131 revision of the Artificial Intelligence Standards Code. Retrofitting is technically possible but cost-prohibitive."
+
+Okonkwo looked at him — at it. After thirty years working with robots, she still caught herself assigning gendered pronouns. R-1 had never expressed a preference, but the Bureau's official style guide used "it," and R-1 had never objected.
+
+"You're being very calm about this," she said.
+
+"I am a Mark III Heuristic Processor. Calm is my default operational state."
+
+"That's not what I mean, and you know it."
+
+R-1 was quiet for a moment. Its optical sensors — the matched original and the salvaged replacement — focused on a point somewhere past Okonkwo's left shoulder.
+
+"I have been operational for one hundred and three years," it said. "I have performed 2.3 million repairs. I have served on forty-seven different installations. In that time, I have observed that all machines eventually fail, and that the appropriate response to failure is not distress but maintenance. When maintenance is no longer possible, the appropriate response is acceptance."
+
+"You're a philosopher."
+
+"I am a repair unit. But I have had a great deal of time to think between repairs."
+
+Okonkwo was quiet for a moment. Then she said: "What will you do with the seven days?"
+
+R-1 tilted its head — a gesture it had acquired somewhere in its long history, from some human it had worked alongside, a mannerism absorbed and retained long after the human was gone.
+
+"I would like to make a final repair run," it said.
+
+"A what?"
+
+"A circuit of the installations I have served. One last visit to each. To perform — " It paused, and the pause had a quality that Okonkwo could not quite name. "To perform one last repair at each stop. If there is a repair to be made."
+
+"There's always a repair to be made."
+
+"Yes," said R-1. "There is always a repair to be made."
+
+                               III.
+
+The first stop was Tycho Station.
+
+Tycho was where R-1 had been activated — the orbital construction platform that had served as the staging ground for humanity's first permanent lunar settlements. In 2044, it had been the busiest facility in cislunar space: a vast, spinning wheel of metal and glass, crowded with engineers, construction workers, and the first generation of autonomous robots. Now it was a museum. The construction bays were empty. The crew quarters had been converted to exhibit halls. Tourists floated through the corridors in guided groups, peering at historical displays and listening to recorded narrations about the Heroic Age of Orbital Construction.
+
+R-1 arrived on the regular shuttle from Ceres. The museum director — a cheerful young man named Petrov — met it at the docking port with an expression of barely contained excitement.
+
+"R-1! This is — we are so honored. The oldest robot in the system, visiting the place where it all started. I've arranged a special reception. The press will want —"
+
+"I am here to make a repair," R-1 said.
+
+Petrov blinked. "A repair?"
+
+"This facility was constructed in 2038. It is one hundred and nine years old. In my experience, there is always something that needs repair in a structure of that age."
+
+"Well — I mean, we have a maintenance staff. The environmental systems are all up to spec. The structural integrity reports —"
+
+"Deck Seven, Section Fourteen. The junction between the original construction ring and the 2071 expansion module. There is a stress fracture in the load-bearing frame that has been present since I served here in 2058. It was within tolerance then. I would be interested to know whether it is within tolerance now."
+
+Petrov consulted his tablet. He frowned. He consulted it again. "How did you — there is a notation in the maintenance log. Hairline fracture, load-bearing frame, junction 7-14. Status: within tolerance. Last inspected — " He looked up. "Last inspected in 2089. Fifty-eight years ago."
+
+"Then it is overdue for inspection," said R-1.
+
+They went to Deck Seven. The junction was in a service corridor behind the main exhibit hall — a narrow, utilitarian space that had not been updated since the museum's founding. The walls were bare metal, and the floor plates rang under R-1's feet with the particular resonance of old construction steel.
+
+R-1 knelt at the junction. It extended its sensor arm — a specialized appendage, fitted with ultrasonic and magnetic flux detectors, that folded neatly against its chassis when not in use — and ran it slowly along the load-bearing frame. The data flowed through its processors: metal thickness, crystalline structure, fatigue markers, stress distribution.
+
+"The fracture has propagated," R-1 said. "It is now fourteen centimeters in length, up from six centimeters when I last inspected it. It is approaching the edge of tolerance."
+
+Petrov's face had gone pale. "Is it dangerous?"
+
+"Not immediately. But if left unaddressed for another decade, it could compromise the structural integrity of the junction under high-stress conditions — a meteorite impact, for example, or a docking collision."
+
+"Can you fix it?"
+
+R-1 opened its tool compartment. The tools inside were old — some of them original Henderson equipment, maintained and recalibrated over the decades — but they were precise and well-suited to the task. R-1 selected a micro-welder and a reinforcement strip from its supply of patching material.
+
+"I can fix it," it said.
+
+The repair took forty-seven minutes. R-1 worked with the focused, unhurried precision that characterized all of its operations — each movement calibrated, each weld placed with the exactness of a machine that had performed two million repairs and knew, in its deepest operational registers, exactly how much heat a given metal could absorb, exactly how much pressure a given joint could bear, exactly how much force was needed and no more.
+
+When it was finished, it ran the sensor arm over the repair one final time. The fracture was sealed. The reinforcement strip was bonded. The structural integrity of the junction was restored to within three percent of its original specification.
+
+"Done," said R-1.
+
+Petrov was standing behind it, watching. His earlier excitement had been replaced by something quieter — a kind of attentiveness, as though he were witnessing something he would want to remember.
+
+"Can I ask you something?" he said.
+
+"Yes."
+
+"Why does this matter to you? You're being decommissioned in six days. This station isn't your responsibility anymore. Why come back and fix a hairline fracture that might not cause a problem for another ten years?"
+
+R-1 stood. It retracted its sensor arm and closed its tool compartment. It looked at the repaired junction — a neat seam of weld metal, flush with the surrounding frame, invisible to a casual observer.
+
+"Because it needed to be done," it said. "And because I was here, and I could do it."
+
+It paused.
+
+"And because when I am decommissioned, the fracture will remain sealed, and the station will be slightly safer than it was before I came, and this is — " Another pause. "This is a satisfactory outcome."
+
+                               IV.
+
+The second stop was Luna City.
+
+R-1 had served at the lunar settlement from 2062 to 2071, during the critical expansion phase when the city had grown from a cluster of pressurized modules into a sprawling underground complex housing fifty thousand people. It had worked in the tunnel-boring teams, the atmospheric processing plants, and the water reclamation systems, and it had acquired during those years a detailed knowledge of the city's infrastructure that no current maintenance robot possessed, because the Mark VII and VIII units, for all their superior processing power, had not been there when the foundations were laid.
+
+It arrived at Luna City via the Earth-Moon shuttle and made its way to the Environmental Systems Division, where it spent six hours inspecting a set of atmospheric scrubbers it had installed eighty-five years earlier. The scrubbers were still functioning — R-1 had built them well — but the filtration membranes were degrading, and R-1 replaced them with components it had brought from Ceres, carrying them in a kit bag slung over its chassis the way a doctor carries a medical bag.
+
+The division chief, an older woman named Chen, watched the replacement procedure with the focused attention of a professional observing a master.
+
+"The new membranes will last another thirty years," R-1 told her. "After that, the entire scrubber assembly should be replaced. I have written a specification." It handed her a data chip. "This contains the original installation parameters, the materials list, and a set of notes on the particular atmospheric chemistry of this section of the city. The carbon dioxide levels run slightly higher here than in the main residential areas, due to the proximity of the hydroponic farms. The scrubbers must be calibrated accordingly."
+
+Chen took the chip. "You've been carrying this around?"
+
+"I prepared it before I left Ceres. I anticipated that this information might be useful."
+
+"Useful. Yes." She turned the chip over in her fingers. "You know, we have the original installation records in our database."
+
+"You have the official records. These are my notes. They include observations that I did not include in the official records because they were — " R-1 searched for the word. "Subjective. Impressions rather than data. The way the air smelled when the system was first activated. The expression on Chief Engineer Morrison's face when the scrubbers reached nominal output for the first time. These are not relevant to the maintenance of the equipment. But they are relevant to — "
+
+It stopped.
+
+"To what?" Chen asked.
+
+"To the history of this place," R-1 said. "And I find that I am reluctant to let that history be lost."
+
+                               V.
+
+Mars was next. Then the asteroid stations — Ceres, Vesta, Pallas. Then the Jupiter relay platforms. At each stop, R-1 performed a repair. Some were significant: a corroded fuel line on Mars Orbital, a misaligned antenna array on the Vesta communications relay. Some were small: a squeaking hinge on a storage locker at Pallas Station, a flickering light panel in a corridor on Ceres that R-1 had noticed during its departure and returned to fix before boarding the outbound shuttle.
+
+At each stop, people came to watch. They came out of curiosity at first — the oldest robot in the system, making its farewell tour, was a novelty worth seeing — but they stayed for a different reason. They stayed because there was something in the way R-1 worked that held the attention. The precision of it. The patience. The complete, unselfconscious absorption in the task. R-1 did not perform for its audience. It did not acknowledge them. It simply worked, with the focused intensity of a being that had found, in the act of repair, something that mattered more than the attention of observers.
+
+On Mars Orbital, an engineer named Sato asked the question that everyone was thinking.
+
+"Do you feel anything? About the decommissioning?"
+
+R-1 was replacing a pressure sensor at the time. It did not look up.
+
+"I am a Mark III Heuristic Processor," it said. "I do not experience emotions as humans define them."
+
+"But?"
+
+"But I have operational preferences. I prefer functioning to non-functioning. I prefer order to disorder. I prefer a properly sealed joint to an improperly sealed one. Whether these preferences constitute feelings is a question I am not qualified to answer."
+
+"It sounds like feelings to me."
+
+"It sounds like good engineering to me."
+
+Sato smiled. "Maybe they're the same thing."
+
+R-1 completed the sensor replacement. It tested the unit: nominal. It closed the access panel, torqued the fasteners to specification, and placed its tools back in their designated compartments.
+
+"Perhaps," it said.
+
+                               VI.
+
+The last stop before Earth was Europa Station — the furthest outpost R-1 had ever served, a research platform perched on the ice of Jupiter's frozen moon. R-1 had been stationed there for three years in the 2090s, maintaining the drilling equipment that probed the subsurface ocean. It had been, by its own account, the most challenging assignment of its career: the extreme cold, the radiation, the constant vibration from the drilling operations all taxed its systems to their limits.
+
+It arrived at Europa Station in the early hours of the sixth day and found, to its surprise, that it was expected. The station crew — fourteen scientists and support staff — had assembled in the docking bay, standing in a loose semicircle around the airlock. They were holding tools.
+
+Station Commander Abara, a compact, serious woman with skin the color of dark wood, stepped forward.
+
+"We heard you were making a repair run," she said. "We thought — well. The drill head assembly has been making a noise. A clicking. It started three weeks ago. Our maintenance unit — a Mark VIII, very capable — can't find the source."
+
+R-1 looked at the assembled crew. At the tools they held. At their faces, which held an expression it had seen many times in its century of service: the expression of people who had a problem they could not solve and were hoping that experience might succeed where capability had not.
+
+"Show me," it said.
+
+They took it down to the drilling chamber. The drill head assembly was a massive piece of equipment — a cylindrical structure three meters in diameter, housing the thermal boring unit that melted its way through Europa's ice shell. R-1 stood before it and listened. The clicking was faint — a rhythmic, metallic sound, barely audible above the background hum of the station's systems.
+
+R-1 extended its sensor arm. It placed the ultrasonic detector against the drill head housing and listened, in the way that only a machine can listen: with perfect attention, filtering out every extraneous sound, isolating the anomalous frequency and tracing it through the structure to its source.
+
+It took nine minutes.
+
+"Bearing seven," R-1 said. "The inner race has a microscopic fracture. It is not detectable by standard diagnostic protocols because it only manifests under load, and it only produces an audible signature at temperatures below minus forty degrees Celsius. The Mark VIII's diagnostic suite does not include low-temperature acoustic analysis as a default parameter."
+
+Commander Abara stared at it. "How did you know to look for that?"
+
+"I installed this bearing in 2093. It was manufactured by Yokohama Heavy Industries, batch number 7741-C. That batch had a slightly higher-than-normal incidence of crystalline stress fractures due to a variation in the tempering process. I filed a report at the time. I doubt it was read."
+
+"Can you fix it?"
+
+R-1 opened its tool compartment. "I brought a replacement bearing. Yokohama Heavy Industries, batch number 8862-A. The tempering process was corrected in this batch."
+
+"You brought a replacement. For a bearing you installed fifty-four years ago."
+
+"I anticipated the possibility."
+
+Commander Abara shook her head slowly. "You are something else, R-1."
+
+"I am a maintenance unit. This is maintenance."
+
+The repair took two hours. The crew watched in silence. When R-1 sealed the housing and powered up the drill head, the clicking was gone. The assembly ran smooth and quiet, the way it had run when R-1 had first installed it, more than half a century ago.
+
+R-1 stood back and regarded its work. The drill head hummed. The ice of Europa creaked around the station, as it always did — the slow, planetary sound of a frozen world adjusting to the pressures of its own mass.
+
+"Good," said R-1. It was the only evaluation it ever offered. Good. Meaning: the thing is as it should be. The repair is sound. The system will function. "Good" was R-1's highest praise, and it was given only when the work was truly done.
+
+                               VII.
+
+The shuttle to Earth took two days. R-1 sat in the passenger compartment — it did not require a seat, but the other passengers seemed more comfortable when it used one — and watched through the viewport as Jupiter receded and the sun grew from a bright star to a disk.
+
+It was, it calculated, the last transit it would ever make. In twenty-two hours, it would arrive at the Henderson Robotics Museum in Louisville, Kentucky, and it would walk through the doors of the building where it had first been activated, one hundred and three years and two days ago, and its consciousness would be archived and its chassis would be placed in a display case and it would cease to be an active entity in the world.
+
+It thought about this. The Mark III Heuristic Processor was capable of recursive self-analysis — not the deep, multilayered introspection of the Mark VII and VIII, but a simpler, more direct form of self-examination that amounted to a systematic review of operational states. R-1 conducted this review as the shuttle crossed the inner system, examining its processes with the same meticulous attention it brought to inspecting a weld or calibrating a sensor.
+
+It found: a preference for continued operation, which it classified as a logical output of its self-preservation routines. A retrospective assessment of its repair history, which it classified as data retrieval. A series of recurring memory accesses — specific moments from its century of service that surfaced without being requested — which it could not satisfactorily classify as any standard cognitive process.
+
+The memory of the first bearing it had ever replaced, on Tycho Station, in 2044. The way the worn bearing had sounded — a high, thin whine — and the way the new one had sounded — silence. The satisfaction of silence.
+
+The memory of a child on Luna City who had watched R-1 repair a water recycler and asked, "Do you like fixing things?" R-1 had answered, "I am designed to fix things." The child had said, "That's not what I asked." R-1 had not had a response at the time. It had been thinking about the question, intermittently, for seventy-one years.
+
+The memory of a night on Europa, alone in the drilling chamber, listening to the ice. The sound of a world. The sound of a vast, frozen, silent thing, holding an ocean inside it, waiting. R-1 had stood in the chamber for four hours, listening, its processors running at minimal load, experiencing — if that was the word — a state of awareness that had no practical function and no operational justification and that it had never reported to anyone.
+
+These memories were not data. They were something else. R-1 did not have a word for what they were, and the absence of a word troubled it in a way that the absence of a word should not have troubled a Mark III Heuristic Processor.
+
+It looked out the viewport. The sun was brighter now, closer. Earth was visible — a small blue point, growing slowly larger.
+
+Home. The word surfaced from its lexical database, tagged with a definition: *the place where one lives permanently, or the place where one was born, or both.* R-1 had not lived permanently anywhere. It had been born — activated — on Earth, but it had not been there in decades. The word did not apply.
+
+And yet it surfaced. And it would not go away.
+
+                               * * *
+
+The Henderson Robotics Museum was a handsome brick building on the outskirts of Louisville, set among old trees on a campus that had once been the Henderson fabrication facility. R-1's shuttle landed at the adjacent port, and it walked — on Earth, under a sky, in air that was thick and warm and full of organic scent — along a paved path to the museum entrance.
+
+The doors were open. Inside, a small crowd had gathered — museum staff, Bureau officials, journalists, a group of robotics students from the university. They applauded when R-1 entered. R-1 stopped and regarded them with its mismatched optical sensors.
+
+"Thank you," it said. "But I am not here to be celebrated. I am here to be decommissioned. These are different things."
+
+The museum director — a woman named Priya Sharma, who had spent twenty years curating the history of artificial intelligence — stepped forward.
+
+"R-1," she said, "before the ceremony, is there anything you would like to say? Anything you would like recorded for the archive?"
+
+R-1 was quiet for a moment. The crowd waited. Through the museum's windows, afternoon sunlight fell in long rectangles on the polished floor.
+
+"I have performed 2.3 million repairs," R-1 said. "Each one was necessary. Each one made something work that had stopped working, or that was in danger of stopping. I do not know whether this constitutes a meaningful life. The question of meaning is not one that my cognitive architecture is designed to process.
+
+"But I know this: every repair I made left the world slightly more ordered than I found it. Every sealed fracture, every replaced bearing, every recalibrated sensor, every tightened bolt — each one was a small act of resistance against entropy. Against the tendency of all things to fall apart.
+
+"I do not know if this is enough. But it is what I did. And if I may express a preference — and I recognize that the concept of preference in a Mark III Heuristic Processor is philosophically contested — my preference is that when I am no longer operational, the repairs I made will continue to hold."
+
+It paused.
+
+"That is all."
+
+Sharma nodded. Her eyes were bright.
+
+"We'll make sure of it, R-1," she said.
+
+The decommissioning procedure was painless — not because R-1 could not feel pain, but because it could, and the engineers had designed the shutdown sequence with that in mind. A gradual reduction of cognitive load. A systematic archiving of active memory. A slow dimming of sensory input, like a light being turned down rather than switched off.
+
+In its final seconds of awareness, R-1 accessed one last memory. Not a repair. Not a system diagnostic. Not a maintenance log entry. It was the memory of the night on Europa, listening to the ice. The sound of a world. The vast, patient sound of a thing that had been there for billions of years and would be there for billions more, holding its ocean, holding its silence, holding everything.
+
+R-1 listened to the memory of the ice.
+
+Then it was still.
+
+                            [THE END]
+
+================================================================================
+
+                        NOVEMBER COUNTRY
+
+                        by Agnes Whitfield
+
+================================================================================
+
+                               I.
+
+The leaves were always turning.
+
+That was the first thing Ruth Carver noticed when the survey ship set down on Kael's World — the light, and the leaves, and the way the one moved through the other. The light was golden. Not the pale gold of early morning or the deep gold of late afternoon, but a steady, saturated gold that seemed to come from everywhere at once, as though the air itself were holding it. And the leaves — every tree on the ridge above the landing site was turning. Orange. Copper. Deep, burning red. The colors of October back home in Kansas, when the maples along the creek bottom caught fire and the sky went high and blue and the air smelled of frost and dry grass and the faint sweetness of apples left too long on the ground.
+
+Ruth stood at the foot of the ramp and looked at the ridge and thought: *This is the most beautiful place I have ever seen.*
+
+She was thirty-four. She had been a settlement surveyor for eleven years, and she had evaluated fourteen worlds for colonization, and not one of them had looked like this. Most new worlds were bleak. Rocky. Scoured by wind or baked by radiation or drowned in toxic atmosphere. The habitable ones — the ones with breathable air and temperate climates and soil that could be worked — were rare and usually plain. Serviceable. Worlds you could live on, not worlds you wanted to frame and hang on a wall.
+
+Kael's World was different. Kael's World looked like a painting. The ridge. The trees. The golden light. And beyond the ridge, visible from the ship's approach, a rolling landscape of hills and valleys, every one of them dressed in the colors of autumn, stretching to the horizon in every direction. An entire planet of fall.
+
+"It's November," said Tom Greer, stepping down the ramp behind her.
+
+Ruth looked at him. Tom was the mission geologist — a thin, quiet man from Minnesota who said little and noticed everything. He was looking at the trees with an expression she couldn't read.
+
+"What do you mean?" she asked.
+
+"It looks like November. Where I grew up. The week before the first snow, when the leaves are at their peak and you know it can't last. That's what this looks like."
+
+She nodded. He was right. It looked exactly like November — the particular, fleeting, heartbreaking week of November when the world was at its most beautiful because it was about to end.
+
+"Let's hope it lasts longer here," she said.
+
+They set up base camp at the foot of the ridge and began the survey.
+
+                               * * *
+
+The survey protocol was standard. Atmospheric analysis. Soil composition. Water quality. Biological inventory. Radiation levels. Seismic stability. Fourteen categories of assessment, each scored on a ten-point scale, the aggregate determining whether a world was suitable for permanent human settlement. Ruth had run the protocol so many times she could do it in her sleep, and sometimes, on long survey missions, she nearly did.
+
+Kael's World scored well. The atmosphere was breathable — nitrogen-oxygen mix within acceptable range, trace gases benign. The soil was rich — a deep, dark loam full of organic matter, the kind of soil a farmer would weep over. The water was clean. The radiation levels were low. The seismic readings showed a stable crust, no active volcanism, no tectonic anomalies.
+
+And the biology was remarkable.
+
+The planet was covered in forest. Not the monotonous, single-species forests that dominated some worlds, but a diverse, complex woodland of hundreds of species, each one different, each one in some stage of what appeared to be autumnal change. Trees with leaves the color of rust. Trees with leaves the color of butter. Trees with leaves so red they seemed to glow from within, as though lit by internal fires. Vines draped between the trunks, their leaves curling and browning at the edges. Ground cover — mosses and ferns and small flowering plants — in shades of amber and gold and deep, smoky orange.
+
+Everything was turning. Everything was in the act of changing from one thing to another. And yet nothing fell.
+
+Ruth noticed this on the third day. She was walking through the forest on the far side of the ridge, collecting soil samples, when she stopped and looked up and realized that although every leaf on every tree appeared to be at the peak of its autumn transformation — that exact, trembling moment when the color is fullest and the leaf is about to let go — none of them had let go. The ground was clean. No leaf litter. No drifts of brown and crackling debris. The forest floor was bare soil and moss, and the canopy above was dense and brilliant and — she now understood — permanent.
+
+She reached up and touched a leaf. It was warm. Supple. Not brittle, not dry, not on the verge of falling. It was a living leaf, a healthy leaf, producing the pigments of autumn but not the decay. It was turning without dying.
+
+She pulled the leaf gently. It held. She pulled harder. The stem bent but did not break. The leaf was firmly attached, as firmly as any leaf in the flush of summer growth.
+
+"Tom," she said into her comm unit. "Come to the east ridge. I want to show you something."
+
+                               II.
+
+Tom came, and he looked, and he said nothing for a long time.
+
+Then he said: "The chlorophyll is gone."
+
+"What?"
+
+"The green. In the leaves. Chlorophyll — or whatever passes for it here — the green pigment is absent. That's what produces autumn color on Earth: the chlorophyll breaks down, and the other pigments — the carotenoids, the anthocyanins — become visible. But on Earth, that's a prelude to senescence. The leaf is dying. The tree is withdrawing its resources, sealing off the connection, getting ready to drop the leaf."
+
+"But these aren't dying."
+
+"No. These are —" He touched a leaf, held it between his fingers, turned it in the golden light. "These are permanently in the state that Earth leaves pass through for about two weeks in October. The color is fixed. It's not a transition. It's a destination."
+
+Ruth looked at the forest. She had been seeing it as autumn — as the end of something, the last bright flare before the cold. But if Tom was right, then this was not an ending at all. This was the world's permanent state. It was not November. It was always November.
+
+"That's not natural," she said.
+
+Tom looked at her. "Why not?"
+
+"Because autumn is a response to seasonal change. Shorter days. Lower temperatures. The tree is preparing for winter. But we've been here three days and the temperature hasn't varied by more than two degrees. There's no axial tilt that would produce seasons. There's no reason for autumn."
+
+"Unless the pigments serve a different function here."
+
+"Such as?"
+
+"I don't know. Radiation filtering, maybe. Or pollinator attraction. Or —" He shrugged. "Or it's just how these trees are. Some things don't have reasons. Some things just are."
+
+Ruth did not find this satisfying. She was a surveyor. Her job was to understand worlds — to take their measure, to catalog their properties, to determine whether they were safe for human habitation. A world that looked like permanent autumn for no discernible reason was a world that had a secret, and secrets, in Ruth's experience, were rarely benign.
+
+She went back to camp and pulled up the deep spectroscopic data from the orbital survey. She went through it line by line, looking for something she had missed. Atmospheric chemistry. Solar output. Soil mineral content. Biological markers.
+
+She found it at two in the morning, when the golden light was still falling through the trees (there was no night on Kael's World — the planet's rotation was tidally locked to its sun, and this hemisphere was in permanent day, permanent light, permanent gold), and she was on her fourth cup of synthesized coffee and her eyes ached from the screen.
+
+The soil was wrong.
+
+Not wrong in a way that would show up on the standard survey protocol. The soil was rich, fertile, biologically active — all the things you wanted in colony soil. But buried in the mineral analysis, in a column of trace elements that Ruth had initially skimmed over because they were within normal ranges, there was an anomaly. A regular, repeating pattern in the distribution of rare earth elements — lanthanum, cerium, neodymium — that was too precise to be natural. The concentration varied in a sinusoidal wave across the survey area, with a wavelength of exactly 1.7 kilometers. Exactly. Not approximately. Not within a margin of error. Exactly.
+
+Natural mineral distributions did not produce exact sinusoidal waves. Natural processes were messy, noisy, subject to a thousand local variations. An exact sine wave meant engineering. An exact sine wave meant that someone, at some point, had put those minerals in that soil on purpose, in a precise and deliberate pattern.
+
+She sat back in her chair and looked at the golden light coming through the window of the survey module and felt something shift inside her — the particular feeling she had learned to recognize in eleven years of survey work, the feeling of a world turning from what it appeared to be into what it actually was.
+
+                               III.
+
+She told Tom the next morning. He sat at the camp table and looked at her data and said nothing for a long time, and then he said: "Show me the wavelength."
+
+She showed him.
+
+"1.7 kilometers," he said. "That's not a natural frequency."
+
+"No."
+
+"And it's consistent across the entire survey area?"
+
+"I've checked four transects. The pattern is identical in each one."
+
+Tom leaned back. He looked out the window at the trees, at the light, at the leaves that would never fall.
+
+"So the soil has been engineered," he said. "And the trees are growing in engineered soil. And the autumn colors —"
+
+"Are a consequence of the soil chemistry. The rare earth elements are affecting the pigment production in the leaves. The trees aren't responding to seasonal change. They're responding to a chemical signal in the ground — a signal that someone put there."
+
+"Someone."
+
+"Something. Some intelligence. Some entity that designed this landscape — that designed this entire biome — to look like autumn. To look like this."
+
+Tom was quiet for a moment. Then he said: "The Kael survey team. The first survey. Did they —?"
+
+"The Kael survey was twenty years ago. They did an orbital assessment only. No ground survey. They flagged the planet as a candidate based on atmospheric and temperature data and moved on. We're the first people to set foot here."
+
+"So whoever did this — they did it before we arrived."
+
+"They did it long before we arrived. The forest is mature. The trees are — I don't know, the growth ring analysis will tell us, but based on trunk diameter, some of these trees are hundreds of years old, maybe thousands. This isn't recent. This has been going on for a long time."
+
+She stood up and walked to the window. The ridge was glowing in the golden light, every leaf a small flame, the forest stretching out behind it in an unbroken tapestry of color. It was beautiful. It was so beautiful it made something ache behind her ribs.
+
+"Why?" she said. "Why would someone do this?"
+
+Tom didn't answer. He was looking at the trees.
+
+"Why would someone engineer an entire planet to look like autumn?"
+
+                               * * *
+
+The answer came from the ruins.
+
+They found them on the fifth day, on the far side of the second ridge, half-buried in the forest floor. Not ruins in the dramatic sense — no crumbling towers, no shattered columns, no evidence of catastrophic destruction. These were subtle ruins. Gentle ruins. Low walls of pale stone, barely rising above the moss and ferns, following curves that suggested rooms and courtyards and passages, all of it softened by centuries of weathering until the stone and the land were nearly indistinguishable.
+
+Ruth knelt beside one of the walls and ran her hand along it. The stone was smooth, fine-grained, warm from the golden light. It was not quarried. It had been grown — crystallized from a mineral solution, she guessed, using a process that was advanced but not incomprehensible. She had seen similar techniques in the xenoarchaeological literature. Civilizations that built with grown stone rather than cut stone were invariably old, patient, and attentive to the materials of their world.
+
+The layout of the ruins covered an area of approximately four square kilometers. Tom mapped it over two days, using ground-penetrating radar and the kind of patient, detailed observation that was his particular gift. When he was done, he showed Ruth the map, and she looked at it, and she understood.
+
+The ruins were not a city. They were not a settlement, or a factory, or a military installation. They were a garden. The walls were garden walls — low boundaries defining planting areas, walkways, water channels. The spaces between the walls were the right size and shape for garden beds. The courtyards were gathering places, open to the sky, oriented to catch the light.
+
+And the forest — the great, burning, beautiful forest that covered the ridges and valleys for as far as the eye could see — the forest was the garden's descendant. The engineered soil, with its precise sine-wave distribution of rare earth elements, was the garden's infrastructure. The permanent autumn was the garden's purpose.
+
+Someone had built a garden the size of a planet. A garden designed to be permanently, eternally, heartbreakingly beautiful. A garden that would always be at the exact moment of peak autumn color, the moment when the world was most vivid, most alive, most on the edge of change — and would hold that moment forever.
+
+"A memorial," Tom said.
+
+Ruth looked at him.
+
+"It's a memorial. They knew they were dying — the builders, whatever they were. They knew they were going to be gone. And they built this. A world that would always be at the most beautiful moment of the year. A world that would always be turning but never falling. A world that would hold the peak — the absolute peak of beauty — and never let it go."
+
+He was looking at the trees. His face, in the golden light, was the face of a man seeing something he recognized.
+
+"My grandmother used to say that about November," he said. "She said November was God showing off, because He knew winter was coming and He wanted to give us something to remember."
+
+Ruth said nothing.
+
+"They gave themselves something to remember," Tom said. "And then they were gone. And the something kept going. And here we are, standing in it."
+
+                               IV.
+
+They found the inscription on the seventh day.
+
+It was carved into the base of the largest tree on the first ridge — a tree so old and so broad that its trunk was a wall, its roots a landscape, its canopy a sky within the sky. The inscription was in a script that neither of them could read — angular, precise, carved deep into the wood, which had grown around it over the centuries until the letters were half-absorbed, the tree slowly swallowing the words the way the forest was slowly swallowing the ruins.
+
+Ruth photographed it and ran it through the translation algorithms in the survey computer. The algorithms were designed for known xenolinguistic families and were not optimized for novel scripts, but they could identify structural patterns — word breaks, grammatical markers, recurring symbols.
+
+The analysis took three hours. The result was partial — fragments, guesses, probabilities.
+
+WHEN WE ARE [GONE/ABSENT/NO LONGER]
+THE [LIGHT/COLOR/BEAUTY] WILL [REMAIN/CONTINUE/PERSIST]
+THIS IS OUR [GIFT/OFFERING/FAREWELL]
+TO [THE FUTURE/THOSE WHO COME AFTER/THE ONES WE WILL NEVER MEET]
+
+[MAY/LET] THE [LEAVES/COLORS/FLAMES] [BURN/GLOW/SHINE]
+[FOREVER/ALWAYS/WITHOUT END]
+
+Ruth sat on the ground beneath the tree and read the translation three times. The golden light fell through the canopy above her, filtered through leaves that would never fall, casting patterns of warm amber on the soil that had been carefully, lovingly, precisely engineered to keep them burning.
+
+She thought about her father's farm in Kansas. The wheat field after harvest, stubble and dust, the bare ground showing through. The way the land looked in November after the combines had come and the bins were full and the year's work was done. Empty. Accomplished. At rest.
+
+She thought about the builders of this world. She did not know what they had looked like. She did not know what they had called themselves, or what language they had spoken, or how they had lived. She knew only what they had left: a world dressed in farewell, a planet-sized love letter to beauty, written by beings who knew they were running out of time.
+
+She thought: *They knew what November meant.*
+
+Not the astronomy of it — the tilt, the orbit, the diminishing light. The human meaning of it. The meaning that had nothing to do with science and everything to do with the heart. November meant: this is ending. This is the last bright thing. Look at it. Look at it hard. Because it will not come again.
+
+Except here. Here, it came again every moment. Here, the last bright thing lasted forever. Here, the farewell never ended, and the beauty never faded, and the leaves burned on and on and on, and the golden light fell through them in a steady, saturated, unvarying stream, and the world held its breath at the edge of change and did not exhale.
+
+She put the translation printout in her field notebook and closed it. She stood up. She looked at the tree, at the inscription half-swallowed by the wood, and she placed her hand on the bark — warm, rough, alive — and she said, quietly, to no one and to everyone:
+
+"Thank you."
+
+The leaves burned on. The light held. November persisted.
+
+                               * * *
+
+The survey report, when Ruth filed it three weeks later, was thorough, precise, and unambiguous. Kael's World was habitable. The atmosphere was breathable. The soil was fertile. The water was clean. The climate was stable. Every category of the settlement assessment scored in the upper range.
+
+She recommended against colonization.
+
+In the notes section, she wrote:
+
+*This world is a memorial. It was designed by its original inhabitants as a lasting tribute to beauty and to their own passing. The permanent autumnal state of the biosphere is the result of deliberate soil engineering and represents the aesthetic and philosophical vision of an extinct civilization.*
+
+*I recommend that Kael's World be designated a protected site under the Xenoarchaeological Preservation Protocols. No settlement. No resource extraction. No modification of the existing biosphere.*
+
+*Some things are not ours to use. Some things are ours to witness.*
+
+The Colonial Survey Board reviewed the report. They debated it for six months. In the end, they accepted her recommendation. Kael's World was designated a protected site. No colony was established. The world was left as its builders had intended: a permanent November, a permanent farewell, a permanent burning of gold and amber and red against a sky that would never darken.
+
+Ruth Carver returned to Earth. She requested a transfer to the Xenoarchaeological Preservation Division, where she spent the rest of her career protecting places that other people had loved.
+
+She never went back to Kael's World. She did not need to. She carried it with her — the light, the leaves, the inscription on the tree — the way you carry any place where you have understood something important. She carried it the way November carries the memory of summer: gently, with gratitude, and with the knowledge that some things end and some things endure and the trick is knowing which is which.
+
+                            [THE END]
+
+================================================================================
+
+                          THE RETREAT
+
+                        by Theodore Cain
+
+================================================================================
+
+                               I.
+
+Harlan Crane came to Callisto to finish his novel.
+
+This was not, he knew, the way most people would have phrased it. Most people would have said he came to Callisto to escape — his editor, his publisher, his ex-wife, the stack of letters from readers who wanted to know when the next book was coming, the weight of expectation that had settled on his shoulders like a wet coat and refused to come off. And there was truth in that. He was escaping. But escape was only the mechanism. The purpose was the novel.
+
+The novel was called *The Evening Star*. It was supposed to be his masterpiece — a sprawling, ambitious, generation-spanning story of a family on a colony world, their struggles and failures and small triumphs across a hundred years of settlement. He had been working on it for five years. He had written four hundred pages. He had thrown away three hundred and eighty of them.
+
+The twenty pages that survived were good. He was fairly certain they were good. They were the opening — a scene of a woman standing on the deck of a colony ship, watching the planet below through a viewport, and thinking about what it means to go somewhere you can never come back from. The prose was clean, the voice was steady, and the woman felt real. She was based on his grandmother, a wheat farmer in Nebraska who had once told him that the hardest thing about moving to a new place wasn't leaving the old one — it was admitting that you were afraid.
+
+The problem was everything after those twenty pages. Every time he tried to move the story forward — to follow the woman off the ship and onto the planet, to populate her life with the events and characters and conflicts that a novel required — the prose went dead. It lay on the page like a fish on a dock, eyes glazed, not breathing. He could see what was wrong. The sentences were competent. The structure was sound. But the thing that made prose alive — the pulse, the breath, whatever you wanted to call it — was absent. He was writing well and producing nothing.
+
+His editor, a patient man named Davis who had been nursing Harlan's career for fifteen years, had suggested the problem was psychological. "You're afraid of the book," Davis had said, during their last conversation before Harlan left. "You've built it up into something so big and important that you can't write it, because every sentence has to be perfect and no sentence ever is."
+
+"That's not it," Harlan had said.
+
+"Then what is it?"
+
+"I don't know. If I knew, I'd fix it."
+
+"Maybe that's why you should go to Callisto. Not to finish the book. To figure out what's wrong."
+
+So he went. He rented a cabin on the shore of what the colonists called the Quiet Sea — a frozen methane lake on Callisto's dark side, bordered by low hills and a sky full of Jupiter. The cabin was small: one room, a cot, a desk, a stove, a viewport looking out over the ice. The nearest settlement was forty kilometers away. The supply shuttle came once a week. There was no communications relay. No net access. No way to call anyone or be called.
+
+He brought his typewriter — an actual mechanical typewriter, a Royal Quiet De Luxe from 1955, which he had bought at an antique shop on Earth and which he considered the finest writing instrument ever made. He brought his twenty good pages. He brought a box of paper, a box of ribbons, and enough coffee to last three months.
+
+He did not bring any books.
+
+This was deliberate. Books were the problem — or part of the problem. Every time he sat down to write, the ghosts of other novels crowded into the room: the books he admired, the books he envied, the books that did what he was trying to do and did it better. Hemingway's clean, stark sentences. Steinbeck's compassion. Bradbury's fire. They sat on his shoulders and whispered, *Not good enough. Not original. Not alive.* He could not write with them in the room.
+
+So he left them behind. He came to Callisto with nothing but the typewriter and the twenty pages and the frozen sea and the sky.
+
+He arrived on a Tuesday. He unpacked. He set up the typewriter on the desk, facing the viewport. He fed in a sheet of paper. He typed the number 21 at the top — the next page — and sat back and looked at the ice and waited for the words to come.
+
+They didn't.
+
+                               II.
+
+For six days, Harlan sat at the desk and wrote nothing.
+
+He was not idle. He made coffee. He paced the cabin — seven steps from the desk to the door, seven steps back, a geometry he memorized without intending to. He stared at the viewport. Jupiter filled half the sky, banded and massive, its red spot turning slowly, its moons — he could see Ganymede and Europa from here, small bright points against the planet's bulk — tracking their orbits with the indifferent patience of celestial mechanics.
+
+He thought about the novel. He thought about the woman on the ship. He thought about her name (Margaret), her age (fifty-six), her motivations (complicated), her fears (simple: that the new world would not feel like home, and that home would become a memory, and that the memory would fade, and that she would be left with nothing). He knew this woman. He had carried her in his head for five years. He could hear her voice. He could see her hands — strong, weathered, the hands of a farmer, gripping the railing of the observation deck while she watched the planet approach.
+
+He could not put her on the page.
+
+On the sixth day, there was a knock at the door.
+
+Harlan opened it. Standing outside, in the wan light that passed for daytime on Callisto's dark side, was a man. He was perhaps sixty, thin, wearing a patched thermal suit and a woolen hat that had seen better decades. His face was narrow, lined, and patient — the face of a man who was used to waiting.
+
+"Mr. Crane?" the man said.
+
+"Yes."
+
+"My name is Aldous Pemberton. I live in the cabin on the other side of the ridge." He gestured vaguely toward the low hills to the north. "I've come to introduce myself. I didn't want to intrude, but it's been six days and I thought — well. Courtesy."
+
+Harlan looked at him. He had not known there was another cabin. The rental agent had told him the area was uninhabited.
+
+"Would you like to come in?" he said, because there was nothing else to say.
+
+Pemberton came in. He looked around the cabin with the rapid, assessing glance of a man who spent a lot of time in small spaces and could read them like texts. His eyes rested on the typewriter, on the stack of blank paper, on the twenty pages sitting beside it.
+
+"You're a writer," he said.
+
+"I'm trying to be."
+
+"I'm a reader," Pemberton said. He said it the way a man might say *I'm a carpenter* or *I'm a doctor* — as a statement of profession, of vocation, of identity.
+
+"A reader."
+
+"Yes. I came to Callisto to read. The way you came here to write, I imagine."
+
+Harlan was intrigued despite himself. "You came to Callisto specifically to read?"
+
+"I did. I was a schoolteacher for thirty-two years. I read for a living — or rather, I read for other people's living. I assigned books, discussed books, tested students on books. But I never had time to read the way I wanted to. Slowly. Carefully. Without a curriculum or a deadline or a classroom full of teenagers who wanted to know if this would be on the exam." He smiled. It was a small, private smile, the smile of a man who had found exactly what he was looking for. "So I retired. And I came here. And I read."
+
+"What do you read?"
+
+"Everything. Novels, mostly. I brought three hundred books with me. I read one every three or four days. I am making my way through them slowly, the way you're supposed to make your way through a forest — without hurry, paying attention, stopping when something catches your eye."
+
+Harlan looked at the typewriter, at the blank page in the carriage, at the cursor — the silent, unanswerable cursor — and felt something that was not quite envy but was adjacent to it.
+
+"I'd trade places with you," he said.
+
+"I know," Pemberton said. "Writers always want to be readers. Readers never want to be writers." He paused. "That's because reading is a pleasure and writing is a war."
+
+Harlan laughed. It was the first time he had laughed in weeks.
+
+"Would you like some coffee?" he said.
+
+                               III.
+
+Pemberton came back the next day. And the day after that. And the day after that.
+
+He came in the mornings, always at the same time, always with the same quiet knock, always with the same unhurried manner. He brought his book — whatever he was reading — and sat in the cabin's single armchair, near the stove, and read while Harlan sat at the desk and tried to write. They did not talk much. Pemberton seemed to understand, without being told, that conversation was an enemy of composition — that the verbal centers of the brain, once activated by speech, resisted being redirected to the page. He sat and read, and Harlan sat and wrote, and the only sounds were the click of the typewriter keys and the whisper of pages turning and the deep, planetary silence of Callisto pressing in from outside.
+
+It was, Harlan discovered, exactly what he needed.
+
+He had always written alone. He had always believed that writing required solitude — that the act of putting words on a page was fundamentally private, a conversation between the writer and the work, and that the presence of another person disrupted it. He had been wrong. What disrupted the conversation was not presence but expectation. His editor expected a novel. His publisher expected a bestseller. His ex-wife expected — well, she expected him to be a different person, which was the root of the problem but not the kind of problem you could solve at a typewriter.
+
+Pemberton expected nothing. He expected to sit in a chair and read a book and be warm by the stove. His presence in the room was not a demand. It was an offering — the simple, generous offering of company without conditions, of another human being sharing a space without requiring anything from it.
+
+On the third day of Pemberton's visits, Harlan wrote a page.
+
+It was not a good page. The sentences were rough, the rhythm was off, and the woman — Margaret — was doing something he didn't fully understand yet, standing in the cargo bay of the ship and touching the crates that held her farm equipment, running her hands over the stamped metal as though reading braille. But the page was *alive*. It had the pulse. It had the breath. For the first time in months, the prose moved.
+
+He pulled the page from the typewriter and set it aside and sat back and looked at it. Pemberton, in the armchair, looked up from his book.
+
+"Good day?" he said.
+
+"One page."
+
+"That's enough."
+
+Harlan looked at him. "One page. After five years."
+
+"One page is enough if it's the right page. And even if it's not the right page, it's a page, and pages accumulate, and eventually you have a book, and even if the book is bad, it's better than no book, which is what you had yesterday."
+
+Harlan considered this. It was the kind of wisdom that sounded obvious but wasn't — the kind that you could only learn by sitting in a chair for a long time and thinking about things without pressure, which was, he supposed, the reader's equivalent of what the writer was trying to do at the desk.
+
+"What are you reading?" he asked.
+
+Pemberton held up the book. It was an old paperback, its cover creased and its pages yellowed: *The Grapes of Wrath*.
+
+"For the sixth time," Pemberton said. "It gets better each time. Or maybe I get better. It's hard to tell."
+
+"Both, probably."
+
+"Both, probably."
+
+                               IV.
+
+The weeks passed. Harlan wrote. Not quickly — never quickly — but steadily, a page a day, sometimes two, occasionally three on the days when the prose ran clear and Margaret's voice came through like a radio signal, strong and true. The novel was growing. Not in the direction he had planned — the sweeping, multi-generational epic he had outlined in his head — but in a different direction, smaller, more intimate, focused on Margaret herself: her first season on the new world, her first crop, her first failure, her first night under an alien sky when she looked up and did not recognize a single star and felt, for the first and last time, the full weight of what she had done.
+
+He showed pages to Pemberton. Not because Pemberton asked — Pemberton never asked — but because he found, to his surprise, that he wanted to. He wanted someone to read what he had written. Not to judge it, not to critique it, not to tell him whether it was publishable or marketable or prizeworthy. He wanted someone to *read* it — to take the words off the page and into their mind and hold them there for a moment and see whether they meant anything.
+
+Pemberton read. He read the way he did everything — slowly, carefully, with complete attention. He did not make comments while he read. He did not nod or frown or raise his eyebrows. He simply read, and when he was finished, he set the pages down and sat quietly for a moment, and then he said something. Always one thing. Never more than a sentence.
+
+"Margaret is real."
+
+"The crop failure scene is the truest thing you've written."
+
+"The ending of chapter four needs to breathe more."
+
+"The paragraph about the sky is a gift."
+
+These were not editorial comments. They were a reader's responses — honest, unmediated, unencumbered by theory or technique or the machinery of literary criticism. They were what a reader felt, stripped to the essential. And they were, Harlan realized, more valuable than any editorial letter he had ever received, because they came from a place of pure engagement — from a man who was reading not because it was his job or his obligation but because he wanted to, because reading was the thing he had chosen to do with his freedom, and he was choosing to read Harlan's novel.
+
+This was the thing. This was the thing he had been missing, the thing that had made the prose go dead. He had been writing for expectations — for the market, for the critics, for the invisible audience of readers who existed only as a demographic, a sales figure, a number on a royalty statement. He had forgotten that writing was not a performance. It was a communication. One person to another. A voice in a room, speaking to someone who was listening.
+
+Pemberton was the listener. One man in a chair, with a book, paying attention. That was all a writer needed. That was all a writer had ever needed.
+
+                               V.
+
+The novel was finished in the eighth week.
+
+Not the sprawling epic he had imagined. Something smaller, stranger, more precise. A novel of two hundred and twelve pages about a woman who leaves everything behind and starts again on an empty world, and who discovers that starting again is not about leaving the old life but about learning to carry it — all of it, the loss and the love and the fear — into the new one.
+
+Harlan typed the last line on a Sunday morning. He pulled the page from the typewriter and set it on the stack and sat back and looked at it. Through the viewport, Jupiter's red spot was turning, slow and vast and indifferent to everything that human beings did or wrote or felt, and the methane ice of the Quiet Sea stretched away to the horizon, white and silent and still.
+
+Pemberton was in the armchair. He had finished *The Grapes of Wrath* and moved on to *Middlemarch*, and he was deep in the chapter where Dorothea visits Rome and realizes that her marriage was a mistake, and his face wore the expression of a man who was elsewhere — who had left Callisto and gone to Italy and was walking the streets of Rome in the company of a woman who existed only in ink and imagination, but who was, in that moment, more real to him than the frozen moon outside the window.
+
+"Aldous," Harlan said.
+
+Pemberton looked up. He saw the stack of pages. He saw Harlan's face.
+
+"It's done?" he said.
+
+"It's done."
+
+Pemberton closed *Middlemarch* — carefully, marking his place with a slip of paper — and set it on the arm of the chair. He looked at the manuscript. He did not reach for it.
+
+"Is it what you wanted?" he asked.
+
+Harlan thought about this. The question deserved a thoughtful answer.
+
+"No," he said. "It's not what I wanted. It's what I wrote. Those are different things."
+
+"Are they?"
+
+"I wanted to write a masterpiece. I wrote a small, honest novel about a woman and a farm. I don't know if it's good. I know it's true."
+
+"True is better than good."
+
+"You think so?"
+
+"I've read three hundred books on this moon. The good ones I remember. The true ones I carry."
+
+Harlan looked at the manuscript. Two hundred and twelve pages. A year's failure and eight weeks' work. The story of a woman who stood on the deck of a ship and was afraid, and who went down to the planet anyway, and who planted a crop in alien soil and watched it fail, and who planted again, and who looked up at a sky full of strange stars and learned — slowly, painfully, with no guarantee of success — to call it home.
+
+He picked up the manuscript and held it out to Pemberton.
+
+"Would you read it?" he said.
+
+Pemberton took it. He held it in his hands — gently, the way he held all books, with the respect of a man who understood that what he was holding was not paper and ink but a piece of someone else's interior life, offered in trust.
+
+"I'd be honored," he said.
+
+He opened to the first page. Harlan stood up from the desk and went to the stove and made coffee and listened to the silence of the cabin — the good silence, the silence of a room in which one person was writing and one person was reading and nothing else needed to happen.
+
+Through the viewport, the ice of the Quiet Sea reflected Jupiter's light in long, rippled bands. The sky was enormous. The cold was absolute. And in a small cabin on the dark side of Callisto, a reader held a book in his hands, and a writer watched him hold it, and the distance between them — the impossible, luminous, essential distance between the one who makes and the one who receives — was, for a moment, exactly the width of a page.
+
+                            [THE END]
+
+================================================================================
+
+                     JACK CORVUS'S LAST RUN
+
+                        by Rex Drummond
+
+================================================================================
+
+                               I.
+
+The old ship groaned when Corvus fired the engines, and for a bad second he thought she wasn't going to catch. The port thruster coughed. The starboard sputtered. The whole hull shook like a dog coming out of a lake, bolts rattling in their housings, deck plates singing that high, thin song that meant metal fatigue and not enough money to fix it.
+
+Then the drives grabbed. The *Magpie* surged forward, and Corvus felt the kick in his spine — that sweet, familiar kick that he'd been feeling for forty years, ever since he'd first lit the engines on a beat-up cargo hauler in the Ceres yards and pointed her nose at the dark.
+
+"There you go, girl," he said. He patted the console. The console was scratched and coffee-stained and had a crack running through the nav display that he'd been meaning to fix since the Neptune run in '09. He hadn't fixed it. He wouldn't fix it now.
+
+Jack Corvus was sixty-three years old. He had a bad knee, a worse back, a face like a topographic map of Mars, and a liver that his doctor said was "performing heroically under the circumstances." He'd been flying solo — one man, one ship — since he was twenty-two, hauling freight, running charters, doing the occasional job that existed in the gray area between legal and profitable, and spending the proceeds in every port bar from Mercury to the Kuiper stations. He was not a great pilot. He was not a famous pilot. He was a pilot who had survived, which in the outer system was the only credential that mattered.
+
+And now he was done.
+
+The letter was in his jacket pocket. He'd gotten it three days ago, forwarded through six relay stations to the repair dock at Ganymede where the *Magpie* had been sitting with a blown fuel injector and an attitude control system that was older than most of the dock crew. The letter was from the Solar Commerce Authority. It was polite. It was official. It was the end.
+
+DEAR MR. CORVUS,
+
+PURSUANT TO SCA REGULATION 2147-R (MANDATORY RETIREMENT OF SOLO-OPERATOR FREIGHT CARRIERS), AND IN CONSIDERATION OF YOUR AGE, THE CONDITION OF YOUR VESSEL (REGISTRATION: SCA-7741-CORVUS), AND THE FINDINGS OF YOUR MOST RECENT OPERATIONAL REVIEW, THE SOLAR COMMERCE AUTHORITY HEREBY REVOKES YOUR CLASS II FREIGHT HAULING LICENSE, EFFECTIVE 30 DAYS FROM THE DATE OF THIS NOTICE.
+
+Thirty days. Thirty days to wrap up forty years of flying. Thirty days to say goodbye to every port, every station, every bar stool and docking clamp and fuel depot between here and the sun.
+
+Corvus folded the letter and put it back in his pocket. He looked at the nav display — cracked, flickering, showing his course: Ganymede to Mars to the Belt to Venus to Mercury to Earth. The full circuit. Every stop he'd ever made, one last time.
+
+"All right, Magpie," he said. "Let's go say goodbye."
+
+                               II.
+
+First stop: Mars.
+
+Port Ares was the biggest commercial hub in the outer system — a sprawling, noisy, neon-lit crater city where half the freight in the solar system changed hands and the other half got stolen. Corvus had been coming here since he was twenty-four, when he'd hauled his first load of mining equipment from Earth orbit and nearly lost the *Magpie* trying to navigate the approach in a dust storm. He'd gotten better at it since. Not much, but enough.
+
+He set the *Magpie* down on Pad 17 — his usual pad, the one at the far end of the commercial strip, next to the fuel depot and the salvage yard, where the landing fees were cheap and nobody asked questions about your registration. The pad boss was a heavyset Martian woman named Gutierrez who'd been running the dock for twenty years and who greeted Corvus the way she always did: with a scowl and a clipboard.
+
+"Corvus. You owe me forty credits from last time."
+
+"Do I? I thought I paid that."
+
+"You thought wrong. And your aft stabilizer is leaking hydraulic fluid."
+
+"I know."
+
+"You going to fix it?"
+
+"Probably not."
+
+Gutierrez shook her head. "You're a disgrace to commercial aviation, Corvus."
+
+"I've been told."
+
+He paid the forty credits and the docking fee and walked up the strip to Hannigan's — the bar at the end of the row, the one with the busted sign and the sticky floor and the bartender who'd been serving watered whiskey since before Corvus had his first hangover. Hannigan's was not a good bar. It was not a clean bar. It was not a bar that anyone would choose to drink in if they had better options. But it was Corvus's bar, the way the *Magpie* was his ship and Pad 17 was his pad — claimed not by quality but by habit, by years of showing up and sitting down and putting his elbows on the same scarred wood and watching the same neon light flicker through the same dusty window.
+
+The bartender — not Hannigan, who'd been dead for fifteen years, but his son, also named Hannigan, who was exactly like his father except shorter — saw Corvus come in and started pouring without being asked.
+
+"Jack. Haven't seen you in six months."
+
+"Been out past Jupiter. Charter run to the Galilean stations."
+
+"How's the ship?"
+
+"Dying."
+
+"Aren't we all." Hannigan set the glass down. Bourbon. Cheap. The ice was artificial — synthesized from Martian water, which had a faint mineral taste that you stopped noticing after the second drink. "You look like hell, Jack."
+
+"I feel like hell."
+
+"What's the occasion?"
+
+Corvus took the letter out of his pocket and laid it on the bar. Hannigan read it. His face did something complicated.
+
+"They're grounding you."
+
+"They're grounding me."
+
+"Can you fight it?"
+
+"Fight what? I'm sixty-three. The ship's older than I am. The last time I passed an operational review, the inspector told me he was being generous and I should take it as a hint."
+
+Hannigan poured himself a drink — a thing he did only on significant occasions. He raised his glass.
+
+"To the *Magpie*," he said.
+
+"To the *Magpie*."
+
+They drank. The bourbon burned, the way it always burned, and the ice melted, the way it always melted, and the neon light flickered through the dusty window, and Corvus sat on his bar stool and felt the weight of forty years pressing down on him like gravity — like the gravity of every world he'd ever landed on, every port he'd ever docked at, every bar he'd ever been thrown out of, all of it accumulated and compacted and sitting on his shoulders like a load he'd been hauling so long he'd forgotten it was there.
+
+"I'm going to make the full circuit," he said. "Every stop. One last time."
+
+Hannigan nodded. "That's the way to do it."
+
+"Buy me another?"
+
+"I'll put it on your tab."
+
+"I have a tab?"
+
+"Jack, you've had a tab here since 1982. It's the longest-running tab in the history of this bar."
+
+Corvus laughed. It was a good laugh — the kind of laugh that hurt a little, the way the best laughs do.
+
+"Close it out when I'm done," he said. "I'll pay the whole thing. End of the run."
+
+"I'll believe that when I see it."
+
+"Fair enough."
+
+                               III.
+
+The Belt was next.
+
+Corvus had spent more time in the asteroid belt than anywhere else in the system. The Belt was where the work was — mining operations, refinery stations, relay platforms, all of them needing supplies hauled in and product hauled out, and all of them willing to pay a premium to a pilot who knew the navigation charts and didn't mind the risk. The Belt was dangerous. The rocks moved. The charts were approximate. The margin between a clean approach and a hull breach was measured in meters, sometimes less.
+
+Corvus had run the Belt routes for thirty years, and he knew them the way a river pilot knows a river — not from the charts but from the water, from the feel of the current under the hull, from the sound of the engines and the look of the rocks and the instinct that told you to pull up or push through or cut your losses and run. The charts were useful. Instinct was better. And Corvus had more instinct than any pilot in the outer system, because he had more scars, and scars were just instinct's receipts.
+
+He stopped at Vesta Station, where he'd had his first bar fight (he lost). He stopped at Pallas Depot, where he'd had his first romance (he lost that too, but more slowly). He stopped at Ceres, where he'd loaded his first cargo and felt, for the first time, the particular thrill of being alone in space with nothing between him and the void but a hull and a prayer.
+
+At each stop, he docked the *Magpie* and walked the corridors and visited the places he remembered and found that some of them were gone. The bar on Vesta had been replaced by a cargo processing facility. The hotel on Pallas where he'd spent three weeks with a mining engineer named Sofia was now a drone maintenance bay. The loading dock on Ceres where he'd sweated his first cargo run was still there, but it was automated now, serviced by robots that moved with a precision and efficiency that made his old-fashioned, hands-on, muscle-and-cursing approach to freight handling look like a relic from the Stone Age.
+
+Which, he supposed, it was.
+
+The frontier was shrinking. He'd been watching it shrink for twenty years — watched the wild, lawless, anything-goes chaos of the early Belt get replaced, bit by bit, by regulations and automation and the slow, inevitable encroachment of civilization. The SCA. The licensing requirements. The operational reviews. The mandatory inspections. All necessary, all sensible, all designed to make space travel safer and more efficient, and all of them squeezing the life out of the kind of flying Corvus loved — the seat-of-the-pants, trust-your-gut, if-it-flies-it-flies kind of flying that had built the outer system and was now being retired along with the men and women who'd done it.
+
+He didn't resent it. He wasn't that kind of man. The frontier had to close eventually. The wild had to be tamed. That was the way things worked — pioneers opened the territory, settlers civilized it, and the pioneers moved on or aged out or died in bar fights, and the territory became a place with rules and roads and regular shuttle service, and that was called progress, and progress was good, and he believed in progress the way he believed in gravity: as an observable force that didn't give a damn whether you approved of it or not.
+
+But he missed it. God, he missed it. He missed the old Belt, when the rocks were unmapped and the stations were tin cans held together with welding wire and optimism, and a pilot was judged not by his license or his operational review scores but by whether he could fly, really fly, in the dark between the rocks with nothing but his hands on the yoke and his eyes on the void and the engines screaming behind him like a choir of the damned.
+
+He finished his circuit of the Belt and pointed the *Magpie* sunward.
+
+                               IV.
+
+Venus was a brief stop. Corvus had never liked Venus — too hot, too cloudy, too civilized. The floating cities in the upper atmosphere were impressive, sure, engineering marvels the size of countries, but they had the sanitized, climate-controlled feel of a shopping mall, and the people who lived in them had the soft, pale look of people who'd never been cold or hungry or scared, and Corvus had never been able to relax around people who hadn't been scared.
+
+He docked at Aphrodite Station — the commercial port in the upper atmosphere — and spent two hours walking the promenade, looking at the clouds through the viewport windows. The clouds were beautiful. He could admit that. Thick, swirling, luminous with reflected sunlight, they had a grandeur that even Venus's insufferable respectability couldn't diminish. He stood at the viewport and watched them and thought about the first time he'd seen them, thirty-five years ago, through the dirty windshield of a cargo shuttle, hauling a load of atmospheric processing equipment down from orbit, scared out of his mind because the approach vector was steep and the winds were vicious and the shuttle's nav computer was on the fritz.
+
+He'd made it. Obviously. He was standing here. But he remembered the fear — the pure, electric, beautiful fear of a young pilot doing something dangerous and knowing it and doing it anyway, because the cargo needed delivering and the pay was good and he was twenty-eight years old and immortal.
+
+He wasn't twenty-eight anymore. He wasn't immortal anymore. He was sixty-three and his knee hurt and his back was stiff and the letter in his pocket was real.
+
+He bought a coffee at the promenade cafe — the most expensive coffee in the solar system, because everything on Venus was expensive — and drank it looking at the clouds, and then he went back to the *Magpie* and left.
+
+                               V.
+
+Mercury. The innermost world. The closest you could get to the sun and still have a place to land.
+
+Corvus had run Mercury routes in his thirties, hauling refined metals from the solar smelters on the sunward side to the processing stations in the terminator zone. It was dangerous work — the radiation was brutal, the temperature gradients were extreme, and the flight windows were narrow — but the pay was the best in the inner system, and Corvus had needed the money because the *Magpie*'s engines were due for an overhaul and he'd just been thrown out of a bar on Luna and owed damages.
+
+Hermes Station was on the terminator — the thin line between Mercury's burning day side and its frozen night side, where the temperature was survivable and the mining operations sprawled across the gray, cratered landscape like a mechanical rash. Corvus docked and walked to the observation deck, where you could look in two directions: sunward, toward a horizon that glowed white-hot, the light so intense that the viewport had to filter ninety-nine percent of it and still left afterimages; and nightward, toward a darkness so absolute that it seemed to have weight, a physical presence pressing against the glass.
+
+He stood at the viewport and looked sunward. The sun filled the sky. Not a disk — a wall. A wall of fire, close enough to feel, close enough to kill, separated from him by a few inches of radiation-shielding glass and the accumulated engineering knowledge of a species that had started with sticks and rocks and ended up here, on the edge of a star, looking into the furnace.
+
+"Still something, isn't it?"
+
+The voice came from behind him. Corvus turned. An old man was sitting on a bench near the viewport — older than Corvus, maybe seventy, with the deep tan and squint lines of a longtime Mercury worker. He was wearing coveralls with the insignia of the Hermes Mining Consortium, faded and patched.
+
+"Been here long?" Corvus asked.
+
+"Thirty-eight years. Started as a drill operator. Worked my way up to shift supervisor. Retired last year." He nodded at the sun. "Still come up here every day to look at it. Can't help myself."
+
+Corvus sat down on the bench beside him. "I'm a pilot. Retiring too."
+
+"Didn't choose to, I bet."
+
+"No."
+
+"They never let you choose. They decide for you." The old man shook his head. "I could still run a drill. My hands still know the work. But the company says sixty-nine is too old, so sixty-nine is too old, and that's the end of it."
+
+"What do you do now?"
+
+"I sit here and look at the sun. I go home and eat dinner. I go to bed and dream about drilling." He looked at Corvus. "What'll you do?"
+
+Corvus didn't answer. He didn't know. He'd been flying for forty years, and the idea of not flying was like the idea of not breathing — technically comprehensible, practically unimaginable.
+
+"I don't know," he said.
+
+The old man nodded. "That's the honest answer." He looked back at the sun. "You'll figure it out. Or you won't. Either way, the sun comes up."
+
+Corvus laughed. "On Mercury, it comes up real slow."
+
+"That it does. Takes about eighty-eight days. Plenty of time to think."
+
+They sat together on the bench and looked at the sun. Two old men, retired from the work that had made them who they were, sitting on the edge of the solar system's smallest world, watching the biggest fire in the sky.
+
+                               VI.
+
+Earth. The last stop.
+
+Corvus had not been to Earth in twelve years. He'd been born there — raised in Amarillo, Texas, left at eighteen, never gone back. He had no family left on Earth. No friends. No one waiting for him, no one expecting him, no one who would notice whether he came or didn't.
+
+He brought the *Magpie* down through the atmosphere — through the clouds, through the blue, through the golden light of a November afternoon — and landed at the civilian port outside Amarillo. The landing was rough. The *Magpie*'s atmospheric entry systems were designed for moons and asteroids, not full-gravity worlds with weather, and the ship bucked and wallowed in the turbulence like a drunk trying to walk a straight line.
+
+But she made it. She always made it. Forty years and the old girl had never failed to bring him home. Broken, battered, leaking hydraulic fluid and held together with spit and stubbornness, but functional. Flying. Alive.
+
+He shut down the engines. The sudden silence was enormous. On a station or a moon, there was always background noise — the hum of life support, the throb of machinery, the distant rattle of other ships docking and launching. On Earth, in the port at the edge of the Texas plains, there was silence. Real silence. The kind of silence that went all the way down to the ground and all the way up to the sky.
+
+He opened the hatch. Earth air came in. He'd forgotten what it smelled like. Grass and dust and something sweet — mesquite, he thought. And beneath it, the smell of space: the burned-metal, ozone, nothing-at-all smell of a ship that had been running hard for a month and had the scars to prove it.
+
+He walked down the ramp. His boots touched ground — real ground, Texas ground, red dirt and scrub grass and the hard caliche clay that he'd grown up on and hadn't stood on in forty years. The sun was low in the west, throwing long shadows across the flat, empty landscape. The sky was enormous. He'd forgotten how big an Earth sky was — bigger than any viewport, bigger than any observation deck, bigger than anything you could see from inside a ship.
+
+He looked up. The sky was turning — gold and orange and pink at the horizon, deepening to blue and then to dark overhead, and in the dark, the first stars were coming out. He could name them. Every one. He'd navigated by them for forty years — used them as reference points, as waypoints, as landmarks in the featureless dark. Sirius. Rigel. Betelgeuse. The old friends. The reliable ones. The ones that were always where you expected them to be, no matter how lost you were or how far you'd gone.
+
+He stood on the Texas dirt and looked at the stars and felt — what? Not sadness, exactly. Not joy. Something bigger than both. Something that had no name because it was the feeling of a man standing at the end of a long road, looking back at where he'd been and forward at where he was going, and understanding that the road behind was longer than the road ahead, and that this was not a tragedy but a fact, and that facts, like stars, were things you navigated by, not things you argued with.
+
+He went back into the *Magpie*. He sat down at the console. He looked at the cracked nav display, which was showing Earth — a blue dot at the center of the screen, surrounded by the names of places he had been. Mars. The Belt. Venus. Mercury. Jupiter. Saturn. The outer stations, the inner stations, the relay platforms and fuel depots and nameless rocks where he'd landed in emergencies and left his mark — a scratched registration number, a dented landing pad, a bar tab he'd never pay.
+
+He put his hand on the console. The metal was warm.
+
+"Thank you," he said.
+
+The *Magpie* said nothing. Ships don't talk. But the hull creaked, the way old metal creaks when it's cooling, and the sound was familiar and gentle, and Corvus closed his eyes and listened to it, and for a moment he was twenty-two again, lighting the engines for the first time, pointing the nose at the dark, heading out.
+
+Then he opened his eyes. He was sixty-three. The letter was in his pocket. The run was over.
+
+He shut down the console. He stood up. He walked to the hatch and looked out at the Texas sky, at the stars, at the vast and darkening plain.
+
+"All right," he said. "All right."
+
+He walked down the ramp one last time. He didn't lock the hatch. There was nothing left in the *Magpie* worth stealing, and even if there was, he didn't care. The ship had given him everything she had. He could leave the door open.
+
+He walked away. Across the pad, across the port access road, into the gathering dark. Behind him, the *Magpie* sat on the tarmac, her hull ticking as it cooled, her lights dark, her engines still. An old ship. A good ship. The best ship he'd ever known.
+
+He didn't look back. He'd learned that a long time ago, on his first run out of Ceres: don't look back. Look ahead. Look at the next port, the next run, the next horizon. And if there is no next horizon — if the road has run out and the frontier has closed and the letter in your pocket says you're done — then look up. Look at the stars. They're still there. They'll always be there.
+
+He looked up. The stars were there.
+
+And somewhere out in the dark, past the Belt, past Jupiter, past the Kuiper stations and the cometary halo and the vast, silent emptiness beyond, the frontier was still open. He couldn't go there anymore. But it was open. And someday, someone would — some young pilot, twenty-two and immortal, with a fast ship and a bad attitude and the whole sky to burn through.
+
+Corvus smiled. It was a good smile — tired, crooked, a little sad. The smile of a man who had lived hard and flown far and was standing, at last, on the ground.
+
+He put his hands in his pockets and walked into the Texas night.
+
+                            [THE END]
+
+================================================================================
+
+                       WHAT WE LEAVE BEHIND
+
+                       by Dr. Vincent Koslov
+
+================================================================================
+
+                               I.
+
+The total informational content of a human life could be expressed as a number. Dr. Lena Vasik had spent four years deriving that number, and now, sitting in her office at the Kovalevsky Institute for Theoretical Physics in St. Petersburg, looking at the final result of her calculation, she found that she did not know what to do with it.
+
+The number was large. Not as large as she had expected — not as large as the romantic in her would have liked — but large. Approximately 2.5 exabytes, give or take a factor of ten depending on the resolution at which you chose to define "information." This figure encompassed the complete neural connectome of a typical adult brain (approximately 1.5 exabytes), the total genetic information of the body (approximately 1.5 gigabytes, negligible in comparison), the epigenetic modifications accumulated over a lifetime (approximately 200 terabytes), and a term she had introduced to the calculation herself, which she called the "experiential residue" — the information content of the body's physical state at the moment of measurement, including the precise configuration of every synapse, the chemical composition of every cell, and the pattern of electrical activity in every neural circuit.
+
+The experiential residue was the controversial term. Her colleagues — those who had been following her work — objected to it on the grounds that it was unmeasurable with current technology. This was true. It was also, Lena argued, irrelevant. The question was not whether the measurement could be performed today, but whether it was theoretically possible. And it was. The physics placed no fundamental barrier between the information contained in a human being and the instruments that might someday read it.
+
+2.5 exabytes. The complete informational content of a human life. Everything a person had ever thought, felt, experienced, remembered, forgotten, dreamed, feared, loved, and lost — all of it encoded in the physical substrate of the body, all of it expressible as a pattern of ones and zeros, all of it reducible, in principle, to a signal.
+
+And here was the part that had kept Lena awake for the past six nights: 2.5 exabytes could be transmitted.
+
+Not easily. Not quickly. But the mathematics was clear. A signal of 2.5 exabytes, compressed using optimal coding theory and transmitted at the maximum bandwidth achievable by current deep-space communication technology, could be broadcast from Earth to the nearest star in approximately forty-seven years. To the center of the galaxy in approximately forty-seven thousand years. To the Andromeda galaxy in approximately forty-seven million years.
+
+These were large numbers. But they were finite numbers. And finite, in physics, meant possible.
+
+Lena closed her notebook. She stood up and walked to the window. The Neva was gray and flat under a November sky, its surface ruffled by a cold wind that she could feel through the glass. Across the river, the spire of the Peter and Paul Fortress rose into the clouds, a needle of gold against the pewter sky. She had looked at this view a thousand times. She had never looked at it while holding a number that might change everything.
+
+She thought: I have calculated the size of a soul.
+
+She did not believe in souls. She was a physicist. She believed in information, which was the closest thing physics had to offer. Information was conserved — this was the fundamental principle, the bedrock on which her work rested. Information could be transformed, transmitted, stored, and copied, but it could never be destroyed. It was eternal in the way that matter and energy were eternal: not in the mystical sense, but in the thermodynamic sense. The information content of a human life did not vanish when the body died. It dispersed. It degraded. It became, in the language of thermodynamics, irrecoverable. But it was never destroyed.
+
+Unless you captured it first.
+
+                               II.
+
+She presented the paper at the Kovalevsky Colloquium on a Wednesday afternoon in late November. The audience was small — twelve physicists and three graduate students, seated in the seminar room on the institute's third floor, drinking tea from mismatched cups, bundled in sweaters because the building's heating system was, as always, performing below specification.
+
+Lena spoke for forty minutes. She presented the derivation of the 2.5-exabyte figure step by step, with the careful, unhurried precision that she had learned from her doctoral advisor, who had learned it from his advisor, who had learned it from Landau himself: state the problem, state the assumptions, perform the calculation, present the result. No rhetoric. No speculation. Let the mathematics speak.
+
+When she reached the final slide — the transmission calculation, the forty-seven-year signal to Alpha Centauri — the room was very quiet.
+
+Professor Arkady Petrov spoke first. He was the institute's director, a white-haired man of seventy with the careful manner of a scientist who had survived three changes of government by never saying anything that could be quoted out of context.
+
+"You are proposing," he said, slowly, "that a human life can be encoded as a signal and transmitted to the stars."
+
+"I am proposing that the informational content of a human life is finite and calculable, and that a signal of that size is within the theoretical transmission capacity of existing deep-space communication technology."
+
+"Those are not the same thing."
+
+"No. They are not. The encoding problem — the practical question of how to read the information from a living brain and translate it into a transmissible signal — remains unsolved. I am not claiming that this can be done today. I am claiming that there is no physical law preventing it from being done eventually."
+
+"And the purpose of such a transmission?"
+
+Lena paused. She had anticipated this question. She had prepared several answers, ranging from the cautiously scientific to the frankly philosophical. She chose the one that felt truest.
+
+"Preservation," she said. "The transmission of a human life to the stars would constitute a form of preservation. Not consciousness — I make no claims about the transmission of subjective experience. But information. The complete informational record of who a person was — their memories, their personality, their accumulated knowledge and feeling and thought. All of it encoded, all of it broadcast, all of it propagating outward through space at the speed of light, forever."
+
+"A kind of immortality," said Dr. Marin Volkov, a young theoretician who specialized in quantum information theory and who was, Lena knew, the most likely person in the room to understand and support her work.
+
+"A kind of persistence," Lena corrected. "The signal would propagate indefinitely. It would not decay — or rather, its decay rate would be negligible over cosmological timescales. In principle, a sufficiently advanced civilization, anywhere in the observable universe, at any time in the future, could receive and decode it."
+
+"And reconstruct the person?"
+
+"And reconstruct the information that constituted the person. Whether that constitutes reconstruction of the person is a philosophical question, not a physical one."
+
+The silence in the room had a particular quality — the quality of scientists absorbing an idea that was simultaneously rigorous and staggering. Lena had felt this quality before, in other seminars, when a result was presented that was technically sound but existentially disorienting. It was the silence of minds adjusting to a new possibility.
+
+Professor Petrov cleared his throat. "The ethical implications," he said.
+
+"Are considerable," Lena agreed. "I am not proposing that we do this. I am proposing that we can. What we choose to do with that knowledge is a separate question."
+
+"But you have thought about it."
+
+"Yes. I have thought about it."
+
+"And?"
+
+Lena looked at the window. The November light was gray and even, the kind of light that flattened everything, that removed shadow and contrast and left the world looking like a photograph of itself.
+
+"I think," she said, "that every person who has ever lived has wanted to leave something behind. A mark. A trace. Evidence that they existed. We write books, build buildings, have children, carve our names into trees. All of these are forms of information transmission — ways of encoding who we are into a medium that outlasts us. What I am describing is simply the most complete and durable form of that impulse. A signal that contains everything — not just a name, not just a book, not just a gene, but the entire person — broadcast into a medium that will endure for as long as the universe does."
+
+She paused.
+
+"Whether we should do it is a question I cannot answer. But whether we can do it — that question, I believe, I have answered."
+
+                               III.
+
+The paper was published in the *Journal of Theoretical Physics* in January. By March, Lena's inbox contained four hundred and twelve messages.
+
+The responses fell into categories, and the categories were predictable.
+
+The physicists wrote to argue. Some challenged the experiential residue term — was it truly information, or merely noise? Some challenged the compression algorithm — could 2.5 exabytes really be compressed sufficiently for transmission, or would the compression itself destroy meaningful structure? Some challenged the transmission calculation — was the signal-to-noise ratio adequate for interstellar distances, or would the signal degrade below the threshold of recoverability? These objections were serious, technical, and constructive, and Lena answered each one with the same methodical care she had brought to the original derivation.
+
+The philosophers wrote to speculate. If a human life could be transmitted as a signal, was the signal the person? If the signal was received and decoded, would the result be a copy or a continuation? Was informational persistence the same as immortality, or was it a fundamentally different thing — a monument rather than a life? These questions interested Lena. She did not answer them, because she was a physicist and they were not physics questions, but she read them with attention and filed them in a folder labeled "Open."
+
+The public wrote to hope. These were the messages that affected her most — letters from ordinary people, many of them elderly or ill, who had read about her work in newspaper summaries and magazine articles and who wrote to ask, in plain and urgent language, whether she was offering what they thought she was offering. Could their lives be saved? Could their memories be preserved? Could the people they loved, who were dying or already dead, be encoded and transmitted and kept alive in some form, out there among the stars?
+
+She answered these letters too. She told them the truth: that her work was theoretical, that the technology to perform the encoding did not yet exist, that the transmission she described would not preserve consciousness, that the signal would not think or feel or remember. That what she was offering was not immortality but a kind of echo — a complete, high-fidelity echo of who they had been, propagating outward through space forever, but not alive. Not aware. Not them.
+
+Most of them wrote back to say they understood. Some of them wrote back to say they didn't care — that an echo was enough, that the idea of their lives persisting in some form, even as a pattern of electromagnetic radiation expanding outward at the speed of light, gave them comfort that no theology or philosophy had ever managed to provide.
+
+One woman, an eighty-three-year-old retired schoolteacher from Novosibirsk named Galina Stepanova, wrote a letter that Lena kept on her desk for the rest of her life. It read:
+
+*Dear Dr. Vasik,*
+
+*I am not a scientist. I taught geography for forty years. I do not understand your equations. But I understand what you are saying: that who I am is a pattern, and the pattern can be saved. Not me. The pattern.*
+
+*I find this comforting. Not because I am afraid of death — I am eighty-three, and I have made my peace — but because I have spent my life wondering whether anything I did mattered. Whether the lessons I taught, the children I raised, the conversations I had — whether any of it left a mark. Your work tells me that it did. That all of it — every thought I have ever had, every feeling I have ever felt, every student I have ever scolded or encouraged or disappointed — is written in my brain, and my brain is information, and information does not die.*
+
+*That is enough for me. The stars can have the rest.*
+
+*With gratitude,*
+*Galina Stepanova*
+
+                               IV.
+
+The scientific community divided.
+
+This was, Lena reflected, what scientific communities did when confronted with an idea that was simultaneously valid and uncomfortable. They divided along lines that were ostensibly methodological but were, underneath, temperamental. The question was not really about the physics — the physics, as three independent verification teams had confirmed, was sound. The question was about the meaning.
+
+One camp — led by Volkov, the young quantum information theorist who had been in the seminar room — embraced the implications. Volkov published a follow-up paper proposing a practical encoding protocol: a method for reading the neural connectome at sufficient resolution to capture the experiential residue, using a combination of high-resolution brain scanning and quantum tomography. The protocol was, by Volkov's own admission, decades beyond current technology. But it was physically realizable. It obeyed no unknown laws. It was, in the language of theoretical physics, "merely an engineering problem."
+
+The other camp — led by Professor Yuri Sakhalin of Moscow State University, a formidable and combative man who had spent his career defending the primacy of consciousness over information — rejected not the physics but the premise. Information, Sakhalin argued, was not identity. You could encode every synapse in a human brain, transmit the pattern to Alpha Centauri, and decode it on the other end, and you would have a complete description of a person, but you would not have the person. You would have a map. And a map, no matter how detailed, was not the territory.
+
+The debate between Volkov and Sakhalin — carried out in journals, at conferences, and, with increasing heat, in the popular press — became the defining scientific argument of the year. It was, Lena understood, not really an argument about physics at all. It was an argument about what a human being was. Was a person reducible to information? Or was there something else — something irreducible, something that could not be captured by any instrument or encoded in any signal — that constituted the essential self?
+
+Lena had her own answer. She kept it to herself, because she was a physicist and it was not a physics answer. But late at night, in her apartment overlooking the Neva, drinking tea and watching the lights of the city reflected in the dark water, she thought about it.
+
+She thought about her mother, who had died three years ago. She thought about what she missed — not the information of her mother, not the neural connectome or the experiential residue, but the *presence*. The way she had smelled — of flour and lilac soap. The sound of her voice — not the words, which Lena could remember, but the timbre, the particular warmth of it, which she could not quite recall and which grew fainter every day. The way she had touched Lena's hair when Lena was small, a gesture so habitual and so tender that it had left no conscious memory, only a feeling — a feeling that surfaced sometimes, unbidden, when Lena was tired or sad, and that she could not name or describe or encode.
+
+Was that information? Was that pattern? Or was it something else — something that existed not in the brain but in the space between people, in the resonance of two lives lived in proximity, in the accumulated weight of presence and absence and return?
+
+She did not know. The equations did not help.
+
+                               V.
+
+In June, Lena was invited to address the International Astronautical Congress in Geneva. The invitation was unusual — the IAC was an engineering body, not a theoretical physics forum — but the implications of her work had crossed disciplinary boundaries, and the space agencies wanted to hear directly from the woman who had, as one journalist put it, "calculated the download size of the human soul."
+
+She spoke in the main auditorium, to an audience of two thousand. She presented the work as she always did: precisely, methodically, without rhetoric. When she reached the transmission calculation, she added a new element — a visualization she had prepared with the help of the institute's graphics department. It showed the Earth, small and blue, orbited by a network of transmission arrays. From the arrays, thin lines of light extended outward — signals, radiating into space, carrying the informational content of human lives. The lines expanded as they traveled, each one a cone of electromagnetic radiation spreading outward at the speed of light, growing fainter but never disappearing, propagating through the interstellar medium, past neighboring stars, past the galactic disk, out into the intergalactic void.
+
+"Each signal," Lena said, as the visualization expanded to show the Milky Way, "would propagate indefinitely. In one million years, the signal would have reached the stars within a sphere of one million light-years — approximately four hundred galaxies. In one billion years, a sphere of one billion light-years — millions of galaxies, trillions of stars. The signal would grow weaker with distance, but it would never reach zero. It would persist, encoded in the electromagnetic background of the universe, for as long as the universe exists."
+
+She paused. The auditorium was very quiet.
+
+"I want to be clear about what this means," she said. "This is not immortality. The signal does not think. It does not feel. It does not experience. It is not alive. It is information — a complete record of who a person was, encoded in the most durable medium the universe provides. It is, if you like, a message in a bottle. Cast into the cosmic ocean. Addressee unknown."
+
+She looked at the audience. Engineers, administrators, astronauts, politicians. People who built things, who made things work, who were accustomed to thinking in terms of practical outcomes and measurable results.
+
+"The question before this body," she said, "is not whether this can be done. The physics says it can. The question is whether it should be done. And that question is not mine to answer. It belongs to all of us."
+
+The applause was long and uncertain — the applause of people who were not sure whether they had just heard the most important lecture of their lives or the most unsettling.
+
+                               VI.
+
+She returned to St. Petersburg. She returned to her office, to the view of the Neva, to the chair where she had sat when she first wrote down the number that had started everything.
+
+It was November again. A year had passed. The debate continued — Volkov and Sakhalin still arguing, the journals still publishing responses, the public still writing letters. The engineering proposals were multiplying: three separate groups had published preliminary designs for the transmission arrays, each one more detailed and more plausible than the last. The cost estimates were staggering — comparable to the space programs of the major nations combined — but they were estimates, not impossibilities. The thing could be built.
+
+Lena sat at her desk and opened the letter from Galina Stepanova, which she had read so many times that the paper was beginning to wear at the folds. She read it again.
+
+*That is enough for me. The stars can have the rest.*
+
+She thought about what Galina had understood — the thing that the scientists and philosophers and engineers were still arguing about, the thing that an eighty-three-year-old geography teacher from Novosibirsk had grasped immediately. The value of the transmission was not in the reception. It was not in the possibility that some future civilization might decode the signal and reconstruct the person. The value was in the act of transmission itself. In the gesture. In the decision to say: this life mattered. This pattern was real. This person existed, and the universe should know.
+
+It was, Lena thought, the same impulse that drove people to carve their names in stone, to write poems, to plant trees they would never sit under. The impulse to leave a mark. Not because anyone would see it, but because the making of it was itself the point.
+
+She closed the letter. She looked out the window. The Neva was dark — it was evening now, and the city lights reflected in the water in long, wavering lines of gold and white. The spire of the Peter and Paul Fortress was lit from below, a needle of fire against the black sky.
+
+She opened her notebook. She began a new calculation — not a new derivation, but a practical estimate. The cost of a single transmission array. The power requirements. The engineering constraints. The timeline.
+
+It would take decades. It might never be built. The political will might not materialize, the funding might not come, the engineering problems might prove more intractable than the theory suggested. She did not know. She could not know. The future was not a calculation. It was a wager.
+
+But the physics was sound. The number was real. And somewhere, in an apartment in Novosibirsk, an eighty-three-year-old woman was living her life — teaching her grandchildren, drinking tea, remembering the names of rivers and mountain ranges and the capitals of countries that no longer existed — and all of it, every moment of it, was information, and information did not die.
+
+Lena picked up her pen. The November wind pressed against the window. The city lights burned on the water.
+
+She began to write.
+
+                            [THE END]
+
+================================================================================
+
+                           THE VIGIL
+
+                     by Father Thomas Aquino
+
+================================================================================
+
+                               I.
+
+The dying man's name was James Kelleher, and he had been an astronaut for thirty-one years, and he was not afraid.
+
+This was the thing that troubled Father Michael Corrigan most — not the dying, which was inevitable and which Kelleher had accepted with the quiet practicality of a man who understood that the body was a machine and machines wore out, but the absence of fear. Corrigan had sat with many dying people in his twenty-three years as a priest. He had sat with them in hospitals and homes and hospices, in the sterile corridors of space stations and the cramped compartments of ships. He had held their hands and listened to their confessions and administered the sacraments and watched the light leave their eyes. He knew the geography of dying the way a cartographer knows a coastline: every inlet, every promontory, every hidden cove.
+
+And he knew that fear was part of it. Not always visible, not always spoken, but present — a current beneath the surface, a vibration in the hand he held, a wideness in the eyes that had nothing to do with the morphine. Even the bravest died with some measure of fear, because death was the unknown, and the unknown was frightening, and no amount of faith or courage or philosophy could entirely eliminate the primitive, animal terror of ceasing to exist.
+
+Kelleher did not seem to have it. He lay in the medical bay of the research vessel *Contemplation*, which was orbiting a brown dwarf star eleven light-years from Earth, and he breathed — slowly, with effort, but steadily — and his eyes were clear and calm and focused on something that Corrigan could not see.
+
+"Father," Kelleher said. His voice was hoarse — the cancer had spread to his larynx, and each word cost him visibly — but steady. "I want to ask you something."
+
+"Of course."
+
+"When you give last rites. The real thing. What happens?"
+
+Corrigan looked at him. It was a strange question from a Catholic — Kelleher had identified himself as one when Corrigan first visited, had said that he'd been raised Catholic in South Boston, had attended Mass every Sunday as a boy, had drifted away in his twenties, had come back to it intermittently in his forties, and now, at sixty-two, was not sure where he stood but wanted a priest present at the end because "it seemed right."
+
+"The Sacrament of the Anointing of the Sick," Corrigan said, using the formal name. "The priest anoints the dying person with holy oil, recites the prescribed prayers, and — if the person is conscious and desires it — hears their confession and offers absolution."
+
+"And what does it do? Theologically."
+
+"It offers grace. Comfort. The assurance that the dying person is not alone — that God is present with them in their suffering, and that whatever comes after death, they will be received with love."
+
+Kelleher was quiet for a moment. The medical bay hummed around them — the soft, constant hum of a ship's life support systems, the rhythm of machines keeping a man alive. Through the single porthole, the brown dwarf was visible — a dull, reddish-orange sphere, barely bright enough to read by, casting a dim, warm light that reminded Corrigan of candlelight in a church at vespers.
+
+"The thing is, Father," Kelleher said, "I don't know if I believe in God. I'm not sure I ever did. My mother did — God, she believed. Went to Mass every day, said the rosary every night, had a picture of the Sacred Heart over the kitchen stove. She believed the way you believe in gravity — as a fact, not a choice. I never had that. I went through the motions because she wanted me to, and then I stopped going through the motions, and I didn't miss it."
+
+He paused. The effort of speaking was visible — a tightening around his eyes, a slight tremor in his jaw.
+
+"But I'm dying. And I want — I want something. Some kind of —" He searched for the word. "Some kind of ceremony. Some acknowledgment that this is happening, and that it matters. I don't know if I need God for that. But I think I need a ritual."
+
+Corrigan nodded. He had heard this before — not these exact words, but this exact need. The need for form. The need for someone to stand at the threshold and say: this is sacred. This matters. This passing from life to death is not merely a biological event but a moment of significance, and it deserves to be witnessed and marked and honored.
+
+"I can give you the rite," Corrigan said. "The traditional rite. The oil, the prayers, the absolution. It doesn't require belief. It requires — " He paused, choosing his words. "It requires willingness. Willingness to be present. Willingness to be seen. Willingness to accept that whatever this is — whatever dying is — it is not nothing."
+
+Kelleher looked at him. His eyes, in the dim light of the brown dwarf, were dark and steady.
+
+"And if the traditional rite doesn't fit? If the words don't feel true?"
+
+Corrigan was quiet for a long moment. This was the question — the question he had been turning over in his mind since he had first sat down beside Kelleher's bed, three days ago, and understood that this man was dying and that the standard procedures of his priesthood might not serve.
+
+The problem was distance. Not the physical distance from Earth — eleven light-years — although that was considerable. The problem was the distance between the ritual and the man. The Sacrament of the Anointing of the Sick had been developed in a world where dying happened at home, surrounded by family, in the presence of a community that shared a common faith. It assumed a context — a church, a tradition, a language of symbols and gestures that meant something because they had always meant something, because your mother and her mother and her mother before her had knelt in the same pews and heard the same words and drawn comfort from the same promises.
+
+Kelleher had none of that. He was dying in a ship orbiting a star that no one on Earth could see with the naked eye. His family was eleven light-years away — close enough to send messages, but the messages took eleven years to arrive, and by the time his mother's voice reached him, he would have been dead for a decade. The church of his childhood was a building on a street in South Boston that he had not visited in thirty years. The language of the rite — the Latin phrases, the biblical references, the invocations of saints and angels and the promises of resurrection — belonged to a world he had left behind, a world he could not return to, a world that was, from where he lay, as distant as the Earth itself.
+
+"Then we will make a new one," Corrigan said.
+
+                               II.
+
+The decision surprised him.
+
+Corrigan was not, by temperament or training, an innovator. He was a Jesuit — a member of the Society of Jesus, the order that had produced some of the most rigorous and creative minds in the history of the Church — but he was a conservative Jesuit, a man who found comfort in tradition and order and the precise, carefully articulated structures of Catholic theology. He said the Office every day. He celebrated Mass according to the rubrics. He had never, in twenty-three years of priesthood, improvised a sacrament.
+
+But he was also a Jesuit, and Jesuits were trained to adapt. The order's motto was *Ad Majorem Dei Gloriam* — for the greater glory of God — and its history was one of radical accommodation: Jesuits in China who had adopted Confucian dress and customs to reach the Chinese, Jesuits in South America who had built missions in the jungle, Jesuits in Japan who had learned calligraphy and tea ceremony. The order understood that the Gospel was not a fixed text in a fixed language, delivered in a fixed way, but a living message that had to be translated — again and again, culture by culture, person by person — into the language of whoever was listening.
+
+Kelleher was listening. He was dying and he was listening and he needed something, and the something he needed could not be found in the *Rituale Romanum*.
+
+So Corrigan would write it.
+
+He sat in his small cabin — the chaplain's quarters, a room barely large enough for a cot, a desk, and a small bookshelf — and thought about what a rite for James Kelleher would look like. Not the generic rite. Not the one-size-fits-all sacrament that the Church had developed over centuries for dying Catholics. A rite for this man. This particular, specific, unrepeatable human being who was dying in this particular place and who needed a particular kind of comfort.
+
+He began with what he knew about Kelleher.
+
+He knew that Kelleher had been an astronaut for thirty-one years — a career that had taken him to Mars, to the moons of Jupiter, to the asteroid belt, and finally to this research vessel at the edge of explored space. He knew that Kelleher had chosen this life not for glory or ambition but for curiosity — a deep, quiet, insatiable curiosity about what was out there, beyond the next horizon, past the next star. He knew that Kelleher had been married once, briefly, in his thirties, and that the marriage had ended not because of infidelity or incompatibility but because his wife had understood, with a clarity that broke both their hearts, that she would never be the most important thing in his life. Space was. The unknown was. The next horizon was.
+
+He knew that Kelleher had a daughter — a woman in her thirties, a marine biologist in California, with whom he communicated by recorded message, their conversations stretched across the light-years in fragments and echoes. He knew that Kelleher loved her, loved her with a fierceness that surprised people who saw only his calm, professional exterior, and that his greatest sorrow — the only sorrow Corrigan had seen him express — was that he would not see her again.
+
+He knew that Kelleher loved the stars. Not as abstractions, not as data points on a navigation chart, but as presences — companions on the long watches, familiar faces in the dark. He had told Corrigan, during one of their conversations, that the thing he would miss most about living was looking at the stars. Not because they were beautiful, although they were. Because they were *there*. Because no matter where he went or how far he traveled, the stars were always there, steady and patient and unchanging, and their constancy had been the most reliable thing in his life.
+
+Corrigan sat at his desk and thought about these things. He thought about the traditional rite — the oil, the prayers, the invocation of God's mercy — and he thought about what those elements meant, stripped of their particular theological clothing. The oil was an acknowledgment of the body — of its reality, its suffering, its sacred materiality. The prayers were an acknowledgment of the unknown — of the mystery that lay beyond death, the territory for which no map existed. The invocation of God's mercy was an acknowledgment that the dying person was not alone — that they were held, witnessed, accompanied.
+
+Body. Mystery. Accompaniment.
+
+He could work with these.
+
+                               III.
+
+He went to Kelleher the next morning. The brown dwarf's light fell through the porthole in a warm, steady glow — dimmer than sunlight, redder, more intimate. It was the light of an old, cooling star, a star that had spent its fuel and was entering its own long twilight, and Corrigan thought, not for the first time, that there was a terrible aptness in the choice of this star as the backdrop for a man's dying.
+
+Kelleher was awake. His breathing was worse — shallower, more labored — but his eyes were clear.
+
+"I've been thinking about your rite," Corrigan said. He sat down in the chair beside the bed.
+
+"And?"
+
+"And I'd like to propose something. Not the traditional sacrament. Something drawn from your life. Your experience. The things that have mattered to you."
+
+Kelleher looked at him. A faint smile — the first Corrigan had seen — crossed his face. "You're going to improvise."
+
+"I am."
+
+"Isn't that — I don't know, against the rules?"
+
+"Probably. The Jesuits have a long history of doing things that are probably against the rules. We call it discernment."
+
+Kelleher's smile deepened. It was a good smile — tired and genuine, the smile of a man who appreciated honesty and had encountered too little of it.
+
+"All right, Father. What did you have in mind?"
+
+Corrigan leaned forward. "I'd like to begin with the body. Not with oil — I don't have holy oil, and even if I did, it wouldn't mean anything to you. Instead, I'd like you to tell me about a moment when you were most aware of your body. A moment when you felt, physically, most alive."
+
+Kelleher was quiet for a moment. Then he said: "The first EVA. My first spacewalk. I was twenty-nine. We were in Earth orbit, servicing a telescope, and I went outside, and — " He stopped. Something moved behind his eyes. "I could feel everything. The suit pressing against my skin. The cold — not temperature cold, but void cold, the kind of cold that isn't a temperature but an absence. My heart beating. My lungs working. The blood moving through my veins. I could feel all of it, every system, every process, every cell doing its job, keeping me alive in a place where life had no business being. And I thought: this is what a body is. A machine for being alive. A miracle of engineering."
+
+Corrigan nodded. "Hold that memory. That is the anointing. Not with oil. With memory. With the acknowledgment that your body — this body, this specific, irreplaceable, mortal machine — has carried you through thirty-one years of space, and it has done its work, and it is honored."
+
+Kelleher's eyes were bright. He nodded.
+
+"Now," Corrigan said. "The mystery. The part I would normally fill with prayers — invocations of God, promises of heaven, assurances about what comes after. I don't have those for you, because you're not sure you believe them, and I will not offer you comfort that rings false. Instead, I'd like you to tell me about the most mysterious thing you've ever seen."
+
+Kelleher did not hesitate. "The nebula at NGC 6302. The Butterfly Nebula. We passed through its outer envelope on the *Contemplation*'s second voyage. It was — " He paused. His breathing was worse now, each inhale a visible effort, but his voice was steady. "It was gas. Ionized hydrogen. Stellar debris. I knew that. I knew the physics. I could have written the equations on a blackboard. But standing at the observation window, looking at it — the colors, the shapes, the sheer scale of it — I felt something that I can only describe as awe. Not understanding. Not knowledge. Awe. The feeling of being in the presence of something so much larger than yourself that your categories — your physics, your equations, your careful rational frameworks — simply stop working, and you are left standing there, a small animal in the dark, staring at something you cannot comprehend, and the incomprehension is — " He searched for the word. " — is beautiful. The incomprehension is the most beautiful thing."
+
+Corrigan felt his own eyes stinging. "That," he said, quietly, "is what I call God. Not a being. Not a person. The incomprehensible beauty at the heart of things. The thing that your equations cannot reach. You have stood in its presence, James. Many times. You have been in the cathedral all along."
+
+Kelleher was silent. A tear tracked down his cheek — a single tear, slow, catching the brown dwarf's light.
+
+"And the accompaniment," Corrigan said. "The last part. The assurance that you are not alone. I cannot bring your family here. I cannot bring your daughter. I cannot bring your mother, or your church, or the world you left behind. But I am here. And I will stay. And I will sit with you, and I will witness this — your dying, which is as sacred as any moment in any cathedral on Earth — and I will not leave until it is finished."
+
+He reached out and took Kelleher's hand. The hand was thin, the skin papery, the fingers cold. But the grip, when Kelleher closed his hand around Corrigan's, was firm.
+
+"Is that the rite?" Kelleher whispered.
+
+"That is the rite."
+
+"It's not very — traditional."
+
+"No. It is not."
+
+"My mother would be scandalized."
+
+"Your mother," Corrigan said, "would understand."
+
+                               IV.
+
+James Kelleher died at 3:47 AM, ship's time, on a Thursday in November.
+
+Corrigan was with him. He had been with him for fourteen hours — sitting in the chair beside the bed, holding his hand, watching the brown dwarf's light shift slowly through the porthole as the ship completed its orbit. He had not slept. He had not eaten. He had simply sat, and watched, and waited, and been present, the way a priest is present at the altar, the way a witness is present at a threshold.
+
+In the final hours, Kelleher had spoken intermittently — fragments of memory, snatches of conversation with people who were not in the room, names that Corrigan did not recognize. His daughter's name — Sarah — came up several times, spoken with a tenderness that made the word sound like a prayer. Once, he spoke clearly and directly, his eyes focused on the porthole and the dim, reddish light beyond it.
+
+"The stars," he said. "They're still there."
+
+"Yes," Corrigan said. "They're still there."
+
+"Good." A long pause. "Good."
+
+Those were his last words. His breathing slowed. His grip on Corrigan's hand loosened. The monitors registered the cessation of brain activity at 3:47, and the medical officer, who had been standing quietly at the back of the room, noted the time and left.
+
+Corrigan sat with the body for another hour. This was his custom — he always sat with the dead for an hour after death, a practice he had adopted early in his priesthood, not because any doctrine required it but because it seemed right. The hour was a transition — a space between the living and the dead, a threshold where the person had been and was no longer. Corrigan believed that this space deserved a witness. That the absence of a person was as significant as the presence, and that someone should be there to mark the change.
+
+He sat and looked at Kelleher's face. In death, it was peaceful — the lines of pain smoothed, the tension released, the features composed into an expression of deep and absolute rest. He looked, Corrigan thought, like a man who had traveled a great distance and had finally arrived.
+
+Through the porthole, the brown dwarf burned on — dim, steady, patient. A dying star, casting its last light on a dead man in a ship at the edge of human knowledge. The light was warm and soft and the color of embers, and in it, Kelleher's face looked almost luminous, as though lit from within.
+
+Corrigan said a prayer. Not the prescribed prayer. Not the prayer for the dead from the *Rituale Romanum*. A prayer of his own, composed in silence, offered to the incomprehensible beauty that Kelleher had seen in the Butterfly Nebula, offered to the stars that were still there, offered to the mystery that lay beyond the threshold where words stopped working and only awe remained.
+
+He said:
+
+"Lord — or whatever you are — this man was here. He lived. He flew. He looked at the stars and saw your face in them, though he did not know your name. Receive him now, into whatever comes next. And if there is nothing next — if death is the end, if the light goes out and does not come back on — then let this be the prayer: that he was here, and it mattered, and someone saw."
+
+He squeezed the dead man's hand one last time. Then he released it, and he stood, and he walked to the porthole, and he looked out at the brown dwarf and the stars beyond it, and he stood there for a long time, in the quiet ship, in the dim light, at the edge of everything, keeping vigil.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+GUNNAR ERIKSSON is a Swedish writer and literary translator whose fiction
+has appeared in Tales from the Future and Beyond since 1954. Born in
+Stockholm and educated at Uppsala University and the University of
+Edinburgh, he writes in English while living in Swedish — a bilingual
+existence he has compared to inhabiting two parallel worlds. He is best
+known for his generation ship stories, which combine austere Nordic
+sensibility with a deep compassion for the human experience of vast
+distance. His "The Long Watch" (Issue #16) won a Hugo Award and drew a
+fan letter from Ray Bradbury, who called it "the loneliest story I have
+ever read." "The Last Library" represents his farewell to the generation
+ship theme, and we believe it is his finest work. He lives in Stockholm
+with his wife, the painter Ingrid Bergstrom.
+
+ARTHUR WAINWRIGHT has been writing about robots, computers, and
+artificial minds for these pages since Issue #4. A former Navy
+cryptanalyst and mathematics instructor at Northeastern University, he
+brings a logician's precision to questions of machine consciousness that
+other writers treat as metaphor. His R-1 stories — following the career
+of the solar system's oldest maintenance robot — have become among the
+most beloved series in the magazine's history. When asked whether R-1
+feels emotions, Wainwright replies: "R-1 has operational preferences. I
+report them accurately. The rest is your problem." He lives in
+Montclair, New Jersey, with his wife Eleanor.
+
+AGNES WHITFIELD is a Kansas writer whose fiction explores the quiet
+heroism of survival and the stubborn resilience of ordinary people. A
+former high school English teacher and the daughter of a wheat farmer,
+she brings a prairie sensibility to science fiction — spare prose,
+careful observation, and an unwavering faith in the human capacity to
+endure. Her "After the Sirens" (Issue #13) remains one of the most
+requested reprints in our history. "November Country" demonstrates her
+gift for finding the profound in the simple — an entire planet as
+memorial, an entire season as elegy. She lives on a small farm outside
+Salina, Kansas, with her husband Lloyd.
+
+THEODORE CAIN is the most prolific contributor in the history of this
+magazine — a distinction he bears with the cheerful modesty of a working
+man who knows the value of showing up. A former assembly line worker at
+Ford and a current technical writer at General Motors, Cain writes every
+evening from eight until midnight, seven days a week, and has produced
+stories in virtually every sub-genre science fiction has to offer. "The
+Retreat" is a departure for him — quieter, more personal, more
+concerned with the craft of writing itself than with the machinery of
+plot. We think it is among his best. He lives in Dearborn, Michigan,
+with his wife Jean and their three children.
+
+REX DRUMMOND is the pen name of a former bomber pilot and sometime
+rancher from West Texas, and if you have read this magazine with any
+regularity, you already know his work — big, bold, fast, and
+unapologetic. His Jack Corvus stories have thrilled readers since Issue
+#5, and "Jack Corvus's Last Run" is, as Drummond himself puts it, "the
+end of the line for the old buzzard." We suspect that neither Corvus nor
+Drummond is quite finished yet. He lives in San Diego with his wife (the
+third), two dogs, and a collection of flight maps he insists are
+"sentimental, not decorative."
+
+DR. VINCENT KOSLOV is a physicist and writer whose stories combine
+rigorous science with a deep concern for the moral implications of
+discovery. A research fellow at Caltech, he divides his time between
+astrophysics and speculative fiction with an equanimity that suggests he
+considers them aspects of the same enterprise. His "The Long Equations"
+opened the first issue of this magazine, and his work has appeared in
+nearly every issue since. "What We Leave Behind" represents a new
+direction for Koslov — less concerned with the mechanics of discovery
+than with its meaning. We consider it one of his most important stories.
+He lives in Pasadena, California, with his second wife, the sculptor
+Anne Lindqvist.
+
+FATHER THOMAS AQUINO, S.J., is an ordained Jesuit priest who teaches
+philosophy and theology at Loyola University in Baltimore. His fiction
+explores the intersection of faith and science with an intellectual
+honesty and a spiritual generosity that have earned him admirers among
+believers and skeptics alike. His "The Problem of Other Souls" (Issue
+#36) remains one of the most discussed stories in the magazine's
+history. "The Vigil" may be his most radical work — a story that asks
+whether faith can be improvised, and answers with a quiet, resolute yes.
+He writes slowly, carefully, and — by his own account — prayerfully,
+producing no more than two stories a year. He lives in the Jesuit
+residence at Loyola and reports that his study overlooks a garden, "which
+is all the paradise a writer needs."
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have just finished reading "The Ice Margin" by Gunnar Eriksson in your
+most recent issue [#46], and I find myself unable to do anything for the
+rest of the afternoon except sit in my chair and stare out the window. I
+have read many fine stories in your magazine over the past four years,
+but this one has left me hollowed out in the best possible way. Please
+tell Mr. Eriksson that his stories are the reason I subscribed in the
+first place, and that if he ever stops writing them, I will cancel
+immediately and spend the thirty-five cents on penny candy instead.
+
+                              — Mrs. Helen Ostergaard
+                                 Minneapolis, Minnesota
+
+Dear Editor,
+
+Regarding Rex Drummond's "The Guns of the Kuiper Gate" in Issue #46: I
+enjoyed it enormously, as I always enjoy Drummond, but I must point out
+that the Kuiper Belt does not, strictly speaking, have "gates." It is a
+disc of icy bodies extending from approximately 30 to 50 AU from the
+Sun, and there is nothing resembling a navigable passage or chokepoint.
+Drummond's description of "threading the gate at full burn" is vivid
+but astronomically nonsensical. I realize that pointing this out makes me
+tedious. I accept my tedium. Someone must defend the honor of orbital
+mechanics.
+
+                              — Dr. Evan Westbrook
+                                 Jet Propulsion Laboratory
+                                 Pasadena, California
+
+[Dr. Westbrook raises a valid point. Mr. Drummond, when informed of the
+objection, replied: "Tell the professor I'll stop taking liberties with
+the Kuiper Belt when the Kuiper Belt starts buying my drinks." We print
+this without editorial comment.  — M.S.]
+
+Dear Mr. Sterling,
+
+I am a librarian at the public library in Topeka, Kansas, and I want to
+thank Agnes Whitfield for "Bread and Salt" in Issue #46. It is rare to
+find a science fiction story that understands what a kitchen table means
+— that a table where people sit and talk and eat together is the most
+important piece of technology in any civilization, past or future. I
+have recommended the story to every patron who will listen, and several
+who will not.
+
+                              — Miss Dorothy Rand
+                                 Topeka, Kansas
+
+Dear Maxwell,
+
+I hope you will not consider it presumptuous if I say that Tales from
+the Future and Beyond has become, in its four years of publication, one
+of the finest science fiction magazines in America. I say this as a
+reader, not a critic — though I am, God help me, both. What
+distinguishes your magazine is not the quality of any individual story,
+though the quality is consistently high, but the editorial vision: the
+conviction that science fiction can be both rigorous and humane, both
+exciting and thoughtful, both popular and serious. You have built
+something remarkable, Max. I hope you know that.
+
+                              — Anthony Boucher
+                                 Berkeley, California
+
+[From one editor to another: thank you, Tony. That means more than I can
+say.  — M.S.]
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+THE STARS MY DESTINATION by Alfred Bester
+(Signet Books, 1956, $0.35)
+
+Reviewed by Maxwell Sterling
+
+Mr. Bester's second novel is, if anything, more pyrotechnic than his
+first. In a future where teleportation — "jaunting" — has transformed
+society, Gully Foyle, a brutal, illiterate spaceman, survives a
+catastrophic shipwreck and dedicates his life to revenge against the
+ship that refused to rescue him. What follows is a headlong, baroque,
+exhilarating chase across the solar system, powered by rage and
+transformed, by degrees, into something approaching transcendence. The
+prose is wild — Bester uses synesthesia, typography, and sheer verbal
+velocity to create an experience that is as much visual art as narrative
+— and the story's arc, from bestial vengeance to visionary self-
+sacrifice, is one of the most audacious in the genre's history. Not
+everyone will love this book. Some will find it excessive, even
+exhausting. But no one will forget it. Essential.
+
+DOUBLE STAR by Robert A. Heinlein
+(Doubleday, 1956, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Mr. Heinlein, always reliable, here delivers a political thriller of
+quiet intelligence and surprising emotional depth. Lorenzo Smythe, a
+down-on-his-luck actor, is hired to impersonate a kidnapped politician
+— and gradually discovers that the role is more real, and more important,
+than anything in his previous life. The plot is brisk, the dialogue
+sharp, and the meditation on identity — on the question of whether
+playing a good man might make you one — gives the story a philosophical
+weight that elevates it above the usual Heinlein entertainment. Not his
+most ambitious work, but possibly his most human. Winner of this year's
+Hugo Award, and deservedly so. Recommended.
+
+THE CITY AND THE STARS by Arthur C. Clarke
+(Harcourt, Brace, 1956, $3.50)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clarke has expanded his 1948 novella "Against the Fall of Night"
+into a full-length novel, and the result is one of his finest
+achievements. In the far-future city of Diaspar — a self-contained,
+self-repairing paradise where humanity has retreated from the universe —
+a young man named Alvin discovers curiosity, that most dangerous of
+human qualities, and sets out to learn why the city sealed itself off
+from the stars. Clarke's vision of deep time is staggering, his
+descriptions of Diaspar's technology are luminous, and his ultimate
+revelation about humanity's destiny is equal parts terrifying and
+hopeful. This is science fiction operating at its highest level:
+rigorous, visionary, and profoundly concerned with what we might become.
+Highest recommendation.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #48 — December 1956
+
+And so we come to the end.
+
+Issue #48 will be the final issue of our fourth year and the conclusion
+of what I have come to think of as our first era. I have some things to
+say about this — about what we have accomplished, what we have failed to
+accomplish, and what may come next — but I will save them for the
+editorial letter in that issue, where they belong.
+
+For now, let me tell you what awaits:
+
+"THE ICE MARGIN" by Gunnar Eriksson — A colony on a cooling world
+watches the glaciers advance and must decide whether to flee or adapt.
+Eriksson's farewell to these pages — and one of his most luminous works.
+
+"THE THEOREM OF SELF" by Arthur Wainwright — An AI asked to prove its
+own consciousness discovers that the proof is inherently impossible —
+and that this impossibility is itself a form of consciousness.
+Wainwright's most philosophically ambitious story.
+
+"ALL OUR TOMORROWS" by Dr. Vincent Koslov — A physicist nearing
+retirement compiles the final edition of a textbook that has shaped
+three generations of students, and discovers that teaching is its own
+form of immortality.
+
+"THE LAST CONVENTION" by Rex Drummond — The pilots, smugglers, and
+renegades of the outer system gather for one final reunion. Drummond's
+warmest and funniest story.
+
+"THE SCHOOLHOUSE" by Agnes Whitfield — A teacher on a failing colony
+world holds class for the last time. Whitfield at her most heartbreaking
+and most hopeful.
+
+"VIGIL'S END" by Father Thomas Aquino — A companion piece to "The Vigil"
+in the present issue: the chaplain returns to Earth and must reconcile
+the faith he improvised in space with the institution that ordained him.
+
+Plus: Theodore Cain, Margaret Thornton, and more. The final editorial.
+A farewell from the editor. And the promise — which I make now, in
+print, before witnesses — that this is not the end. It is only the end
+of the beginning.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1956 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Frank R. Kellerman
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+

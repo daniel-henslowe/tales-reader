@@ -1,0 +1,3047 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #20 — August 1954
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "Spanning the Void" by Gerald "Gerry" Pulaski
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Bridge to Forever" by Harold "Hal" Mercer .............. p. 4
+2. "The Confession Booth" by Father Thomas Aquino .............. p. 38
+3. "Counterfeit Cosmos" by Theodore Cain ....................... p. 60
+4. "The Doomsday Caucus" by Franklin Hoyt ..................... p. 78
+5. "The Wanderer's Rest" by Gunnar Eriksson ................... p. 102
+6. "Dead Run to Pluto" by Robert "Bob" Finley ................. p. 126
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 142
+   Signals Received: Letters to the Editor ................... p. 144
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 147
+   Coming Attractions ........................................ p. 150
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+"State of the Future"
+by Maxwell Sterling
+
+================================================================================
+
+Dear Reader,
+
+Twenty issues. I confess I had to count them twice.
+
+When we launched "Tales from the Future and Beyond" in January of 1953,
+I told you that a magazine is a conversation. I believed it then, but I
+did not yet understand what it meant. Now I do. A conversation is not a
+monologue delivered from behind an editor's desk. It is an exchange — a
+living, evolving thing that changes both parties. You have changed this
+magazine, and if I may be so bold, I believe this magazine has changed
+some of you.
+
+In twenty issues, we have published one hundred and seventeen stories by
+forty-one different authors. We have traveled to the moons of Jupiter,
+the surface of Venus, the edge of the galaxy, and — perhaps most
+daringly — into the human heart itself. We have built space stations,
+toppled empires, made first contact with alien minds, laughed at the
+absurdities of progress, and wept at its costs. We have, in short, done
+what science fiction does best: we have imagined the consequences of
+being human in a universe that is under no obligation to make that easy.
+
+I want to take a moment to acknowledge the authors who have made this
+possible. Some of them are names you know well by now — the regulars who
+have appeared in issue after issue, whose fictional worlds have become as
+familiar as your own neighborhood. Others have passed through our pages
+only once or twice, leaving behind a single story that burned bright and
+stayed with you. I am proud of every one of them, and I am deeply
+grateful for their trust in this magazine.
+
+I want also to acknowledge you, the reader. Your letters — supportive,
+critical, passionate, occasionally irate — have been the compass by
+which we have steered. When you told us you wanted more hard science, we
+listened. When you demanded stronger characters, we pushed our authors to
+deliver. When you wrote in to correct our orbital mechanics (Dr. Fitch,
+I am looking at you), we gritted our teeth and were grateful.
+
+For this milestone twentieth issue, I have assembled what I believe is
+our most ambitious lineup to date. Hal Mercer brings us the largest
+engineering project yet attempted in these pages. Father Aquino delivers
+a story of conscience that will haunt you long after you finish it.
+Theodore Cain proves once again that there is no premise he cannot make
+compelling. Franklin Hoyt holds a mirror to our politics and dares us to
+look. Gunnar Eriksson, writing from Stockholm, gives us a meditation on
+time and sacrifice that is among the most beautiful things we have
+published. And Bob Finley — well, Bob Finley gives us a chase story so
+fast you may need to hold the magazine with both hands.
+
+Six stories. Six visions. Twenty issues and counting.
+
+The future, I am pleased to report, is in excellent health.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, June 1954
+
+================================================================================
+
+                         THE BRIDGE TO FOREVER
+
+                      by Harold "Hal" Mercer
+
+================================================================================
+
+                               I.
+
+The cable had failed at Joint Seventeen.
+
+Rosa Ibarra stood in the observation blister of Orbital Station Promontory
+and looked down the length of the bridge — all forty-three kilometers of
+it that existed so far — and tried not to think about the six months of
+work that Joint Seventeen represented. Through the curved transparency
+of the blister, the bridge stretched away from the station like a single
+thread drawn taut against the blackness, its carbon nanotube cables
+catching the unfiltered sunlight and throwing it back in a hard silver
+line that hurt the eyes. At forty-three kilometers out, the bridge
+simply stopped. Beyond it, barely visible against the star field, was
+the distant glimmer of Orbital Station Abutment, hanging 340 kilometers
+away in a slightly higher orbit, waiting to be connected.
+
+Three hundred and forty kilometers. It was an absurd distance for a
+physical structure. Everyone said so. The physics review boards said so.
+The insurance actuaries said so. Even some of the engineers on her own
+team said so, though they had the decency to say it quietly and only
+after they had put in their shift hours.
+
+Rosa did not think it was absurd. She thought it was inevitable.
+
+"Chief?" The voice behind her belonged to Deng Wei, her structural
+lead, a methodical man from Tianjin who had spent fifteen years building
+suspension bridges on Earth before he ever looked up. He floated in the
+hatchway, one hand on the frame, a clipboard in the other. Actual paper
+on an actual clipboard — Deng did not trust tablets in microgravity,
+claiming that floating styluses had cost the space industry more
+productive hours than any solar event. "The metallurgy report is back on
+Joint Seventeen."
+
+"And?"
+
+"Fatigue fracture. Initiated at the weld seam on the port-side anchor
+plate. Propagated through the nanotube matrix over approximately nine
+days before catastrophic failure."
+
+Rosa turned from the window. She was a compact woman of fifty-two, with
+short gray-streaked hair that she kept clipped close so it would not
+float into her eyes, and hands that bore the scars of three decades of
+engineering work — two on Earth and one in orbit. Her face was broad and
+weathered, her expression one of permanent assessment, as though she
+were always calculating load tolerances in her head. Which, in fairness,
+she usually was.
+
+"Nine days," she said.
+
+"Nine days. The sensors should have caught it at the two-day mark. They
+didn't."
+
+"Why not?"
+
+Deng consulted his clipboard. "The monitoring subsystem for Section
+Fifteen through Twenty was operating on reduced sensitivity. The last
+firmware update included an optimization routine that widened the
+threshold tolerances by twelve percent."
+
+"Who authorized the firmware update?"
+
+"Corporate engineering. Houston office. The memo cited cost efficiency."
+
+Rosa closed her eyes. She had been an engineer long enough to know that
+the most dangerous words in the English language were not "hold my beer"
+or "what could go wrong" but "cost efficiency." She had been the chief
+engineer of the Trans-Orbital Bridge Project for two years, and in that
+time she had fought more battles with the corporate board of Meridian
+Aerospace than with the actual hostility of the vacuum. Metal fatigue
+she understood. Micrometeorite impacts she could plan for. Budget
+revisions from people who had never been above the Karman line — those
+were the threats that kept her up at night.
+
+"Get me the full chain of authorization on that firmware change," she
+said. "And schedule a structural review of every joint from Section
+Fifteen to the current terminus. Full sensitivity, original thresholds."
+
+"That'll take three weeks."
+
+"Then we'd better start today."
+
+                              * * *
+
+The Trans-Orbital Bridge was, depending on whom you asked, either the
+greatest engineering achievement in human history or the most expensive
+folly since the Tower of Babel. The concept was elegant enough: a
+physical structure connecting two orbital stations — Promontory and
+Abutment — using a framework of carbon nanotube cables under constant
+tension, held in alignment by electromagnetic rail systems that allowed
+the bridge to flex and adjust as the stations' orbits varied. Cargo,
+personnel, and equipment would travel along the bridge in pressurized
+cars running on the electromagnetic rails, eliminating the need for
+constant shuttle flights between the stations.
+
+The advantages were significant. Shuttle flights consumed fuel — fuel
+that had to be hauled up from Earth at enormous expense. The bridge,
+once completed, would operate on solar power alone, its rail system
+drawing energy from photovoltaic arrays mounted along its length. Over
+a ten-year operational window, the cost savings were projected to be
+substantial. Over twenty years, transformative. The bridge would not
+merely connect two stations; it would demonstrate that permanent
+infrastructure could be built in orbit — that space was not merely a
+place to visit but a place to stay.
+
+Rosa had been hired because she believed this. More precisely, she had
+been hired because she had written a paper proving it was possible, and
+then defended that paper against eighteen months of skepticism from
+every structural engineer, orbital mechanist, and materials scientist
+who could get a seat at the table. The skeptics had legitimate concerns:
+thermal cycling would cause the cables to expand and contract constantly,
+the orbital mechanics meant the two stations were not stationary relative
+to each other, and the micrometeorite environment was orders of magnitude
+more hostile than anything a terrestrial bridge had to endure.
+
+Rosa had answers for all of it. The cables were designed with thermal
+compensation loops. The electromagnetic rail system provided active
+alignment. The outer sheathing incorporated a self-healing polymer layer
+that could seal punctures up to three centimeters in diameter within
+ninety seconds. She had tested every system in the lab and in small-
+scale orbital prototypes, and the numbers held.
+
+The numbers always held. It was the people who wavered.
+
+                               II.
+
+The weekly status call with the corporate board took place every Tuesday
+at 0800 UTC, and Rosa dreaded it the way other people dreaded dental
+appointments — with a resigned awareness that it would be unpleasant
+and a faint hope that it would at least be brief.
+
+She floated in the communications room, tethered to a handhold, facing
+a screen that showed seven faces arranged in a grid. Five of them were
+board members she had met only as faces on screens — corporate executives
+in Houston and New York who understood balance sheets with the same
+fluency that Rosa understood stress-strain curves. The sixth was Arthur
+Kessler, the Meridian Aerospace CEO, a thin man with silver hair and
+the patient expression of someone who was always running numbers in his
+head. The seventh was Paul Trask, the project's financial controller,
+who served as the board's eyes and ears on the station and whom Rosa
+regarded with the wary respect one gives to a competent adversary.
+
+"Ms. Ibarra," Kessler said, with the courtesy that Rosa had learned to
+distrust. "We've read your preliminary report on Joint Seventeen. Can
+you give us the short version?"
+
+"The short version is that the cable failed because the monitoring system
+was running on reduced sensitivity thresholds. The reduced thresholds
+were authorized by your Houston engineering office as a cost optimization.
+If the sensors had been operating at original specifications, the fatigue
+fracture would have been detected seven days before failure. We would
+have replaced the anchor plate during a routine maintenance cycle. Total
+cost: forty thousand dollars and eight hours of EVA time."
+
+"And the actual cost?"
+
+"The cable section from Joint Fifteen to Joint Twenty-Three is
+compromised. We'll need to remove and replace approximately twenty-eight
+kilometers of primary cable, along with all associated anchor hardware.
+Estimated cost: fourteen million dollars. Estimated time: six months."
+
+There was a silence on the channel. Rosa let it work.
+
+"Ms. Ibarra," said a board member named Garrett, a heavy man whose face
+always seemed slightly flushed, even at the low resolution of the video
+link. "Are you saying this failure was caused by a firmware update that
+our own engineering division approved?"
+
+"I am."
+
+"And you're recommending we spend fourteen million dollars to fix it?"
+
+"I am recommending we spend fourteen million dollars to prevent the
+bridge from killing people. Which it will do, reliably and efficiently,
+if we run compromised cable under tension at these load factors."
+
+Another silence. Rosa had found, over two years of these calls, that
+the truth had a particular sound. It sounded like silence.
+
+"We'll review the numbers," Kessler said. "Paul, can you have a cost
+analysis on my desk by Thursday?"
+
+Trask, who had been watching the exchange with the careful neutrality
+of a man who understood both sides, nodded. "You'll have it by Wednesday."
+
+The call ended. Rosa untethered herself and floated to the observation
+blister. The bridge was still there, still catching the light, still
+reaching for a destination it had not yet reached. She put her hand
+on the transparency and felt the cold of space through the glass.
+
+Twenty-eight kilometers. Six months. Fourteen million dollars.
+
+She would get it done. She always did.
+
+                              * * *
+
+The replacement work began three days later, after the board approved
+the budget with what Rosa suspected were gritted teeth and a revised
+quarterly forecast. The first step was to detension the compromised
+cables, a process that required a precision that was difficult to
+convey to anyone who had not done it. You did not simply "loosen" a
+cable that was carrying forty meganewtons of tension across twenty-eight
+kilometers of vacuum. You bled the tension off in stages, using the
+electromagnetic rail system to transfer the load to adjacent cables,
+monitoring the stress distribution across the entire structure in real
+time. One wrong calculation, one sensor reading misinterpreted, and
+the redistribution could cascade — a failed cable transferring its load
+to the next cable, which was not rated for the additional stress, which
+then failed and transferred to the next, and so on, in a chain reaction
+that could unzip the entire bridge in a matter of minutes.
+
+Rosa supervised the detensioning from the bridge control room, a
+cramped space on Promontory Station that was dominated by a bank of
+monitors showing structural data from every sensor on the bridge. Deng
+ran the numbers. Yuki Tanaka, the electromagnetic systems lead — a
+quiet, precise woman from Osaka who had designed mag-lev train systems
+before moving to space work — managed the rail adjustments. Kofi Asante,
+the EVA team leader — a former deep-sea diver from Ghana who claimed
+that space was "just the ocean turned inside out" — coordinated the
+outside crews.
+
+They worked in twelve-hour shifts for nine days. The detensioning went
+smoothly. Rosa had expected it to go smoothly, because she had planned
+it meticulously and because her team was very good. What she had not
+expected was the email from Houston that arrived on the fourth day.
+
+It was from Garrett, the flushed board member, and it was addressed not
+to Rosa but to Trask, the financial controller. Rosa received it only
+because Trask, to his credit, forwarded it to her with a one-word note:
+"Heads up."
+
+The email proposed, in the measured language of corporate bureaucracy,
+that the replacement cable section use a "revised specification" — a
+thinner gauge of nanotube cable that was twenty percent cheaper per
+kilometer but had a lower rated tensile strength. The email included
+a structural analysis from the Houston engineering office showing that
+the thinner cable was "adequate" for the projected load factors "under
+normal operating conditions."
+
+Rosa read the email twice. Then she went to the observation blister
+and looked at the bridge for a long time. Then she went back to her
+desk and composed a reply.
+
+"Mr. Garrett," she wrote. "Thank you for your suggestion regarding the
+revised cable specification. I have reviewed the structural analysis
+from your Houston office and find it technically accurate under the
+assumptions stated, which include steady-state thermal conditions, zero
+micrometeorite flux, and stable orbital parameters. I note that none of
+these conditions have ever been observed in the actual operating
+environment of this bridge for any continuous period exceeding four
+hours. The revised cable specification provides a safety margin of 1.3
+under best-case conditions. Our project standard, which I set and which
+I will not revise, requires a safety margin of 2.0 under worst-case
+conditions. I will be using the original cable specification. Regards,
+Rosa Ibarra, Chief Engineer."
+
+Trask appeared at her office hatch an hour later. "You know they're not
+going to like that."
+
+"They're not going to like it when a bridge car full of people drops
+into the atmosphere, either."
+
+Trask studied her for a moment. He was a financial man, but he was not
+a fool, and Rosa had come to appreciate the distinction. "For what it's
+worth," he said, "I'll back your numbers in the cost report."
+
+"Thank you, Paul."
+
+He pushed off from the hatch frame and floated away down the corridor.
+Rosa turned back to her screen. There was work to do.
+
+                               III.
+
+The new cable arrived on the supply shuttle six weeks later — proper
+specification, proper gauge, Rosa having won that particular battle
+through the simple expedient of refusing to lose it. The installation
+crew began work immediately, and for a while, the project settled into
+the rhythm that Rosa loved best: the steady, methodical progress of
+construction, one joint at a time, one cable section at a time, the
+bridge growing longer by measurable increments each day.
+
+She spent most of her time on the bridge itself now, riding out in one
+of the pressurized work cars to inspect each new section personally.
+The car was a simple thing — a cylindrical cabin mounted on the
+electromagnetic rail, with windows on all sides and barely enough room
+for four people and their equipment. It hummed as it moved, the
+electromagnets gripping the rail with a sound like a sustained bass
+note, and the view was extraordinary: the bridge stretching ahead and
+behind, the cables converging to a point in both directions, the Earth
+below — immense, luminous, indifferent.
+
+Deng usually accompanied her on these inspections, and they had
+developed a comfortable working routine: he would read off the sensor
+data while she examined the joints and cable interfaces with her own
+eyes and hands. Rosa was a believer in instruments — she had designed
+half of them herself — but she also believed in the evidence of her
+own senses. A joint that looked right was not necessarily sound. But
+a joint that looked wrong almost certainly was not.
+
+On the fifty-third day of reconstruction, they were inspecting the
+newly installed Joint Nineteen when Deng said, without looking up from
+his clipboard: "Chief, we have a problem."
+
+"What kind?"
+
+"Station Abutment has adjusted its orbit. Elevated by two hundred meters
+over the last seventy-two hours."
+
+Rosa frowned. The bridge design accommodated orbital variation — the
+electromagnetic rail system could handle misalignment of up to five
+hundred meters — but unplanned orbital changes introduced complications.
+"Why?"
+
+"Abutment station management says they had a close approach from a
+debris track and needed to maneuver. Standard collision avoidance."
+
+"Fine. But they need to notify us before they adjust, not after. The
+tension calculations for the cable segments we're installing are based
+on the station's orbital parameters as of last Monday. A two-hundred-
+meter elevation changes the geometry."
+
+"I ran the numbers. The tension differential is within tolerance.
+Barely."
+
+"How barely?"
+
+Deng showed her the figures. Rosa studied them. He was right — within
+tolerance. But the margin was thinner than she liked, and she had
+learned to distrust thin margins the way a sailor distrusts a calm sea.
+
+"Recalculate the tension specs for the next four joints using Abutment's
+current position. And send a formal request to Abutment management for
+twenty-four-hour advance notification of any orbital adjustment greater
+than fifty meters."
+
+"They won't like that."
+
+"Deng, nobody likes anything I ask them to do. That's how I know I'm
+doing my job."
+
+                              * * *
+
+The micrometeorite struck on the sixty-first day.
+
+It was a grain of silicate, no larger than a mustard seed, traveling at
+fourteen kilometers per second. It hit the bridge at Section Twenty-Two,
+punching through the outer sheathing, through the self-healing polymer
+layer, through two of the six primary cables, and embedding itself in
+the inner structural conduit where it shattered into a spray of
+fragments that severed the data line to Joints Twenty-Two through
+Twenty-Six.
+
+Rosa was in her quarters when the alarm sounded — a sharp, insistent
+tone that meant structural compromise. She was at the control room in
+ninety seconds, still pulling on her work coveralls, and found Yuki
+already at the rail control station and Kofi suiting up for EVA.
+
+"Status," Rosa said.
+
+"Two primaries severed at Section Twenty-Two," Yuki reported, her voice
+flat and precise. "Load redistribution to remaining four cables is
+stable but the margin is down to 1.4. Polymer seal deployed but the
+puncture was oversized — I'm reading a slow atmosphere leak in the
+conduit."
+
+"Data lines?"
+
+"Dead from Twenty-Two to Twenty-Six. We're flying blind on four joints."
+
+Rosa looked at the structural display. The bridge was holding, but it
+was holding the way a table holds when you remove one of its legs — by
+distributing the stress in ways it was not designed to distribute it.
+The safety margin of 1.4 was adequate for the short term, but every hour
+that passed without repair increased the fatigue load on the remaining
+cables.
+
+"Kofi, get a four-person team out there. Priority one: patch the
+sheathing and restore the data lines. Priority two: assess the severed
+cables for splice repair. Priority three —"
+
+"Priority three is coffee," Kofi said, pulling on his helmet. "I know
+the drill, Chief."
+
+The EVA team was outside within the hour. Rosa watched their helmet-cam
+feeds on the control room monitors, the tiny figures of the suited
+workers crawling along the bridge structure like ants on a wire,
+silhouetted against the blinding white curve of the Earth. They worked
+with the efficient choreography of people who had done this many times,
+passing tools hand to hand, speaking in the clipped shorthand of EVA
+protocol.
+
+The patch took four hours. The data line restoration took six. The
+cable assessment took another three, and the news was mixed: one of the
+severed cables could be spliced; the other would need to be replaced for
+a length of nine hundred meters.
+
+Rosa scheduled the splice for the next day and the replacement for the
+following week, when the next supply shuttle could bring up the
+necessary cable stock. Then she wrote her report, filed it with the
+board, and went back to the observation blister.
+
+The bridge was still there. Damaged, patched, imperfect — but still
+there, still reaching across the void.
+
+                               IV.
+
+Three weeks later, Rosa received the call she had been expecting.
+
+Kessler appeared on her screen, alone this time, without the board grid.
+His expression was neutral in a way that Rosa recognized as dangerous —
+the neutrality of a man who had already made a decision and was now
+performing the courtesy of informing her.
+
+"Rosa," he said. "We need to talk about the timeline."
+
+"The timeline is what it is, Arthur. We lost nine days to the
+micrometeorite repair. Before that, we lost six weeks to the firmware
+failure. We're running four months behind the original schedule, and
+I cannot compress the remaining work without compromising safety."
+
+"The board is concerned."
+
+"The board is always concerned. That is, I have come to understand, the
+natural state of a board."
+
+A thin smile, quickly suppressed. "The investors are asking difficult
+questions. The timeline overrun is creating a narrative — that the
+bridge is impractical, that the engineering challenges are
+insurmountable, that the project should be wound down and the capital
+redirected to conventional shuttle operations."
+
+"And what do you believe?"
+
+Kessler paused. In that pause, Rosa saw something she had not expected:
+doubt. Not the corporate doubt that manifested as cost-benefit analyses
+and revised quarterly projections, but genuine, personal doubt — the
+doubt of a man who had staked his career on a project and was beginning
+to wonder if the project was staking back.
+
+"I believe in the bridge," he said carefully. "I also believe in
+arithmetic. We have nine months of runway left. If we hit another
+significant delay —"
+
+"We will hit another significant delay. We are building a structure
+that has never been built before, in an environment that is actively
+hostile. There will be delays. There will be failures. There will be
+problems I haven't anticipated yet, because they haven't happened yet.
+That is the nature of the work."
+
+"Then how do you propose we get it done in nine months?"
+
+Rosa had been thinking about this. She had been thinking about it
+during the micrometeorite repair, during the cable replacement, during
+the long hours in the observation blister when she watched the bridge
+catch the light and throw it back. She had been thinking about it the
+way she thought about all engineering problems: by reducing it to its
+fundamental constraints and finding the design that satisfied all of
+them.
+
+"We work from both ends," she said. "Abutment Station starts building
+toward us while we continue building toward them. We double the
+construction teams. We pre-fabricate cable sections on the supply
+shuttles during transit, so they arrive ready to install instead of
+requiring assembly on station. We establish an equipment cache at the
+bridge midpoint to reduce transit time for the EVA teams. And we move
+to a continuous construction schedule — three shifts around the clock,
+no downtime except for mandatory rest periods."
+
+"The cost?"
+
+"Additional personnel and equipment, forty-two million dollars. But the
+schedule compresses to seven months instead of twelve."
+
+Kessler looked at her for a long moment. Then he did something that
+surprised her: he nodded. "Write it up. I'll present it to the board
+myself."
+
+"Arthur."
+
+"Yes?"
+
+"No more firmware optimizations. No revised cable specifications. No
+cost efficiencies that compromise the engineering. If I'm going to
+build this bridge in seven months, I need to build it right."
+
+Another long moment. "Agreed."
+
+The channel closed. Rosa sat in the communications room for a while,
+doing math in her head. Seven months. Two construction fronts. Three
+shifts. A midpoint cache.
+
+It could work. The numbers held.
+
+They always did.
+
+                               V.
+
+The bridge met in the middle on the two-hundred-and-ninth day.
+
+Rosa was there when it happened. She was in the work car with Deng and
+Yuki and Kofi, riding out along the Promontory side of the bridge to
+the leading edge of construction, watching through the forward window
+as the cables from both sides converged toward a point that was no
+longer theoretical but visible — a cluster of lights against the
+starfield that grew steadily larger and resolved, as they approached,
+into the work platforms and suited figures of the Abutment construction
+crew, building toward them.
+
+The final gap was eleven meters. The last joint — Joint One Hundred and
+Seventy-Three, the midpoint — would close it.
+
+The installation took fourteen hours. Rosa supervised every minute,
+floating in a suit alongside the EVA crews, checking bolt torques with
+her own hands, running her fingers along the cable interfaces to feel
+for misalignment. The work was meticulous, painstaking, and profoundly
+satisfying — the culmination of two years of planning, eleven months of
+construction, and an uncountable number of arguments with people who
+had wanted her to build it cheaper, faster, and less well.
+
+At 0347 UTC, Kofi tightened the last bolt on Joint One Hundred and
+Seventy-Three and looked up at Rosa through his visor. His face was
+sheened with sweat, his eyes bright.
+
+"Bridge is closed, Chief."
+
+Rosa floated beside the joint and put her gloved hand on it. Through
+the suit, she could feel the faint hum of the electromagnetic rail
+system — a vibration that ran the length of the bridge, from Promontory
+to Abutment, 340 kilometers of engineered structure holding itself
+together against the vacuum.
+
+"Run the tension test," she said.
+
+Yuki, monitoring from the control room, ran the sequence. Every cable,
+every joint, every sensor — three thousand, four hundred data points
+sampled simultaneously.
+
+"All green, Chief. Full bridge tension nominal. Safety margin 2.1 across
+the board."
+
+Two point one. Better than spec. Rosa allowed herself a small smile — a
+rare indulgence that Deng, who had known her for two years, recognized
+as the equivalent of a victory lap.
+
+"Call it in," she said.
+
+Deng opened the comm channel to Promontory Station, to Abutment Station,
+to Houston, to New York, to the board of directors and the engineers
+and the financial controllers and the skeptics and the believers and the
+people who had said it could not be done.
+
+"This is the Trans-Orbital Bridge Project," he said. "The bridge is
+complete."
+
+                              * * *
+
+Rosa stayed outside for a while after the others had gone in. She
+floated beside Joint One Hundred and Seventy-Three — the midpoint,
+the keystone — and looked down the length of the bridge in both
+directions. It stretched away from her, a silver thread against the
+black, catching the light of a sun that was just cresting the curve
+of the Earth, throwing long shadows across the cables and joints and
+rails that she had designed and argued for and defended and built.
+
+Three hundred and forty kilometers. One hundred and seventy-three joints.
+Six primary cables. An electromagnetic rail system that could move a
+twenty-ton car at two hundred kilometers per hour. A self-healing
+polymer sheathing that had already proven itself against the random
+violence of the micrometeorite environment.
+
+It was not beautiful. Rosa had never cared about beauty. It was
+something better than beautiful. It was sound. It was built to spec.
+It would hold.
+
+Below her, the Earth turned, patient and luminous, carrying its freight
+of cities and oceans and seven billion people who would, for the most
+part, never see the bridge or know what it meant. But some of them
+would know. Some of them would understand that a line had been drawn
+in the void — not a metaphorical line, not an aspiration, but a
+physical, load-bearing, engineered fact — and that it changed what
+was possible.
+
+Rosa put her hand on the bridge. The hum of the rail system ran through
+her glove and into her bones.
+
+She had been an engineer for thirty years. She had built roads and
+overpasses and highway interchanges in the long flatness of the
+American Midwest. She had built orbital station modules and docking
+assemblies and cargo handling systems. She had fought metal fatigue and
+micrometeorites and corporate boards and the fundamental hostility of a
+universe that did not care whether her structures stood or fell.
+
+And now she had built a bridge. Not a metaphor. A bridge. A real one,
+spanning the void between two points that no bridge had ever connected
+before.
+
+She stayed there for a long time, her hand on the steel, the hum
+running through her, the Earth turning below, the bridge holding fast.
+
+It would hold. She had built it to hold, and it would.
+
+That was enough. That was always enough.
+
+                            [THE END]
+
+================================================================================
+
+                       THE CONFESSION BOOTH
+
+                     by Father Thomas Aquino
+
+================================================================================
+
+                               I.
+
+The penitent entered the confessional at the hour the ship's bells
+counted as midnight, though midnight had no astronomical referent when
+you were forty-seven years into a voyage between stars. Father Liam
+Donovan heard the soft scrape of the curtain, the creak of the kneeler
+accepting weight, and then the breathing — quick, shallow, the breathing
+of a man in distress.
+
+"Bless me, Father, for I have sinned."
+
+"How long has it been since your last confession?"
+
+"Two years. Perhaps longer. I have not been keeping count."
+
+Father Donovan waited. He had learned, in twenty-three years of
+priesthood — nineteen of them aboard the generation ship Canticle — that
+the space between the formula and the substance of a confession was the
+most important space in the sacrament. It was the space where the
+penitent decided how honest to be. You could not rush it. You could
+not fill it. You had to let it breathe, as God lets the world breathe
+between one moment and the next.
+
+"Father, I am going to kill a man."
+
+Donovan held himself very still. The confessional was a small wooden
+booth — real wood, not composites; one of the few artifacts that the
+original colonists had brought from Earth, crafted from oak that had
+grown in an Irish churchyard and carried aboard the Canticle as both
+furniture and symbol. It smelled of polish and age and the faint, dry
+scent of recycled air. Through the screen that separated them, Donovan
+could see the penitent's shadow but not his face. This was by design.
+The confessional preserved anonymity, and anonymity preserved honesty.
+
+"You say you are going to kill a man," Donovan said carefully. "You
+speak in the future tense."
+
+"Yes."
+
+"Then you have not yet committed this act."
+
+"No."
+
+"And you are here to confess it before it happens."
+
+A pause. The breathing quickened again. "I know how it sounds. I know
+you must think I'm — Father, I need you to understand. I have seen it.
+Not imagined it, not planned it, not wished for it. I have seen it. The
+way you see a thing that has already happened. A memory, Father. A
+memory of something that hasn't occurred yet."
+
+Donovan folded his hands in his lap. His fingers were long and thin,
+the fingers of a man who had spent his life handling fragile things —
+communion wafers, rosary beads, the confidences of the troubled. He was
+sixty-one years old, born aboard the Canticle, as his parents had been
+born aboard it, and their parents before them. He had never seen Earth
+except in photographs. His world was the ship: six kilometers of steel
+and glass and recycled water, carrying eighteen hundred souls through
+the interstellar dark toward a destination that his grandchildren might
+live to see.
+
+"Tell me what you have seen," he said.
+
+                               II.
+
+The penitent's name — though Donovan did not know it, and could not know
+it, and must not know it — was Marcus Fell. He was thirty-eight years
+old, a maintenance technician in the ship's water reclamation division,
+a quiet man who lived alone in a small cabin on Deck Seven and was known
+to his coworkers as competent, reliable, and unremarkable. He had no
+history of violence, no criminal record, no psychiatric flag in his
+personnel file. He attended the ship's secular community gatherings but
+not its religious services. He had come to the confessional for the
+first time in his life because he could think of no one else who was
+obligated to listen and forbidden to tell.
+
+"It started six weeks ago," the penitent said. "I was sleeping. I woke
+up and there was — I don't know how to describe it, Father. A clarity.
+As if someone had wiped a film from my eyes that I didn't know was
+there. And I could see — not the future, not like a prophet, not a
+vision of the heavens. I could see the next three days. Every detail.
+Every conversation. Every meal, every shift, every hour. Like a memory
+of something I had already lived through."
+
+"And was this vision accurate?"
+
+"I lived those three days exactly as I had seen them. Every detail.
+Every word."
+
+"People have dreams that seem prophetic. The mind is —"
+
+"Father, I know the difference between a dream and a memory. The dreams
+stopped after the first week. Now it comes when I'm awake. I'll be
+sitting in the refectory and suddenly I'm — somewhere else. Somewhere
+ahead. I see what will happen, and then time catches up, and it happens
+exactly as I saw it."
+
+Donovan was silent for a moment. The ship hummed around them — the
+constant, almost subliminal vibration of the engines, the heartbeat of
+the Canticle. He had heard many confessions in his years as ship's
+chaplain. Adultery, theft, cruelty, despair — the same sins that had
+been confessed in every church in Christendom for two thousand years,
+translated into the particular idiom of a generation ship where
+everyone knew everyone, where privacy was scarce and forgiveness
+essential. But he had never heard anything like this.
+
+"And in one of these — memories — you see yourself committing a murder."
+
+"Yes."
+
+"Can you tell me the circumstances? Without revealing anyone's identity."
+
+Another pause. When the penitent spoke again, his voice was lower, and
+Donovan could hear the tremor in it — not fear, exactly, but something
+deeper. The sound of a man confronting the reality of what he is.
+
+"There is a man. In three weeks, this man will make a decision. A
+technical decision, related to the ship's navigation systems. The
+decision will seem routine. It will be approved by the proper
+authorities. But it will be wrong. Not maliciously wrong — he simply
+will not understand the consequences. And those consequences, six months
+later, will result in a cascade failure in the guidance array that will
+deviate our course by 0.4 degrees. At interstellar distances, 0.4
+degrees is —"
+
+"Catastrophic."
+
+"We will miss the target system entirely. The ship will sail into open
+space. Eighteen hundred people. Everyone."
+
+Donovan felt a coldness settle into his chest. The confessional seemed
+smaller, the oak walls closer. "And you believe that by killing this
+man, you will prevent the decision."
+
+"He is the only one qualified to make it. If he is dead, the decision
+will fall to his deputy, who will choose differently. I have seen this
+too. In the version where the man is dead, the deputy makes the correct
+calculation, and the ship arrives safely. In the version where the man
+lives, we all die."
+
+"You have seen both outcomes?"
+
+"Yes."
+
+"How?"
+
+"I don't know how. I don't know why this is happening to me. I don't
+know if it's God or the devil or some malfunction in my brain. I only
+know that I see what I see, and that everything I have seen so far has
+come true."
+
+                               III.
+
+Father Donovan did not sleep that night. He lay in his narrow bunk in
+the chaplain's quarters — a room barely larger than the confessional
+itself, furnished with a cot, a desk, a crucifix, and a small shelf of
+books — and stared at the ceiling and thought about what he had been
+told.
+
+The seal of confession was absolute. This was not a matter of policy or
+preference or pastoral judgment. It was the most inviolable obligation
+of his priesthood — more binding than his vow of celibacy, more
+fundamental than his obedience to the Church hierarchy. The Fourth
+Lateran Council had codified it in 1215, and in the seven centuries
+since, the Church had never wavered: what was spoken in confession
+could not be revealed, under any circumstances, for any reason. A priest
+who violated the seal was automatically excommunicated. The penitent's
+words belonged to God alone.
+
+But the penitent had described the death of eighteen hundred people.
+
+Donovan understood the moral architecture of the problem with a clarity
+that gave him no comfort. If the penitent's vision was genuine — if he
+truly possessed foreknowledge of a navigational disaster — then
+Donovan was in possession of information that could save the ship. But
+he could not act on it. He could not warn the captain. He could not
+inform the navigation division. He could not even hint, in the most
+oblique way, that the upcoming decision should be reviewed. To do any
+of these things would be to violate the seal, because the information
+came from nowhere else and the breach would be traceable to the
+confessional.
+
+And if the penitent's vision was not genuine — if he was delusional,
+or lying, or suffering from some neurological condition that produced
+convincing but false precognition — then the danger was not to the ship
+but to the man the penitent intended to kill. In that case, Donovan
+still could not act. He could counsel the penitent, he could withhold
+absolution, he could pray. But he could not break the seal.
+
+He rose at the hour the ship's bells counted as five in the morning and
+said Mass in the small chapel on Deck Three. Fourteen people attended,
+as they did most mornings — the ship's faithful, a small but steady
+congregation who found in the ancient rituals a continuity that reached
+back through the generations to a world they had never seen. Donovan
+said the words and performed the gestures and distributed the Eucharist
+and felt, for the first time in his priesthood, the terrible weight of
+what the sacraments demanded.
+
+After Mass, he sat in his study and opened the book that had been his
+companion for forty years: a battered copy of Thomas Aquinas's Summa
+Theologica, printed on Earth and passed down through three generations
+of ship's chaplains. He turned to the questions on conscience and found,
+as he had found many times before, that Aquinas was both illuminating
+and insufficient. The Angelic Doctor had much to say about the
+obligation to follow a well-formed conscience, but he had not
+anticipated the specific case of a priest aboard a generation ship
+receiving foreknowledge of disaster in the confessional.
+
+Donovan closed the book and looked at the crucifix on his wall. It was
+a simple thing — cast metal, unadorned, made in the ship's workshop by
+a parishioner three decades ago. The Christ upon it was thin and
+elongated, as though stretched by the gravity of suffering.
+
+"I could use some guidance," Donovan said to it.
+
+The Christ did not answer. Donovan had not expected Him to. In his
+experience, God communicated through silence, and the meaning of the
+silence was usually: figure it out yourself.
+
+                               IV.
+
+The penitent returned three days later. The same hour. The same
+breathing.
+
+"Father."
+
+"I am here."
+
+"I need to know if you can help me."
+
+"I cannot reveal what you have told me. You know this."
+
+"I'm not asking you to reveal it. I'm asking you to — Father, I don't
+want to kill anyone. I am not a violent man. I have never struck another
+person in my life. But if what I see is true, then one man's death
+saves eighteen hundred lives. The mathematics of it —"
+
+"You cannot reduce a human life to mathematics."
+
+"Then what do you reduce it to?"
+
+It was a genuine question, asked without hostility, and Donovan
+recognized in it the voice of a man who was reaching for a moral
+framework and finding only empty space. The Canticle was a secular
+ship. Its population included believers of various faiths, agnostics,
+and outright atheists, and the ship's governance was carefully,
+deliberately secular. This man had come to a priest not because he
+shared the priest's faith but because the priest's office was the only
+one that combined two qualities he needed: the obligation to listen and
+the prohibition against telling.
+
+"You reduce it to the image of God," Donovan said quietly. "Every human
+life bears that image. It cannot be weighed against other lives, because
+it is not a quantity. It is a quality — absolute, indivisible,
+inherent."
+
+"Even if that one life, through ignorance, destroys eighteen hundred
+others?"
+
+"Even then. You may not do evil that good may come."
+
+The penitent was silent for a long time. Donovan could hear him
+breathing, and beneath the breathing, he could hear the ship — the
+engines, the air systems, the constant murmur of a world in transit.
+
+"Then what am I supposed to do, Father?"
+
+Donovan had been thinking about this for three days. He had prayed, he
+had read, he had lain awake in his bunk and argued with himself and
+with God and with the shade of Thomas Aquinas. And he had arrived at an
+answer that was not an answer but was, he believed, the best he could
+offer within the constraints of his obligation.
+
+"You may not kill," he said. "But there are other ways to prevent a
+decision."
+
+"What do you mean?"
+
+"I cannot advise you to act on information you have given me in
+confession. But I can advise you, as a general matter of conscience,
+that if a man believes a decision is wrong, there are legitimate means
+of challenging it. One may raise concerns through proper channels. One
+may request reviews. One may present evidence to those with authority.
+One may be persistent and vocal and troublesome."
+
+"But I have no standing. I'm a water technician. I have no expertise in
+navigation."
+
+"Then find someone who does. Someone who might, independently and for
+their own reasons, arrive at the same concerns."
+
+Another long silence. Then the penitent said, very softly: "You are
+telling me to find another way."
+
+"I am telling you that there is always another way. That is not
+optimism. That is faith."
+
+                               V.
+
+Two weeks passed. Father Donovan performed his duties — Mass each
+morning, counseling sessions, hospital visits, the small and necessary
+rituals of spiritual care on a ship where the voyage was longer than
+any single life. He baptized a child. He comforted a widow. He
+arbitrated a dispute between neighbors whose cabins shared a thin wall
+and incompatible sleep schedules. He did all of this with the same
+attentiveness and care he had always brought to his work, and he carried
+within him, like a stone in his chest, the knowledge that somewhere on
+the ship, a man was deciding whether to commit a murder.
+
+He could not watch for it. He could not investigate. He could not even
+pray publicly for guidance, because to do so would be to signal that
+something was wrong, and the signal might be traced to the confessional.
+The seal was absolute, and absolute meant absolute — not just in speech
+but in action, in demeanor, in the direction of his gaze.
+
+He prayed privately. He prayed with the desperate, focused intensity of
+a man who has placed his trust in a system he cannot verify and is
+waiting to learn whether the trust was warranted. He prayed for the
+penitent. He prayed for the man the penitent might kill. He prayed for
+the ship and its eighteen hundred souls. He prayed for himself, because
+the weight of what he carried was crushing, and he was not certain he
+could bear it much longer without breaking.
+
+On the sixteenth day, he heard a piece of news in the refectory that
+made his hands go still around his coffee cup. Someone — a maintenance
+technician, unnamed in the account — had filed a formal objection with
+the Ship's Council regarding a proposed adjustment to the navigation
+protocols. The objection cited concerns about the margin of error in
+the recalibrated guidance array and requested an independent review by
+the backup navigation team.
+
+The Ship's Council, after some deliberation, had granted the review.
+
+Donovan set down his coffee and closed his eyes. He did not know
+whether this was the decision the penitent had described. He could not
+ask. He could not even allow himself to hope too visibly. But something
+in his chest — the stone — shifted, and for the first time in two
+weeks, he could breathe without effort.
+
+                              * * *
+
+The penitent came to the confessional one more time. It was three weeks
+later, at the same hour, but the breathing was different now — slower,
+steadier, the breathing of a man who has set down something heavy.
+
+"Father."
+
+"I am here."
+
+"The review board found the error. They corrected the navigation
+protocols. The deputy — the one I told you about — she led the review.
+She found it on her own. Without anyone having to die."
+
+Donovan exhaled. It was a sound he had not known he was holding.
+
+"I filed the objection," the penitent said. "I didn't know how. I read
+the ship's regulations. I found the section on technical challenges. I
+wrote it up and submitted it. They almost threw it out — what does a
+water technician know about navigation? But the regulations say any
+crew member can file a technical objection, and the Council has to
+respond."
+
+"You found another way."
+
+"Yes. Father — do you believe me? About what I see?"
+
+Donovan considered the question. It was, in a certain light, the most
+important question he had been asked in his priesthood. Did he believe
+that this man possessed genuine foreknowledge? Did he believe in a gift
+or a curse or a neurological anomaly that allowed a water reclamation
+technician to see the branching paths of the future?
+
+"I believe," he said carefully, "that you acted according to your
+conscience, with courage and restraint, and that eighteen hundred people
+are alive because of it. Whether the mechanism of your knowledge is
+divine or natural or something else entirely — that is a question for
+God, and I am content to leave it with Him."
+
+"And my sin? The murder I intended?"
+
+"You confessed the intention. You did not carry it out. You chose
+differently, at great cost to yourself. That is not merely the absence
+of sin — it is the presence of grace."
+
+"I don't believe in grace, Father."
+
+"That is your prerogative. Grace does not require your belief in order
+to operate."
+
+A sound that might have been a laugh. Then the rustle of the curtain,
+the creak of the kneeler released, and footsteps moving away.
+
+Father Donovan sat in the confessional for a long time after the
+penitent left. The oak walls were warm with the heat of two bodies. The
+ship hummed around him, carrying its cargo of souls through the dark
+between stars. Eighteen hundred people, alive and ignorant of how close
+they had come and what had preserved them: a water technician's vision,
+a priest's silence, a bureaucratic regulation about technical
+objections, and something that Donovan would call grace whether the
+penitent believed in it or not.
+
+He folded his hands and bowed his head and said a prayer of
+thanksgiving. Then he said a prayer for the penitent, whose name he did
+not know and would never know. Then he sat in the silence of the
+confessional and listened to the ship breathe, and was grateful, and
+was at peace.
+
+Outside the confessional, the Canticle sailed on. Forty-seven years
+from Earth. Perhaps two hundred and fifty-three more to go. The stars
+ahead were steady and patient, and the ship pointed toward them
+with a precision that had been reviewed, corrected, and confirmed —
+by ordinary process, through proper channels, because a quiet man had
+found another way.
+
+                            [THE END]
+
+================================================================================
+
+                        COUNTERFEIT COSMOS
+
+                        by Theodore Cain
+
+================================================================================
+
+                               I.
+
+The alien artifact was three inches tall, shaped like a teardrop, and
+worth more than most people would earn in a lifetime. Eddie Bloom held
+it in his palm and turned it under the desk lamp, watching the light
+play across its surface — a shimmering, iridescent blue-black that
+seemed to shift and deepen as the angle changed, like oil on water but
+denser, more deliberate, as though the color itself had opinions about
+how it wanted to be seen.
+
+"It's Kethrani," said the man who had brought it. His name was Lutz,
+and he was the kind of person Eddie had spent twenty years trying to
+avoid: well-dressed, soft-spoken, and entirely too comfortable in the
+company of criminals. "Authenticated by Dr. Miriam Suleiman at the
+Xenoarchaeological Institute in Geneva. Provenance traced back to the
+Kethrani cache discovered on Ganymede in 2089. Estimated value: four
+hundred thousand dollars."
+
+Eddie set the artifact down on the felt pad he used for delicate work.
+His workshop occupied the back room of a frame shop on West 43rd Street,
+a narrow space crammed with tools, materials, and the accumulated debris
+of a career spent making things that were not what they appeared to be.
+Eddie was an art forger. He was, by most informed accounts, one of the
+best in the business. He had reproduced Old Masters, Art Deco
+sculptures, pre-Columbian ceramics, and Victorian silverwork with a
+fidelity that had fooled dealers, collectors, and — on three memorable
+occasions — the authentication departments of major museums. He was
+forty-six years old, slightly built, with the careful hands of a
+surgeon and the nervous eyes of a man who knew that his skill set was
+not, strictly speaking, legal.
+
+"And you want me to make a copy," Eddie said.
+
+"I want you to make a copy that will fool Dr. Suleiman."
+
+Eddie looked at the artifact again. Kethrani objects were the most
+sought-after items in the xenoarchaeological market — the Kethrani being
+the only alien civilization whose physical remains had ever been
+discovered, a race that had flourished and vanished on several moons of
+Jupiter approximately ninety thousand years before humanity figured out
+fire. Their artifacts were rare, exquisitely crafted, and made from
+materials that Earth science was still struggling to fully analyze. The
+iridescent surface of the teardrop in Eddie's hand was produced by a
+nanostructured lattice of metallic compounds that did not correspond
+exactly to any known terrestrial alloy.
+
+"This is a different kind of job," Eddie said.
+
+"Yes."
+
+"I've never forged alien work before. The materials alone —"
+
+"We can supply the materials. We have access to a source."
+
+Eddie did not ask what source. In his line of work, the provenance of
+the materials was someone else's problem. His problem was replication:
+study the original, understand its construction, and produce a copy so
+faithful that the difference between original and copy became, for all
+practical purposes, a philosophical question.
+
+"Fee?"
+
+"Fifty thousand. Half up front, half on delivery."
+
+Eddie looked at the artifact. He looked at Lutz. He looked at the
+artifact again.
+
+"I'll need six weeks," he said.
+
+                               II.
+
+The first two weeks were study. Eddie did not begin a forgery by
+making it. He began by learning everything he could about the thing
+he was going to fake. He read every published paper on Kethrani
+artifacts. He studied the authentication protocols used by the
+Xenoarchaeological Institute. He obtained — through channels that were
+not entirely legitimate — a copy of Dr. Suleiman's most recent
+spectroscopic analysis of the Ganymede cache objects, including the
+specific wavelength signatures and crystalline structures that her
+authentication process tested for.
+
+The Kethrani had been master fabricators. Their artifacts exhibited a
+level of precision that was, even by twenty-second-century standards,
+remarkable. The nanostructured surface that produced the characteristic
+iridescence was not applied or coated — it was integral to the
+material, grown from within by a process that the best materials
+scientists in the world had described as "probably biological but
+we're really just guessing." The internal structure of a Kethrani
+artifact was fractal: the same patterns repeated at every scale, from
+the macro shape down to the molecular level. It was this fractal
+consistency that made authentication possible, because it was
+effectively impossible to replicate artificially. You could fake the
+surface. You could fake the shape. But you could not fake the
+molecular-scale self-similarity that ran all the way through.
+
+Unless you could.
+
+Eddie had made his career on the principle that everything could be
+faked. It was not arrogance — it was engineering. Every authentic object
+was authentic because it possessed a specific set of measurable
+properties. If you could identify those properties and reproduce them,
+the result was indistinguishable from the original. The only limit was
+the forger's understanding of what the authenticators were looking for.
+
+By the end of the second week, Eddie had a plan. The materials Lutz had
+supplied — and he tried not to think too hard about where they came
+from — included fragments of genuine Kethrani alloy, salvaged from
+damaged or incomplete artifacts. Using these fragments as seed material,
+Eddie would grow a new artifact using a modified version of the
+molecular deposition technique used in semiconductor manufacturing. The
+fractal pattern of the original would serve as a template: he would
+scan it at molecular resolution, feed the data into the deposition
+system, and let the machine build the copy layer by layer, atom by
+atom, reproducing the self-similar structure at every scale.
+
+It was, Eddie reflected, the most technically demanding forgery he had
+ever attempted. It was also the most intellectually satisfying. There
+was a purity to it — a conversation between the forger and the original
+maker, separated by ninety thousand years, conducted in the shared
+language of craftsmanship.
+
+He began the scan on a Monday morning and did not leave his workshop
+for three days.
+
+                               III.
+
+The anomaly appeared on the fourth day of the scan.
+
+Eddie almost missed it. The molecular-resolution imaging produced
+enormous data sets — terabytes of structural information that had to be
+processed, filtered, and rendered before the human eye could make sense
+of them. He was reviewing the internal lattice structure of the
+teardrop, looking for the fractal patterns he would need to reproduce,
+when a section of the data did not match.
+
+The fractal pattern was there. It was consistent and self-similar and
+beautiful, exactly as the published literature described. But at a
+depth of approximately 0.7 millimeters beneath the surface, the pattern
+changed. Not dramatically — not in a way that would be visible to any
+scan less detailed than the one Eddie was running. But the lattice
+spacing shifted by half a nanometer, and the crystalline orientation
+rotated by 0.3 degrees, and the spectroscopic signature of the alloy
+altered just enough to suggest that the material at this depth was not
+the same material as the surface layer.
+
+Eddie stared at the data for a long time. Then he ran the scan again.
+Then he ran it a third time, at higher resolution.
+
+The anomaly was real. The teardrop was, beneath its authentic surface,
+made of a different material. A material that was very close to genuine
+Kethrani alloy — close enough to fool any standard authentication test
+— but was not, at the molecular level, the same thing.
+
+The teardrop was a forgery.
+
+Eddie sat back in his chair and let the implications wash over him. He
+was being paid to forge a forgery. The "original" that Lutz had brought
+him, the artifact that Dr. Suleiman had authenticated, the object with
+a provenance traced back to the Ganymede cache — was itself a fake.
+
+A very, very good fake. But a fake.
+
+"Well," Eddie said to the empty workshop, "this changes things."
+
+                               IV.
+
+He did what any self-respecting forger would do when confronted with a
+mystery: he investigated. Not out of moral scruple — Eddie had made
+his peace with the ethics of his profession years ago — but out of
+professional curiosity. Someone had made this fake. Someone with access
+to materials and techniques that were, at minimum, equal to Eddie's own.
+Someone who had fooled Dr. Miriam Suleiman, which was not easy. And
+someone who had done it before Eddie, which meant there was a competitor
+in the field that he did not know about.
+
+That bothered him.
+
+He started with the anomalous material. The subsurface layer was not
+Kethrani alloy, but it was close — closer than anything Eddie could
+have produced with his own equipment. The crystalline structure was
+artificial, deposited layer by layer, exactly as Eddie had planned to
+do. But the deposition technique was subtly different from anything in
+the current literature. The layers were thinner, the orientation
+control more precise, and the fractal template had been applied with a
+consistency that suggested either a much more advanced fabrication
+system or a much more skilled operator.
+
+Eddie pulled up the spectroscopic data on every Kethrani artifact in
+the published record — forty-seven objects in total, scattered across
+museums, universities, and private collections around the world and
+throughout the Jovian system. He compared their published authentication
+data with what he was seeing in the anomalous subsurface layer of his
+teardrop.
+
+The comparison took two days. What he found at the end of it made him
+sit very still in his workshop chair and stare at the wall.
+
+Fourteen of the forty-seven authenticated Kethrani artifacts showed the
+same anomaly. The spectroscopic signatures published in the
+authentication reports were consistent with genuine Kethrani alloy — on
+the surface. But the data, when Eddie extrapolated the subsurface
+structure using the mathematical models he had developed for his own
+forgery work, suggested the same layered deposition pattern he had
+found in his teardrop. The same technique. The same material. The same
+hand — or, at the very least, the same method.
+
+Fourteen objects. Three museums, four universities, seven private
+collections. Authentication dates ranging from 2091 to 2107 — sixteen
+years.
+
+Someone had been forging Kethrani artifacts for sixteen years, and no
+one had noticed.
+
+Eddie poured himself a whiskey — cheap rye, the only kind he kept in
+the workshop — and thought about it. The skill required was
+extraordinary. The access to materials was extraordinary. The patience
+was extraordinary. This was not a quick-profit operation. This was a
+sustained, methodical campaign to introduce forgeries into the
+archaeological record, and it had been running for nearly two decades
+without detection.
+
+Why?
+
+The obvious answer was money. Kethrani artifacts commanded enormous
+prices, and fourteen forgeries, sold over sixteen years, would represent
+a fortune. But the obvious answer did not satisfy Eddie. If money were
+the sole objective, the forger could have produced many more than
+fourteen objects in sixteen years. The pace was deliberate — one or two
+per year — which suggested restraint, patience, and a concern for
+avoiding the kind of market saturation that would trigger scrutiny.
+
+It suggested a professional. Someone like Eddie, but better.
+
+He picked up the teardrop and turned it under the lamp again. The
+iridescent surface shimmered, beautiful and false, and beneath it, the
+false subsurface shimmered too, and beneath that —
+
+Eddie frowned. He went back to the data. He had scanned to a depth of
+0.7 millimeters, where he had found the anomalous layer. But the
+teardrop was approximately nine millimeters at its thickest point. He
+had not scanned deeper because there had been no reason to.
+
+Now there was a reason.
+
+He recalibrated the scanner and ran a deep scan, all the way to the
+core. It took eighteen hours. When it was finished, Eddie looked at the
+results and poured himself another whiskey.
+
+Beneath the anomalous subsurface layer — the layer that was itself a
+forgery — there was another layer. And this layer's spectroscopic
+signature was different again. Not Kethrani alloy. Not the forger's
+deposition material. Something else. Something that Eddie's databases
+could not identify at all.
+
+The teardrop was a forgery of a forgery. And beneath the second
+forgery, there was something that was neither authentic Kethrani nor
+any known terrestrial fabrication.
+
+Eddie looked at the object in his hand — three inches of nested
+deceptions, each layer concealing and distorting the one below it —
+and felt, for the first time in his career, completely out of his
+depth.
+
+                               V.
+
+He called Lutz the next morning.
+
+"I can't do the job."
+
+"I beg your pardon?"
+
+"The artifact you gave me isn't genuine. It's a forgery. A very good
+one, but a forgery. The authentication passed because whoever made it
+understood Suleiman's protocols better than Suleiman does. But at
+molecular resolution, the subsurface structure is artificial."
+
+A long silence on the line. Then Lutz said, in a voice that had lost
+its smoothness: "How deep did you scan?"
+
+Eddie noted the question. Not "are you sure?" Not "that's impossible."
+How deep did you scan. Which meant Lutz knew. Or at least suspected.
+
+"Deep enough to find the second layer," Eddie said. "And the third."
+
+Another silence, longer this time.
+
+"Mr. Bloom, I think we need to have a conversation in person."
+
+They met at a diner in Hell's Kitchen — neutral ground, public enough
+to discourage unpleasantness, quiet enough for a conversation that
+could not be overheard. Lutz arrived without the polished assurance
+Eddie had seen in the workshop. He looked tired, and there was
+something in his eyes that Eddie recognized: the expression of a man
+who has followed a thread and discovered that it leads somewhere he did
+not expect.
+
+"The Kethrani artifacts," Lutz said, without preamble. "The ones in the
+museums. The ones in the private collections. How many are fakes?"
+
+"At least fourteen. Probably more. I can only identify the ones where
+sufficient spectroscopic data has been published."
+
+"And the technique?"
+
+"Consistent across all fourteen. Same materials, same deposition
+method, same level of skill. One source. One forger."
+
+Lutz stirred his coffee. He had not drunk any of it. "We've been
+tracking this for two years. My clients — I can't name them, you
+understand — are collectors who began to suspect that the Kethrani
+market was compromised. They hired me to investigate. The artifact I
+gave you was a test: we suspected it was a forgery, but we needed
+someone with the technical skill to confirm it."
+
+"You could have told me that up front."
+
+"We needed an unbiased analysis. If I had told you it was a suspected
+forgery, you would have looked for evidence of forgery. I needed you
+to find it on your own."
+
+Eddie conceded the point. "Fine. But that doesn't explain the third
+layer. The core material. It's not Kethrani, and it's not terrestrial.
+I can't identify it."
+
+Lutz looked at him. "Neither can anyone else. We've had samples from
+three different artifacts analyzed at four different labs. No match to
+any known material, natural or synthetic."
+
+"Which means?"
+
+"Which means that the forgeries are not copies of genuine Kethrani
+artifacts. They are objects of unknown origin, coated with artificial
+Kethrani surface layers to make them look like something they are not.
+And the genuine Kethrani artifacts — the real ones from the Ganymede
+cache — were already extremely rare. If fourteen of the forty-seven
+authenticated objects are fakes —"
+
+"Then the Kethrani archaeological record is compromised. Everything we
+think we know about Kethrani fabrication techniques could be based
+partly on forgeries."
+
+"Worse than that," Lutz said. "If the core material is neither Kethrani
+nor human, then someone — or something — has been introducing objects
+of unknown origin into the human archaeological record, disguised as
+alien artifacts from a civilization that died ninety thousand years ago."
+
+Eddie picked up his coffee and drank it. It was terrible coffee, but it
+gave him something to do with his hands while his mind rearranged
+itself around the new shape of the problem.
+
+"Someone is forging the cosmos," he said. "Faking the evidence of the
+past. And we don't know who, and we don't know why."
+
+"No," Lutz said. "We don't."
+
+They sat in the diner for a long time, two men who made their livings
+in the space between authentic and false, staring at a mystery that
+was nested like the layers of the teardrop itself — each answer
+revealing a deeper question, each truth concealing a more profound
+deception, all the way down to a core that neither of them could
+identify and that no one, it seemed, was meant to find.
+
+Eddie left the diner and walked home through the November rain. He
+still had the teardrop in his coat pocket. He could feel it there — a
+small, dense weight against his hip, three inches of layered deception,
+a counterfeit of a counterfeit concealing something that was not a
+counterfeit at all but simply unknown.
+
+He was a forger. He understood fakes. But this was something else
+entirely. This was a fake that did not merely imitate the real — it
+replaced it, erased it, substituted a new reality for the old one and
+dared anyone to notice the difference.
+
+He would notice the difference. That was what he was good at.
+
+It was, he reflected, the first time in his career that his particular
+skill set had been called upon in the service of the truth. He was not
+entirely sure how he felt about it. But the puzzle was irresistible,
+and Eddie Bloom had never been able to resist a good puzzle.
+
+He went home. He poured a whiskey. He sat down at his workbench and
+began, very carefully, to scan the third layer.
+
+                            [THE END]
+
+================================================================================
+
+                       THE DOOMSDAY CAUCUS
+
+                       by Franklin Hoyt
+
+================================================================================
+
+                               I.
+
+They sealed the bunker at 0600 hours on a Tuesday morning, and the
+first argument started before the coffee was cold.
+
+The bunker was buried two hundred meters beneath the Swiss Alps, in a
+complex that had been built during the last world war and upgraded three
+times since for exactly this scenario: the end of the world, or
+something near enough to it that the difference ceased to matter. It
+was equipped with independent power, water recycling, food stores for
+six months, and a communications system that could reach any point on
+Earth or in orbit. It was also equipped with a round table — real wood,
+mahogany, polished to a sheen that could show you your own reflection —
+around which twelve chairs were arranged with the precise, diplomatic
+spacing that signified equality among nations.
+
+The twelve people who sat in those chairs were not equal. They
+represented nations that ranged from the United States and the Soviet
+Union to Costa Rica and Ghana, and the power differentials between them
+were so vast that pretending otherwise was itself a form of politics.
+But the asteroid did not care about power differentials. The asteroid —
+designated 2157-Kali, a nickel-iron body four kilometers in diameter,
+currently eleven months from Earth impact — was the most democratic
+threat in human history. It would kill everyone equally.
+
+President Martin Hale of the United States sat at the north end of the
+table and looked at the faces around him. He was a tall, lean man with
+gray temples and the measured calm of a former prosecutor who had
+learned that the most effective weapon in any argument was the
+appearance of reasonableness. He had been president for three years,
+elected on a platform of technological optimism and fiscal restraint,
+and he had come to this bunker with a plan. The plan was good. He had
+spent six weeks developing it with the best scientists, engineers, and
+military strategists his nation could produce. It was feasible,
+it was funded, and it required only one thing that Martin Hale could
+not unilaterally provide: the cooperation of eleven other nations.
+
+"Ladies and gentlemen," he began. "We have eleven months. I propose we
+spend the first hour reviewing the scientific assessment and the second
+hour discussing our options. Chairman Volkov, would you agree to this
+structure?"
+
+Alexei Volkov, the Premier of the Soviet Union, was a compact man with
+a broad face and hooded eyes that gave away nothing. He had been a
+military intelligence officer before entering politics, and he
+approached diplomacy the way he had once approached interrogation: by
+listening, assessing, and waiting for the other person to make a
+mistake.
+
+"I would agree," Volkov said, "provided that the scientific assessment
+is presented by a neutral party and not by your own scientists, who have
+a regrettable tendency to present American interests as scientific
+conclusions."
+
+"The assessment will be presented by Dr. Okafor of the International
+Astronomical Union," Hale said. "She is Nigerian. I trust that is
+neutral enough."
+
+"For the moment," Volkov said, which was, Hale knew, the closest thing
+to agreement that a Soviet premier ever offered in the first round.
+
+Dr. Amara Okafor was a small woman with close-cropped hair and the
+steady gaze of someone who spent her professional life looking at
+objects that could end civilizations. She stood at the head of the room,
+beside a screen that showed the trajectory of 2157-Kali in a smooth,
+elegant arc that terminated at a point on the Earth's surface
+approximately four hundred kilometers south of Mumbai.
+
+"The impact, if undeflected, will occur in eleven months and six days,"
+she said. "The energy release will be approximately twenty-three
+gigatons — roughly equivalent to five hundred thousand Hiroshima bombs.
+The immediate blast zone will encompass most of the Indian subcontinent.
+The secondary effects — tsunamis, atmospheric debris, global cooling —
+will be catastrophic and worldwide. Conservative estimates suggest a
+death toll of two to three billion in the first year, with agricultural
+collapse leading to further casualties over the following decade."
+
+She paused to let the numbers settle. Around the table, twelve faces
+showed twelve variations of the same expression: the particular mask
+that powerful people wear when they are afraid and cannot afford to
+show it.
+
+"Deflection is possible," she continued. "But only if we act within the
+next four months. After that, the remaining time will be insufficient
+for any known technology to alter the asteroid's trajectory by the
+necessary margin. I want to be clear about this: four months. Not
+eleven. Four. The window is already closing."
+
+                               II.
+
+The argument that followed Dr. Okafor's presentation was, Hale
+reflected later, a perfect miniature of every political failure of the
+twentieth century compressed into a single afternoon.
+
+It began with the question of method. The Americans proposed a kinetic
+deflection: a fleet of heavy impactors, launched from Earth and orbital
+platforms, designed to strike the asteroid at high velocity and nudge it
+onto a path that would miss Earth by a comfortable margin. The technology
+existed. The launch capacity existed. The cost was estimated at sixty
+billion dollars, to be shared among the participating nations according
+to GDP.
+
+The Soviets objected. Not to the method — Volkov conceded that kinetic
+deflection was scientifically sound — but to the command structure. The
+fleet would be launched primarily from American and allied facilities.
+The mission control would be located in Houston. The military
+coordination would be handled by American Space Command. The Soviets,
+in short, were being asked to fund and support a mission that would be
+entirely under American operational control.
+
+"You are asking us to place the survival of our nation in American
+hands," Volkov said. "We have some experience with American hands. We
+are not reassured."
+
+"This is not a military operation," Hale said. "This is a planetary
+defense mission. The command structure reflects logistical reality, not
+political intent."
+
+"In my experience, Mr. President, logistical reality and political
+intent are the same thing wearing different clothes."
+
+The Chinese delegation, led by Minister Chen Wei, proposed an
+alternative: a joint command structure, with mission control shared
+between Houston, Baikonur, and Jiuquan, and operational authority
+rotating among the three space-capable nations on a weekly basis.
+
+The Americans rejected this as operationally unworkable. The Soviets
+accepted it in principle but proposed modifications that would
+effectively give Baikonur veto authority over launch decisions. The
+Chinese modified their proposal to address the Soviet concerns, which
+introduced new concerns from the British and French delegations, who
+felt that the European contribution to the deflection fleet — which
+was substantial — was being overlooked in a trilateral negotiation that
+treated them as spectators.
+
+By the end of the third hour, the table had fractured along exactly the
+lines that anyone with a passing knowledge of twentieth-century
+geopolitics would have predicted: the Americans and their allies on one
+side, the Soviets and theirs on the other, the Non-Aligned nations —
+India, Ghana, Brazil, Costa Rica — caught in the middle, their voices
+raised in increasingly frustrated appeals for unity that no one was
+listening to.
+
+Hale watched it happen and felt a familiar, sick sensation in his
+stomach. He had seen this before. He had seen it in arms control
+negotiations, in trade disputes, in climate accords. The same pattern,
+repeated with the reliability of a natural law: a genuine crisis, a
+genuine desire to act, and an institutional incapacity to subordinate
+national interest to collective survival. The table was round, but the
+power was not, and every person in the room knew it, and the knowing
+poisoned every word they spoke.
+
+                               III.
+
+It was Delegate Nkrumah of Ghana who broke the impasse, and he did it
+not with a proposal but with a question.
+
+Francis Nkrumah was the youngest person at the table — forty-one,
+educated at Oxford and Accra, a former schoolteacher who had entered
+politics because he believed, with a conviction that his colleagues
+found either admirable or naive, that politics was the art of solving
+problems rather than the art of accumulating power. He had listened to
+five hours of debate with a patience that was, by the fifth hour,
+visibly fraying.
+
+"I would like to ask a question," he said, during a lull in the
+exchange between the American and Soviet delegations. "Not a diplomatic
+question. A practical one."
+
+Hale nodded. "Go ahead."
+
+"If the asteroid hits, how many people in this room will survive?"
+
+Silence. Not the productive silence of reflection, but the uncomfortable
+silence of a truth that everyone had been avoiding.
+
+"We are in a bunker," Nkrumah continued. "We have food, water, and air
+for six months. We will survive the impact. We may even survive the
+first year. But our nations will not. Our cities will not. Our
+families — unless we have had the foresight and the selfishness to
+bring them here — will not. So I ask again: who are we saving? Because
+from where I sit, it appears that we are negotiating the survival of
+our political positions rather than the survival of our people."
+
+"Delegate Nkrumah —" Volkov began.
+
+"I am not finished. I represent a nation of six million people. We have
+no space program. We have no nuclear arsenal. We have no seat on the
+Security Council. What we have is six million human beings who will die
+if this asteroid hits, and whose deaths will mean nothing — nothing —
+to the calculations being made at this table. I have listened for five
+hours to arguments about command structures and operational authority
+and GDP-weighted cost sharing, and I have not heard a single person say
+the only thing that matters: that every person on this planet has an
+equal right to live, and that our job — our only job — is to make that
+possible."
+
+The silence that followed was different from the first. It was the
+silence of people who have been told the truth and are deciding what to
+do with it.
+
+                              * * *
+
+Hale called a recess. He needed one. He stood in the corridor outside
+the conference room, drinking water from a paper cup, and thought about
+what Nkrumah had said. The Ghanaian delegate was right, and Hale knew
+it, and the knowing did not help, because being right and being
+effective were not the same thing, and the gap between them was where
+people died.
+
+He had come to this bunker with a plan. The plan was good. But the plan
+required cooperation, and cooperation required trust, and trust
+required a history of trustworthiness that none of the nations at the
+table could honestly claim. The Americans had overthrown governments.
+The Soviets had occupied countries. The Europeans had colonized
+continents. The history of international relations was a history of
+betrayal, and the asteroid was testing whether the species could
+overcome that history in eleven months.
+
+Four months, he corrected himself. The window for deflection was four
+months.
+
+He went back into the conference room.
+
+                               IV.
+
+The breakthrough, when it came, was not dramatic. It was not a grand
+speech or a noble concession or a moment of visionary leadership. It
+was a compromise — ugly, imperfect, and bitterly contested — that
+satisfied no one completely and everyone enough.
+
+The kinetic deflection fleet would be launched from American, Soviet,
+and Chinese facilities simultaneously. Mission control would be located
+at a neutral site — the European Space Operations Centre in Darmstadt,
+Germany — staffed by a multinational team and overseen by a five-member
+command authority consisting of the three space powers, plus one
+rotating seat for the Non-Aligned nations and one for the European
+coalition. Costs would be shared according to a modified formula that
+weighted GDP against population, ensuring that smaller nations
+contributed less in absolute terms but were not entirely excluded from
+the financial burden — a point that Nkrumah insisted on, arguing that
+nations which contributed nothing would have no ownership of the
+outcome and no voice in its execution.
+
+The compromise was reached at 0200 hours on Wednesday morning, nineteen
+hours after the bunker had been sealed. By that time, the mahogany
+table was littered with coffee cups and paper and the detritus of
+argument. The delegates were exhausted. Several had loosened their ties.
+Minister Chen had removed her shoes. Volkov had smoked half a pack of
+cigarettes, in defiance of the bunker's ventilation system and the
+protests of the Costa Rican delegate, who had asthma.
+
+Hale looked around the table. Twelve faces, drawn with fatigue, tight
+with the residue of disagreement. This was not unity. This was not the
+noble, collective response that the crisis demanded and that history
+would, in retrospect, pretend had occurred. This was twelve people
+who had spent nineteen hours fighting and had arrived, through sheer
+exhaustion and the pressure of a four-month deadline, at an arrangement
+that was better than nothing and worse than what was needed.
+
+It would have to do.
+
+"Do we have agreement?" he asked.
+
+Volkov looked at him for a long moment. Then he nodded. One by one,
+the others followed. Chen. Nkrumah. The British PM. The French
+president. The Indian prime minister. The Brazilian delegate. Costa Rica.
+
+Twelve nods. Not enthusiastic. Not confident. But sufficient.
+
+"Then we begin," Hale said.
+
+                               V.
+
+The deflection fleet launched eleven weeks later — three weeks ahead of
+the deadline, a fact that surprised everyone involved and that was
+attributable, in roughly equal measure, to the urgency of the threat
+and the competitive pride of three space programs that would rather
+have died than been the last to launch.
+
+Hale watched the American launches from the Situation Room in the White
+House, surrounded by generals and scientists and advisors who had spent
+the past three months working without sleep to make this possible. The
+Soviet launches he watched on a video feed from Baikonur, relayed
+through the Darmstadt control center. The Chinese launches came last,
+twelve hours later, and when the final impactor achieved orbit, the
+room erupted in a sound that Hale had never heard in the Situation
+Room before: applause.
+
+He did not applaud. He sat in his chair and watched the tracking data
+on the main screen — twenty-six impactors on converging trajectories,
+accelerating toward a rock that was still, at this distance, invisible
+to the naked eye — and thought about Nkrumah.
+
+The Ghanaian delegate had been right. Every argument in the bunker had
+been a microcosm of every failure of the century: the inability to
+see past national interest, the confusion of power with wisdom, the
+pathological refusal to act collectively until the alternative was
+annihilation. The species had risen to the occasion, but it had risen
+slowly, grudgingly, and at the last possible moment, and the manner of
+the rising did not inspire confidence that it could be repeated.
+
+The impactors struck 2157-Kali on a Sunday morning. The impact was
+visible from Earth orbit — a brief, bright flash against the dark of
+space, followed by a plume of debris that caught the sunlight and
+scattered it in a fan of light that was, despite everything, beautiful.
+The tracking data confirmed deflection within minutes: the asteroid's
+trajectory had shifted by 0.07 degrees — a tiny number that
+translated, over the remaining distance, to a miss of forty-two
+thousand kilometers.
+
+The world celebrated. Hale watched the celebrations on television — the
+crowds in Times Square, Red Square, Tiananmen, Accra — and felt not
+triumph but something more complicated: a relief so profound it was
+indistinguishable from grief. Grief for what the crisis had revealed
+about the species. Grief for the knowledge that the next crisis would
+produce the same arguments, the same failures, the same last-minute
+scramble toward a compromise that was less than what was needed and more
+than what was deserved.
+
+He picked up the phone and called Nkrumah.
+
+"We did it," Hale said.
+
+"Yes," Nkrumah said. "The question is whether we learned anything."
+
+Hale looked out the window of the Oval Office. The sky was clear and
+blue and infinite, and somewhere beyond it, a rock was sailing past the
+Earth, deflected by the combined effort of a species that had argued
+for nineteen hours about who would be in charge of saving itself.
+
+"I don't know," he said.
+
+"Neither do I," Nkrumah said. "But the question is worth asking.
+Because the next one will come, Mr. President. The universe is not
+short of rocks."
+
+Hale hung up the phone. He sat at his desk for a long time, alone in
+the room where power lived, and thought about rocks and tables and the
+distance between what a species could do and what it could agree to do.
+
+The distance, he thought, was the most dangerous space in the universe.
+More dangerous than the void between stars. More dangerous than the
+trajectory of any asteroid.
+
+It was the space between twelve chairs at a round table.
+
+And he did not know how to bridge it.
+
+                            [THE END]
+
+================================================================================
+
+                       THE WANDERER'S REST
+
+                       by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+The planet appeared first as a change in the quality of the light.
+
+Elias Sundström noticed it from the observation gallery on the forward
+deck of the Covenant — a gallery that had been empty for most of his
+life, because for most of his life there had been nothing to observe.
+The stars moved, of course, in the imperceptible way that stars move
+when you are crossing the distances between them: slowly, over decades,
+the constellations shifting from their remembered shapes into new
+arrangements that the ship's astronomers dutifully catalogued and named,
+though no one on Earth would ever see the sky from this angle. But the
+stars were a constant. They did not change their quality. They were
+points of light, and they remained points of light, and the distances
+between them remained vast and dark and empty.
+
+Now, one of the points was changing. It was growing brighter, and it
+was growing warmer — shifting from the cold white of a distant star to
+something that carried, at the very edge of perception, a faint amber
+tone. The tone of a sun seen through atmosphere. The tone of a world.
+
+Elias stood at the gallery window — three meters of transparency that
+separated the pressurized interior of the ship from the vacuum — and
+watched the light change. He was seventy-four years old, which made him
+among the oldest people aboard the Covenant. He had been born on the
+ship, as his parents had been born on it, and their parents before them.
+His great-grandparents, on both sides, had been among the original
+colonists who had boarded the Covenant in the shipyards of Stockholm
+three hundred and twelve years ago.
+
+Three hundred and twelve years. The number had the quality of a
+scripture — something recited, something known, something that carried
+meaning beyond its arithmetic. Three hundred and twelve years since the
+ship had left Earth. Three hundred and twelve years of recycled air and
+recycled water and the slow, patient propagation of a species that had
+chosen to cross the abyss between stars in the only way it could: by
+living through it, generation after generation, parents giving way to
+children giving way to grandchildren, each generation carrying the
+mission forward like a candle flame passed from hand to hand in a dark
+cathedral.
+
+And now the candle was arriving. The star ahead was Tau Ceti, and the
+planet that orbited it — the planet that the original colonists had
+chosen as their destination, based on spectroscopic data gathered from
+telescopes on Earth — was becoming visible. Not yet as a disc, not yet
+as a world with geography and weather, but as a quality of light. A
+warmth. A promise.
+
+Elias pressed his palm against the window. The glass was cold — it was
+always cold, the vacuum on the other side a constant theft of heat —
+and through it, very faintly, he could feel the vibration of the ship's
+engines, which had been running continuously for three hundred and
+twelve years and which, within the next few months, would begin the
+long process of deceleration that would bring the Covenant to rest.
+
+He had waited his entire life for this light.
+
+                              * * *
+
+The announcement came the following morning, from Captain Ingrid Holm,
+in the measured tones that the ship's command tradition prescribed for
+communications of significance. Every captain of the Covenant spoke
+this way — carefully, formally, with a gravity that acknowledged the
+weight of what they said — because every communication of significance
+aboard a generation ship was, in a sense, a communication across time.
+The words would be recorded, archived, passed down. Someday, someone
+would listen to them and judge.
+
+"Citizens of the Covenant. This is Captain Holm. I am pleased to
+confirm that our long-range sensors have achieved resolution on our
+destination. Tau Ceti IV is visible. Spectroscopic analysis is
+consistent with the projections made at the time of our departure: the
+planet possesses a nitrogen-oxygen atmosphere, liquid water, and a
+surface temperature range compatible with human habitation.
+
+"However."
+
+The word hung in the ship's corridors and gathering spaces and private
+cabins like a held breath.
+
+"Our sensors have also detected a second vessel in orbit around Tau
+Ceti IV. The vessel is of human origin. It is broadcasting a standard
+transponder signal identifying it as the Aurelius, a colony ship
+launched from Earth one hundred and fourteen years after the Covenant's
+departure."
+
+Silence. A silence so complete that Elias, standing in the gallery,
+could hear the ship breathing — the air systems, the water recyclers,
+the constant, almost subliminal hum of a world in transit.
+
+"The Aurelius appears to have arrived at Tau Ceti IV approximately
+forty years ago. Preliminary sensor data indicates the presence of an
+established settlement on the planet's surface."
+
+Captain Holm paused. When she spoke again, her voice was the same —
+measured, formal, careful — but Elias heard something beneath it that
+no command tradition could fully conceal. The sound of a woman
+delivering news that changed everything.
+
+"We will make contact with the Aurelius within the hour. I will
+address the ship again when we know more. In the meantime, I ask for
+your patience, your composure, and your trust. We have traveled three
+hundred and twelve years to reach this place. We will not be undone
+by surprise. Holm out."
+
+                               II.
+
+The Aurelius had been launched in 2184, one hundred and fourteen years
+after the Covenant. It had traveled faster — vastly faster — using a
+fusion pulse drive that had been developed in the decades following the
+Covenant's departure. Where the Covenant had crawled through the
+interstellar medium at eight percent of light speed, enduring the
+journey through the brute mechanism of biological succession, the
+Aurelius had made the crossing in seventy years, its crew spending most
+of the voyage in cryogenic suspension, waking only for scheduled
+maintenance intervals.
+
+It had arrived at Tau Ceti IV forty-two years ago. Its colonists —
+three thousand of them — had established a settlement on the planet's
+largest continent, a temperate landmass they had named New Geneva. They
+had built homes, cleared fields, constructed infrastructure. They had
+children and grandchildren. They had a functioning society.
+
+They had been waiting, with some curiosity and considerable awkwardness,
+for the Covenant to arrive.
+
+All of this Elias learned in the hours following Captain Holm's
+announcement, as the Covenant's communication officers established
+contact with the settlement and the two crews began the cautious,
+formal process of introducing themselves. The exchanges were polite.
+They were also, beneath the politeness, saturated with an unspoken
+tension that Elias felt in every word.
+
+The Covenant carried two thousand, four hundred people. They were the
+descendants of the original colonists — people who had given up
+everything, who had committed their children and their children's
+children and their children's children's children to a voyage from
+which there was no return, because they believed that the destination
+was worth the sacrifice. They had maintained the ship for three
+centuries. They had endured the isolation, the confinement, the slow
+erosion of meaning that came from living in a world that was going
+somewhere but never arriving. They had kept faith with the mission
+through twelve generations of birth and death and the patient handing
+on of purpose.
+
+And now they learned that their sacrifice had been unnecessary.
+
+The planet was already settled. The work was already done. Someone else
+had gotten there first — not through greater courage or greater
+endurance, but through better technology, developed after the Covenant
+had left. The Covenant's colonists had spent three hundred years
+crossing the void, and the answer to their journey had overtaken them
+in transit.
+
+Elias sat in the gallery and watched the planet grow in the window. It
+was beautiful. He could see continents now, and clouds, and the blue
+gleam of oceans. It looked, from this distance, like the photographs of
+Earth that hung in the ship's archive — the world that none of them had
+ever seen, the world that existed only as a concept, a origin point, a
+story told to children about where the journey had begun.
+
+He should have felt joy. They had arrived. The destination was real and
+habitable and waiting for them.
+
+Instead, he felt something he could not name. Something that was not
+grief and not anger but lived in the territory between them. A
+hollowness. A subtraction. As though something essential had been
+removed from the center of his life — the purpose that had organized
+it, the meaning that had justified it — and what remained was the
+shape of a life that no longer made sense.
+
+                               III.
+
+The first face-to-face meeting took place aboard the Covenant, in the
+large assembly hall on Deck Two that served as the ship's parliament,
+its theater, and its cathedral. Captain Holm had insisted that the
+meeting take place on the Covenant rather than on the planet or aboard
+the Aurelius, and the insistence carried a weight that everyone
+understood without it being spoken: this was the Covenant's moment.
+Whatever it turned out to mean, it would happen here, on the ship
+that had earned it through three centuries of endurance.
+
+The delegation from New Geneva was led by Governor Marianne Descamps,
+a woman of sixty with silver hair and the composed, careful manner of
+someone who had been preparing for this conversation for a long time.
+She brought with her three council members and a historian — the
+historian being, Elias thought, the most telling choice. You brought a
+historian when you expected the conversation to be remembered.
+
+Governor Descamps stood at the front of the assembly hall and looked
+out at the citizens of the Covenant — two thousand four hundred faces,
+young and old, arranged in the tiered seating that rose from the floor
+to the ceiling — and when she spoke, her voice was steady and kind and
+carried within it something that Elias recognized, with a surprise that
+was almost physical, as shame.
+
+"Citizens of the Covenant," she said. "On behalf of the people of New
+Geneva, I welcome you to Tau Ceti. I want to begin by saying something
+that I have been preparing to say for as long as I have held this
+office, and that the people of New Geneva have been preparing to say
+for forty-two years."
+
+She paused.
+
+"We are sorry."
+
+The hall was silent. The word settled into it like snow.
+
+"We know what you have done. We know what your ancestors chose, and
+what every generation since has honored. You crossed the void between
+stars in the only way that was possible when you left, and you did it
+knowing that the crossing would consume your lives and the lives of
+your children. The people who built the Aurelius knew this. They knew
+that a ship was already in transit — your ship — and that the new
+drive technology would overtake it. They debated whether to go at all,
+knowing that their arrival would make your voyage, in a certain sense,
+unnecessary."
+
+She paused again. Elias watched her face. She was choosing her words
+with a care that suggested she had rehearsed them many times and was
+not satisfied with any version.
+
+"They went anyway. The reasons were practical: the new drive was
+untested over interstellar distances, and there was no guarantee it
+would work. The Covenant was the insurance. If the Aurelius failed,
+the Covenant would still arrive. If the Aurelius succeeded — as it
+did — then both ships would contribute to the colony. That was the
+logic. It was sound logic. But logic does not account for what it
+means to travel three hundred years and find that someone has arrived
+before you."
+
+A murmur ran through the hall. Not anger — something quieter. The
+sound of people processing a truth they had suspected but not yet
+heard spoken.
+
+"We have built a place for you," Descamps continued. "Land has been
+set aside. Homes are being prepared. You are not guests here — this
+planet is as much yours as ours. More, perhaps. You were promised this
+world before we were born. That promise has not been revoked by our
+presence. It has been — complicated."
+
+She stopped. The word hung in the air, and it was, Elias thought, the
+most honest word she had spoken.
+
+Complicated.
+
+                               IV.
+
+In the days that followed, the citizens of the Covenant debated what to
+do. The debate was held in the assembly hall, in the tradition of the
+ship's parliament, and it was open to all, and it was the most
+difficult conversation the ship had ever held.
+
+Some wanted to land immediately. The planet was there. The homes were
+waiting. Three hundred years of voyage had earned them the right to
+feel solid ground under their feet, to breathe air that had not been
+recycled ten thousand times, to look up and see a sky instead of a
+ceiling.
+
+Others were not so certain. They spoke about identity, about meaning,
+about the particular culture that had evolved aboard the Covenant over
+three centuries — a culture of patience, of conservation, of careful
+stewardship, of the knowledge that every resource was finite and every
+action consequential. The planet would change them. The open sky would
+change them. The presence of a society that was already established, that
+had its own customs and assumptions and ways of doing things — that
+would change them most of all.
+
+"We will become their dependents," said Karin Lindqvist, who taught
+history in the ship's school and who had spent her life studying the
+culture of the Covenant with the devotion of an anthropologist. "They
+have forty years of settlement experience. They know the planet. They
+know the climate, the soil, the dangers. We know how to live on a
+ship. The transition will not be a partnership — it will be an
+apprenticeship. And in a generation, the Covenant's culture will be
+absorbed into theirs. Everything we have built, everything we have
+maintained for three hundred years — the language of this ship, the
+traditions, the way we raise our children and bury our dead — will
+become a footnote in someone else's history."
+
+"And is that not acceptable?" said Tomas Eriksson — no relation to
+Elias, though they shared a surname, as many aboard the Covenant
+shared surnames after twelve generations of a closed population. Tomas
+was young, thirty-two, an engineer who worked in the ship's propulsion
+section. "We came here to build a life on a new world. The world is
+here. The fact that someone else arrived first does not change the
+purpose of our voyage. It changes only the circumstances of our
+arrival."
+
+"Circumstances are not trivial," Karin said. "Circumstances are
+everything. The purpose of our voyage was not merely to arrive — it was
+to build something new. To create a society from nothing, on a world
+that had never been touched. That opportunity is gone. What remains is
+assimilation."
+
+The word rang in the hall like a struck bell, and Elias, sitting in his
+customary seat in the upper tier, understood that this was the true
+wound. Not the loss of priority. Not the embarrassment of obsolescence.
+But the fear that the Covenant's three-hundred-year experiment in human
+endurance would be dissolved, like salt in water, into a larger society
+that had not earned it and could not understand it.
+
+                              * * *
+
+Elias spoke on the third day of debate. He had not planned to speak.
+He was not a public person — he had spent his life as the ship's head
+gardener, tending the hydroponic bays that produced most of the
+Covenant's fresh food, and his skills were horticultural rather than
+rhetorical. But he had sat in the gallery and watched the planet grow,
+and he had listened to the arguments, and something had settled in him
+that needed to be said.
+
+He stood slowly — his knees were not what they had been — and the hall
+quieted. The Covenant's citizens were accustomed to listening to their
+elders. It was one of the traditions that Karin was afraid of losing.
+
+"I have been a gardener for fifty years," Elias said. "I know
+something about seeds. A seed does not choose the soil it lands in.
+It does not choose the season, or the weather, or the company of
+other plants. It lands where the wind carries it, and it grows, or
+it does not. What matters is not the soil. What matters is the seed."
+
+He paused. The hall was very quiet.
+
+"We are the seed. Not the ship — the ship is the vessel, the carrier,
+the wind. We are the seed. Three hundred years of living, of loving,
+of raising children and burying parents and maintaining this ship and
+keeping faith with a promise that none of us made but all of us
+honored — that is the seed. And the seed does not become less because
+the soil has been turned before it arrives. It becomes what it has
+always been. It grows."
+
+He looked out at the faces. Young and old, frightened and hopeful,
+uncertain about everything except the fact that they were here, together,
+at the end of a journey that had consumed twelve generations.
+
+"I say we land," Elias said. "Not because the homes are waiting, and
+not because the planet is beautiful, though it is. I say we land
+because that is what we came to do. And what we bring with us — the
+patience, the care, the knowledge of how to live within limits — that
+is not a footnote. That is a gift. And this new world will need it,
+whether it knows it yet or not."
+
+He sat down. The applause, when it came, was quiet and sustained, the
+sound of a people deciding.
+
+                               V.
+
+The Covenant entered orbit around Tau Ceti IV on a morning that Elias
+measured not by the ship's clock but by the light. The planet filled
+the gallery window, enormous and blue-green and alive, and the light
+that poured through the glass was not the cold, filtered light of
+stars but the warm, scattered light of a sun seen through atmosphere
+— the light of a world.
+
+The landing shuttles were prepared. The settlement of New Geneva had
+cleared a field — a broad, flat expanse of grassland on the northern
+edge of the colony — and marked it with lights, visible from orbit, as
+a welcome. The Covenant's citizens packed what they could carry:
+personal belongings, family records, seeds from the hydroponic bays.
+Elias packed seeds. He had been saving particular strains for decades,
+varieties that had adapted to the ship's artificial light and recycled
+water over three hundred years of cultivation. They were not the same
+plants that had been brought from Earth. They had changed. They had
+become something new — something that had never existed before, shaped
+by the particular conditions of a journey that would never be repeated.
+
+He held the seed packets in his hands — small envelopes, carefully
+labeled in his neat gardener's script — and thought about what they
+represented. Not just plants. Not just food. A record. A living record
+of three hundred years of adaptation, of change, of the slow, patient
+work of growing things in a place where nothing was supposed to grow.
+
+The first shuttle launched at 0600, carrying Captain Holm and the
+advance party. Elias watched it go from the gallery — a bright point
+of light descending toward the planet's surface, growing smaller and
+smaller against the blue until it vanished into the atmosphere.
+
+He would go on the fourth shuttle. He had requested this specifically
+— not the first, not the last, but somewhere in the middle, because
+that was where he had always been: in the middle of the journey, in the
+middle of the work, in the middle of the long, patient process of
+growing things.
+
+When his turn came, he walked to the shuttle bay with his seed packets
+in his coat and his hand on the corridor wall, feeling for the last
+time the vibration of the ship that had been his world for seventy-four
+years. The steel was warm under his fingers. The air tasted of
+recycled water and the faint green scent of the hydroponic bays.
+
+He stepped into the shuttle. The door closed behind him. Through the
+window, he could see the Covenant — the whole ship, for the first time
+in his life, from the outside — and it was smaller than he had imagined.
+A cylinder of steel and glass, six kilometers long, hanging in the
+light of an alien sun. It had carried twenty-four hundred people across
+twelve light-years of void. It had been home to twelve generations. It
+had fulfilled its purpose.
+
+The shuttle descended. The planet rose to meet it — clouds, then blue
+sky, then green land, then the bright points of the settlement lights,
+then the texture of grass and soil and the faint, astonishing scent of
+air that had never been inside a machine.
+
+Elias stepped onto the ground. His knees trembled — partly from age,
+partly from the gravity, which was stronger than the ship's rotation
+had simulated, partly from something else that he did not try to name
+because naming it would diminish it.
+
+He knelt. He took a handful of soil. It was dark and cool and alive
+with the particular smell of a world that had been growing things for
+four billion years without any help from anyone.
+
+He opened his coat and took out the seed packets. He held them for a
+moment — three hundred years of adaptation, twelve generations of
+careful cultivation, the living record of a journey — and then he
+knelt in the turned earth of an alien world and began, with the slow,
+practiced hands of a gardener, to plant.
+
+Above him, the sky was open and vast and blue, and in it, barely
+visible against the daylight, the Covenant hung in orbit — a point of
+light, a memory, a vessel that had carried its cargo of seeds across
+the dark and delivered them, at last, to soil.
+
+The seeds would grow. They always did.
+
+It was what seeds were for.
+
+                            [THE END]
+
+================================================================================
+
+                       DEAD RUN TO PLUTO
+
+                     by Robert "Bob" Finley
+
+================================================================================
+
+                               I.
+
+The trouble started, as trouble usually did in Jake Trent's line of
+work, with a knock on his door at three in the morning.
+
+Jake was asleep in his bunk aboard the Jackrabbit — a mail courier
+sloop, Reyes-class, seventeen years old and showing every one of them —
+docked at Ceres Station and running through a forty-eight-hour layover
+that he had planned to spend doing exactly what he was doing: sleeping.
+The Jackrabbit's engines were cold, her tanks were half full, and Jake's
+manifest showed nothing pending for another six days. He had earned the
+rest. The Ceres-to-Mars run had been a grinder — solar storm delays,
+a balky gyroscope, and a customs inspector on Phobos who had taken a
+personal interest in the contents of Jake's cargo hold, which were, for
+once, entirely legitimate.
+
+The knock came again. Hard, insistent, the knock of someone who was
+not going to go away.
+
+Jake rolled out of his bunk, pulled on his boots, and palmed the hatch
+release. The man standing in the corridor was short, round, sweating
+through an expensive suit, and holding a briefcase with both hands as
+though it contained his firstborn child.
+
+"Jake Trent?"
+
+"At this hour, I'm barely Jake Trent. What do you want?"
+
+"My name is Wheelock. I represent the firm of Ashford, Dent, and
+Castellano, attorneys at law, Luna City. I need you to deliver this
+briefcase to Charon Station on Pluto. The contents are a signed
+executive pardon for a man named Victor Gale, who is currently
+scheduled to be executed in ninety-six hours."
+
+Jake looked at the briefcase. He looked at Wheelock. He looked at the
+clock on the bulkhead behind him, which confirmed that it was, in fact,
+three in the morning.
+
+"Pluto," he said.
+
+"Yes."
+
+"In ninety-six hours."
+
+"Yes."
+
+"Mister, I don't know who told you I could make a Ceres-to-Pluto run
+in ninety-six hours, but they were pulling your leg. Best transit time
+from here to Pluto at current orbital positions is — " He did the
+math in his head. The outer planets were scattered across the solar
+system like pool balls after a bad break, and Pluto, as usual, was
+about as far from Ceres as it could get without leaving the solar
+system entirely. "— eighty-eight hours, assuming I burn hard and don't
+sleep."
+
+"Then you have eight hours to spare."
+
+"I have eight hours of margin on a four-day burn through the outer
+system. That's not margin. That's a prayer."
+
+"The firm is prepared to pay twenty thousand dollars. Cash. Upon
+confirmation of delivery."
+
+Jake Trent had been a mail courier for eleven years. He had hauled
+letters, legal documents, biological samples, diplomatic pouches, and
+the occasional item that he was paid not to ask about, across the inner
+system and out to the Jovian stations and back. He was good at his job.
+He was fast, he was reliable, and he knew the routes the way a cab
+driver knows the streets — every shortcut, every timing window, every
+gravitational slingshot that could shave an hour off a transit.
+
+Twenty thousand dollars was more than he usually made in four months.
+
+"What did this Gale do?" he asked.
+
+"He was convicted of murder. He maintains his innocence. New evidence
+has come to light. The governor has signed the pardon, but the pardon
+must be physically delivered to the warden of Charon Station before the
+execution can be stayed. Electronic transmission is not sufficient —
+Charon Station operates under Frontier Justice Protocol, which requires
+original documents with physical signatures and biometric seals."
+
+"Frontier Justice Protocol. That's the one they wrote to keep Earth
+from interfering with outer system courts."
+
+"The very same. A pardon is not valid until the original document is in
+the warden's hand. We have been unable to find a courier closer to
+Pluto. You are our last option, Mr. Trent."
+
+Jake looked at the briefcase again. Twenty thousand dollars. A man's
+life. Ninety-six hours, minus the eighty-eight it would take to get
+there.
+
+"I'll need full tanks," he said. "And someone to pull my gyroscope and
+give it a kick. It's been drifting."
+
+Wheelock opened the briefcase — not the delivery briefcase, Jake noted,
+but a second one he'd been carrying under his arm — and produced a
+credit chip. "The firm will cover all expenses. Fuel, repairs, anything
+you need. Just get there."
+
+Jake took the credit chip and the delivery briefcase and the knowledge
+that somewhere out past Jupiter, a man named Victor Gale was counting
+hours.
+
+"I'll leave in two," he said.
+
+                               II.
+
+The Jackrabbit cleared Ceres Station at 0517 hours, running hot and
+heavy with full tanks and a freshly calibrated gyroscope, and Jake
+pointed her nose at the patch of sky where Pluto would be in eighty-
+eight hours and opened the throttle.
+
+The Reyes-class sloop was not a pretty ship. She was built for speed
+and endurance, not aesthetics — a narrow hull with oversized engines, a
+minimal crew cabin, and a cargo hold that could accommodate exactly one
+mail courier's worth of parcels, documents, and questionable decisions.
+Jake had bought her used eight years ago, rebuilt her engines twice,
+replaced her navigation computer three times, and patched her hull more
+often than he cared to remember. She was old and she was cranky and she
+smelled permanently of engine grease and stale coffee, and she was the
+fastest privately owned ship in the Belt.
+
+Jake loved her the way a jockey loves a horse: with a deep, practical
+affection rooted in mutual dependence and a shared willingness to run
+until something broke.
+
+The first twelve hours were clean. Jake burned at maximum thrust,
+pushing the Jackrabbit out of the asteroid belt and into the long,
+empty stretch between Jupiter's orbit and the outer darkness. The ship
+hummed around him — engines, life support, the constant chatter of the
+navigation computer updating its trajectory calculations — and Jake
+settled into the rhythm of a long burn: check the instruments, check
+the course, check the fuel, drink coffee, repeat.
+
+He ate a meal pack at the six-hour mark and another at twelve. He did
+not sleep. Sleep was a luxury he could not afford on this run. The
+eight-hour margin was already thin, and any delay — mechanical,
+navigational, or otherwise — would eat into it like acid.
+
+At the sixteen-hour mark, the proximity alarm went off.
+
+Jake was in the head when it sounded — the sharp, insistent tone that
+meant something was close enough to worry about. He zipped up, dove for
+the cockpit, and pulled up the sensor display.
+
+A ship. Not on any filed flight plan, not broadcasting a transponder
+signal, sitting dead in space approximately two hundred kilometers
+ahead and directly on Jake's plotted course. It was small — about the
+size of the Jackrabbit — and it was dark, running without navigation
+lights, which was either illegal, foolish, or deliberate.
+
+Jake adjusted course to pass wide. As he did, the dark ship lit up its
+engines and moved to intercept.
+
+"Well," Jake said to the empty cockpit, "that's not friendly."
+
+He had no weapons. Mail couriers did not carry weapons — they were
+protected, in theory, by interplanetary postal accords that made
+interfering with mail delivery a federal offense in every jurisdiction
+from Mercury to Pluto. In practice, the accords were worth exactly as
+much as the nearest patrol ship, which at this distance from
+civilization was worth nothing at all.
+
+Jake did what he always did when someone tried to get in his way: he
+went faster. The Jackrabbit had speed to burn — literally; he pushed
+the engines ten percent past their rated maximum, a trick he had
+learned from a mechanic on Ganymede who had told him, with the casual
+authority of a man who had blown up two ships, that Reyes-class engines
+were over-engineered by exactly ten percent and could handle the abuse
+"for a while."
+
+The dark ship tried to match his acceleration. It could not. The
+Jackrabbit pulled away, the distance between them widening from two
+hundred kilometers to three hundred, to four hundred, to five, and then
+the dark ship fell behind and Jake watched it shrink on the rear
+sensors until it was just another dot in the void.
+
+"Someone," Jake said to the Jackrabbit, "does not want us to make this
+delivery."
+
+The Jackrabbit did not answer, but her engines ran steady and strong,
+and Jake patted the console the way you pat a horse's neck after a
+hard run.
+
+                               III.
+
+The second attempt came at the forty-hour mark, and it was more
+sophisticated.
+
+Jake had crossed Jupiter's orbit and was deep in the outer system now,
+in the vast, cold emptiness between the gas giants and the ice worlds
+where the sun was a bright star and nothing else. The Jackrabbit was
+running well — engines nominal, fuel consumption on target, course
+true — and Jake had allowed himself a brief nap, twenty minutes in the
+pilot's chair with one eye metaphorically open, when the navigation
+computer flagged an anomaly in the route ahead.
+
+A debris field. Dense, metallic, approximately the size of a football
+stadium, sitting directly in his path at a distance of eight hundred
+kilometers. It had not been there on his charts. It had not been
+reported by any traffic control authority. It had, according to the
+computer's analysis, the spectroscopic signature of processed steel,
+which meant it was not natural debris.
+
+Someone had dumped a load of scrap metal in his flight path.
+
+Jake did the math. Going around the debris field would cost him three
+hours — nearly half his remaining margin. Going through it was possible
+but risky: the Jackrabbit's hull was tough enough to handle small
+impacts, but a chunk of steel at the wrong angle could punch through
+the hull plating and end the run in a very permanent way.
+
+He chose a middle option. He would go through, but slowly, using the
+ship's forward sensors to thread a path between the larger pieces.
+It would cost him time — maybe ninety minutes — but less than going
+around.
+
+The ninety minutes were the longest of Jake's career. He flew manually,
+hands on the stick, eyes on the sensor display, weaving the Jackrabbit
+through a tumbling maze of scrap steel that pinged and scraped against
+the hull like hail on a tin roof. Twice, he had to fire the lateral
+thrusters to dodge a piece that was too large to brush off. Once, a
+chunk the size of his fist hit the port engine nacelle with a bang that
+made him flinch, but the nacelle held, and the engine kept running, and
+Jake kept flying.
+
+He cleared the debris field at the forty-two-hour mark, sweating and
+wide awake and angrier than he had been in years. Someone had paid good
+money to put that junk in his path. Someone with the resources to
+calculate his course, transport several tons of scrap metal to a
+precise point in deep space, and dump it with enough accuracy to force
+him through or around it.
+
+This was not a casual obstruction. This was a contract. Someone wanted
+Victor Gale dead, and they were willing to spend serious money to make
+sure the pardon arrived too late.
+
+Jake checked his margin. The debris field had cost him an hour and
+forty-three minutes. He now had six hours and seventeen minutes of
+margin, on a run that still had forty-six hours to go.
+
+It was tight. But Jake Trent had been tight before. He had delivered
+mail through solar storms, past pirate ambushes, and around customs
+blockades, and he had never missed a deadline. Never. It was the only
+thing about himself that he was genuinely proud of, and he was not
+about to let some rich bastard with a grudge take it away from him.
+
+He pushed the engines back to maximum, drank the strongest coffee the
+ship's dispenser could produce, and flew.
+
+                               IV.
+
+The last forty-six hours were a blur of coffee and course corrections
+and the steady, hypnotic glow of the instrument panels in the darkened
+cockpit. Jake slept in twenty-minute intervals, the alarm set to wake
+him if anything changed. Nothing changed. The outer system was empty —
+blessedly, terrifyingly empty — and the Jackrabbit flew through it
+like a bullet through a cathedral, small and fast and alone.
+
+At the seventy-hour mark, Pluto appeared on the long-range sensors. A
+dim, cold world at the edge of everything, attended by its oversized
+moon Charon, where the prison station sat in a geosynchronous orbit
+that kept it permanently facing the planet's dark side.
+
+At the eighty-hour mark, Jake raised Charon Station on the radio.
+
+"Charon Station, this is mail courier Jackrabbit, registration Charlie-
+Mike-seven-seven-four, inbound with priority delivery. Request
+emergency docking clearance."
+
+The response came back with the flat, bored tone of a station
+communications officer who had probably not spoken to another ship in
+weeks. "Jackrabbit, Charon Station. Emergency docking clearance
+granted. Bay Three. Be advised, approach corridor is standard, no
+traffic. Welcome to the edge of nowhere."
+
+"Roger, Charon Station. ETA six hours, forty-two minutes."
+
+Six hours and forty-two minutes. The execution was scheduled for the
+ninety-six-hour mark. That left him one hour and eighteen minutes of
+margin.
+
+It was enough. Barely, ridiculously, absurdly enough, but enough.
+
+Unless something else happened.
+
+Something else happened.
+
+At the eighty-four-hour mark, twelve hours from his deadline and six
+from Charon Station, the port engine died.
+
+It did not sputter or cough or give any warning. It simply stopped.
+One moment it was running at full thrust, pushing the Jackrabbit toward
+Pluto at a speed that would have horrified the ship's original
+designers, and the next moment it was silent — a dead weight on the
+port side that immediately threw the ship into a slow, sickening yaw.
+
+Jake killed the starboard engine to stop the spin, then restarted it
+at half thrust to maintain some forward momentum while he scrambled
+to the engine compartment. The port engine's diagnostic panel told the
+story: thermal overload in the primary combustion chamber. The ten-
+percent over-rating had finally caught up with him. The chamber lining
+had cracked, and the fuel injection system had automatically shut down
+to prevent an explosion.
+
+Jake stared at the diagnostic readout and did the math. On one engine
+at half thrust, his transit time to Charon Station was — he ran the
+numbers twice — nine hours. Nine hours, when he had six and change
+until the deadline.
+
+He was going to be late. Victor Gale was going to die because Jake
+Trent's port engine had given up twelve hours short of the finish line.
+
+Jake stood in the engine compartment and looked at the cracked
+combustion chamber and thought about a man he had never met, sitting
+in a cell on Charon Station, counting hours.
+
+Then he stopped thinking and started working.
+
+The repair was not elegant. It was not safe. It was the kind of repair
+that would have gotten him grounded by any licensing authority in the
+inner system: he pulled the cracked chamber lining, replaced it with
+a section of hull plating that was approximately the right shape and
+entirely the wrong material, sealed the joints with emergency weld
+compound, and prayed — actually, literally prayed, which was something
+Jake Trent had not done since he was twelve — that the patch would hold
+long enough to get him to Charon Station.
+
+The repair took seventy-three minutes. He climbed back into the cockpit,
+strapped in, and restarted the port engine.
+
+It held. The thrust was rough — irregular, vibrating, producing a sound
+that was less "engine" and more "argument" — but it held. Jake pushed
+both engines back to full thrust and pointed the Jackrabbit at Charon.
+
+He had five hours and seven minutes until the deadline, and five hours
+and twelve minutes until arrival.
+
+He was five minutes short.
+
+Jake stared at the numbers. Five minutes. After four days of running,
+after dodging an interceptor and threading a debris field and patching
+an engine with hull plating and prayers, he was going to miss the
+deadline by five minutes.
+
+He looked at the throttle. It was already at maximum — rated maximum.
+He thought about the mechanic on Ganymede. Ten percent over-rating.
+Both engines were already running at a hundred percent, one of them on
+a patched combustion chamber that was not designed for the job.
+
+Jake pushed the throttle past the stop.
+
+The Jackrabbit screamed. There was no other word for it — the engines
+produced a sound that was part roar and part shriek and part the noise
+a machine makes when it is being asked to do something it was not built
+to do. The ship shuddered. The instrument panel flickered. The
+temperature gauges on both engines climbed into the red.
+
+Jake held the throttle and flew.
+
+                               V.
+
+The Jackrabbit docked at Charon Station at ninety-five hours and
+eighteen minutes. Forty-two minutes before the deadline.
+
+Jake didn't wait for the docking clamps to finish cycling. He popped
+the hatch, grabbed the briefcase, and launched himself down the
+docking tube and into the station's main corridor, running — floating,
+really, in Charon's minimal gravity — toward the warden's office with
+the briefcase clutched to his chest and his legs churning against the
+deck plates.
+
+The warden was a tall, gray-haired woman named Kowalski who looked at
+Jake — unshaven, unwashed, wild-eyed, wearing four days' worth of
+coffee stains and engine grease — with the expression of someone who
+has seen everything and is mildly surprised to discover that there is
+one more thing.
+
+"I have a pardon," Jake said. "For Victor Gale. Signed by the governor.
+Original document, physical signatures, biometric seals. Frontier
+Justice Protocol, Article Seven, Section Three: the execution is
+stayed."
+
+Warden Kowalski took the briefcase. She opened it. She examined the
+document — carefully, methodically, with the thoroughness of a woman
+who understood that a man's life depended on whether the paperwork was
+in order.
+
+"It's valid," she said.
+
+Jake's knees gave out. He sat down on the deck of the warden's office,
+right there on the cold steel, and put his head in his hands. His
+heart was hammering. His hands were shaking. He smelled terrible.
+
+"Mr. Trent."
+
+He looked up. Warden Kowalski was looking at him with something that
+was not quite a smile but was closer to one than anything else her face
+seemed capable of producing.
+
+"How did you get here from Ceres in ninety-five hours? The best transit
+time on record is eighty-seven, and that was a military courier with
+new engines."
+
+"I had motivation," Jake said.
+
+"I see that." She picked up her comm unit. "Block D, this is the
+warden. Stay the execution of Victor Gale, effective immediately.
+Confirmed pardon received. Acknowledge."
+
+The acknowledgment came back. A man's life, confirmed, in four words
+over a radio.
+
+Jake sat on the deck and breathed. The station hummed around him —
+cold, quiet, the most remote human habitation in the solar system, a
+prison on the dark side of a moon at the edge of everything. Outside
+the station's walls, Pluto turned, dim and frozen, lit by a sun that
+was barely more than a bright star.
+
+He thought about the dark ship in the Belt. The debris field. The
+cracked engine. Someone had tried very hard to make sure this pardon
+arrived too late, and they had almost succeeded. Five minutes. He had
+beaten the deadline by forty-two minutes, but he had been five minutes
+short until he pushed the engines past the point of sense and let the
+Jackrabbit scream.
+
+Twenty thousand dollars. It was good money. It was more money than
+Jake usually saw in four months of legitimate hauling.
+
+But that was not why he had done it.
+
+He had done it because the mail was supposed to get through. That was
+the job. That was the covenant between a courier and his cargo. You
+took the parcel, you carried it to where it was going, and you did not
+let anything stop you — not distance, not danger, not the kind of
+people who dumped scrap metal in shipping lanes to keep a man from
+getting a pardon.
+
+Jake pulled himself to his feet. He was exhausted, filthy, and his
+port engine was probably a write-off. The Jackrabbit was going to need
+a month in drydock and more money than the twenty thousand would cover.
+
+He did not care. The mail had gotten through.
+
+"Warden," he said. "Is there somewhere I can get a cup of coffee?"
+
+Kowalski almost smiled. "End of the corridor, Mr. Trent. The coffee
+is terrible."
+
+"Ma'am, after four days in the Jackrabbit, I guarantee you it's an
+improvement."
+
+He walked down the corridor toward the coffee, and behind him, in a
+cell on Block D, a man named Victor Gale learned that he was going to
+live, and the universe, which was vast and cold and largely indifferent
+to the affairs of mail couriers, was — for the moment — a fraction of
+a degree less unjust.
+
+                            [THE END]
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+HAROLD "HAL" MERCER is a civil engineer for the Ohio Department of
+Transportation and a part-time writer whose fiction specializes in the
+practical challenges of building things in space. A veteran of the Army
+Corps of Engineers with Pacific theater service, he holds an engineering
+degree from Ohio State and writes his stories during late-night sessions
+in his home in Akron, Ohio. His previous stories for these pages include
+"Load-Bearing" (Issue #7) and "Stress Test" (Issue #12). He is married
+to Dorothy Mercer, has four sons, and maintains that a story, like a
+bridge, must be built to spec. "The Bridge to Forever" is his most
+ambitious structure to date.
+
+FATHER THOMAS AQUINO is an ordained Jesuit priest and professor of
+philosophy and theology at Loyola University in Baltimore. He writes
+science fiction because he believes that imagining the extent of God's
+creation is a form of theological inquiry. His first story for these
+pages, "The Jesuit's Equation" (Issue #17), was one of the most warmly
+received stories we have published. "The Confession Booth" is his second
+appearance, and we expect it will provoke as much thoughtful discussion
+as his first. He writes slowly, carefully, and with a quiet sense of
+humor that surfaces at unexpected moments.
+
+THEODORE CAIN is, by any measure, the most prolific contributor in the
+history of this magazine. A former autoworker and current technical
+writer for General Motors in Dearborn, Michigan, he has published a
+story in nearly every issue since our first, demonstrating a versatility
+that is the envy of his peers. "Counterfeit Cosmos" marks his latest
+exercise in genre-bending — a mystery wrapped in a xenoarchaeological
+enigma. He writes every evening from 8:00 PM to midnight, seven days
+a week, and reports that his wife, Jean, has learned to sleep through
+the sound of his typewriter.
+
+FRANKLIN HOYT is a journalist and fiction writer based in Washington,
+D.C. A graduate of Howard University and a veteran who served in a
+segregated Army unit during the war, he brings to his fiction a
+journalist's clarity, a preacher's moral authority, and a profound
+skepticism about the exercise of power in all its forms. His first
+story for these pages, "The Committee" (Issue #14), was the most
+politically charged story we have published, and "The Doomsday Caucus"
+continues his sustained examination of how nations behave — and
+misbehave — under pressure. He is married to civil rights attorney
+Barbara Hoyt.
+
+GUNNAR ERIKSSON is a literary translator and fiction writer who lives in
+Stockholm, Sweden, and writes in English with a beauty and precision
+that puts many native speakers to shame. His generation ship stories —
+beginning with "Long Watch" (Issue #16), which prompted an admiring
+letter from Ray Bradbury — are among the most distinctive and haunting
+work in science fiction. "The Wanderer's Rest" is his finest story for
+these pages, a meditation on sacrifice, obsolescence, and the stubborn
+persistence of hope. He is married to painter Ingrid Bergstrom, and
+they live quietly in Sodermalm.
+
+ROBERT "BOB" FINLEY learned to write in the pulps, and he has never
+apologized for it. A Chicago native who has been writing professional
+fiction since 1939, he has published over two hundred stories across
+every genre and brings to science fiction the pure, uncut narrative
+energy of the old pulp tradition. His stories move fast, his dialogue
+crackles, and his heroes are the kind of resourceful, stubborn,
+slightly battered men who get the job done no matter what. "Dead Run
+to Pluto" is Finley at his best: a chase story so fast you may want
+to hold the magazine with both hands. He lives in Rogers Park, Chicago,
+with his wife Carol and an indeterminate number of cats.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+Hal Mercer's "Cantilever" in Issue #18 was the finest piece of
+engineering fiction I have read in any magazine. The man understands
+load dynamics, and he writes about them with a clarity that makes me
+wish my own engineering students could express themselves half as well.
+I would, however, note that his calculation of the thermal expansion
+coefficient for the carbon nanotube composite appears to assume a
+constant temperature gradient, which is unrealistic in the orbital
+environment he describes. The actual cycling would produce fatigue
+effects that — but I realize I am writing a technical critique rather
+than a letter to the editor. Suffice it to say: more Mercer, please.
+
+                              — Dr. Heinrich Baumann
+                                 Department of Materials Science
+                                 ETH Zurich, Switzerland
+
+Dear Editor,
+
+Father Aquino's "The Jesuit's Equation" in Issue #17 was a revelation.
+I had not believed it possible to write a science fiction story about
+faith that took both the science and the faith seriously, without
+mocking either one. Father Aquino has done it, and done it beautifully.
+I am not a religious man, but I found myself moved by the intelligence
+and compassion of his writing. If this is what theology looks like
+when it puts on a spacesuit, I want more of it.
+
+                              — David Schoenfeld
+                                 Brooklyn, New York
+
+Dear Sterling,
+
+I notice that your July issue contained THREE stories by Theodore Cain,
+if you count the one published under his "T.C. Wright" pseudonym, which
+everyone in fandom knows about. I am not complaining — Cain is always
+readable — but I would gently suggest that the magazine might benefit
+from a slightly more varied roster. We cannot ALL be Theodore Cain,
+though some months it appears we are trying.
+
+                              — Agnes Planck
+                                 Evanston, Illinois
+
+(Miss Planck is correct that "T.C. Wright" is Mr. Cain, a fact that
+was supposed to be a secret and lasted approximately one issue. In our
+defense, we needed a robot story on short notice, and Mr. Cain delivered
+one in eleven days.                                            — M.S.)
+
+Dear Mr. Sterling,
+
+Franklin Hoyt's "The Committee" was a courageous story, and you were
+courageous to publish it. In these times, it requires no small amount
+of nerve to hold a mirror up to the nation's politics and say, plainly,
+"Look at what we are doing." I am a government employee, and I cannot
+sign my real name to this letter, which is itself a commentary on the
+conditions Mr. Hoyt describes. But I want him to know that his story
+was passed, hand to hand, through my office, and that it said what many
+of us have been thinking and none of us have been willing to say.
+
+                              — "A Reader in Washington"
+
+We are honored by these letters and grateful for your engagement.
+Keep writing!                                                  — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+MISSION OF GRAVITY by Hal Clement
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clement has produced what may be the purest example of "hard"
+science fiction ever written. Set on the planet Mesklin — a disc-shaped
+world that rotates so rapidly its surface gravity ranges from three
+times Earth's at the equator to nearly seven hundred times at the
+poles — the novel follows the voyage of the alien sea captain Barlennan
+as he traverses his extraordinary world in search of a stranded human
+probe. The science is rigorous to the point of virtuosity: Clement has
+worked out the physics of Mesklin in meticulous detail, and the planet
+is as fully realized as any world in fiction. If the characters are
+somewhat overshadowed by their environment, that is the nature of the
+sub-genre, and Barlennan is engaging enough to carry the reader through.
+A must for anyone who believes that science fiction should take the
+"science" part seriously. Highly recommended.
+
+I AM LEGEND by Richard Matheson
+(Gold Medal Books, 1954, $0.25)
+
+Reviewed by Maxwell Sterling
+
+Mr. Matheson has taken the vampire story — that most venerable of horror
+traditions — and subjected it to the rigors of science fiction, with
+results that are both chilling and unexpectedly moving. Robert Neville
+is the last living man in a world of vampires, and his daily struggle
+to survive and his nightly siege against the creatures who were once his
+neighbors is told with a spare, relentless intensity that never lets the
+reader rest. The ending is a masterpiece of reversal, and I will say no
+more about it except that it redefines what we mean by "monster" and
+"legend" in ways that stay with you long after the book is closed. An
+extraordinary novel that transcends genre. Highest recommendation.
+
+THE CAVES OF STEEL by Isaac Asimov
+(Doubleday, 1954, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Dr. Asimov, having established himself as the master of robot fiction
+with his landmark story collection, now turns his attention to the
+detective novel, and the result is a hugely entertaining hybrid that
+marries the mystery genre with his characteristic speculative rigor.
+In a future New York City enclosed beneath steel domes, detective Elijah
+Baley must solve a murder while partnered with a humanoid robot named
+R. Daneel Olivaw — a partnership that forces Baley to confront his own
+prejudice against artificial beings. The mystery is well-constructed,
+the future society vividly imagined, and the relationship between Baley
+and Daneel is one of the most engaging partnerships in recent science
+fiction. If the resolution relies somewhat heavily on Asimov's Laws of
+Robotics, that is a minor quibble in a thoroughly satisfying novel.
+Recommended with enthusiasm.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #21 — September 1954
+
+We are pleased to announce the contents of our twenty-first issue:
+
+"THE CARTOGRAPHER'S DILEMMA" by Dr. Vincent Koslov — A mathematician
+discovers that the topology of a newly charted star system does not
+conform to Euclidean geometry — and that the discrepancy is growing.
+A story of mathematics, madness, and the possibility that the universe
+is not as well-organized as we assumed.
+
+"SECOND SHIFT" by Theodore Cain — When the robots at a Martian mining
+colony begin working a second shift that no one authorized, the human
+supervisors must decide whether the machines are malfunctioning, evolving,
+or simply more dedicated than their creators.
+
+"THE AMBASSADOR'S GARDEN" by Margaret Thornton — On a world where the
+dominant life form communicates through chemical signals in the soil,
+a human diplomat discovers that her garden is conducting negotiations
+of its own.
+
+"HELL'S HIGHWAY" by Rex Drummond — Jake Corvin returns in a tale of
+pursuit, betrayal, and extremely high-speed driving through the canyons
+of Valles Marineris. Not for the faint of heart.
+
+Plus: a new story by Agnes Whitfield, letters from our readers, book
+reviews, and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1954 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Gerald "Gerry" Pulaski
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================

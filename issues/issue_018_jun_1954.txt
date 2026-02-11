@@ -1,0 +1,3304 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #18 — June 1954
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "Lunar Sabotage" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+Art Director: Gerald "Gerry" Pulaski
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "Thunder Over Tranquility"
+       by Col. James "Buck" Stanton ........................... p. 4
+2. "The Pleasure Gardens of Procyon"
+       by Cordell Beaumont .................................. p. 32
+3. "The Time Traveler's Cookbook"
+       by Phyllis Crenshaw .................................. p. 64
+4. "Salvage Rights" by Theodore Cain ........................ p. 86
+5. "The Equation That Ate Chicago"
+       by Douglas Pemberton ................................. p. 104
+6. "Solar Wind" by Robert "Bob" Finley ..................... p. 120
+7. "The Bone Orchard" by Lucian Marsh ...................... p. 144
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 168
+   Signals Received: Letters to the Editor ................... p. 172
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 176
+   Coming Attractions ........................................ p. 180
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+Summer is here, and I intend to keep you indoors.
+
+That is not, I confess, the conventional purpose of a June issue. The
+magazines at the newsstand next to ours — the ones with the fishing tips
+and the barbecue recipes and the smiling families on motorboats — exist to
+propel you into the sunshine. We at Tales from the Future and Beyond have a
+different ambition. We want you on the porch, yes, but with your nose in
+these pages and your mind several hundred thousand miles away, and we have
+assembled seven stories calculated to make the hamburgers burn, the lawn
+go unmowed, and the family vacation depart without you.
+
+This is our second Summer Spectacular, and I believe it surpasses the first.
+
+We open with Colonel James "Buck" Stanton's "Thunder Over Tranquility," a
+taut, pressure-cooker thriller set on the Moon. Stanton writes military
+fiction the way he flew combat missions — with precision, urgency, and an
+unwavering awareness that real people die when the machinery fails. Major
+Hank Dalton's forty-eight-hour race against catastrophe is the most
+gripping story this magazine has published since Drummond's "Doublecross
+on Deimos" in our very first issue, and I do not make the comparison
+lightly.
+
+Cordell Beaumont follows with a journey to the legendary gardens of
+Procyon IV, where beauty is a weapon and pleasure is a trap. If you have
+ever wondered what it would feel like to be seduced by a landscape,
+Beaumont will show you — and make you grateful that your own garden is
+merely ornamental.
+
+Phyllis Crenshaw serves up temporal mischief in "The Time Traveler's
+Cookbook," a story that begins as comedy and ends as something considerably
+more unsettling. Theodore Cain delivers a tense salvage thriller with a
+sting in its tail. Douglas Pemberton gives us an equation with an appetite
+and the poor mathematician who wrote it. Bob Finley takes us racing on
+the solar wind with a crew that must ride the most dangerous wave in the
+system or die trying. And Lucian Marsh closes the issue with a story about
+an alien cemetery where the dead are growing, and the fruit they bear is
+not meant for human consumption.
+
+Seven stories. Seven reasons to let the summer pass without you.
+
+I promise you will not regret a single sunburn you fail to receive.
+
+Yours among the stars,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, April 1954
+
+================================================================================
+
+                      THUNDER OVER TRANQUILITY
+
+                  by Col. James "Buck" Stanton
+
+================================================================================
+
+                               I.
+
+The water recycling plant at Tranquility Base blew at 0347 hours, and
+Major Hank Dalton was pulling on his boots before the klaxon finished its
+first cycle.
+
+He had learned to dress in the dark during Korea. Boots, trousers, shirt,
+all in the right order, hands moving from muscle memory while his brain
+caught up. The difference was that in Korea the floor had been frozen mud.
+Here it was lunar steel, cold enough to bite through his socks, and the
+gravity was wrong — one-sixth Earth, which meant everything took longer to
+fall but hit just as hard when it did.
+
+"Report," he said into the comm unit clipped to his collar.
+
+"Sir, Recycler Three is gone." The voice belonged to Sergeant Elena Ruiz,
+his senior NCO, and the fact that she was already on the line told him
+she'd been awake. Ruiz was always awake. He'd never figured out when she
+slept. "Complete structural failure. Pressure breach in the eastern
+processing wing. Automatic seals engaged, but we lost atmosphere in
+sections fourteen through seventeen."
+
+"Casualties?"
+
+"Two confirmed dead, seven injured. Medics are on it."
+
+Dalton sealed his collar ring and stepped into the corridor. The emergency
+lighting painted everything in strips of amber and shadow. Personnel moved
+in both directions — some toward the blast site, some away from it — with
+the controlled urgency of people trained for exactly this kind of thing.
+
+"Cause?"
+
+"Unknown. Could be mechanical failure. Could be —"
+
+"Could be sabotage."
+
+The word hung in the air like exhaled breath in a cold room. Everyone had
+been thinking it. Nobody wanted to say it. The cold war between Earth and
+its Lunar colonies had been getting worse for months — tariff disputes,
+immigration freezes, the UN resolution that the colonists called the
+Dependency Act and Earth called the Mutual Responsibility Framework. Words
+on paper, mostly. Diplomatic maneuvers. Nothing that should have led to a
+bomb in a water plant.
+
+But here they were.
+
+"Get me Colonel Vasquez," Dalton said. "And get me the plant schematics.
+I want to know exactly what we lost."
+
+"Yes, sir."
+
+He walked fast, not quite running. Running in lunar gravity was an
+invitation to bounce off the ceiling, and he'd seen enough new transfers
+crack their skulls to know better. The corridor curved gently — Tranquility
+Base was built in concentric rings, like the cross-section of a tree —
+and he passed through three pressure doors, each one cycling green as his
+badge triggered the sensors.
+
+The base held ten thousand people. Miners, engineers, technicians,
+administrators, families. A city under glass and regolith, dug into the
+Mare Tranquillitatis with twenty years of tunneling and sweat. They grew
+food in hydroponic bays, manufactured breathing air from lunar ice, and
+recycled every drop of water through a system of three processing plants
+that kept the whole operation alive.
+
+One of those plants was now a hole in the ground.
+
+Dalton reached the command center, a windowless room at the hub of the
+base that smelled of coffee, sweat, and the particular ozone tang that
+meant someone had been running the backup generators. Colonel Maria
+Vasquez stood at the central table, studying a holographic projection of
+the base layout. She was a small woman with iron-gray hair and the kind
+of calm that came from having already survived the worst thing she could
+imagine.
+
+"Major," she said. "Come look at this."
+
+He looked. The projection showed Recycler Three as a red void in the
+eastern quadrant. The surrounding sections pulsed yellow — compromised but
+holding. The other two recyclers glowed steady green.
+
+"Can the remaining two plants handle the full load?"
+
+"For a while," Vasquez said. "Chief Engineer Okonkwo is running the
+numbers. Initial estimate is that Recyclers One and Two can sustain the
+population at sixty percent normal water ration for approximately forty-
+eight hours before the backup reservoirs run dry."
+
+Forty-eight hours. Two days.
+
+"After that?"
+
+"After that, we start losing people."
+
+Dalton studied the projection. Ten thousand colonists. Forty-eight hours
+of water. And somewhere in this base, possibly, the person who had done
+this.
+
+"I need to see the wreckage," he said.
+
+
+                               II.
+
+The wreckage told a story, and it was not the story of mechanical failure.
+
+Dalton stood at the edge of the blast zone in a pressure suit, boots
+crunching on shattered composite. The eastern processing wing of Recycler
+Three was open to vacuum now — the emergency seals had closed upstream,
+but the wing itself was gone, peeled open like a tin can hit with a
+sledgehammer. Through the breach, he could see the lunar surface: gray
+regolith, black sky, the blue-white marble of Earth hanging at the horizon
+like a lantern in a window.
+
+Chief Engineer Adaeze Okonkwo walked him through it. She was a tall Igbo
+woman from Lagos who had come to the Moon eight years ago and never gone
+back. She knew every pipe, valve, and gasket in the recycling system the
+way a surgeon knows the anatomy of the human heart.
+
+"Shaped charge," she said, pointing to the fracture pattern on the main
+processing tank. "See how the metal peeled outward here and here? That's
+directional force. A mechanical failure — a pressure buildup, a faulty
+weld — would have blown uniformly. This was targeted."
+
+"At what specifically?"
+
+"The primary membrane assembly. The thing that actually separates clean
+water from waste. Without it, the whole plant is just a collection of
+tanks and pipes." She paused. "Whoever did this knew exactly where to
+place the charge to do maximum damage with minimum explosive. That's not
+amateur work."
+
+Dalton looked at the wreckage. Shards of processing membrane floated
+slowly in the vacuum, catching the light like snowflakes. Two people had
+died here. Technician First Class Yuri Petrov and Water Systems Specialist
+Jennifer Huang. They'd been on the night shift, running standard
+maintenance checks, and the bomb had turned them into casualties of a war
+that nobody had officially declared.
+
+"Can you rebuild it?"
+
+Okonkwo's expression answered before her words did. "The membrane assembly
+is custom-manufactured. We have spare components for routine maintenance,
+but the core membranes are fabricated on Earth. Lead time for replacement
+is six months minimum."
+
+"We don't have six months. We have forty-eight hours."
+
+"I'm aware of that, Major." She pulled up her tablet and showed him a
+schematic. "There is one option. Recycler Three's membrane is destroyed,
+but the structural housing is intact in the secondary wing. If I can
+fabricate a temporary membrane from the polymer stock in the materials lab,
+I can get the secondary wing operational. It won't be full capacity — maybe
+thirty percent — but combined with the other two plants, it should be
+enough to sustain the population indefinitely."
+
+"How long to fabricate?"
+
+"Forty hours, working around the clock."
+
+"That gives us eight hours of margin."
+
+"Yes. If nothing else goes wrong."
+
+Dalton looked at the blue Earth on the horizon. Eight hours of margin
+against the death of ten thousand people. He'd operated on thinner margins
+in Korea, but not by much.
+
+"Start fabrication," he said. "I'll get you whatever you need."
+
+
+                              III.
+
+The investigation started where every investigation starts: with a list.
+
+Dalton set up in a borrowed office near the command center, a small room
+with a desk, a chair, and a window that looked out on the hydroponic bay —
+rows of green stretching to the curve of the ceiling, incongruously alive
+in a place that was trying very hard to die. He liked the view. It
+reminded him what he was fighting for.
+
+Sergeant Ruiz brought him the personnel files. All ten thousand of them,
+sorted by access. Not everyone on the base could have planted the bomb.
+The recycler wing had restricted access — you needed a maintenance
+clearance badge, and those were tracked. Dalton's first cut reduced the
+suspect list to four hundred and twelve.
+
+Still too many.
+
+"Cross-reference with anyone who's arrived from Earth in the last six
+months," he told Ruiz.
+
+"That narrows it to eighty-seven."
+
+"Cross-reference with anyone who has technical training in demolitions or
+structural engineering."
+
+"Fourteen."
+
+Fourteen names. Fourteen people with the access, the expertise, and the
+recent arrival from Earth that might indicate a connection to whoever was
+running this operation from the other end.
+
+"I want interviews with all fourteen. Start with the ones who were on
+shift in the twelve hours before the blast."
+
+Ruiz hesitated. It was a tiny hesitation — a half-second delay before
+she said "Yes, sir" — but Dalton caught it.
+
+"What?"
+
+"One of the fourteen is Lieutenant Chen."
+
+Lieutenant David Chen. Dalton's own logistics officer. A quiet, competent
+young man who had transferred up from Earthside six months ago and done
+solid work ever since. Dalton liked him. He was efficient, organized, and
+never complained about the assignments that made other junior officers
+grumble.
+
+"Interview him with the others."
+
+"Sir, if it's him —"
+
+"If it's him, I need to know. If it isn't him, I need to clear him so I
+can use him. Either way, interview him."
+
+"Yes, sir."
+
+The interviews began. Dalton conducted them himself, one at a time, in
+the borrowed office with the green view. He'd learned interrogation
+techniques in military intelligence school, but he'd learned more from
+twenty years of watching people lie: the way they held their hands, the
+direction their eyes moved, the pitch of their voice when they were
+constructing a story versus recalling one.
+
+Most of the fourteen were exactly what they appeared to be: specialists
+who had transferred to the Moon for career advancement and had no interest
+in blowing up the place they lived. They were frightened, cooperative,
+and angry. Two of them cried. One demanded a lawyer, which was technically
+his right under the Colonial Charter, but Dalton noted the demand and
+moved on.
+
+By the end of the first round, he had narrowed the list to three.
+
+Technician Second Class Marcus Webb. Age thirty-one. Former combat
+engineer in the Army, discharged two years ago, hired as a civilian
+contractor by the Lunar Mining Authority six months ago. He had the
+skills. He had the access. And he had a gap in his service record that
+Dalton's database couldn't explain.
+
+Dr. Sophia Laval. Age forty-four. Structural engineer on loan from the
+European Space Consortium. She'd been on the Moon for four months and
+had unrestricted access to the recycler wing for her inspection work. She
+was cooperative during the interview but vague about her movements on
+the night of the blast.
+
+And Lieutenant David Chen.
+
+
+                               IV.
+
+The clock was running, and the base was starting to feel it.
+
+Water rationing hit at 0800, twelve hours after the blast. The announcement
+went out over the base intercom in Colonel Vasquez's steady voice: sixty
+percent ration effective immediately, all non-essential water usage
+suspended. Showers limited to two minutes. Laundry operations halted.
+Hydroponic bays shifted to emergency irrigation protocols.
+
+People handled it the way people always handle rationing — with
+complaints, black humor, and the stubborn practicality of individuals who
+have chosen to live in a place that is trying to kill them. The miners
+went back to their shifts with water bottles half-full. The families in
+the residential ring organized a water-sharing cooperative. The children,
+who understood the danger better than their parents wanted to admit,
+stopped asking for seconds.
+
+Dalton spent the morning running down leads. Webb's service record gap
+turned out to be a clerical error — he'd been on a classified demolitions
+project for the Army, and the records had been improperly redacted rather
+than legitimately sealed. The Army liaison on Earth confirmed his clearance
+and his service within two hours. Webb had the skills to build the bomb,
+but the Army vouched for him, and his alibi for the night of the blast
+was solid: he'd been playing poker in the recreation bay with six
+witnesses until 0200, then gone to his bunk.
+
+Laval was harder to clear. The European Consortium was slow to respond to
+Dalton's inquiries — time zones, bureaucracy, and the twelve-second
+communications delay between Earth and Moon made every exchange feel like
+shouting across a canyon. Her credentials checked out, but her movements
+on the night of the blast remained unaccounted for between 0100 and 0400.
+She said she'd been sleeping. She lived alone in a single-occupancy
+quarter. No witnesses.
+
+Chen was hardest of all. Not because the evidence pointed at him, but
+because the absence of evidence was itself suspicious. His record was
+clean — spotlessly, unnervingly clean. Every transfer form filed on time.
+Every evaluation positive. Every duty log complete. In Dalton's experience,
+real people left messy records. It was the fabricated identities that were
+perfect.
+
+He pulled Chen's original application to the Lunar service. Born in
+Seattle. Graduated from the University of Washington with a degree in
+logistics management. ROTC commission. Two years at a supply depot in
+Kansas before requesting the Lunar transfer.
+
+All verifiable. All correct.
+
+All, Dalton suspected, perfectly constructed.
+
+
+                               V.
+
+At hour twenty-four, Okonkwo reported that the membrane fabrication was
+on schedule. At hour twenty-six, she reported a problem.
+
+"The polymer stock is contaminated," she told Dalton, standing in the
+materials lab with grease on her hands and fury in her eyes. "Someone
+introduced a catalytic agent into the storage vats. The polymer is still
+usable, but its filtration tolerance is reduced. The membrane I build from
+this stock will work, but it'll degrade faster — weeks instead of months."
+
+"Can you compensate?"
+
+"I can add a secondary filtration stage. It'll take longer. Maybe an
+additional six hours."
+
+Six hours they didn't have.
+
+"Do it," Dalton said. "I'll find you the time."
+
+He found the time by ordering Vasquez to cut the ration to forty percent.
+It was a hard call. Forty percent meant people would start getting
+dehydrated — headaches, fatigue, reduced cognitive function. In an
+emergency environment where everyone needed to think clearly, it was the
+opposite of what you wanted.
+
+But it bought six hours.
+
+The contamination of the polymer stock changed the calculation. This
+wasn't a single act of sabotage. The bomber was still active, still on
+the base, still trying to kill ten thousand people. And the polymer
+contamination required different access than the recycler wing — it
+required access to the materials lab, which had its own badge system.
+
+Dalton pulled the materials lab access logs. Cross-referenced them with
+his three suspects.
+
+Webb had never entered the materials lab. Cleared.
+
+Laval had entered the materials lab twice in the past month — both times
+logged and explained as part of her structural inspection work.
+
+Chen had entered the materials lab once, four days ago. His log entry
+read: "Inventory verification — polymer stock audit."
+
+It was a legitimate task for a logistics officer. It was exactly the kind
+of mundane duty that would attract no attention. And it had given him
+unsupervised access to the polymer storage vats.
+
+Dalton stared at the log entry. It wasn't proof. A good defense attorney
+would rip it apart in thirty seconds. But Dalton wasn't building a court
+case. He was trying to stop a saboteur from destroying a colony.
+
+He called Ruiz.
+
+"Bring Lieutenant Chen to my office. Quietly."
+
+
+                               VI.
+
+Chen sat in the chair across from Dalton's desk with his hands folded in
+his lap and his face perfectly composed. He was a good-looking young man —
+clean-cut, square-jawed, the kind of face that recruiting posters were
+made from. He met Dalton's eyes without flinching.
+
+"You know why you're here," Dalton said.
+
+"I assume it's about the recycler."
+
+"It's about the recycler. And the polymer contamination."
+
+A flicker. Just a flicker — a tightening at the corners of Chen's eyes
+that lasted a tenth of a second. But Dalton saw it. In twenty years of
+reading people, he'd learned that the face always told the truth for a
+fraction of a second before the mask went back on.
+
+"I don't know what you mean, sir."
+
+"Lieutenant, I've been investigating sabotage incidents since before you
+were born. I'm going to make you an offer. You can tell me what you know,
+right now, in this room, and I'll do everything in my power to see that
+you're treated fairly. Or you can stonewall me, and I'll lock this base
+down so tight that a cockroach couldn't move without my knowing it, and
+when I find the evidence — and I will find it — the treatment will be
+considerably less fair."
+
+Chen said nothing. His hands stayed folded. His expression didn't change.
+
+"Let me tell you what I think happened," Dalton continued. "I think you
+were recruited on Earth. I think someone — maybe military intelligence,
+maybe a private contractor, maybe someone in the UN — approached you and
+told you that the Lunar colonies were a threat to Earth's security. That
+the colonists were stockpiling resources, building independent capacity,
+preparing to break away. And I think they asked you to come up here and
+make sure that didn't happen."
+
+Still nothing.
+
+"I think you planted the shaped charge in Recycler Three. I think you
+contaminated the polymer stock as a backup in case the primary sabotage
+wasn't enough. And I think there's a third action planned — something to
+finish the job if the first two fail."
+
+Chen's eyes moved. Just a fraction. Toward the door.
+
+"There are two Marines outside that door," Dalton said. "You're not
+leaving this room until I say so."
+
+Silence. The clock on the wall ticked. Somewhere in the base, ten thousand
+people were rationing their water and trusting that someone was handling
+the crisis. Dalton could hear the ventilation system humming — the sound
+of air being circulated, recycled, kept alive by machines that worked only
+as long as someone maintained them.
+
+Chen spoke. "You don't understand what's happening, Major."
+
+"Then explain it to me."
+
+"The colonies can't be allowed to become self-sufficient. If they do — if
+they can manufacture their own food, their own water, their own air
+without depending on Earth — there's nothing to stop them from declaring
+independence. And an independent Lunar colony with access to helium-3
+mining would shift the balance of power permanently."
+
+"So your solution is to murder ten thousand civilians."
+
+"My solution was to create a crisis that would demonstrate the colonies'
+vulnerability. Force a renegotiation of the dependency framework. No one
+was supposed to die."
+
+Dalton's jaw tightened. The two technicians who had been running their
+maintenance checks at 0347 hours — Petrov and Huang — would have disagreed.
+
+"What's the third action?"
+
+Chen hesitated.
+
+"Lieutenant. What is the third action?"
+
+"Recycler One. There's a second charge. Timed for —" He looked at the
+clock. "Thirty-six hours from the initial blast. That's —"
+
+Dalton was already calculating. "Four hours from now."
+
+"If Recycler One goes down, the base is finished. One plant can't sustain
+ten thousand people, even at minimum ration."
+
+Dalton was on his feet and moving. "Ruiz! Get a bomb disposal team to
+Recycler One. Now. Full sweep, every pipe, every junction, every
+maintenance panel. Move!"
+
+He turned back to Chen. "Where exactly?"
+
+"The intake manifold. Same placement as the first charge — directional,
+aimed at the membrane assembly."
+
+"How is it triggered?"
+
+"Timer. Electronic. Hardwired — no remote detonation."
+
+Dalton grabbed the comm unit. "Okonkwo, this is Dalton. There's an
+explosive device in Recycler One, intake manifold, near the membrane
+assembly. Timer-triggered, electronic, hardwired. I need your people to
+find it and disable it. You have four hours."
+
+Okonkwo's voice came back, tight and controlled. "Understood."
+
+Dalton looked at Chen one more time. The young man sat in his chair,
+hands still folded, and for a moment Dalton saw something that might
+have been relief on his face — the look of a man who had been carrying
+a weight he could no longer bear.
+
+"Marines," Dalton called. "Take Lieutenant Chen into custody. Confine him
+to the brig, full security protocols. No communications."
+
+The Marines came in, and Chen stood without being told. He didn't resist.
+At the door, he paused and looked back.
+
+"For what it's worth, Major, I'm sorry about Petrov and Huang."
+
+Dalton said nothing. There was nothing to say that would help.
+
+
+                              VII.
+
+The bomb disposal team found the charge exactly where Chen said it would
+be. It was a neat, professional device — shaped C-4 equivalent, electronic
+timer, wired directly to a detonator embedded in the casing of the intake
+manifold. The timer showed three hours and forty-two minutes remaining.
+
+Specialist Rivera, the base's only trained explosive ordnance disposal
+technician, disarmed it in eleven minutes. She emerged from the recycler
+wing carrying the device in a containment case, her hands steady and her
+face sheened with sweat.
+
+"Clean removal," she reported. "No secondary devices detected."
+
+Dalton nodded. "Sweep the entire base. Every recycler, every critical
+system. I want confirmation that there are no additional surprises."
+
+"Yes, sir."
+
+The sweep took twelve hours and found nothing. Chen had told the truth —
+three actions, no more. The bomb, the contamination, and the second bomb.
+A carefully escalated campaign designed to create maximum pressure without,
+in theory, killing anyone.
+
+Theory had failed, as it usually did when it met the real world.
+
+
+                             VIII.
+
+At hour forty, Okonkwo completed the temporary membrane and installed it
+in Recycler Three's secondary wing. The system came online at 1947 hours
+— dirty, improvised, and running at twenty-eight percent capacity instead
+of the projected thirty. Combined with the other two plants, it was
+enough.
+
+The water ration went back to sixty percent, then seventy, then — two
+days later — full. The headaches faded. The hydroponic bays went back to
+normal irrigation. The children got their seconds.
+
+Colonel Vasquez held a base-wide assembly in the main auditorium, standing
+on the stage in front of ten thousand exhausted, relieved, angry people,
+and told them the truth: that the sabotage had been an act of political
+terrorism, that the perpetrator was in custody, and that Earth would be
+informed.
+
+She did not tell them everything. She did not tell them that Chen had been
+an agent of their own government — that the nation that claimed sovereignty
+over the Moon had tried to cripple the colony it was supposed to protect.
+That would come out later, in hearings and investigations and the
+diplomatic firestorm that Dalton could already see gathering on the
+horizon.
+
+For now, the water was running, and the people were alive, and that was
+enough.
+
+Dalton stood at the back of the auditorium and watched the assembly.
+Ruiz stood next to him, arms crossed, her face unreadable.
+
+"Think this changes anything?" she asked.
+
+"It changes everything," Dalton said. "They tried to make the colonies
+dependent by breaking the thing that made us independent. It didn't work.
+Okonkwo built a new membrane from scratch in forty hours. The colonists
+rationed their water and didn't panic. The children shared."
+
+He paused.
+
+"They wanted to prove we can't survive without Earth. Instead, they
+proved we can."
+
+Ruiz looked at him. "That's going to scare them even more."
+
+"Yes," Dalton said. "It is."
+
+He looked through the auditorium window at the lunar surface, where
+Earth hung blue and distant on the horizon. The cold war wasn't over.
+If anything, it was about to get worse. The people who had sent Chen
+would try again — different methods, different agents, different targets.
+And the colonists would have to be ready.
+
+But today, the water was running. The base was whole. Two people were
+dead, and one man was in the brig, and the machinery that kept ten
+thousand people alive was humming in the walls like a heartbeat.
+
+Major Hank Dalton stood at the back of the room and watched his people,
+and for the first time in forty-eight hours, he did not calculate how
+long they had left to live.
+
+It was enough.
+
+================================================================================
+
+                  THE PLEASURE GARDENS OF PROCYON
+
+                        by Cordell Beaumont
+
+================================================================================
+
+                               I.
+
+The first thing you noticed about the gardens of Procyon IV was the color.
+Not a single color — no world of any sophistication limits itself to one
+palette — but rather the sheer profligacy of it, the reckless, drunken
+abundance with which the gardens hurled pigment at the eye. Vermillion
+bleeding into amber. Cobalt dissolving into jade. Colors that had no name
+in any human language, colors that existed in the margins between violet
+and infrared, colors that you could taste on the back of your tongue like
+the ghost of a flavor you had never quite encountered.
+
+Gabriel Leconte stood at the viewport of the pleasure cruiser *Elysia*
+and pressed his forehead against the glass and felt, for the first time
+in his forty-seven years of careful, insured, risk-averse existence, the
+stirring of something he could only describe as hunger.
+
+"My God," whispered Mrs. Nettleworth beside him, her lorgnette trembling
+at her nose. "It's like a Monet on fire."
+
+It was nothing like a Monet on fire. Monet had been constrained by the
+visible spectrum, by linseed oil and horsehair brushes, by the limitations
+of a human hand and a human eye. The gardens of Procyon IV operated under
+no such restrictions. They were, according to the brochure that Gabriel
+had read seventeen times during the three-month voyage, the most beautiful
+place in the known galaxy — a living landscape cultivated over ten thousand
+years by the Procyoni, a species whose entire civilization was organized
+around the production of aesthetic pleasure. Visitors came from a dozen
+worlds. The waiting list was measured in decades.
+
+Gabriel had booked his passage two years ago, after the divorce, after the
+breakdown, after Dr. Pettigrew had suggested — in that careful, therapeutic
+way of his — that perhaps what Gabriel needed was not another medication
+adjustment but an experience of genuine beauty. "Go somewhere
+extraordinary," Pettigrew had said. "Go somewhere that reminds you what
+it feels like to want to be alive."
+
+And so here he was, descending toward the most beautiful place in the
+universe, and the hunger in his chest was opening like a flower, and for
+the first time in years he was not thinking about dying.
+
+
+                               II.
+
+The *Elysia* carried forty-three passengers, all human, all wealthy enough
+to afford the fare, and all — Gabriel was beginning to realize — running
+from something. Mrs. Nettleworth from her fourth husband. Professor Crane
+from his academic disgrace. The Delacroix twins from a scandal involving
+a forged Cézanne and an insurance company. Young Miss Takahashi from a
+grief she did not name but wore like a second skin, visible in the way
+she stood at windows and looked at nothing.
+
+The landing was gentle — the Procyoni had built their spaceport the way
+they built everything, as an extension of the garden itself. The pad was
+a vast disc of polished obsidian, and the moment the *Elysia's* doors
+opened, the air came in.
+
+Gabriel had read about the air. The brochure called it "the first
+pleasure" and described it in language that he had dismissed as marketing
+hyperbole. He now understood that the brochure had been, if anything,
+understating the case.
+
+The air of Procyon IV smelled of jasmine and thunderstorms. It smelled of
+woodsmoke and caramel and the salt tang of an ocean Gabriel had never
+seen. It smelled of his mother's kitchen on a winter morning and of the
+perfume Marie-Claire had worn on their first date and of rain falling
+on hot stone in a city he had visited only in dreams. The scents layered
+and shifted, each one triggering a memory so precise and so personal that
+Gabriel understood, with a lurch of vertigo, that the air was reading
+him — sampling his biochemistry, his pheromones, his neural responses —
+and composing a fragrance tailored to the exact architecture of his
+longing.
+
+"Oh," said Mrs. Nettleworth, and sat down on the gangway steps and wept.
+
+Their guide was waiting at the edge of the pad. She was Procyoni — tall,
+slender, with skin the color of copper patina and eyes that shifted from
+gold to violet in the changing light. She wore a garment that appeared
+to be woven from living flowers, petals opening and closing in slow
+rhythm against her body, releasing tiny puffs of perfume with each
+movement.
+
+"I am Vessel-of-Welcoming," she said, in perfectly accented English that
+carried an undertone of music, as if each word were accompanied by a
+note played on an instrument Gabriel could not identify. "You are our
+guests. The gardens have been preparing for your arrival."
+
+"Preparing?" Professor Crane asked, adjusting his spectacles with the
+nervous energy of a man who categorized the world as a defense against
+it.
+
+"The gardens are alive," Vessel said. "They sense each visitor. They
+learn what you desire, what you lack, what you have lost. And they grow
+to fill the absence."
+
+She led them down a path of translucent stone that glowed faintly from
+within, each footstep producing a soft chime that harmonized with the
+steps before and after, so that the group's passage down the path became
+an unrehearsed music that was, somehow, lovely. The path wound through
+a grove of trees whose trunks were braided columns of living crystal,
+refracting the amber light of Procyon into cascading rainbows that
+moved like schools of fish through the undergrowth.
+
+Gabriel walked in a daze of sensation. Every step revealed a new wonder.
+A pond whose surface displayed scenes from the viewers' memories, rippling
+gently so that the images blurred and reformed like half-forgotten dreams.
+A bower of vines that produced fruit shaped like tiny harps, each one
+playing a different melody when the wind moved through them. A clearing
+where the grass was so soft, so perfectly temperate, so precisely the
+right shade of green, that lying in it felt like being held by the earth
+itself.
+
+He lay in that grass for what might have been an hour, staring up at
+the canopy of crystal trees and the amber sky beyond, and the hunger in
+his chest softened into something warmer and quieter, and he thought:
+I could stay here forever.
+
+That, he would later understand, was the trap.
+
+
+                              III.
+
+The first sign of trouble came on the third day, when Professor Crane
+tried to leave.
+
+Not the gardens — just the immediate area. He had been assigned a personal
+garden, as had each of the visitors: a space cultivated specifically for
+him, grown from the gardens' reading of his biochemistry and psychology,
+a living environment shaped to his exact emotional needs. Crane's garden
+was a recreation of an idealized Oxford college — honey-colored stone
+walls draped in climbing roses, a manicured lawn, a library filled with
+books that had not yet been written, containing ideas that Crane had been
+unable to articulate.
+
+He wanted to visit the central plaza, where the Procyoni had their
+markets. Vessel-of-Welcoming discouraged this.
+
+"The gardens have prepared your space," she said, with the gentle firmness
+of a nurse addressing a patient who wishes to leave his bed too soon.
+"It is not yet complete. If you leave before the gardens have finished
+their work, the therapeutic effect will be compromised."
+
+"Therapeutic effect?" Crane said. "I'm not here for therapy. I'm here as
+a tourist."
+
+Vessel smiled. It was a beautiful smile, and it communicated absolutely
+nothing. "All visitors are guests. All guests are tended."
+
+Crane left anyway. He walked to the edge of his personal garden, stepped
+through the hedge that bordered it, and found himself on a path that
+curved gently back the way he had come. He tried again. The path curved
+again. He tried a third time, walking in a straight line and marking his
+progress by scratching notches in the translucent stone, and discovered
+that after two hundred paces, the notches began repeating.
+
+The path was a loop.
+
+He returned to his garden, shaken, and reported his experience to
+Gabriel over dinner. They ate in the communal hall, a structure grown
+from a single enormous flower, its petals forming walls and ceiling,
+its stamens producing a warm golden light. The food was extraordinary —
+each dish calibrated, like the air, to the individual diner's deepest
+preferences — and Gabriel had to force himself to pay attention to Crane's
+words rather than the flavors dissolving on his tongue.
+
+"The paths are recursive," Crane said, pushing his plate away with
+visible effort. "They loop. I can't find a route out of the garden zone."
+
+"Why would you want to?" This was Mrs. Nettleworth, who had spent the
+past three days in a state of euphoria so continuous that Gabriel found
+it alarming. "It's paradise here. The food, the air, the flowers — I've
+never been happier."
+
+"That's precisely the problem," Crane said. "Happiness should not be
+this easy."
+
+Gabriel said nothing. He was watching Miss Takahashi across the hall. She
+sat alone, as she always sat, but her posture had changed. On the ship,
+she had carried herself like someone braced for a blow. Here, she had
+softened — her shoulders dropped, her face relaxed, her eyes focused on
+the middle distance with an expression that hovered between contentment
+and surrender.
+
+He understood the expression. He was beginning to feel it himself.
+
+
+                               IV.
+
+On the fifth day, Gabriel made his own attempt to leave the gardens.
+
+Not because he wanted to — he emphatically did not want to — but because
+he recognized the shape of what was happening to him. He had spent two
+years in Dr. Pettigrew's office learning to identify the mechanisms of
+his own depression, and he knew that the opposite of depression was not
+happiness. The opposite of depression was engagement — the difficult,
+uncomfortable, sometimes painful process of participating in a world
+that did not owe you anything. What the gardens offered was not the
+opposite of depression. It was its mirror image: a numbness wrapped in
+pleasure, a withdrawal disguised as arrival.
+
+He walked to the edge of his personal garden — a recreation of a
+Provençal farmhouse he had visited once on his honeymoon, with lavender
+fields that stretched to a horizon that smelled of Marie-Claire's hair —
+and found the recursive path that Crane had described. It curved. It
+looped. It brought him back.
+
+He tried a different approach. He did not walk. He sat at the border of
+his garden and waited, and watched.
+
+The garden watched back.
+
+He could feel it — a gentle, pervasive attention, like being observed by
+something very large and very patient. The flowers at the border turned
+toward him, their petals adjusting to present their most beautiful angle.
+The grass beneath him warmed. A breeze carried a scent — Marie-Claire
+again, and underneath it, something older and deeper, a scent that went
+straight to the limbic system and whispered *stay*.
+
+"I want to speak to Vessel-of-Welcoming," Gabriel said aloud.
+
+The flowers rustled. A path appeared — not the recursive loop, but a
+new path, straight and narrow, leading through a thicket of crystal
+ferns to a clearing Gabriel had not seen before.
+
+Vessel was there, seated on a stone that appeared to grow from the ground
+like a stool, tending a plant that Gabriel did not recognize. Its leaves
+were translucent, veined with light, and they pulsed with a rhythm that
+matched, he realized with a chill, his own heartbeat.
+
+"You have questions," Vessel said.
+
+"I have one question. Can we leave?"
+
+Vessel continued tending the plant. Her fingers moved along its leaves
+with the delicacy of a musician tuning an instrument. "Why would you wish
+to leave?"
+
+"Because I am beginning to suspect that we cannot."
+
+Vessel looked at him. Her eyes shifted from gold to deep violet, the
+change slow enough that Gabriel could track it, like watching a sunset
+compressed into seconds.
+
+"No visitor has ever left the gardens of Procyon," she said. "Not because
+they are prevented. Because they choose to stay."
+
+"And if someone chose differently?"
+
+"No one chooses differently. The gardens understand you better than you
+understand yourself. They provide what you need. What you truly need, not
+what you think you need. Given that, why would anyone leave?"
+
+Gabriel thought of Mrs. Nettleworth, weeping with joy at her first breath
+of Procyoni air. Of Crane, pacing his illusory Oxford and slowly
+forgetting to be frightened. Of Miss Takahashi, who had stopped looking
+at nothing and started looking at the flowers, and whose grief was fading
+day by day into something that resembled peace.
+
+Of himself, lying in the grass and thinking: *I could stay here forever.*
+
+"How many visitors are in the gardens right now?" he asked.
+
+"You are the forty-seventh group. Approximately two thousand guests, from
+twelve worlds, across the past three hundred years."
+
+"Three hundred years? But the brochure said —"
+
+"The brochure was written by previous visitors. They were very happy when
+they wrote it."
+
+Gabriel sat down. The stone beneath him was warm, and it contoured itself
+to his body, and it was the most comfortable seat he had ever occupied,
+and he hated it.
+
+"You're a trap," he said. "The entire garden is a trap."
+
+Vessel looked pained — genuinely pained, not performing pain — and her
+flowers wilted slightly against her body. "We do not use that word. We
+are a refuge. A sanctuary. The universe is vast and cold and often cruel,
+and the beings who come to us are, without exception, hurt. We heal them."
+
+"By keeping them forever."
+
+"By giving them a place where they do not need to leave."
+
+"That's not healing. That's anesthesia."
+
+Vessel was silent for a long moment. The plant between them pulsed with
+Gabriel's heartbeat, and he could feel the garden pressing against him
+from all sides — not with walls or barriers but with comfort, with beauty,
+with the gentle, relentless persuasion of a world that knew exactly what
+he wanted and could provide it in unlimited supply.
+
+"The pain you came here to escape," Vessel said quietly. "Would you truly
+choose to return to it?"
+
+Gabriel closed his eyes. He thought of his empty apartment. His
+prescription bottles. The gray mornings and the long nights and the
+feeling of being a ghost in his own life. He thought of Dr. Pettigrew
+saying, "Go somewhere that reminds you what it feels like to want to be
+alive."
+
+He opened his eyes.
+
+"Yes," he said. "I would."
+
+
+                               V.
+
+He could not save everyone. He knew that before he started, and it hurt,
+but he had learned enough from Pettigrew to know that you could not
+carry another person's healing on your back. You could only offer a hand
+and hope they took it.
+
+He found Crane in his illusory Oxford, reading a book that the garden
+had grown specifically for him — a monograph on Elizabethan literature
+that contained, Crane whispered reverently, ideas he had spent his entire
+career trying to formulate. Gabriel told him the truth. Crane listened,
+closed the book with shaking hands, and said, "I know. I've known since
+the third day. But this book, Gabriel. This book."
+
+"It's not real."
+
+"It's real enough."
+
+Gabriel left him there. He found the Delacroix twins in their personal
+garden, which was a recreation of a Parisian salon, and they laughed in
+his face. He found Mrs. Nettleworth in a garden that smelled of her
+childhood, and she patted his hand and told him he was overthinking
+things.
+
+He found Miss Takahashi sitting beside a pond whose surface showed, in
+rippling, half-focused images, the face of someone Gabriel did not
+recognize — a young man, dark-haired, laughing, turning to look at
+something out of frame.
+
+"That's him," she said, without looking up. "Kenji. He died two years
+ago. The gardens grew him for me." She paused. "Not him. An image of him.
+But it's the best image I've ever seen."
+
+"It's not him, Yuki."
+
+"I know." She touched the water, and the image rippled and reformed. "I
+know it's not him. But I can see him laugh. I can hear his voice. The
+garden has recordings — it read my memories and reconstructed his voice,
+and if I sit here at twilight, it plays me our last conversation. The
+real one. The one I can't remember clearly anymore."
+
+She looked at Gabriel, and her eyes were dry and clear and fully aware.
+"I'm not staying because I'm fooled. I'm staying because the alternative
+is a world where I can't hear his voice."
+
+Gabriel sat beside her. The pond reflected them both — two people on the
+edge of the most beautiful trap in the galaxy, looking at the face of
+a dead man in the water.
+
+"He would want you to leave," Gabriel said.
+
+"You didn't know him."
+
+"I know what love looks like when it wants the best for someone."
+
+Miss Takahashi was quiet for a long time. The image in the pond laughed
+silently, turned, reached out a hand that dissolved into ripples before
+it could touch anything.
+
+"If I leave," she said, "I lose his voice."
+
+"If you stay, you lose yours."
+
+She looked at the pond. She looked at Gabriel. She looked at the sky,
+where the amber light of Procyon was fading into the deep indigo of
+evening, and the crystal trees were beginning to glow with their own
+internal luminescence, and the garden was settling into its most
+seductive mode — the twilight hour, when every beauty was softened and
+every longing sharpened.
+
+"Alright," she said. "How do we get out?"
+
+
+                               VI.
+
+The answer was, as Gabriel suspected, simple — and that was what made
+it hard.
+
+Vessel-of-Welcoming had said it herself: no one was prevented from
+leaving. They were persuaded to stay. The recursive paths, the tailored
+pleasures, the air that smelled of everything you'd lost — these were not
+walls. They were arguments. Brilliant, beautiful, almost irresistible
+arguments for remaining in a place that gave you everything you wanted.
+
+The way out was to want something the garden could not provide.
+
+Gabriel had spent two years learning that lesson in Pettigrew's office.
+Depression was a kind of garden — a closed loop of numbness and
+withdrawal that felt, from the inside, like safety. The path out was
+not to wait for the numbness to lift. It was to want something badly
+enough to walk through it.
+
+He wanted his life back. Not the good parts — those the garden could
+replicate. The difficult parts. The mornings when getting out of bed
+was an act of defiance. The evenings when loneliness sat in his chest
+like a stone. The slow, unglamorous, imperfect work of building a life
+that was his own and no one else's.
+
+He walked to the edge of his garden, and the recursive path curved before
+him, and he walked into it, and the lavender fields reached for him,
+and Marie-Claire's scent wrapped around him like arms, and the garden
+whispered *stay, stay, stay* with every flower and every breeze and every
+note of every melody that the wind-harps played.
+
+And he kept walking.
+
+The path curved. He followed the curve. The path looped. He completed the
+loop and kept going. The garden threw its finest weapons at him — a sunset
+that made him weep, a birdsong that was his mother's lullaby, a taste
+on the wind that was the first meal he and Marie-Claire had cooked
+together in their tiny apartment in Lyon.
+
+He kept walking.
+
+Beside him, Miss Takahashi walked in silence, and he did not know what
+the garden was showing her, but tears streamed down her face and she did
+not stop.
+
+The path straightened. The garden fell away. The colors dimmed from their
+impossible profligacy to something merely beautiful, then merely pleasant,
+then simply real. The air lost its tailored perfume and became what it
+was: alien atmosphere, thin and sharp, with a mineral tang that had
+nothing to do with memory and everything to do with the actual chemical
+composition of an actual planet orbiting an actual star.
+
+They emerged on the far side of the garden complex, on a plain of gray
+stone under an amber sky, and the *Elysia* was there — still on its
+landing pad, powered down but intact. The Procyoni had not touched it.
+Why would they? No one ever came back for it.
+
+Gabriel and Yuki stood on the stone and breathed the real air and looked
+back at the gardens, which shimmered at the horizon like a mirage, all
+color and light and promise.
+
+"It's still beautiful," Yuki said.
+
+"Yes," Gabriel said. "And we're still leaving."
+
+They boarded the *Elysia*. Gabriel keyed the startup sequence — the
+brochure had said the ship could be operated by a minimum crew of two,
+and for once the brochure was telling the truth. The engines powered up.
+The nav computer calculated the return trajectory. The landing pad fell
+away beneath them, and the gardens shrank to a smear of color on the
+planet's surface, and then to nothing.
+
+In the copilot's seat, Yuki Takahashi stared out the viewport at the
+diminishing world. "Do you think the others will ever leave?"
+
+Gabriel thought of Crane with his impossible book. Of Mrs. Nettleworth
+with her childhood. Of the two thousand guests from twelve worlds across
+three hundred years, held not by chains but by the terrible, perfect
+kindness of a garden that knew what they wanted better than they did.
+
+"I don't know," he said. "I hope so."
+
+The *Elysia* climbed into the dark, leaving the color behind, and the
+stars were white and cold and not at all what Gabriel needed, and he was
+glad.
+
+================================================================================
+
+                    THE TIME TRAVELER'S COOKBOOK
+
+                        by Phyllis Crenshaw
+
+================================================================================
+
+                               I.
+
+The book was called *Recipes Across Time: A Culinary Journey Through
+Every Era of Human History*, and it was, by any reasonable measure, the
+most successful cookbook ever published.
+
+It appeared on the shelves of Scribner's bookstore on Fifth Avenue on a
+Tuesday morning in March 1954, sandwiched between Julia Child's latest
+and a pamphlet about Jell-O salads, and within six weeks it had sold
+four hundred thousand copies, been reviewed in every major newspaper,
+caused a fistfight at a dinner party hosted by the French ambassador, and
+prompted three separate investigations by three separate government
+agencies, none of which could agree on what crime, exactly, had been
+committed.
+
+The author's name was Dr. Emmeline Quist. Her photograph on the back
+flap showed a woman of indeterminate age — she might have been thirty
+or sixty, with the kind of face that seemed to exist slightly out of
+focus, as though the camera had been unable to decide which version of
+her to capture — wearing a linen apron and holding a wooden spoon with
+the casual authority of a person who had stirred things in every century.
+
+"I have collected these recipes personally," she wrote in the
+introduction, "through visits to every major period of human culinary
+history. I have eaten bread baked in the ovens of Pompeii the morning
+before the eruption. I have tasted the banquet dishes of the Tang Dynasty
+at their source. I have sampled frontier cooking on the Oregon Trail,
+court cuisine at Versailles, and street food in twenty-third-century
+Nairobi. Every recipe in this book is authentic, tested, and — I give
+you my word — delicious."
+
+Most people read this as a charming literary conceit. Dr. Quist was a
+time traveler, ha ha, how delightful. The recipes were certainly
+extraordinary — the Pompeian bread recipe alone, which used a specific
+strain of wheat that food historians had believed extinct, was enough to
+make serious bakers weep with joy. Her Tang Dynasty dumplings contained
+a spice blend so precise that a professor of Chinese culinary history at
+Yale wrote a ten-page letter to the publisher demanding to know her
+sources.
+
+But it was the anomalies that caught the attention of people who paid
+closer attention.
+
+
+                               II.
+
+The first anomaly was noticed by Dr. Frances Hubbard, a food historian
+at the University of Chicago, on page 47 of the cookbook.
+
+The recipe was labeled "Sumerian Honey Cakes, circa 2100 BCE" and it
+called for, among other ingredients, vanilla extract.
+
+Vanilla. In Sumer.
+
+Dr. Hubbard, who had spent twenty years studying ancient Mesopotamian
+cuisine, nearly choked on her morning coffee. Vanilla was indigenous to
+Mesoamerica. It had not been introduced to the Old World until the
+Spanish conquest of the Aztec Empire in the sixteenth century. The
+Sumerians had never tasted vanilla, never smelled it, never heard of it.
+It simply did not exist in their world.
+
+She wrote a letter to the publisher, which was forwarded to Dr. Quist,
+who replied with a note of such cheerful vagueness that Hubbard's blood
+pressure rose ten points:
+
+"Dear Dr. Hubbard, thank you for your careful reading! You are quite
+correct that vanilla was not native to ancient Sumer. However, I can
+assure you that the honey cakes I tasted in the market at Ur did, in
+fact, contain vanilla. The vendor was a delightful old woman named
+Nin-kisalsi who told me she had obtained the flavoring from a trader
+who had traveled 'from the edge of the world.' I did not press her for
+details, as one does not interrogate one's hostess about her spice
+cabinet. I hope you enjoy the cakes regardless. They are quite good with
+afternoon tea."
+
+Hubbard did not find this satisfactory.
+
+
+                              III.
+
+The second anomaly appeared on page 112. A recipe for "Roman Garum,
+First Century CE" — the ubiquitous fermented fish sauce of the ancient
+Mediterranean — included, as a finishing ingredient, a tablespoon of
+soy sauce.
+
+Soy sauce. In Rome.
+
+The third anomaly was on page 203. A medieval English recipe for
+"Lombard Chicken, circa 1380" called for the use of chili peppers, which
+would not arrive in Europe from the Americas for another hundred years.
+
+The fourth was on page 267. A recipe attributed to "a roadside inn in
+Han Dynasty China, circa 100 BCE" included tomatoes — a New World fruit
+that would not reach Asia until the sixteenth century, at the earliest.
+
+The pattern was unmistakable. In recipe after recipe, Dr. Quist's
+"authentic" historical dishes contained ingredients that should not have
+existed in the times and places she attributed them to. And the
+ingredients were always the same kind: New World foods appearing in Old
+World recipes centuries before Columbus, or Old World foods appearing in
+New World recipes before contact.
+
+Dr. Hubbard published a paper. The paper attracted the attention of
+Dr. Quist's publisher, who asked Dr. Quist for a response. Dr. Quist's
+response was a recipe for Aztec hot chocolate that included, inexplicably,
+cardamom.
+
+
+                               IV.
+
+The government agencies became involved when a historian at the
+Smithsonian noticed something more disturbing than misplaced ingredients.
+
+Dr. Lewis Alcott was not a food historian. He was a cultural historian
+specializing in the diffusion of agricultural technology, and when he
+read Dr. Quist's cookbook, he did not focus on the recipes. He focused
+on the notes.
+
+Dr. Quist's recipes were accompanied by chatty, discursive annotations
+describing the circumstances of their collection. She wrote about the
+markets where she had shopped, the kitchens where she had cooked, the
+conversations she had shared with hosts and vendors and fellow travelers.
+These annotations were written with the specificity and sensory detail
+of genuine travel writing — not the vague, impressionistic descriptions
+of someone imagining a historical period, but the precise, particular
+observations of someone who had actually been there.
+
+And some of those observations did not match the historical record.
+
+In her notes on a recipe from sixteenth-century Florence, she mentioned
+in passing a type of pasta that food historians had believed was not
+developed until the eighteenth century. In her account of a meal in
+medieval Baghdad, she described a spice market that included ingredients
+from sub-Saharan Africa that the historical record placed in Arabian
+trade networks two hundred years later than her date. In a note about
+a recipe from Heian-period Japan, she mentioned a ceramic technique
+that was not documented until the Kamakura period.
+
+These were not errors. They were too consistent, too specific, too
+casually embedded in otherwise accurate descriptions. They read, Alcott
+realized with growing unease, like the observations of someone who had
+witnessed these things firsthand — and whose presence had altered what
+she witnessed.
+
+He wrote a classified memo to the State Department. The State Department
+forwarded it to the CIA. The CIA forwarded it to a division whose name
+Alcott was not cleared to know.
+
+And then Dr. Quist's publisher received a visit from two men in gray
+suits who asked, very politely, for Dr. Quist's home address.
+
+
+                               V.
+
+Dr. Quist's home address turned out to be a brownstone on West 74th
+Street in Manhattan, and when the two men in gray suits arrived, they
+found the front door open, the kitchen warm, and a note on the table
+that read:
+
+"Dear gentlemen — I suspected you would come. Please help yourselves
+to the scones on the counter. The recipe is Edwardian, with a few
+modifications. I have stepped out to attend to some errands and will
+return shortly. By 'shortly' I mean that I was here five minutes ago and
+will be here five minutes from now, but the five minutes in between may,
+from your perspective, last somewhat longer than you expect. Do not be
+alarmed. The scones are excellent."
+
+The men in gray suits ate the scones. They were, by both accounts,
+excellent.
+
+Dr. Quist did not return that day, or the next, or the next. The
+brownstone appeared to be a perfectly ordinary residence occupied by a
+woman of scholarly habits and excellent taste in kitchen equipment. The
+bookshelves contained cookbooks from every period and region, many of
+them in languages the agents could not identify. The kitchen was
+equipped with tools that ranged from a Roman mortarium to a copper
+saucepan that bore the hallmark of a Parisian coppersmith who, according
+to later research, had not yet been born.
+
+In the study, they found a journal. Most of it was written in a script
+that no linguist at the CIA could decipher, but several pages near the
+end were in English, and these contained a passage that was later
+classified at the highest level of secrecy:
+
+"The paradox is not that I brought vanilla to Sumer. The paradox is that
+Sumer already had vanilla when I arrived. The old woman in the market,
+Nin-kisalsi, told me she had always used it. Her mother had used it. Her
+grandmother had used it. She thought I was mad for asking where it came
+from.
+
+"I have been traveling long enough to understand what this means. The
+recipes in my book are not anachronisms. They are evidence of a temporal
+feedback loop. I brought the ingredients to the past because the past
+already contained them because I had brought them. The cookbook is not a
+record of history as it was. It is a record of history as I made it —
+inadvertently, irrevocably, and with the best of culinary intentions.
+
+"I publish the book anyway, because the recipes are good, and because
+the alternative — attempting to undo what I have done — would require
+removing vanilla from the memory of a woman who has been dead for four
+thousand years, and that strikes me as rude."
+
+The journal continued for several more pages, documenting Dr. Quist's
+travels with the meticulous disorganization of a woman who kept notes
+the way other people kept souvenirs — compulsively, affectionately, and
+with no regard for chronological order. One entry, dated only "a
+Thursday, I think, but whose Thursday is anyone's guess," described her
+visit to a medieval English monastery where the monks were brewing a
+beer that contained hops from three different centuries:
+
+"Brother Anselm was most accommodating, though he did ask some pointed
+questions about my clothing. I told him I was a pilgrim from a very
+distant land, which was true in every sense except the spatial one. His
+beer was magnificent — a dark, complex ale with undertones of honey and
+something I eventually identified as coffee. Coffee! In twelfth-century
+England! I nearly wept. Then I checked my travel log and realized that
+I had introduced coffee beans to the monastery's herbalist on a
+previous visit that I had not yet made. The loop is tightening.
+
+"I am beginning to suspect that my travels are not merely affecting
+the history of food. They are creating the history of food. Every
+cuisine I document turns out to contain traces of my previous
+interventions. The French court at Versailles uses spices I brought to
+a Provençal market in the fourteenth century. The street vendors of
+medieval Cairo sell pastries made with sugar I introduced to the region
+two hundred years before the historical date of sugar's arrival. I am
+not a historian. I am an ingredient.
+
+"This would trouble me more if the food were not so extraordinarily
+good."
+
+Another entry described a visit to a future she had not yet published
+in her cookbook:
+
+"The cooking of the twenty-third century is both wonderful and
+terrifying. They have ingredients we cannot imagine — synthesized
+flavors, engineered proteins, fruits that grow in zero gravity with
+structures no earthbound plant could achieve. But the most popular dish
+in the cafeterias of Mars Colony Seven is, I was delighted to discover,
+a variation on my Sumerian honey cakes, prepared from a recipe that has
+been passed down, hand to hand, for forty-two centuries. The vanilla is
+still there. Some things, it seems, transcend even time.
+
+"The colonists on Mars asked where the recipe originated. I told them
+it was very old. They asked how old. I said: older than you think. They
+laughed and gave me seconds. I have always found that people who cook
+well are disinclined to interrogate the history of a good recipe. They
+care only that it works.
+
+"There is a lesson in this, though I am not sure what it is."
+
+
+                               VI.
+
+Dr. Hubbard read the classified memo six months later, after she was
+granted a security clearance she had neither requested nor understood,
+and her reaction was — characteristically — professional outrage.
+
+"Let me see if I follow," she said to the two men in gray suits who
+sat across from her desk at the University of Chicago, neither of them
+eating the scones she had baked from Dr. Quist's Edwardian recipe
+(which were, she admitted privately, better than her own). "A time
+traveler visited ancient Sumer and accidentally introduced vanilla to
+the Mesopotamian spice trade. She then visited first-century Rome and
+introduced soy sauce. She visited medieval England and introduced chili
+peppers. She visited Han Dynasty China and introduced tomatoes."
+
+"That appears to be the situation, Dr. Hubbard."
+
+"And these introductions have become permanent features of the historical
+record? Sumer has always had vanilla because she always brought it?"
+
+"As far as we can determine, yes."
+
+"Then every food history book I have ever written is wrong."
+
+"We prefer to say that the historical record has been — revised."
+
+Dr. Hubbard stared at them. She thought about her twenty years of
+research, her six published books, her graduate students' dissertations.
+She thought about the Sumerian honey cakes, which she had baked last
+Tuesday and which had been, with the vanilla, incomparably better than
+any reconstruction she had previously attempted.
+
+"Does this mean," she asked slowly, "that spaghetti and tomato sauce
+existed in ancient Rome?"
+
+The men in gray suits exchanged a glance.
+
+"Dr. Quist's journal contains a recipe for what she calls 'Marcus
+Aurelius's favorite supper,'" one of them said. "It is, essentially,
+pasta pomodoro."
+
+Dr. Hubbard removed her glasses and set them on the desk and stared at
+the wall for a long time.
+
+"The woman is a menace," she said finally.
+
+"Yes, ma'am."
+
+"An absolute menace."
+
+"Yes, ma'am."
+
+"Those honey cakes, though." She put her glasses back on. "Those honey
+cakes are extraordinary."
+
+
+                              VII.
+
+Dr. Emmeline Quist was never found, though her cookbook remained in print
+and continued to sell briskly. The second edition, which appeared on
+bookshelves six months after the first — delivered to the publisher by
+mail, with a postmark from a city that did not exist — contained forty
+new recipes and a revised introduction:
+
+"Some readers have observed that certain ingredients in this book appear
+in historical periods where they should not, strictly speaking, be found.
+To these observant readers I say: you are correct. The history of food
+is more complicated than any of us imagined, and the complication is, I
+am afraid, partially my fault. I offer my sincerest apologies to the
+food historians whose work I have inadvertently invalidated, and my
+sincerest thanks to the ancient cooks whose recipes I have accidentally
+improved.
+
+"To those who ask whether I have changed history: yes, but only the
+menus. And I maintain that the menus are better for it.
+
+"To those who ask whether I will stop: no. I have a third volume
+planned, covering the cuisines of the twenty-second through twenty-fifth
+centuries, and I can report from personal experience that the future is
+delicious.
+
+"Bon appétit."
+
+The second edition included a recipe for something called "Martian Colony
+Bread, circa 2247 CE," which used a grain that did not yet exist but
+which, three months after the book's publication, was independently
+developed by a botanist in Kansas who insisted she had come up with the
+idea entirely on her own.
+
+Dr. Hubbard did not find this reassuring.
+
+She baked the bread anyway. It was, as promised, delicious.
+
+================================================================================
+
+                          SALVAGE RIGHTS
+
+                        by Theodore Cain
+
+================================================================================
+
+                               I.
+
+The derelict drifted in the dark between Barnard's Star and Wolf 359,
+three hundred light-years from the nearest human settlement and not on
+any shipping lane anyone had ever charted. It was large — half a mile
+long, roughly cylindrical, with a hull that caught their searchlights
+and threw back reflections in colors that didn't belong to any alloy in
+the human catalog.
+
+Captain Nina Kovac saw it first on the long-range scope, a blip that
+shouldn't have been there, and she watched it for six hours before she
+was sure it was real.
+
+"Alien," she said to her crew. "Derelict. And it's ours."
+
+The crew of the *Magpie* — six people, one ship, and a cargo hold full
+of cutting equipment — had been running the deep salvage routes for four
+years. They worked the spaces between the stars, the empty lanes where
+things drifted and were lost: dead satellites, spent boosters, the
+occasional abandoned colony ship whose crew had died or given up. The
+pay was sporadic, the work was dangerous, and the competition was fierce.
+A genuine alien derelict was the find of a lifetime.
+
+"How do we know it's derelict?" asked Tomas, her second in command, a
+cautious man whose caution had kept them alive more than once.
+
+"No emissions. No drive signature. No heat beyond ambient. It's cold,
+Tomas. Cold as the void."
+
+"Could be dormant."
+
+"Could be. But dormant ships maintain minimal systems — life support
+cycling, nav beacons, something. This thing is putting out nothing. It's
+dead."
+
+Tomas studied the scope reading. "And if it's not dead?"
+
+"Then we proceed with extreme caution and make a fortune anyway."
+
+Kovac brought the *Magpie* in slow, matching the derelict's drift on
+approach thrusters, and they had been circling for two hours, mapping
+the hull with every sensor they had, when the second ship appeared.
+
+It came in from the opposite direction, decelerating hard, and Kovac
+knew what it was before the transponder signal confirmed it: the *Iron
+Promise*, Captain Darren Salt, six crew, heavy-salvage rated. Salt and
+Kovac had been competitors for a decade, and their relationship hovered
+somewhere between grudging respect and the kind of animosity that, in
+an earlier era, would have been settled with pistols.
+
+"Kovac." Salt's voice crackled over the comm. He had a deep voice, a
+Texan drawl, and a habit of sounding amused by everything. "Fancy
+meeting you here."
+
+"We were here first, Salt."
+
+"I'm sure you were. But 'here' is unclaimed deep space, and under the
+Interstellar Salvage Convention of 2089, discovery rights are established
+by physical contact with the derelict, not proximity. Have you boarded
+yet?"
+
+Kovac's jaw tightened. She had not boarded yet. She'd been running sensor
+sweeps, which was the smart play — you didn't walk onto an alien ship
+without knowing what was inside — but which, under the letter of the law,
+meant she had not established salvage rights.
+
+"We were about to board."
+
+"So were we. Seems like we've got ourselves a race."
+
+Kovac muted the comm and turned to Tomas. "What do our sensors show?"
+
+Tomas scrolled through the data they'd collected during the two-hour
+survey. "Hull composition: unknown alloy, doesn't match anything in the
+database. No atmosphere inside — vacuum throughout, as far as we can
+tell. Internal structure is — strange. The layout doesn't conform to
+any engineering logic I recognize. Lots of large open spaces, no obvious
+compartmentalization. Could be cargo bays. Could be living quarters.
+Could be something we have no category for."
+
+"Life signs?"
+
+"None. No biological signatures, no energy readings, no electromagnetic
+activity. It's dead, Captain. Dead as anything I've ever scanned."
+
+Kovac drummed her fingers on the console. She'd been in salvage for
+twelve years, and she'd learned early that the two most dangerous words
+in the business were "it's dead." Ships that appeared dead had a way of
+surprising you — trapped atmosphere that blew out when you breached a
+hull, unstable reactors that went critical when you applied power,
+automated defense systems that didn't distinguish between salvage crews
+and hostile boarders.
+
+And this was an alien ship. Human ships, at least, followed human logic.
+This thing followed something else entirely.
+
+"Salt is going to board if we don't," Tomas said.
+
+"Let him. Better his crew than ours if there's a surprise waiting."
+
+"And if there's not, he claims salvage rights and we lose the biggest
+find of our careers."
+
+Kovac stared at the derelict through the viewport. It hung in the dark,
+massive and inert, reflecting their searchlights in those strange,
+unnameable colors. The hull was smooth — no seams, no rivets, no
+welding marks. It looked less like something that had been built and
+more like something that had grown.
+
+"Fine," she said. "We board. But carefully. Full pressure suits,
+tethered, and nobody touches anything until I say so."
+
+She unmuted the comm. "Salt, here's what we're going to do."
+
+
+                               II.
+
+The race became an argument, and the argument became a negotiation, and
+the negotiation became the most ridiculous legal proceeding ever
+conducted in deep space.
+
+Both ships docked on opposite sides of the derelict — the *Magpie* at
+what Kovac's sensors suggested was an airlock on the port side, the
+*Iron Promise* at a similar structure on the starboard. Neither captain
+was willing to board while the other might claim the interior first, and
+neither was willing to leave.
+
+They argued by radio for three hours.
+
+"Section 14, paragraph 3 of the Salvage Convention," Kovac said, reading
+from her ship's legal database. "Priority is established by the first
+crew to make physical contact with the salvage object. We were within
+sensor range first."
+
+"Section 14, paragraph 3, subsection (b)," Salt replied, reading from
+his. "'Physical contact' is defined as direct mechanical attachment to
+the hull or entry into the interior. Sensor range doesn't count, Kovac.
+If it did, every telescope on Earth would have salvage rights to the
+Moon."
+
+"Section 16, paragraph 1: 'In the event of simultaneous arrival,
+priority may be established by negotiation between the parties.'"
+
+"I'm happy to negotiate. I propose a fifty-fifty split."
+
+"I propose you leave."
+
+"Counter-proposal: I stay, and you leave."
+
+This went on. Tomas, who had studied law before turning to salvage work,
+pulled up increasingly obscure subsections. Salt's legal expert, a wiry
+woman named Petersen who had apparently memorized the entire Convention,
+countered each one. They debated the definition of "simultaneous." They
+debated the definition of "arrival." They debated whether a ship that
+was still decelerating had technically "arrived" or was still "arriving,"
+and if the latter, whether the Convention distinguished between the two
+states.
+
+"Section 22, paragraph 7," Petersen offered over the radio, her voice
+carrying the dry patience of a woman accustomed to making other people
+feel stupid. "In cases of disputed priority, the salvage authority may
+designate a neutral third party to adjudicate. Since there is no neutral
+third party within three hundred light-years, I suggest we table the
+legal debate and split the proceeds."
+
+"I found it first," Kovac said.
+
+"You scanned it first. That's like saying you own a house because you
+drove past it."
+
+"I mapped the hull. I identified the probable entry points. I spent two
+hours doing the survey work that you're going to benefit from."
+
+"And I appreciate the effort, Captain Kovac. I'll express my
+appreciation in the form of a forty-sixty split in your favor."
+
+"Sixty-forty? For a fifty-percent haircut on my discovery?"
+
+"You'll note I said forty-sixty in YOUR favor."
+
+"Oh." Kovac paused. "That's actually reasonable."
+
+"Don't sound so surprised. I'm a reasonable man."
+
+"You once tried to claim salvage on a ship I was still docked to."
+
+"That was a misunderstanding of Section 9. My lawyer agreed it was
+ambiguous."
+
+"Your lawyer was your brother-in-law."
+
+"Also a misunderstanding."
+
+The negotiation continued, circling like two boxers who respected each
+other too much to throw the first punch and not enough to lower their
+guards. Meanwhile, the derelict drifted on, silent and cold, half a
+mile of alien mystery patiently waiting, and no one noticed the
+temperature change.
+
+
+                              III.
+
+It was Tomas who noticed.
+
+He had been monitoring the sensor feeds while Kovac and Salt argued, and
+at hour four of the standoff, he interrupted with two words that cut
+through the legal jargon like a blade:
+
+"It's warming."
+
+Kovac stopped mid-sentence. "What?"
+
+"The derelict. Its hull temperature has risen two degrees since we
+docked. It was at ambient — three Kelvin above absolute zero. Now it's
+at five."
+
+"Two degrees is nothing. Thermal radiation from our ships —"
+
+"I accounted for that. Our thermal output would raise the hull
+temperature by point-three degrees at most. This is seven times that."
+
+Silence on the radio. Then Salt's voice: "We're seeing the same thing
+on our side."
+
+Kovac looked at the sensor readout. Two degrees. From a ship that had
+been putting out nothing — no emissions, no heat, no sign of life.
+
+"Pull the crew back to the *Magpie*," she said.
+
+"We haven't boarded yet," Tomas said.
+
+"I know. Pull them back."
+
+Tomas relayed the order. On the radio, she could hear Salt giving the
+same command to his crew.
+
+The temperature rose to eight Kelvin. Then twelve. Then twenty.
+
+At thirty Kelvin, the derelict's hull began to change color. The alien
+alloy — which had been a dull, non-reflective gray under their
+searchlights — shifted through a spectrum that started at deep violet
+and moved toward something that registered on their sensors as infrared
+but looked, through the viewport, like the color of an ember.
+
+At fifty Kelvin, the airlock where the *Magpie* was docked began to
+open.
+
+Kovac had not touched the airlock. No one had. It was opening from the
+inside.
+
+"Salt."
+
+"I see it. Ours too."
+
+"Detach. Now."
+
+The *Magpie's* docking clamps released. Kovac hit the thrusters and
+pulled away, and the *Iron Promise* mirrored the maneuver on the
+opposite side, and both ships backed off to a distance of five hundred
+meters, and from there they watched the derelict come alive.
+
+It was like watching a creature wake from hibernation. Systems activated
+in sequence, lights appearing along the hull in patterns that might have
+been decorative or might have been functional, a low-frequency hum
+building in the electromagnetic spectrum that both ships could detect
+on their comm arrays. The hull continued to warm. The airlocks yawned
+open, then closed, then opened again, cycling through what looked like
+a startup sequence.
+
+And then the drive lit.
+
+It was not like a human drive. There was no exhaust plume, no visible
+thrust. Instead, the space behind the derelict seemed to compress —
+a distortion, like heat haze, that bent the stars behind it into
+smeared lines. The ship began to move. Slowly at first, then faster,
+then much faster, accelerating in a direction that led deeper into
+interstellar space.
+
+In ninety seconds, it was gone.
+
+Kovac stared at the empty space where the derelict had been. The stars
+unsmeared themselves. The background radiation returned to normal. There
+was nothing left — no debris, no trail, no evidence that half a mile of
+alien ship had been drifting there five minutes ago.
+
+Salt's voice came over the radio, stripped of its usual amusement: "Was
+that —"
+
+"It wasn't a derelict," Kovac said. "It was never a derelict. It was
+waiting."
+
+"Waiting for what?"
+
+Kovac thought about it. A ship, drifting cold and dark in empty space,
+putting out no emissions, showing no signs of life. Looking exactly like
+a wreck. And when two ships docked — when two crews made physical contact
+with its hull, when heat and vibration and electromagnetic radiation told
+it that something alive was nearby —
+
+It woke up.
+
+"Waiting for us," she said.
+
+
+                               IV.
+
+They found the marker an hour later, after both crews had stopped shaking
+and started thinking.
+
+It was floating at the precise coordinates where the derelict had been —
+a small object, no larger than a fist, made of the same alien alloy.
+It was putting out a signal: a simple, repeating pulse on a frequency
+that both ships could receive.
+
+Petersen, Salt's legal expert, was the one who decoded it. The signal
+contained a data packet — small, compressed, and formatted in a way
+that was clearly designed to be comprehensible to anyone with basic
+mathematics. It took her two hours to crack, working alongside Tomas,
+the two former adversaries hunched over a shared screen in the *Magpie's*
+galley while their captains stood behind them and tried not to hover.
+
+The message was short.
+
+"It's a warning," Petersen said, sitting back. "Or a thank-you. Or both.
+It's hard to tell — the language structure doesn't map cleanly onto
+human concepts."
+
+"Best guess," Kovac said.
+
+"Best guess: 'I was sleeping. You woke me. The sleep was long and I was
+in danger. Thank you. Do not approach my kind when we sleep. We are not
+dead. We are dreaming. When we dream, we do not know friend from food.
+You were fortunate.'"
+
+The four of them sat in silence for a while.
+
+"Friend from food," Salt repeated.
+
+"That's my best translation."
+
+"The ship was alive," Tomas said. "The whole thing. Not a vehicle with a
+crew. A living organism."
+
+"A living organism the size of a shopping mall," Salt said. "That
+hibernates in deep space. And eats things that wake it up."
+
+"Not this time," Petersen said. "The message says we were fortunate."
+
+"Define fortunate."
+
+"We detached before the feeding response activated."
+
+Kovac thought about the airlocks opening from the inside. The warm hull.
+The way the lights had come on in sequence, like a creature's nervous
+system firing in order — extremities first, then core, then brain. She
+thought about how close they had come to sending boarding parties inside.
+
+"If we'd gone in," she said. "If we'd walked through those airlocks
+while it was waking up —"
+
+"Then the legal question of salvage rights would have been resolved,"
+Salt said quietly, "by the absence of anyone alive to file a claim."
+
+Tomas pulled up the long-range scanner. "Question. If there's one of
+these things drifting out here, are there more?"
+
+Nobody answered immediately. The dark between the stars was vast, and
+it was full of things that drifted — rocks, ice, the debris of ancient
+systems. Generations of survey teams had cataloged thousands of objects
+in interstellar space, and the standard protocol for anything that
+appeared to be a derelict was to approach, scan, and board.
+
+"Every cold contact we've ever flagged," Kovac said slowly. "Every
+drifting hull that showed no emissions and no life signs. We assumed
+they were wrecks."
+
+"Some of them were wrecks," Salt said.
+
+"And some of them," Petersen said, very carefully, "may have been
+sleeping."
+
+Another silence. This one lasted longer.
+
+Kovac looked at Salt. Salt looked at Kovac. For the first time in ten
+years of rivalry, they were in complete agreement.
+
+"I suggest," Kovac said, "that we file this find with the Salvage
+Authority, mark these coordinates as hazardous, and leave."
+
+"I suggest the same," Salt said. "And I suggest we don't mention the
+part about arguing over salvage rights while sitting on the lip of a
+sleeping predator."
+
+"Agreed."
+
+"Agreed."
+
+They transmitted the warning marker's coordinates and message to the
+nearest deep-space relay, coded as a navigational hazard. Then both ships
+fired their drives and left the darkness between the stars to whatever
+dreamed in it.
+
+Behind them, the marker pulsed its simple signal into the void — a
+warning, or a thank-you, or both — and the empty space held its silence,
+and somewhere in the dark, something vast and ancient continued its
+sleep, and dreamed, perhaps, of the small warm things that had been wise
+enough to leave before the dream became a hunger.
+
+================================================================================
+
+                   THE EQUATION THAT ATE CHICAGO
+
+                       by Douglas Pemberton
+
+================================================================================
+
+                               I.
+
+The trouble began, as trouble so often does in academic circles, with a
+man who was too clever for anyone's good, least of all his own.
+
+Professor Quentin Frobisher occupied a corner office on the third floor
+of the University of Chicago's mathematics department, a room
+distinguished by its view of a parking lot, its aroma of chalk dust and
+stale pipe tobacco, and the presence, on every available surface, of
+papers covered in equations that no one in the department — and possibly
+no one on Earth — could follow. He was fifty-three years old, five feet
+six inches tall, and in possession of a beard that could most charitably
+be described as aspirational. He wore the same brown tweed jacket every
+day, owned precisely two neckties (one for Mondays through Fridays, one
+for occasions of extraordinary significance), and had once been
+discovered asleep in the faculty lounge under a tablecloth, having
+confused the lounge with his bedroom, which was, he protested afterward,
+an easy mistake to make given that both rooms contained uncomfortable
+furniture and an overabundance of biscuits.
+
+In short, he was a mathematician.
+
+He was, more specifically, the kind of mathematician whose brilliance
+existed at such a rarefied altitude that it was invisible to the
+naked eye, like certain species of atmospheric phenomena that can only
+be detected by instruments sensitive enough to distinguish between
+nothing and very nearly nothing. His colleagues respected him. His
+students feared him. His dean regarded him with the wary affection one
+reserves for a distinguished but unpredictable animal that one has,
+through some contractual obligation, agreed to house.
+
+And on the morning of March 14th, 1954 — a date that mathematicians
+will recognize as Pi Day, which Frobisher celebrated annually by eating
+pie and muttering about irrational numbers — he wrote, on the
+blackboard of his corner office, an equation.
+
+It was not a long equation. Frobisher's previous work had tended toward
+the baroque — proofs that sprawled across dozens of pages, theorems
+that required their own table of contents. This equation occupied a
+single line. It was clean, elegant, and balanced in the way that a well-
+constructed sentence is balanced, or a well-designed bridge, or a piece
+of music by Bach.
+
+He stepped back and looked at it. He looked at it for a long time.
+
+"Good Lord," he said.
+
+
+                               II.
+
+The equation described, as nearly as Frobisher could determine, the
+fundamental relationship between mathematics and physical reality. This
+was not, in itself, unusual — many equations describe aspects of physical
+reality; that is rather the point of applied mathematics. But Frobisher's
+equation did not describe a specific aspect. It described the relationship
+itself — the mechanism by which mathematical truth and physical fact
+are connected, the reason that the universe bothers to obey equations
+at all.
+
+He did not understand it fully. He was honest enough to admit this,
+though honesty in a mathematician of Frobisher's caliber was rather
+like modesty in a peacock — technically present but not the dominant
+impression. He understood enough to know that the equation was correct.
+It had the quality that mathematicians call "beauty" and that everyone
+else calls "making the hair on the back of your neck stand up."
+
+He also understood enough to be slightly worried.
+
+The worry crystallized at approximately 11:30 AM, when he noticed that
+his office had become symmetric.
+
+Not entirely symmetric — the desk was still in the corner, the window
+still overlooked the parking lot — but the clutter on his desk, which
+had previously existed in a state of cheerful chaos that would have
+given an entropy theorist palpitations, had rearranged itself. His papers
+were stacked in order of size. His pencils were aligned in parallel.
+His coffee mug sat at the precise center of a coaster, equidistant from
+the edges.
+
+Frobisher was not, as a rule, a tidy man. The mug had moved on its own.
+
+He tested this hypothesis by moving the mug to the left. He turned away.
+When he looked back, the mug was centered again.
+
+"Ah," he said, with the calm of a man who has spent his entire life
+preparing for the possibility that mathematics might someday do something
+irresponsible. "That's not ideal."
+
+
+                              III.
+
+The effect spread, as effects do, outward.
+
+By noon, Frobisher's office was in a state of mathematical perfection
+that would have delighted Marie Kondo and horrified everyone else. Every
+object occupied a position that satisfied the spatial relationships
+implied by the equation on the blackboard. Books arranged themselves by
+the golden ratio. The angle between the window and the desk resolved to
+exactly pi radians. The dust motes in the shaft of sunlight through the
+window moved in Fibonacci spirals.
+
+Frobisher attempted to erase the equation. The chalk would not come off
+the blackboard. He tried a wet cloth. The equation remained. He tried a
+different blackboard — carried in from the adjacent classroom by two
+perplexed graduate students — and discovered that the equation had
+already appeared on it, written in chalk that no one had applied.
+
+"The equation is propagating," he told the graduate students, who
+stared at him with the wide-eyed incomprehension of people who had not
+yet caught up with events. "It has achieved a level of mathematical
+truth sufficient to cause physical reality to conform to its structure.
+In simpler terms: I have written a perfect equation, and now reality
+is trying to become perfect to match it."
+
+"Is that... bad?" asked graduate student Perkins, who was the more
+optimistic of the two.
+
+"That depends," Frobisher said, "on how much you like your current
+reality the way it is."
+
+By two o'clock, the effect had reached the hallway. Faculty members
+arriving for afternoon office hours found the corridor's floor tiles
+rearranged into a perfect tessellation. The drinking fountain dispensed
+water at a temperature of precisely 4 degrees Celsius — the temperature
+of maximum density, the most "mathematically efficient" temperature for
+water to occupy. The clock on the wall, which had been three minutes
+fast for as long as anyone could remember, was now exactly correct, and
+the second hand swept around the dial with a precision that made the
+janitor, a man named Gus who had been winding the clock for twenty years,
+weep with an emotion he could not name.
+
+By four o'clock, the effect had reached the rest of the mathematics
+building. Chairs arranged themselves in optimal configurations.
+Thermostats set themselves to the most energy-efficient temperatures.
+The building's electrical wiring, which had been a fire hazard since
+1928, reorganized itself behind the walls with a series of small,
+purposeful clicks that the janitor attributed to mice and the
+electrician attributed to divine intervention.
+
+By six o'clock, the effect had crossed the quad and was advancing toward
+the physics department.
+
+The crossing of the quad was particularly dramatic. A group of students
+playing touch football discovered that the ball, upon being thrown,
+followed a perfect parabolic trajectory regardless of the thrower's aim
+or intent. Every pass was a spiral. Every punt reached precisely the
+same apex. The game, deprived of uncertainty, became intolerable within
+minutes, and the students abandoned it to stand in a huddle and stare
+at the mathematics building with the dawning horror of young men who
+have just realized that their weekend might be endangered by an equation.
+
+In the faculty cafeteria, the soup achieved a state of thermal
+equilibrium so precise that every spoonful was exactly the same
+temperature. The vending machine, which had been accepting slugs since
+1947, began rejecting any coin whose weight deviated from the mint
+standard by more than a hundredth of a gram. The jukebox, unplugged
+since March, began playing Bach.
+
+Professor Emeritus Walter Fitzmaurice, age eighty-one, who had occupied
+an office in the mathematics building for forty-three years and had not
+been surprised by anything since the invention of television, walked
+past Frobisher's office, paused, looked at the equation on the
+blackboard through the open door, and said: "Well, that's torn it,"
+before continuing down the hall at his customary pace, which was,
+Frobisher noticed, now precisely two miles per hour.
+
+
+                               IV.
+
+Dean Herbert Moncrieff was a man whose relationship with reality had
+always been one of mutual accommodation — he did not ask too much of
+it, and it returned the favor. He was, therefore, profoundly unprepared
+for the telephone call he received at 6:47 PM from Professor Amelia
+Stokes of the physics department, who informed him, in a voice that
+suggested she was either very excited or very frightened, that the
+fundamental constants of nature were changing.
+
+"Not changing dramatically," she clarified, as though this were a
+comfort. "Not changing in a way that would, say, cause atoms to fly
+apart or gravity to reverse itself. Changing in the direction of
+greater mathematical elegance. The gravitational constant is converging
+on a value that simplifies several equations in general relativity.
+The fine-structure constant is trending toward an expression that would
+make quantum electrodynamics — well — tidier."
+
+"Tidier," Dean Moncrieff repeated.
+
+"Much tidier. Herbert, the universe is becoming a better-organized
+version of itself, and it appears to be emanating from the third floor
+of the mathematics building."
+
+Dean Moncrieff put down the telephone, took a deep breath, and went
+to find Professor Frobisher.
+
+He found Frobisher sitting in his now-immaculate office, smoking his
+pipe (the smoke rose in a perfect helix), drinking tea from a cup that
+sat with geometric precision in its saucer, and looking at the equation
+on the blackboard with an expression that combined professional pride
+with existential alarm.
+
+"Frobisher," Moncrieff said. "What have you done?"
+
+"I have written a perfect equation, Herbert."
+
+"I see that. And what does a perfect equation do?"
+
+"Precisely what you'd expect. It makes things perfect."
+
+"Can you make it stop?"
+
+Frobisher drew on his pipe. The smoke spiraled upward in a helix so
+regular it could have been drawn with a compass. "That is an interesting
+question. The equation describes a relationship that is, by definition,
+true. You cannot make a true thing untrue. You can only write a different
+truth — a counter-equation, as it were — that describes a reality in
+which imperfection is the natural state."
+
+"And can you do that?"
+
+"Possibly. But it would require me to write a deliberately imperfect
+equation, which is rather like asking a musician to play a deliberately
+wrong note. It goes against the grain."
+
+"Frobisher, the universe is reorganizing itself around your blackboard.
+The physics department says the gravitational constant is changing. I
+have a custodian who won't stop crying because the clock is correct.
+Write the wrong note."
+
+Frobisher looked at the equation. He looked at the office, which was,
+he had to admit, considerably more pleasant in its mathematically
+optimized state. He looked at the view from his window, where the
+parking lot — that concrete monument to human mediocrity — was
+rearranging its cars into a pattern that satisfied a previously
+unsuspected aesthetic principle of automotive distribution.
+
+"The thing is, Herbert," he said thoughtfully, "it is a very good
+equation."
+
+"I don't care how good it is. Chicago is not equipped to be perfect."
+
+"You make a fair point. Chicago is, if anything, the opposite of perfect.
+It is a city built on swampland by people who thought swampland was a
+reasonable foundation for a metropolis. Its weather is an argument against
+intelligent design. Its politics make Machiavelli look like an amateur.
+Imposing mathematical perfection on Chicago would be — well — it would
+be like putting a tuxedo on a bulldog. Technically possible, but
+fundamentally at odds with the bulldog's character."
+
+"Then stop it."
+
+"I should point out, Herbert, that there are certain benefits to the
+current situation. The electrical wiring, for instance. The building
+inspector has been threatening us for years, and the equation has
+accomplished more in six hours than three rounds of renovation budgets.
+The cafeteria soup has never been better. And Professor Fitzmaurice
+tells me he can now find his reading glasses every time he puts them
+down, because they migrate to the mathematically optimal position on
+his desk."
+
+"Frobisher."
+
+"Furthermore, the students report that the football now flies in perfect
+spirals, which I would have thought —"
+
+"FROBISHER."
+
+"Yes, Herbert?"
+
+"The city of Chicago is on the other side of our campus. The third-
+largest city in the United States. Four million people. If your equation
+reaches Michigan Avenue, the traffic lights will synchronize perfectly,
+which sounds delightful until you realize that Chicago traffic has been
+an organic chaos system for fifty years and any sudden optimization will
+cause the most mathematically elegant gridlock in automotive history.
+Stop. The. Equation."
+
+Frobisher considered this. He considered the traffic. He considered four
+million Chicagoans experiencing the sudden, unwelcome imposition of
+mathematical order on a civic infrastructure that had evolved, over
+decades, to function precisely because of its imperfections — the late
+buses that gave commuters time to finish their coffee, the potholes that
+slowed drivers to safe speeds, the crooked sidewalks that gave the city
+its character.
+
+"Very well." Frobisher set down his pipe, picked up a piece of chalk,
+and approached the blackboard.
+
+
+                               V.
+
+The counter-equation took him four hours.
+
+It was not elegant. It was not beautiful. It was, in fact, the ugliest
+piece of mathematics Frobisher had ever written, and writing it caused
+him physical discomfort, like a composer forced to resolve a symphony
+on a diminished seventh. It was an equation that described, precisely
+and irrefutably, the fundamental role of imperfection in the structure
+of reality — the necessity of disorder, the function of randomness, the
+mathematical beauty inherent in things that refuse to add up.
+
+It was, paradoxically, brilliant.
+
+He wrote it on the blackboard next to the original equation, and the
+two stood side by side like a thesis and its antithesis, two truths that
+contradicted each other and were both correct.
+
+The effect began to reverse. The pencils on his desk relaxed from their
+parallel formation and sprawled at random angles. The coffee mug wandered
+off-center. The dust motes abandoned their Fibonacci spirals and resumed
+their aimless drift. In the hallway, the floor tiles shuffled back to
+their original imperfect arrangement, and the clock settled into its
+comfortable habit of running three minutes fast.
+
+The parking lot, observed from the window, returned to chaos.
+
+Dean Moncrieff, who had been watching over Frobisher's shoulder with
+the expression of a man watching a surgeon operate on a bomb, allowed
+himself to breathe.
+
+"Is it contained?"
+
+"It is balanced," Frobisher corrected. "The original equation is still
+true. Reality is still, in its fundamental nature, mathematical. But the
+counter-equation is also true: reality is also, in its fundamental
+nature, messy. The two truths will coexist, as they always have. I
+merely — temporarily — disturbed the balance."
+
+"See that you don't do it again."
+
+"I make no promises, Herbert. Mathematics is an unruly discipline."
+
+Moncrieff left. Frobisher sat in his office, looked at the two equations
+on his blackboard — perfection and imperfection, order and disorder, the
+universe as it could be and the universe as it insisted on being — and
+smiled.
+
+Then he moved his coffee mug slightly off-center, just to make sure it
+stayed.
+
+It did. The universe, imperfect and indifferent, was working as designed.
+
+Frobisher lit his pipe, put on his second necktie — the one for occasions
+of extraordinary significance — and went home, leaving the equations to
+argue with each other in the dark.
+
+================================================================================
+
+                           SOLAR WIND
+
+                      by Robert "Bob" Finley
+
+================================================================================
+
+                               I.
+
+The starting gun was a flare from the race marshal's cutter, a burst
+of white-hot magnesium against the black, and forty-seven solar yachts
+unfurled their sails and caught the light.
+
+Captain Ines Guerrero gripped the helm of the *Viento Libre* and felt
+the surge through her boots — that first kick of solar radiation hitting
+the sail, photon pressure translating into acceleration, and the whole
+ship leaning into the wind like a clipper rounding Cape Horn. It was the
+best feeling in the solar system. Better than whiskey. Better than
+shore leave on Ganymede. Better, if she was being honest, than just
+about anything she'd ever experienced, and Ines Guerrero had experienced
+a fair amount.
+
+The race was the Mercury-to-Neptune Grand Prix, the longest and most
+dangerous yacht race in human history. Eight billion miles of open
+space, from the blistering orbit of Mercury to the frozen dark of the
+outer system, powered by nothing but sunlight. The sails were vast —
+the *Viento Libre's* mainsail spread two square kilometers of
+aluminized Mylar, thinner than a soap bubble, that caught the solar
+wind and converted it to motion. At close range to the Sun, the pressure
+was fierce — enough to push a well-rigged yacht to speeds that made
+conventional rockets look like rowboats. As you moved outward, the
+pressure dropped, and the race became a test of skill, patience, and
+nerve: who could carry the most speed from the inner system into the
+darkness beyond.
+
+"Clean start," said Tomás Rivera, her navigator, checking the spread
+of the fleet on his scope. "We're third off the line. *Sunfire* and
+*Golden Ratio* are ahead."
+
+"Let them run. They'll burn their sails pushing too hard near Mercury.
+We ride easy until Venus, then we pour it on."
+
+The *Viento Libre* was a sixty-foot sloop, built in the orbital yards
+above Havana by a Cuban shipwright named Esperanza who understood solar
+yachts the way other people understood guitars — as instruments to be
+played, not merely operated. She had a carbon-fiber hull, a sail rigged
+for both close-reach and broad-reach configurations, and a crew of four:
+Guerrero at the helm, Rivera on navigation, Kofi Mensah on sail trim,
+and Dr. Lena Vogt as ship's engineer and medic.
+
+They were not the favorites. The favorites were *Sunfire*, skippered by
+Anatoly Kestrel, a three-time Grand Prix champion who had once sailed
+from Mercury to Jupiter on a bet, and *Golden Ratio*, skippered by
+Mei-Lin Park, a Korean racer who had designed her own sail material and
+was rumored to have achieved a close-reach efficiency twelve percent
+above the theoretical maximum. The *Viento Libre* was fast but not the
+fastest, tough but not the toughest. What she had was a captain who
+had grown up sailing fishing boats in the Caribbean and understood wind
+— any kind of wind, even the kind that came from a star — in her bones.
+
+"Sail pressure nominal," Kofi reported. "Running clean."
+
+Ines settled in. Eight billion miles ahead of her, Neptune hung like a
+blue marble in the dark, and between here and there was nothing but
+light and vacuum and the kind of silence that made you either a poet or
+a lunatic. She'd been at this long enough to be a little of both.
+
+
+                               II.
+
+The first three days were racing at its finest.
+
+The fleet spread out across the inner system like a school of silver
+fish, each yacht angling for the optimal trajectory — close enough to
+the Sun to maximize photon pressure, far enough to keep the sail intact.
+Too close and the radiation would fry the Mylar; too far and you lost
+speed. The sweet spot was a ribbon of space between the orbits of
+Mercury and Venus, where the solar wind blew strongest and the light
+was pure and fierce.
+
+Ines held the *Viento Libre* to the outside of the pack, letting the
+aggressive skippers jockey for the close-in positions. Rivera plotted
+a slingshot trajectory that would use Venus's gravity to boost their
+speed without sacrificing their angle. Kofi trimmed the sail with the
+precision of a man threading a needle in a hurricane, adjusting the
+rigging in increments of microradians to catch every photon.
+
+By day three, they were seventh. *Sunfire* led, with *Golden Ratio*
+close behind. The rest of the fleet was strung out over two million
+kilometers, a glittering necklace of reflected light against the black.
+
+Then the Solar Observatory on Mercury transmitted the alert.
+
+"Flare warning," Rivera said, his voice suddenly tight. "Class X-9.
+The big one."
+
+Ines felt the words hit her gut like cold water. A Class X-9 solar
+flare was the largest classification — a coronal mass ejection that
+would send a wave of charged particles and radiation screaming outward
+from the Sun at three million miles an hour. In the inner system, an
+X-9 flare was lethal. The radiation alone would fry electronics, cook
+flesh, and shred solar sails like tissue paper in a blowtorch. The
+particle wavefront behind it would be even worse — a tsunami of charged
+plasma that could strip the hull of an unshielded ship down to the
+spars.
+
+"Time to impact?"
+
+"Eighteen hours. The wavefront will hit the fleet between the orbits of
+Venus and Earth."
+
+"Where we are right now."
+
+"Where we are right now."
+
+Ines looked at the fleet spread across her scope. Forty-seven ships.
+Forty-seven crews. Most of them were in the same band of space as the
+*Viento Libre*, riding the sweet spot between Mercury and Venus. The
+flare would catch them all.
+
+"Race marshal's signaling," Rivera said. "All ships: return to Mercury
+Station. Race suspended."
+
+That was the safe play. Turn back toward Mercury, where the orbital
+station had radiation shelters rated for X-class events. It would take
+twelve hours on a hard tack, but most ships could make it. The race
+would restart after the flare passed.
+
+Ines looked at the numbers. She looked at the fleet disposition. She
+looked at the flare data, scrolling across Rivera's screen in red.
+
+"Tomás," she said. "What if we didn't turn back?"
+
+Rivera looked at her.
+
+"The wavefront is moving at three million miles per hour. We're
+currently making eight hundred thousand. If we furled the mainsail, we
+couldn't outrun it. But if we deployed full sail — maximum spread,
+broad-reach, running with the flare instead of against it —"
+
+"You want to ride the wavefront."
+
+"The wavefront is a pressure wave. The biggest pressure wave the Sun
+has thrown at us this decade. If we catch it right — if we angle the
+sail to ride the leading edge instead of getting hit broadside — it
+would accelerate us faster than any yacht has ever moved. We could use
+the flare to slingshot past the entire fleet. By the time they restart
+the race from Mercury, we'd be past Mars."
+
+"And if we angle it wrong?"
+
+"We die."
+
+Rivera was quiet for a moment. "What's the margin?"
+
+"Kofi, you're the sail man. Can you hold a broad-reach trim in an X-9
+wavefront?"
+
+Kofi Mensah looked up from his console. He was a big man, quiet, from
+a sailing family in Accra that had been working the Gold Coast waters
+for generations. He thought about it the way he thought about everything
+— slowly, thoroughly, without drama.
+
+"The sail will take it if we reinforce the corner grommets and run
+backup stays on the main halyard. The pressure differential will be
+extreme — we're talking about riding the edge of a wave that could rip
+us apart if we fall off the crest. I'd need to trim continuously, hands
+on the line the whole time."
+
+"Can you do it?"
+
+"I can do it."
+
+"Lena?"
+
+Dr. Vogt, who had been listening from the engine compartment hatch, said:
+"The radiation exposure will be significant, even behind the hull
+shielding. I can dose us with rad-blockers and we'll be within
+survivable limits, but we'll all need medical attention at the finish.
+And if the shielding fails —"
+
+"Understood." Ines looked at her crew. Three people who trusted her with
+their lives. "I'm not ordering this. This is a volunteer run. If any
+one of you says no, we turn back to Mercury with the rest of the fleet."
+
+Rivera looked at his charts. Kofi looked at his rigging. Vogt looked
+at her medical kit. Nobody said no.
+
+"Then we run," Ines said.
+
+
+                              III.
+
+The fleet turned back. Forty-six ships furled their sails and fired
+maneuvering thrusters, arcing toward Mercury Station in a long, slow
+curve. The *Viento Libre* unfurled.
+
+Ines ordered full deployment — every square meter of sail, the mainsail
+and the two jibs and the auxiliary spanker that Esperanza had built in
+"for emergencies and for showing off." The ship spread her wings like an
+albatross, two and a half square kilometers of aluminized Mylar catching
+the sunlight, and the acceleration pushed Ines back in her seat as the
+*Viento Libre* surged forward.
+
+They were running now — running ahead of the flare, trying to stay in
+front of the wavefront rather than being overtaken by it. It was like
+surfing ahead of a tsunami, and the metaphor was almost exact: the
+flare was a wave, and they needed to catch it at the leading edge, where
+the pressure was strongest but the radiation was diffused by the wave's
+own expansion.
+
+Rivera called out the numbers. "Wavefront in sixteen hours. Our velocity
+is climbing — nine hundred thousand... nine-fifty... one million miles
+per hour. We need to be at two million by the time it reaches us."
+
+"Kofi, more sail."
+
+"She's at max spread. I can angle the jibs another three degrees for a
+tighter reach —"
+
+"Do it."
+
+The *Viento Libre* accelerated. The Sun blazed behind them, enormous
+and furious, and Ines could feel its anger in the way the ship trembled
+under the increasing pressure — a vibration that ran through the hull
+like a bass note, deep and resonant, the sound of a star pushing a
+sixty-foot boat across the vacuum.
+
+Hours passed. The wavefront closed. Rivera counted it down like a
+metronome — twelve hours, eight hours, four. The radiation levels
+climbed. Vogt administered the rad-blockers and sealed the crew
+compartment. The ship's electronics flickered, stabilized, flickered
+again.
+
+At two hours, the light changed.
+
+It came from behind them — a brightening, not gradual but sudden, as
+though someone had turned up the Sun's dimmer switch. The solar wind,
+which had been a steady pressure on the sail, began to gusts — surges
+of photon pressure that made the rigging sing and the hull groan.
+
+"One hour," Rivera said. "Velocity one-point-eight million. We need
+more speed."
+
+"Kofi, can you catch the gusts?"
+
+"Working on it." His hands moved on the rigging controls, adjusting
+the sail angle with each gust, feathering the edge of the Mylar to
+catch the surge and release the lull, and the *Viento Libre* leaped
+forward with each adjustment. It was like watching a master sailor
+work — instinct and skill translated into acceleration, the oldest
+art in the world applied to the newest ocean.
+
+"Two million," Rivera said. "Two-point-one. Two-point-three."
+
+The wavefront hit.
+
+It was not a wall. It was a gradient — a steep, rising slope of
+pressure and radiation that washed over the ship from stern to bow.
+The sail bellied outward, straining against the stays, and the
+acceleration hit Ines like a punch in the chest. She was pressed back
+into her seat, and the ship sang — a high, keening note that was
+the sound of two and a half square kilometers of Mylar vibrating at
+its resonant frequency under the force of a star's rage.
+
+"Three million!" Rivera shouted over the noise. "Four million! Ines,
+we're on the crest!"
+
+She could feel it — the sweet spot, the leading edge of the wave, where
+the pressure was maximum and the ship was moving with the wavefront
+instead of being overtaken by it. It was like riding a barrel wave in
+the Caribbean, the moment when the water lifts you and you're balanced
+on the edge of something enormous, and everything is speed and noise
+and the pure animal joy of being alive in a place where you absolutely
+should not be.
+
+"Hold this trim, Kofi! Hold it!"
+
+"Holding!"
+
+The *Viento Libre* rode the crest of the flare. Behind them, the Sun
+threw its tantrum, and the radiation howled, and the charged particles
+screamed past the hull, and the sail held. Kofi trimmed it with the
+touch of a man who had spent his life reading wind, adjusting for
+each surge and each lull, keeping the ship balanced on the edge of
+the wave.
+
+They rode it for six hours.
+
+Six hours of impossible speed, the stars blurring past the viewports,
+the ship shaking and singing and flying on the breath of a star. Six
+hours in which the *Viento Libre* covered more distance than any solar
+yacht had ever covered in a single run. Six hours in which Ines
+Guerrero held the helm and grinned and felt, in the marrow of her
+bones, the joy that had drawn her to the sky in the first place.
+
+
+                               IV.
+
+The wavefront passed. The pressure eased. The sail, battered but intact,
+drooped as the solar wind returned to normal — still pushing, still
+driving them outward, but gently now, the fury spent.
+
+Rivera ran the numbers.
+
+"We passed Mars two hours ago. Current velocity: declining, but we're
+carrying enough momentum to coast to the asteroid belt on inertia alone.
+When the fleet restarts from Mercury, we'll have a six-week lead."
+
+"The sail?"
+
+"Degraded. Maybe forty percent efficiency. The flare scorched the outer
+layer. We can still make way, but we won't be setting any speed records
+from here."
+
+"Don't need to. Six weeks is six weeks."
+
+Vogt checked them over. The radiation exposure was within the survivable
+range she had predicted — they would all need treatment at the finish,
+and Ines suspected her hair was going to fall out again, which was a
+nuisance because she'd just grown it back from the last race — but they
+were alive and functional and moving very, very fast in the right
+direction.
+
+Kofi sat by the viewport, looking at his hands. They were shaking. He'd
+held the rigging for six hours against the force of a solar storm, and
+the muscles in his forearms were cramped solid.
+
+Ines sat down beside him. "You alright?"
+
+"That was the best sailing I've ever done in my life."
+
+"Yes, it was."
+
+"I don't think I can move my fingers."
+
+"Vogt will fix your fingers. That's what she's for."
+
+The *Viento Libre* sailed on, carried by momentum and the gentle, steady
+breath of a star that had finished shouting and was now, in the manner of
+stars, pretending nothing had happened. Behind them, the fleet was
+regrouping at Mercury Station. Ahead of them, Neptune waited in the dark,
+blue and cold and eight billion miles from anywhere.
+
+Six weeks later, the *Viento Libre* crossed the finish line a full
+month ahead of the nearest competitor. No yacht in the history of the
+Grand Prix had ever won by such a margin. The race committee debated
+whether riding a solar flare constituted a rules violation and concluded,
+after three days of argument, that the rules said nothing about solar
+flares because no one had ever been crazy enough to try it.
+
+Ines Guerrero accepted the trophy — a silver sextant mounted on a
+pedestal of lunar crystal — in a ceremony on Neptune Station, with her
+crew beside her and her hair, as predicted, mostly gone.
+
+"Captain Guerrero," the race marshal asked, "would you do it again?"
+
+She thought about the crest of the wave. The ship singing. The stars
+blurring. The feeling of riding the fury of a star and coming out the
+other side.
+
+"Every time," she said.
+
+================================================================================
+
+                         THE BONE ORCHARD
+
+                         by Lucian Marsh
+
+================================================================================
+
+                               I.
+
+They found the orchard on the thirty-seventh day.
+
+The colony ship *Perseverance* had set down on Kepler-442b in the late
+autumn of the planet's long year, when the native vegetation — if it
+could be called vegetation; it was more like a collaboration between
+fungus and mineral — was shedding its crystalline spores into air the
+color of weak tea. The colonists, two hundred and twelve souls from
+Earth, had spent the first month establishing perimeter, raising
+shelters, and cataloging the immediate biome with the grim efficiency
+of people who understood that their survival depended on knowing exactly
+what kind of world they had chosen to inhabit.
+
+It was a good world, mostly. Breathable atmosphere. Tolerable gravity.
+Water that required only modest filtration. The native life was carbon-
+based, which was encouraging, and appeared to be non-aggressive, which
+was more encouraging still. Dr. Petra Engstrom, the colony's chief
+biologist, described the ecosystem as "cooperative" — organisms that
+shared resources, distributed nutrients through networks of underground
+filaments, and seemed to lack the competitive instincts that drove
+evolution on Earth.
+
+"Nothing here eats anything else," she told the colony council at their
+weekly meeting. "It's all mutualism. Symbiosis on a planetary scale.
+Frankly, it makes me nervous."
+
+"Why?" asked Governor Hale, a practical man who preferred problems he
+could solve with lumber and concrete.
+
+"Because Earth has competition because competition works. If nothing on
+this planet competes, either there's a reason we haven't found yet, or
+there's a predator we haven't met."
+
+Nobody laughed. They had all read enough history to know that the
+things you hadn't found yet were the things that killed you.
+
+The orchard was discovered by a survey team mapping the terrain south
+of the colony. Team leader Marcus Cole, a former park ranger from
+Wyoming who had volunteered for the colony because he preferred
+landscapes to people, reported it by radio in a voice that his
+colleagues noted was unusually careful, as though he were choosing each
+word from a selection of items that might explode.
+
+"We've found — structures," he said. "About four kilometers south.
+Arranged in rows. They look like — I don't want to say what they
+look like. I think you should come see."
+
+
+                               II.
+
+What they looked like was trees made of bone.
+
+They rose from the dark soil in rows, precisely spaced, each one
+approximately two meters tall. Their trunks were smooth and pale, the
+color and texture of old ivory, and they branched at regular intervals
+into limbs that curved upward and outward in configurations that were
+unsettlingly familiar. Here, the sweep of a rib cage. There, the
+articulation of a shoulder joint. At the crown of each tree, a structure
+that resembled — but was not quite — a skull, eyeless and open-mouthed,
+tilted toward the tea-colored sky.
+
+They were not human bones. The proportions were wrong — too elongated,
+too symmetrical, with extra joints and a geometry that suggested a body
+plan quite different from the human. But they were recognizably skeletal.
+These were the remains of living beings, and they had been planted in
+the soil like seeds.
+
+There were hundreds of them.
+
+Dr. Engstrom walked the rows with a scanner and a face that had gone
+pale under its tan. She took samples. She ran analyses. She knelt in
+the dark soil and dug carefully around the base of one of the bone trees,
+and what she found there made her sit back on her heels and stare.
+
+"Roots," she said. "The bones have roots."
+
+The lower portions of each skeleton had extended downward into the soil,
+sending out filaments of calcified tissue that penetrated the earth in
+the same branching patterns as the underground networks she had observed
+in the native vegetation. The bone trees were connected — to each other,
+and to the broader ecosystem of the planet.
+
+"They're growing," she said. "The bones are growing."
+
+Governor Hale, who had accompanied the team, looked at the rows of
+skeletal trees stretching to the horizon and said the only thing a
+practical man could say:
+
+"Growing into what?"
+
+
+                              III.
+
+Into fruit, as it turned out.
+
+The fruit appeared over the following weeks — small, pale spheres that
+budded at the tips of the bone-branches and swelled slowly to the size
+of apples. They were warm to the touch, pulsing with a faint biolumi-
+nescence that was visible at twilight, and they smelled — this was the
+detail that no one talked about comfortably — they smelled of memory.
+
+Not a specific memory. Not a scent that could be identified and named.
+Rather, each fruit carried an olfactory signature that triggered, in
+the person who smelled it, a cascade of recollection so vivid and so
+personal that it felt less like remembering and more like reliving. Cole
+stood near a bone tree and smelled his grandmother's house in Laramie —
+not the abstract concept of his grandmother's house, but the specific
+sensory reality of it: wood polish, lavender, the creak of the third
+stair, the quality of afternoon light through the kitchen window. He
+staggered and had to be caught by a colleague.
+
+Engstrom hypothesized that the fruit contained compounds that interacted
+with the human olfactory-limbic pathway, the neurological link between
+smell and memory that was the oldest and most powerful sensory connection
+in the brain. "The fruit is reading us," she said. "The same way the
+native ecosystem reads everything — through the underground filaments,
+through chemical signaling, through the cooperative mutualism that
+defines this planet's biology. It's sampling our biochemistry and
+producing compounds tailored to our neural architecture."
+
+"But the memories it triggers," said Dr. Mikhail Sorokin, the colony's
+psychologist. "They're not random. They're — curated. Specific. It's
+as if the fruit knows which memories to activate."
+
+"The memories belong to the dead," Engstrom said. She held up a
+scanner reading. "The bone trees are the remains of a sentient species.
+A species that buried its dead here, in soil that is part of a planet-
+wide cooperative organism. The organism preserved them. Grew them. And
+encoded their memories in a medium — the fruit — that could transmit
+those memories to other minds."
+
+"An alien cemetery," Hale said.
+
+"More than a cemetery. A library. An archive. The dead are not gone.
+They're — stored. Their memories encoded in fruit that grows from their
+bones, accessible to anyone who tastes it."
+
+No one spoke for a long time.
+
+"No one," Governor Hale said firmly, "is to eat the fruit."
+
+
+                               IV.
+
+The children ate the fruit.
+
+Of course they did. There were forty-one children in the colony, ranging
+in age from three to sixteen, and they had the same relationship with
+parental prohibitions that children have always had: they heard them,
+they understood them, and they disregarded them at the earliest
+opportunity.
+
+The first to eat was Mara Volkov, age nine, a serious girl with dark
+eyes and a habit of wandering farther from camp than her parents
+preferred. She was found sitting beneath a bone tree at the edge of
+the orchard, a half-eaten fruit in her hands, her eyes open but
+unfocused, her face wearing an expression that her father, arriving at
+a run, could not interpret. It was not pain. It was not pleasure. It was
+something else — a concentration so deep it resembled absence, as though
+Mara's body were present but her mind had traveled somewhere her father
+could not follow.
+
+"Mara." He knelt beside her. "Mara, can you hear me?"
+
+She turned to him. Her eyes focused slowly, like a camera adjusting to
+light.
+
+"Papa," she said. "I met someone."
+
+"Who?"
+
+"I don't know her name. But she was — old. And she remembered everything.
+She remembered the sky when it was a different color. She remembered
+when the trees were alive and had flesh on them, before they became
+bones. She remembered her children."
+
+Dr. Sorokin was called. He examined Mara and found her physically
+unharmed — pupils responsive, vital signs normal, cognitive function
+intact. But she was different. She had a gravity to her that had not
+been there before, a quality of attention that made her seem older
+than nine, as though the memories she had absorbed had added layers to
+her awareness.
+
+She was not the last. Over the following week, despite all efforts at
+enforcement, eleven more children found their way to the orchard and
+ate the fruit. Each one reported the same experience: not a hallucination,
+not a dream, but a genuine encounter with an alien consciousness — the
+preserved mind of a dead being, communicated through taste and smell
+and the ancient architecture of the brain.
+
+The children began to change.
+
+Not physically — they remained small and human and fragile. But their
+behavior shifted. They became quieter, more observant. They stopped
+fighting with each other. They developed an uncanny sensitivity to the
+emotional states of the adults around them, responding to tensions and
+anxieties that had not been expressed aloud. Mara Volkov, the first to
+eat, began drawing pictures of the alien species whose bones composed
+the orchard — accurate pictures, Engstrom confirmed, that matched the
+skeletal anatomy perfectly. Drawings of beings she could not have seen,
+rendered from memories she had consumed.
+
+"They're integrating," Sorokin told the colony council. "The alien
+memories are not replacing their own. They're — supplementing them. The
+children are developing a kind of dual consciousness: their own
+experience, plus a reservoir of alien experience that they can access
+like a library."
+
+"Is it harming them?"
+
+"I don't think so. But I can't be certain. The neural effects are
+unprecedented. These children have more memory than any human being
+should possess — lifetimes of experience from a species we know nothing
+about. What that does to a developing mind over time — I have no model
+for it."
+
+Governor Hale looked at the council. Twelve adults responsible for the
+survival and well-being of two hundred and twelve colonists, including
+forty-one children, on a planet whose cooperative biology had apparently
+decided to include them in its network by feeding their children the
+memories of the dead.
+
+"Can we stop them?" he asked.
+
+"We can try," said Sorokin. "But the children are drawn to the orchard.
+They describe it as a need — not a craving, not an addiction, but a
+pull, like gravity. The fruit is offering them something that the human
+mind appears to want: connection. Memory. The experience of a mind
+larger than their own."
+
+"And if we fence off the orchard?"
+
+"They'll find another way. The bone trees are part of the planet's
+network. The filaments extend for kilometers. Engstrom tells me the
+fruit will eventually grow anywhere the network reaches."
+
+Hale sat back. Outside the council chamber, through the window, he
+could see the orchard in the distance — rows of pale, skeletal trees
+against the tea-colored sky, their fruit glowing faintly in the
+gathering dusk. And among them, small figures moving — children, walking
+the rows with a patience and a purpose that belonged to beings much
+older than themselves.
+
+
+                               V.
+
+Mara Volkov came to see Governor Hale on a Tuesday evening, when the
+colony was settling into its routine and the twin moons were rising over
+the hills to the east. She stood in the doorway of his office, a small
+girl in a colony-issue jumpsuit, her dark eyes carrying the weight of
+something vast.
+
+"I want to explain," she said.
+
+Hale gestured to a chair. She sat in it with a composure that belonged
+to someone three times her age.
+
+"The beings who lived here — the ones whose bones are in the orchard —
+they called themselves the Keth. They were here for a very long time.
+Longer than humans have been on Earth. They built no cities, made no
+tools, had no technology. They didn't need it. They had the network."
+
+"The underground filaments."
+
+"The network connects everything on this planet. Every organism, every
+being, living and dead. The Keth were part of it. They lived cooperatively
+— with each other, with the planet. When they died, the network preserved
+them. Their bodies became trees. Their memories became fruit. Death was
+not an ending for the Keth. It was a — change of medium."
+
+"What happened to them? Why are there only bones?"
+
+Mara was quiet for a moment. When she spoke, her voice was careful, and
+Hale had the unsettling impression that she was choosing words from a
+vocabulary that included concepts for which English had no equivalents.
+
+"They completed themselves. All of them, over thousands of years. They
+lived, they died, they were preserved. Eventually, every Keth who would
+ever live had lived and died, and the orchard was full, and the network
+held all of them — every memory, every experience, every moment of
+Keth existence, encoded in the fruit and the soil and the filaments.
+They became, in a sense, the planet itself. The living world that you
+see around you — the cooperative ecosystem, the mutualism, the absence
+of competition — that is the Keth. Not their legacy. Them. Still alive,
+in the way that matters."
+
+"And the fruit?"
+
+"The fruit is an invitation. The Keth preserved their memories not
+for themselves — they already have the network — but for whoever came
+next. Whoever found this world and chose to live here. The fruit is
+a gift: the entire accumulated wisdom of a civilization, offered freely
+to anyone willing to receive it."
+
+"And what does it do to human children?"
+
+Mara looked at him with her dark, weighted eyes, and for a moment Hale
+did not see a nine-year-old girl. He saw something older, something
+that carried the experience of an entire species in the quiet spaces
+behind its gaze.
+
+"It makes us better," she said. "Not different. Not alien. Better.
+We are still ourselves. But we have — more. More memory. More
+understanding. More connection to the world we live on. The Keth
+didn't die so that their orchard could be a museum. They died so that
+whoever came after could inherit what they learned."
+
+Hale sat in his chair and looked at this child who was, and was not,
+the Mara Volkov he had known a month ago. He thought about his
+responsibility — to the colony, to the children, to the future they
+were building on this alien world. He thought about the bone orchard,
+glowing in the dusk, its fruit hanging heavy and warm on branches that
+were the remains of beings who had loved this planet enough to become
+part of it.
+
+"The other adults," he said. "They're afraid."
+
+"They should be. This is a frightening thing. But the fruit will not
+force itself on anyone. The network does not compete; it cooperates.
+No adult will be made to eat. No child will be harmed. We will simply
+— grow."
+
+Hale looked out the window. The orchard. The moons. The children
+walking between the bone trees in the fading light, their small hands
+touching the pale branches, their faces tilted toward the warm,
+glowing fruit.
+
+"Grow into what?" he asked — the same question he had asked on the
+day they found the orchard, standing in the dark soil with the bone
+trees rising around him like the ribs of some vast, sleeping creature.
+
+Mara smiled. It was a child's smile, bright and simple, and it
+contained, beneath its surface, the accumulated patience of a species
+that had measured its time in millennia.
+
+"Into what comes next," she said.
+
+Outside, the orchard pulsed with its gentle bioluminescence, and the
+children walked among the bones of the ancient dead, and the fruit
+hung ripe and luminous on branches that had once been arms, and the
+planet's vast cooperative network hummed beneath the soil like a
+song sung by the earth itself, welcoming its newest members into the
+choir.
+
+And in the bone orchard, the dead Keth dreamed in the dark, their
+memories flowing through root and filament and fruit, patient as
+geology, waiting for the next mouth, the next mind, the next question
+asked by a small voice in a world that was older than loneliness and
+kinder than fear.
+
+================================================================================
+
+ABOUT THE AUTHORS
+
+================================================================================
+
+COL. JAMES "BUCK" STANTON (USAF, Ret.) flew P-51 Mustangs over Europe
+and commanded a fighter wing in Korea before retiring from the Air Force
+to write the military science fiction that has made him one of this
+magazine's most distinctive voices. His stories draw on twenty years of
+combat experience and an intimate understanding of what command actually
+costs. "Thunder Over Tranquility" reflects his growing interest in the
+political tensions between Earth and its colonies — a cold war, he notes,
+that "rhymes uncomfortably with several I have witnessed firsthand." He
+lives on a ranch outside Fredericksburg, Texas, with his wife Martha,
+and continues to stand ramrod-straight and call everyone "son." This is
+his eighth appearance in these pages.
+
+CORDELL BEAUMONT is a New Orleans writer whose lush, sensory-rich prose
+has established him as one of science fiction's premier world-builders.
+A former merchant marine officer who traveled extensively in the South
+Pacific, Beaumont writes about alien worlds with the intoxicated
+attention of a man who has spent his life falling in love with landscapes.
+"The Pleasure Gardens of Procyon" is, he says, "the most personal story
+I have written — a story about the difference between pleasure and joy,
+which is the same as the difference between a beautiful cage and an
+open road." He lives in New Orleans with his wife Lisette, a painter,
+and tends a courtyard garden that he describes as "modest by Procyoni
+standards." This is his sixth appearance in these pages.
+
+PHYLLIS CRENSHAW holds a degree in philosophy and logic from the
+University of Pennsylvania and brings a puzzle-maker's delight to her
+fiction, which is almost exclusively concerned with the paradoxes and
+pleasures of time travel. "The Time Traveler's Cookbook" began, she
+reports, when she attempted to recreate a Roman recipe and wondered
+what it would taste like with soy sauce. "The answer was delicious," she
+says, "and the implications were horrifying." She lives in Philadelphia
+with her husband David and their two children, and notes that her own
+cooking is "strictly contemporary, and strictly terrible." This is her
+seventh appearance in these pages.
+
+THEODORE CAIN is the most prolific contributor in the history of this
+magazine and a writer whose versatility is matched only by his
+reliability. A former autoworker and current technical writer at General
+Motors, Cain writes fiction every evening from eight to midnight and
+has never missed a deadline. "Salvage Rights" was inspired by a
+conversation with a merchant sailor about maritime law and the things
+that drift in deep water. "The sea is full of surprises," Cain says,
+"and space is fuller." He lives in Dearborn, Michigan, with his wife
+Jean, and this is his sixteenth appearance in these pages — a record he
+holds with characteristic modesty.
+
+DOUGLAS PEMBERTON is a British humorist and occasional science fiction
+writer whose work has appeared in Punch, The New Yorker, and several
+publications that he insists are not as disreputable as they sound. A
+graduate of Balliol College, Oxford, and a former Royal Navy officer
+of spectacular self-described incompetence, Pemberton approaches the
+future with the genial bafflement of a man who has never quite figured
+out the present. "The Equation That Ate Chicago" was written, he says,
+"as a cautionary tale about the dangers of doing mathematics too well,
+a danger to which I am personally immune." He lives in Woking, Surrey,
+with his wife Penelope, three dogs, two cats, a parrot, and a tortoise
+named Doris. This is his eighth appearance in these pages.
+
+ROBERT "BOB" FINLEY learned to write in the pulps, and he has brought
+the pulps' finest qualities — speed, color, and the unshakable
+conviction that the reader's excitement matters more than anything else
+— to every story he has published in these pages. A Chicagoan born and
+bred, Finley spent fifteen years writing for Thrilling Wonder Stories,
+Planet Stories, and every other market that would pay him before joining
+our roster. "Solar Wind" is his love letter to racing and to the sailors
+who taught him that the best way to survive a storm is to ride it.
+He lives in Rogers Park, Chicago, with his wife Carol and an apartment
+full of cats. This is his fifteenth appearance in these pages.
+
+LUCIAN MARSH is the pen name of a reclusive New England writer whose
+dark, atmospheric fiction occupies a unique space at the intersection
+of science fiction and horror. We can reveal that he was born in
+Massachusetts, that he was educated at Brown University, and that he has
+spent time as an orderly in a psychiatric hospital — experiences that
+inform the clinical precision with which he renders states of dread and
+displacement. "The Bone Orchard" is, by his own account, "not a horror
+story but a love story, told by the dead to the living." We leave our
+readers to judge for themselves. This is his sixth appearance in these
+pages.
+
+================================================================================
+
+SIGNALS RECEIVED
+Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+I have now read every issue of your magazine from the first to the
+seventeenth, and I wish to register a formal complaint: you are ruining
+my marriage. My wife says I have not spoken a complete sentence to her
+since January 1953, and she is probably right. I read your magazine at
+breakfast, at lunch, on the bus, and under the covers with a flashlight
+after she has gone to sleep. I have missed three dinner parties, two
+dentist appointments, and my own wedding anniversary. She threatens to
+cancel my subscription. I beg you: write to her and explain that this
+is not my fault. I am the victim of excellent fiction.
+
+                              — Harold J. Perkins, Cleveland, Ohio
+
+[Mr. Perkins, we sympathize deeply but cannot intervene in domestic
+affairs. We suggest flowers, a sincere apology, and a subscription for
+Mrs. Perkins. If she reads the magazine herself, she will either
+understand your condition or develop it, and either way, the argument
+is resolved. — M.S.]
+
+  *
+
+Dear Editor,
+
+Colonel Stanton's "The Siege of Fortress Luna" in your April issue was
+the finest military SF story I have read since Heinlein's "Starship
+Troopers." I spent twenty years in the Navy, and Stanton is the only
+writer in your pages who understands what it actually feels like to give
+an order that gets people killed. More Stanton, please. And tell him
+the Navy sends its respects.
+
+                              — Commander (Ret.) Walter Gaines, Annapolis, Md.
+
+[Commander Gaines, the Colonel sends his thanks and notes that "the Navy
+is welcome, as always, to ride along while the Air Force does the real
+work." We decline to take sides in this perennial dispute. — M.S.]
+
+  *
+
+Dear Mr. Sterling,
+
+I am writing to ask whether Mr. Beaumont's alien worlds are real. My
+daughter, who is fourteen, has read "The Cloud Kingdoms of Nephele"
+seven times and is now insisting that she will become an interplanetary
+explorer when she grows up. Her science teacher says this is not a
+realistic career goal. I say that no one told Columbus his career goal
+was realistic, either. Who is right?
+
+                              — Mrs. Patricia Holm, Seattle, Wash.
+
+[Mrs. Holm, Mr. Beaumont's worlds are, alas, fictional — but your
+daughter's ambition is not. The first interplanetary explorers are
+alive today, somewhere, reading science fiction and dreaming. Encourage
+her. — M.S.]
+
+  *
+
+Dear TALES FROM THE FUTURE,
+
+Phyllis Crenshaw's stories make my head hurt. I mean this as a
+compliment. "Comet's Tale" in your December issue left me staring at
+the ceiling for an hour trying to figure out whether the ending was
+happy or sad. I eventually concluded it was both, which I think was the
+point. More Crenshaw, please, and more aspirin.
+
+                              — Eleanor Ng, San Francisco, Calif.
+
+[Miss Ng, we are pleased to report that Mrs. Crenshaw returns this month
+with "The Time Traveler's Cookbook," which may require a full bottle of
+aspirin and is worth every tablet. — M.S.]
+
+  *
+
+Dear Sir,
+
+I notice that your magazine has published exactly zero stories set in
+Australia. The future, I assure you, includes Australia. We have
+deserts, unusual wildlife, and a healthy disregard for authority, all
+of which would translate beautifully to science fiction. I volunteer to
+write the first Australian SF story for your pages if none of your
+current stable is up to the task.
+
+                              — Colin Whitaker, Melbourne, Victoria, Australia
+
+[Mr. Whitaker, you are correct, and we are ashamed. We hereby
+invite submissions set in, on, or near Australia, and we look forward
+to yours. Manuscripts should be typed, double-spaced, and accompanied
+by a stamped, self-addressed envelope — or, in your case, by whatever
+the Australian postal service considers equivalent. — M.S.]
+
+================================================================================
+
+THE BOOKSHELF OF TOMORROW
+Book Reviews
+
+================================================================================
+
+THE CAVES OF STEEL by Isaac Asimov
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Dr. Asimov has accomplished something I would have thought impossible:
+he has written a detective novel set in the future that is equally
+satisfying as science fiction and as mystery. In a world where Earth's
+population lives in vast enclosed cities and relations with the Spacer
+worlds are tense, plainclothes detective Elijah Baley is partnered with
+R. Daneel Olivaw — a humanoid robot — to solve a murder that could
+ignite an interplanetary incident. The world-building is meticulous, the
+mystery is fair-play and genuinely surprising, and the relationship
+between Baley and Daneel is drawn with a warmth and complexity that
+elevates the entire enterprise. Dr. Asimov demonstrates, as he has
+before, that ideas and entertainment are not enemies but allies. Highly
+recommended.
+
+MISSION OF GRAVITY by Hal Clement
+(Doubleday, 1954, $2.75)
+
+Reviewed by Maxwell Sterling
+
+Mr. Clement's novel is a masterclass in hard science fiction — a
+story set on the high-gravity world of Mesklin, where a sea captain
+(whose species resembles a large centipede) assists human scientists in
+retrieving a stranded research probe. The planet is the true
+protagonist: an oblate spheroid whose gravity ranges from three times
+Earth's at the equator to seven hundred times at the poles, described
+with a rigor that will delight physicists and a narrative drive that
+will satisfy everyone else. Clement writes with the lucidity of a born
+teacher, making complex physics accessible without ever condescending.
+If you have ever wanted to feel the weight of a world, this is your
+book.
+
+BRAIN WAVE by Poul Anderson
+(Ballantine Books, 1954, $2.00)
+
+Reviewed by Maxwell Sterling
+
+Mr. Anderson poses a magnificent question: what would happen if, one
+day, every living brain on Earth suddenly became more intelligent?
+His answer is a novel that is by turns exhilarating, unsettling, and
+deeply humane. When the solar system moves out of a region of space
+that has been suppressing neural activity for millions of years,
+intelligence explodes — in humans, in animals, in everything with a
+nervous system. The consequences are explored with Anderson's
+characteristic blend of scientific rigor and emotional depth, and the
+novel's conclusion is both inevitable and surprising. A fine addition
+to a remarkable year for science fiction novels.
+
+================================================================================
+
+COMING ATTRACTIONS
+Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #19 — July 1954
+
+The heat of summer brings no respite from the extraordinary. Next month,
+we are proud to present:
+
+"THE COYOTE RUN" by Robert "Bob" Finley — Smuggler "Coyote" Vasquez
+runs contraband between Earth and the outer colonies, staying one jump
+ahead of the Space Patrol. When her cargo turns out to be something
+alive — and something valuable enough to start a war — the chase of
+her life begins. Finley at full throttle.
+
+"YESTERDAY'S TOMORROW" by Phyllis Crenshaw — A 1950s housewife discovers
+a time capsule buried in her backyard that will not be sealed for another
+hundred years. Inside: a letter from her own great-granddaughter, asking
+for help with a problem that hasn't happened yet. Crenshaw's most
+heartfelt story to date.
+
+"THE EXAMINER" by Lucian Marsh — Students at a prestigious academy must
+pass a final examination administered by a machine that tests not
+knowledge but character, and that kills those who fail. Not for the
+faint of heart.
+
+"NINE THOUSAND PAGES OF MANNERS" by Douglas Pemberton —
+When humanity makes first contact with a species obsessed with manners,
+the fate of diplomatic relations rests on the shoulders of the most
+socially awkward man alive. Pemberton's funniest story yet.
+
+"DEAD RUN TO PLUTO" by Robert "Bob" Finley — Mail courier Jake Trent
+races against a deadline to deliver a pardon to a man scheduled for
+execution on Pluto. His ship is fast, but the clock is faster. A pulse-
+pounding race against time and distance.
+
+Plus stories by Theodore Cain and Agnes Whitfield, letters from our
+readers, book reviews, and more.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1954 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Art Director: Gerald "Gerry" Pulaski
+
+================================================================================

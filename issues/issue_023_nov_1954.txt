@@ -1,0 +1,3337 @@
+================================================================================
+         TALES FROM THE FUTURE AND BEYOND
+         Issue #23 — November 1954
+         Published by Meridian Publishing Company, New York
+         Editor: Maxwell Sterling
+         Cover Price: 35¢
+================================================================================
+
+Cover Art: "The Autumn of Stars" by Frank R. Kellerman
+Interior Illustrations by Virgil Dawes and Harriet Loomis
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. "The Archivist of Endings" by Gunnar Eriksson ............... p. 4
+2. "The Last Campaign" by Franklin Hoyt ....................... p. 30
+3. "Indian Summer on Io" by Theodore Cain ..................... p. 52
+4. "The Thanatos Gambit" by Rex Drummond ...................... p. 68
+5. "The Giving Trees of Centauri" by Margaret Thornton ........ p. 90
+6. "The Weight of Tomorrow" by Father Thomas Aquino ........... p. 110
+
+Features:
+   Transmissions from the Editor's Desk ....................... p. 2
+   About the Authors ......................................... p. 130
+   Signals Received: Letters to the Editor ................... p. 132
+   The Bookshelf of Tomorrow: Book Reviews ................... p. 134
+   Coming Attractions ........................................ p. 136
+
+================================================================================
+
+TRANSMISSIONS FROM THE EDITOR'S DESK
+by Maxwell Sterling
+
+Dear Reader,
+
+November has come, and with it that particular quality of light that
+makes a man look backward even as he walks forward. The trees along
+Lexington Avenue have gone to amber and rust, and the wind off the East
+River carries the first honest chill of the approaching winter. It is a
+season for reflection, and this issue of Tales from the Future and Beyond
+reflects accordingly.
+
+I have been editing this magazine for nearly two years now — twenty-three
+issues, each one assembled in the controlled chaos of our offices on
+East 32nd Street, each one sent into the world with the hope that it
+will find its readers and give them something worth their thirty-five
+cents and their evening hours. In that time I have published over one
+hundred and thirty stories, and I have learned something about the
+peculiar alchemy of assembling a magazine: it is not enough to collect
+good stories. The stories must speak to each other. They must create,
+in their arrangement, something larger than any one of them alone.
+
+This month, that larger something is the passage of time itself.
+
+Gunnar Eriksson opens our pages with what I believe to be his finest
+work — and given that his previous stories include "Long Watch,"
+that is no small claim. "The Archivist of Endings" is a story about a
+man whose task is to record the slow death of a generation ship, and it
+is as beautiful and as devastating as anything we have published. It set
+the tone for this entire issue, and once I had read it, I knew what
+kind of November we would have.
+
+Franklin Hoyt follows with a political story that is also, unexpectedly,
+an elegy — for a kind of democracy that may already be slipping away.
+Theodore Cain offers a quiet, nearly plotless piece that proves once
+again that the most versatile writer in science fiction can surprise you
+when you least expect it. Rex Drummond — yes, Rex Drummond — has
+written a story with actual emotional depth, and I say that with
+admiration rather than surprise, because I always suspected it was in
+him. Margaret Thornton gives us alien botany that is rather more
+unsettling than it first appears. And Father Aquino brings us a priest
+who can see tomorrow and wishes he could not.
+
+Six stories about endings, legacies, and the stubborn human refusal to
+go gently. Read them as the light fades and the year turns toward its
+own conclusion.
+
+I will see you in December, with our holiday issue.
+
+Yours in the amber light,
+
+Maxwell Sterling
+Editor, Tales from the Future and Beyond
+New York, October 1954
+
+================================================================================
+
+                      THE ARCHIVIST OF ENDINGS
+
+                        by Gunnar Eriksson
+
+================================================================================
+
+                               I.
+
+The death of a generation ship is not a single event. It is a process,
+measured in decades, catalogued in the failing of systems and the
+quieting of corridors, and Nils Borg had made it his life's work to
+record every stage of it.
+
+He sat at his desk in the Archive, a narrow room on Deck Seven of the
+Twilight Procession, and opened the leather-bound register to the next
+blank page. The register was one of forty-seven identical volumes that
+lined the shelf behind him, their spines numbered in his careful hand.
+Each one contained, in ink that would outlast every electronic system
+aboard, the record of what had been lost.
+
+Entry 11,407. October 14, Year 312 of Transit. Atmospheric recycler
+unit C-17, Deck Twelve, port side. Failed at 03:42 ship time.
+Irrepairable. Deck Twelve air quality now maintained by units C-14
+and C-19 only. Estimated remaining service life of surviving units:
+four to seven years.
+
+He wrote slowly, forming each letter with the deliberation of a man
+who understood that permanence was a kind of respect. The fountain pen
+had been his grandfather's — a man Borg had never met, who had died on
+Deck Nine during the second century of transit, who existed now only as
+an entry in Volume Nineteen and as the weight of this pen in his hand.
+
+The ship hummed around him. It was a diminished hum, thinner than it
+had been even five years ago, the way an old man's breathing thins
+toward the end. Borg could hear the individual frequencies now — the
+ventilation cycling through the surviving ducts, the distant pulse of
+the reactor on its reduced output, the faint creak of the hull as the
+ship moved through the interstellar medium at a velocity that was, for
+all practical purposes, indistinguishable from stillness.
+
+They were still forty-one years from Kepler-442b. Forty-one years,
+at their current velocity, which could not be increased because the
+drive had been operating at diminished capacity since Year 289. The
+ship had been designed for a three-hundred-year crossing. They were
+twelve years past that estimate, and every system aboard knew it the
+way an old body knows it has exceeded its warranty.
+
+Borg closed the register and placed the pen in its holder. Through the
+small porthole above his desk — one of the few that still had a clear
+view, the others having been sealed against micro-impacts or simply
+gone dark — he could see the stars. They were the same stars he had
+always seen. The same stars his father had seen, and his father's
+father. The Twilight Procession moved so slowly, relative to the
+cosmos, that the constellations had barely shifted in three centuries.
+The sky was patient. The sky did not care whether they arrived.
+
+He stood and put on his coat. It was cold on Deck Seven. It was cold
+everywhere now. The heating allocation had been reduced again in the
+last rationing cycle, and Borg wore two sweaters beneath his coat and
+still felt the chill settle into his bones each evening. He was
+fifty-seven years old. His joints ached in the cold. His father's
+joints had ached the same way, in the same cold, on the same deck,
+before the pneumonia took him in Year 298.
+
+He locked the Archive and walked out into the corridor.
+
+                               II.
+
+The corridors of the Twilight Procession had once accommodated four
+thousand people. Borg knew this because the Archive contained the
+original manifest, a document so thick it required its own shelf. Four
+thousand souls had boarded the ship at the Lagrange Point docks in
+Year Zero, their names and professions and ages recorded in the neat
+typeface of the departure authority, and for the first two centuries
+the population had remained roughly stable — births balancing deaths,
+each generation replacing the last like waves succeeding waves.
+
+Now there were six hundred and twelve. Borg knew the exact number
+because he maintained the census as well as the Archive. Six hundred
+and twelve people, spread across the nine decks that were still
+habitable, living in spaces designed for seven times their number.
+The empty quarters had been sealed off, one by one, as the population
+contracted — sealed and catalogued, each closure an entry in Borg's
+register. He had recorded the sealing of his childhood home on Deck
+Four when his mother died. Entry 9,841. That had been twelve years ago.
+
+He walked past darkened doorways. Some bore the names of their last
+occupants on small placards — a tradition that had begun, according
+to the Archive, in Year 187, and which Borg maintained with a
+calligrapher's care. LINDQVIST. JOHANSSON. PARK. ODUYA. Names of
+families that had lived and died in transit, that had never known a
+horizon or a wind or the weight of rain. Their descendants, if they
+had any, had moved inward, toward the core decks where the heating
+still functioned and the lights still held.
+
+Borg paused at a junction where the main corridor branched. To the
+left, the passage continued toward the Forward Observation Lounge,
+which had been closed since Year 297 when a hull micro-fracture in
+that section made it structurally suspect. To the right, the corridor
+led toward the medical bay and the residential sections of Deck Seven.
+Ahead, a service ladder descended to Deck Eight, where the greenhouses
+were.
+
+He went down.
+
+                               III.
+
+The greenhouses were the heart of the ship now, in a way that the
+bridge and the engine room had once been. Borg descended the ladder
+carefully — the rungs were worn smooth by three centuries of hands,
+and the lighting in the shaft was intermittent — and emerged into the
+warm, humid air of the growing deck.
+
+Here, at least, there was warmth. The greenhouses consumed a
+disproportionate share of the ship's remaining energy allocation, a
+fact that the Council debated at every quarterly meeting and resolved
+every time in the same way: the greenhouses sustained life. Everything
+else was negotiable.
+
+Elsa Mattsson was working among the soybean rows when Borg entered.
+She was forty-three, the head botanist, and she tended the crops with
+a watchfulness that Borg recognized as akin to his own — the attentive
+vigilance of someone who understands that what she cares for is
+irreplaceable.
+
+"The C-17 unit is gone," Borg said.
+
+Elsa did not look up from the soil she was testing. "I heard. What does
+that leave us on Twelve?"
+
+"Two units. Four to seven years, if they're maintained."
+
+"And if they're not?"
+
+"Then Deck Twelve becomes uninhabitable. Fourteen people will need to
+relocate."
+
+Elsa pressed a soil probe into the dark earth and studied the reading.
+"We have room. There's always room now." She said it without bitterness.
+It was simply the arithmetic of decline: as the population shrank, the
+remaining space expanded. They could lose decks faster than they lost
+people.
+
+Borg stood among the soybean rows and breathed. The air here was rich,
+heavy with photosynthesis and the mineral tang of the hydroponic
+solution. It was the closest thing to a natural smell that anyone aboard
+had ever experienced, though none of them had any basis for comparison.
+Borg had read descriptions of Earth's forests in the Archive — accounts
+written by the original passengers, people who had actually stood among
+trees — and he had tried to imagine what it was like to breathe air that
+had not been manufactured, that came from a world rather than a system.
+He could not do it. The imagination, he had concluded, was bounded by
+experience, and his experience was bounded by the hull.
+
+"I've been thinking about the final entry," he said.
+
+Elsa looked at him now. "The final entry in the register?"
+
+"Yes."
+
+"Nils, the ship hasn't ended yet."
+
+"No. But it will. And the Archive must have a final entry, the same way
+it had a first one. I've been thinking about what it should say."
+
+Elsa set down her probe and wiped her hands on her canvas apron. The
+gesture was deliberate — Borg noticed everything — a way of giving the
+conversation her full attention. "You're assuming you'll be the one to
+write it."
+
+"I'm fifty-seven. I won't live to see arrival. Very few of us will.
+But the Archive will survive, and its last entry should mean something."
+
+"Everything you've written means something. Entry 11,407 means something.
+Every atmospheric recycler, every sealed corridor, every name on every
+placard — it all means something because you wrote it down."
+
+"That is the record of decline. I'm talking about the ending. The
+conclusion. What does the Archivist write when there is nothing left
+to archive?"
+
+Elsa studied him with the same careful attention she gave to a plant
+showing the first signs of blight. "You're not asking a question about
+the Archive, Nils. You're asking a question about yourself."
+
+He did not answer. Outside the greenhouse walls, the ship hummed its
+diminished hum, and the stars held their ancient positions, and forty-one
+years of emptiness stretched between the Twilight Procession and
+the world it had been sent to reach.
+
+                               IV.
+
+The Archive had begun, as all things aboard the Twilight Procession had
+begun, with a mandate from the Mission Planning Authority. Document
+MPA-7734, dated Year Zero, Day One: "An official record shall be
+maintained of all significant events, system changes, births, deaths,
+and operational milestones occurring during the transit period. This
+record shall be kept in both electronic and physical formats. A
+designated Archivist shall be appointed by the Ship's Council."
+
+The first Archivist had been Margarethe Borg. Nils's great-great-great-
+grandmother. She had boarded the ship with a trunk of blank registers
+and a case of fountain pens, and she had written the first entry on the
+day of departure:
+
+Entry 1. Year Zero, Day One. The Twilight Procession has departed the
+Lagrange Point construction facility. All systems nominal. Four thousand
+and seventeen souls aboard. Destination: Kepler-442b. Estimated transit
+time: 300 years. May those who arrive remember those who departed.
+
+Nils had read that entry so many times that it lived in his memory like
+a prayer. May those who arrive remember those who departed. It was the
+closest thing to a creed that the Borg family possessed, and it had
+guided every Archivist since — seven generations of them, each one
+inheriting the register and the pen and the obligation to bear witness.
+
+His father, Anders Borg, had been the sixth Archivist. He had served
+for thirty-one years and had written entries 7,203 through 9,166 — a
+span that encompassed what the history texts called the Crisis of the
+Third Century, when the main drive suffered a catastrophic partial
+failure that added an estimated forty years to the transit time. Anders
+had recorded the event with characteristic restraint:
+
+Entry 7,449. Year 289, Day 47. Main drive output has stabilized at
+sixty-two percent of nominal capacity following the plasma containment
+breach of Day 41. Chief Engineer Olsson estimates that the reduced
+output will extend transit time by approximately 38 to 44 years.
+Council has convened emergency session. Ship population: 1,247.
+
+Borg remembered the day his father had written that entry. He had been
+fourteen years old, and he had stood in the doorway of the Archive
+watching his father's hand move across the page with its usual
+steadiness, and he had understood for the first time that the pen did
+not tremble because it could not afford to. The Archive was the only
+record that would outlast them all. It had to be clear. It had to be
+steady. It had to be true.
+
+Anders Borg had died of pneumonia in Year 298, and Nils had written
+the entry for his father's death in the register that his father had
+kept for three decades:
+
+Entry 9,167. Year 298, Day 203. Anders Eriksson Borg, Sixth Archivist,
+has died. Age 72. Cause: pneumonia, secondary to chronic respiratory
+insufficiency. He served the Archive for thirty-one years and the ship
+for all seventy-two of them. He is survived by his son, Nils, who
+assumes the duties of Seventh Archivist effective this date.
+
+He had not added anything personal. The Archive was not a diary. It was
+a record, and records required precision, not sentiment. But he had
+sat at the desk for a long time after writing it, holding the pen, and
+the ship had been very quiet.
+
+                               V.
+
+Council met on the first day of each month in the Assembly Room on Deck
+Six, which had once been a lecture hall and now served as the sole
+gathering space for the ship's governance. Borg attended every meeting,
+as every Archivist had, to record the proceedings.
+
+Councillor Vasara called the session to order. There were nine
+councillors, elected from among the six hundred and twelve, and they
+sat at a curved table that was far too large for them — it had been
+built for a council of twenty-five. The empty chairs were not removed.
+Nothing was removed. Things were sealed, decommissioned, powered down,
+but nothing was removed, because removal implied a decision about the
+future that no one felt entitled to make.
+
+"The atmospheric recycler on Deck Twelve," Vasara said. She was seventy,
+the oldest serving councillor, and she spoke with the directness of a
+woman who had attended too many meetings about declining systems to
+waste time on preamble. "Archivist Borg has recorded the failure. Chief
+Engineer Tanaka will report on the implications."
+
+Tanaka was young — thirty-two, the youngest chief engineer in the ship's
+history, a distinction that reflected not exceptional talent but a
+diminishing pool of trained personnel. He stood and spoke clearly,
+though Borg could see the tension in his hands.
+
+"C-17 failed due to compressor seal degradation. The seals are original
+equipment — three hundred and twelve years old. We don't have
+replacements. We can't fabricate them with our current manufacturing
+capability. C-14 and C-19 on the same deck are showing similar wear
+patterns. I estimate four to seven years before one or both fail."
+
+"Can we extend the life of the surviving units?" asked Councillor Holm.
+
+"We can clean them, reduce the air volume they service, limit access
+to Deck Twelve. That might buy us a year or two at the margins. But
+the fundamental problem is material fatigue. These systems were designed
+for a three-hundred-year service life. We are in Year 312."
+
+The room was quiet. Borg wrote in his notebook — not the register,
+but the working notes he used to draft his entries. He wrote down
+Tanaka's words exactly. Exactness was the only tribute he could pay
+to the seriousness of the situation.
+
+Vasara spoke again. "We will begin relocation planning for Deck Twelve
+residents. Archivist Borg, please coordinate the documentation."
+
+"Yes, Councillor."
+
+"And Archivist — how many decks have we sealed now?"
+
+Borg did not need to consult his records. "Nine. Decks One through
+Three, Deck Five, the upper sections of Decks Six and Ten, and the
+forward compartments of Decks Eleven and Fourteen."
+
+"How many remain habitable?"
+
+"Nine decks retain partial or full habitability. But several of those
+are marginal. Deck Twelve will be the tenth lost, when it goes."
+
+Vasara nodded. She was a practical woman, and she received information
+the way a navigator receives a position fix: not with emotion, but
+with the understanding that the next decision must be based on where
+one actually was, not where one wished to be.
+
+"Forty-one years," she said. It was not a question. It was the number
+that hung over every deliberation, every rationing decision, every
+conversation aboard the Twilight Procession. Forty-one years to
+Kepler-442b. Forty-one years of a ship that was thirty-plus years past
+its design life. The arithmetic was not encouraging, and everyone in
+the room could do it.
+
+                               VI.
+
+After Council, Borg walked the ship. He did this every evening — a
+circuit of the habitable decks that took him two hours and that served
+both as exercise and as inspection. He carried a notebook and recorded
+anything he observed: a flickering light panel, a change in the sound
+of a ventilation unit, a new crack in a corridor wall. The ship spoke
+to him in the language of its deterioration, and he had learned to
+listen.
+
+Deck Six. The Assembly Room. The small library, its shelves half-empty
+since the paper recycling initiative of Year 278, when a third of the
+physical books had been pulped to provide material for essential
+documents. Borg had recorded each title before it was destroyed. The
+surviving books were behind glass now, treated like relics, which is
+what they were.
+
+Deck Seven. His own deck. The Archive. The medical bay, where Dr.
+Sorrenson tended the health of six hundred and twelve people with
+equipment that was designed for four thousand and was failing in ways
+that mirrored everything else. Sorrenson was good. Sorrenson was
+careful. But Sorrenson could not fabricate replacement parts for a
+surgical laser any more than Tanaka could fabricate replacement seals
+for an atmospheric recycler.
+
+Deck Eight. The greenhouses. Borg paused here, as he always did, and
+stood among the growing things and breathed. The warmth. The smell. The
+impossible green. This deck, he sometimes thought, was the only part of
+the ship that was still fully alive — not merely functioning, but
+growing, reaching, producing. Everything else was in various stages of
+a long, slow arrest.
+
+Deck Nine. Residential. The most densely populated deck now, because
+it was the warmest and the most structurally sound. Families lived here,
+children played in corridors that echoed with their voices in a way
+that corridors were not meant to echo — too much space for too few
+people, the sound carrying farther than it should, as if the ship
+itself were amplifying the evidence of its emptiness.
+
+He passed a doorway where a small girl sat reading by the light of
+a hand-crank lamp. She looked up and said, "Good evening, Archivist."
+
+"Good evening, Karin."
+
+"Are you writing tonight?"
+
+"I write every night."
+
+"What will you write about?"
+
+"Whatever the ship tells me."
+
+She considered this with the gravity of an eight-year-old for whom the
+Archivist was a figure of some mystery. "Does the ship talk to you?"
+
+"In its way."
+
+"What does it say?"
+
+Borg paused. He looked at the child, who was wrapped in a blanket
+against the chill, whose entire world was this corridor, this deck,
+this slowly failing vessel, and who would be forty-nine years old when
+the ship reached its destination — if it reached its destination — and
+who might or might not live to set foot on a world she had never seen.
+
+"It says to keep going," he said.
+
+Karin nodded, as if this were a satisfactory answer, and returned to
+her book.
+
+                               VII.
+
+In the Archive, alone, with the door closed and the lamp turned low,
+Borg opened Volume Forty-Seven and began the day's entries.
+
+He wrote about the recycler failure. He wrote about the Council meeting.
+He wrote about the relocation plan for Deck Twelve. He wrote with the
+precision that the Archive demanded and the steadiness that his family
+had cultivated for seven generations, and when he was finished with the
+factual record he sat back and looked at the page and felt the weight
+of everything he had not written.
+
+The Archive did not contain feelings. It did not contain opinions, or
+fears, or the sound of a child's voice asking what the ship said. It
+contained facts: dates, systems, numbers, names. It was a skeleton of
+the ship's life, stripped of flesh, and it was exactly what it had been
+designed to be, and sometimes Borg wondered whether it was enough.
+
+He opened his personal journal — a separate book, not part of the
+official Archive, which he kept in a locked drawer. Every Archivist had
+kept one, a tradition as old as the position itself. The personal
+journals were not part of the record. They were the shadow of the
+record, the place where the Archivist could be a person rather than a
+function.
+
+He wrote:
+
+I have been thinking about the final entry for six months now, and I
+am no closer to knowing what it should say. The problem is not what to
+write about — it is what to write for. Who will read the last entry in
+the Archive? If we reach Kepler-442b, the Archive will become a
+historical document, and the final entry will be the last line of a
+story with an ending. If we do not reach it — if the ship fails, if
+the systems give out, if the hull breaches, if the reactor goes cold —
+then the Archive will be a message in a bottle that no one will ever
+find, drifting between stars in a tomb of metal and silence.
+
+Either way, the last entry must be worthy of what came before. Eleven
+thousand four hundred and seven entries. Three hundred and twelve years.
+Seven Archivists. Four thousand and seventeen souls who boarded, and
+the thousands more who were born and lived and died in transit. The
+final entry must hold all of that, somehow, in the space of a few
+lines.
+
+I do not know how to do this.
+
+He closed the journal and locked the drawer. The ship hummed. The stars
+held still. In the corridor outside, the lights dimmed to their night
+cycle, and the Twilight Procession continued its slow passage through
+the dark, carrying its Archive and its Archivist and its six hundred
+and twelve souls toward a destination they might or might not reach,
+at a speed that was nearly indistinguishable from standing still.
+
+                               VIII.
+
+The funeral was on a Tuesday.
+
+Councillor Vasara died in her sleep, quietly, in the way that Borg had
+come to recognize as the ship's most common death: the body simply
+deciding, after decades of cold and diminished nutrition and the subtle
+radiation that seeped through the aging hull shielding, that it had
+done enough. She was seventy years old. She had served on the Council
+for twenty-two years. She had been born on Deck Four, in the same
+corridor where Borg had grown up, and she had never seen a sunset or
+a mountain or the face of anyone who had not also been born inside
+this hull.
+
+Borg stood at the back of the Assembly Room and recorded the funeral in
+his notebook. Sixty-three people attended — roughly one in ten of the
+ship's population, which was a respectable turnout. The ship's chaplain,
+a woman named Okoro who maintained the nondenominational spiritual
+practice that had evolved over three centuries from the diverse religions
+of the original passengers, spoke the words of the Transit Rite:
+
+"We commit Astrid Vasara to the stars from which we came and toward
+which we travel. She was born in transit, she lived in transit, and she
+dies in transit. She carried the journey in her bones, as we all do.
+May the journey carry her now."
+
+The body would be recycled. This was not spoken of in the ceremony,
+but everyone knew it. On a generation ship, nothing was wasted —
+not air, not water, not the carbon and calcium and phosphorus of a
+human body. Vasara would become soil in the greenhouses, would feed
+the soybeans and the lettuce and the small, stubborn tomato plants that
+Elsa Mattsson coaxed from seeds that were themselves three hundred
+years old. It was the most practical form of immortality, and Vasara,
+who had been above all things a practical woman, would have approved.
+
+Borg wrote the entry that evening:
+
+Entry 11,412. Year 312, Day 19. Astrid Linnea Vasara, Councillor,
+has died. Age 70. Cause: cardiac arrest during sleep. She served on
+the Ship's Council for twenty-two years and was instrumental in the
+rationing reforms of Year 294 and the deck consolidation program of
+Year 303. She is survived by her son, Erik, and her granddaughter,
+Karin.
+
+He paused. Karin. The girl in the corridor with the hand-crank lamp.
+Vasara's granddaughter. He had not known that.
+
+He added nothing else. The Archive was not a diary.
+
+                               IX.
+
+But that night, in his personal journal, he wrote:
+
+Vasara is dead, and she deserved better than an entry number and a
+cause of death. She deserved a paragraph, at least — something that
+captured the way she leaned forward when she listened, as though
+every speaker were saying the most important thing she had ever heard.
+Something about her hands, which were large and calloused from the
+years she spent working in the greenhouses before she entered politics.
+Something about the way she said "forty-one years" at Council today —
+not with despair, not with hope, but with the matter-of-fact acceptance
+of a woman who understood that the distance between the ship and its
+destination was simply a fact, like the temperature or the air pressure,
+and that facts were to be dealt with rather than mourned.
+
+But the Archive does not accommodate such things. The Archive is a
+record of what happened, not of what it felt like, and perhaps that is
+as it should be. The feelings are mine. The record belongs to everyone.
+
+And yet I wonder, when someone reads these volumes on Kepler-442b — if
+someone does — whether they will understand what it was like. Whether
+the numbers and the dates and the system failures will convey the
+texture of life aboard a ship that is older than any living memory,
+that has been dying for decades, that keeps going anyway because the
+only alternative to keeping going is not keeping going, and that is
+unacceptable.
+
+I think they will not understand. I think the Archive will be studied
+and respected and cited in historical papers, and I think the reality
+of what it was like to live here will be as remote to those readers as
+the reality of ancient Rome is to me. The documents survive. The
+experience does not.
+
+This is the limitation of all records. And it is the limitation I must
+somehow overcome in the final entry.
+
+                               X.
+
+Months passed. The ship continued its slow transit. Systems failed and
+were recorded. People died and were recorded. The population of the
+Twilight Procession dropped to six hundred and four, then to five
+hundred and ninety-seven, and Borg adjusted the census and wrote the
+entries and maintained the Archive with the same steadiness that six
+Archivists before him had maintained it, because steadiness was the
+Archivist's duty and the Archive's requirement and, perhaps, the only
+thing that kept the darkness at bay.
+
+Deck Twelve was sealed. Borg recorded it: Entry 11,438. He wrote the
+names of the fourteen families who relocated, and the inventory of
+systems that were powered down, and the status of the corridor placards,
+which he transferred to a new section in Volume Forty-Seven so that
+the names of Deck Twelve's dead would not be lost when the deck itself
+went dark.
+
+The greenhouses lost a lighting array. Elsa Mattsson rerouted power
+from a decommissioned recreational facility and kept the plants alive.
+Borg recorded it.
+
+A child was born — the first in seven months. Borg recorded it: a girl,
+named Astrid, after the dead Councillor. Born on Deck Nine. Weight:
+2.8 kilograms, which was low but within the range that Dr. Sorrenson
+considered acceptable for a shipborn child in the current nutritional
+environment.
+
+Borg wrote it all down. He wrote it clearly and precisely and without
+sentiment, and each evening he returned to his personal journal and
+wrote the things the Archive could not hold: the weight of the silence
+in the sealed corridors, the sound of Karin's voice reading aloud to
+her newborn neighbor, the way Elsa's hands trembled when she thought
+no one was looking, the particular quality of light in the greenhouse
+when the aging lamps caught the moisture in the air and made it glow
+like something remembered from a world none of them had ever known.
+
+                               XI.
+
+And then, on a night when the ship was quieter than usual and the stars
+through his porthole seemed both closer and more distant than they had
+ever been, Borg opened Volume Forty-Seven to the next blank page and
+understood what the final entry must be.
+
+Not the last entry he would write. He would write many more before he
+died, and whoever succeeded him — if anyone did — would write more
+after that. But the final entry. The one he would write and seal in an
+envelope and place inside the front cover of Volume One, to be read
+when the Archive was complete. When the ship had either arrived or
+had not. When the story was finished.
+
+He uncapped his grandfather's pen. He held it for a long time,
+feeling its weight, which was the weight of seven generations and
+three centuries and four thousand and seventeen souls and the entire
+improbable, stubborn, beautiful enterprise of crossing the void between
+stars in a vessel made of metal and hope.
+
+And he wrote:
+
+Final Entry. Prepared by Nils Borg, Seventh Archivist of the
+Twilight Procession.
+
+To whoever reads this:
+
+The ship was dying when I wrote these words, and it had been dying
+for a long time. The systems that sustained us were failing, one by
+one, and I recorded each failure with the precision that the Archive
+demands, because precision is a form of respect, and these failures
+deserved respect. They were the last acts of machines that had
+worked for three centuries, longer than any machine was ever asked
+to work, and they gave out not from defect but from exhaustion, the
+way a heart gives out after a long life.
+
+I cannot tell you whether the ship survived to reach Kepler-442b. If
+you are reading this on that world, then you know the answer, and
+this Archive is a record of a journey completed. If you are reading
+this somewhere else — recovered from the wreck, perhaps, or
+transmitted by the emergency beacon that I hope will outlast the
+ship itself — then you know a different answer, and this Archive is
+a record of a journey that ended short of its destination.
+
+Either way, I want you to know what the numbers do not convey.
+
+We were afraid. We were cold. The corridors were too empty and the
+silence was too large and the stars did not move and the years were
+very long. We buried our dead in the soil of the greenhouses and
+ate what grew from that soil and understood, in a way that perhaps
+no other humans have understood, that life is a cycle of the most
+literal kind.
+
+And we kept going. Not because we were brave — though some of us
+were — but because the journey was all we had. We were born in
+transit. We lived in transit. Our parents and grandparents and
+great-grandparents lived and died in transit. The ship was our
+world, the only one we knew, and we maintained it the way you
+maintain a world: imperfectly, desperately, with whatever tools
+and skills and stubbornness we possessed.
+
+The Archive contains the facts. Eleven thousand entries and
+counting, each one a small act of witness. I have tried to make
+them accurate and clear and worthy of the people and the systems
+they describe. But the Archive does not contain the sound of
+children in the corridors. It does not contain the smell of the
+greenhouses, or the warmth of the growing deck on a cold night,
+or the way Elsa Mattsson talked to her plants as though they could
+hear her, which perhaps they could. It does not contain the weight
+of a pen that has been passed from hand to hand for seven
+generations, or the silence of the stars, or the feeling of
+looking through a porthole and knowing that the light you see left
+its source before you were born and will arrive at its destination
+after you are dead.
+
+These things I leave to you to imagine. And I ask you — whoever
+you are, wherever you are, however many years have passed — to
+imagine them. To read the numbers and the dates and the system
+failures, and to understand that behind each entry was a life, and
+behind each life was a world no larger than a ship, and behind that
+ship was the stubbornest thing in the universe, which is the refusal
+to stop.
+
+May those who arrive remember those who departed.
+
+Nils Borg
+Seventh Archivist
+Year 312 of Transit, aboard the Twilight Procession,
+forty-one years from home.
+
+He sealed the letter in an envelope. He wrote on the front: TO BE
+PLACED IN VOLUME ONE UPON MY DEATH OR THE COMPLETION OF THE VOYAGE,
+WHICHEVER COMES FIRST.
+
+He placed it in the Archive's lockbox, beside the six sealed envelopes
+left by the six Archivists before him. Each of them had written a final
+entry. Each of them had faced the same question and answered it in
+their own way, and Borg had never opened any of them, because the final
+entries were for the end, not for the middle.
+
+He closed the lockbox. He returned to the register. He opened it to
+the next blank page and wrote:
+
+Entry 11,459. Year 312, Day 247. All systems nominal at reduced
+capacity. Ship population: 594. Greenhouse output stable. No
+significant events to report.
+
+The ship hummed. The stars held still. The Twilight Procession
+continued on, carrying its Archive and its Archivist and its five
+hundred and ninety-four souls through the dark, toward a world none
+of them had seen, at a speed that was nearly indistinguishable from
+faith.
+
+                              * * *
+
+================================================================================
+
+                        THE LAST CAMPAIGN
+
+                         by Franklin Hoyt
+
+================================================================================
+
+                               I.
+
+Senator Marcus Webb was seventy-three years old, and he was tired of
+winning.
+
+Not tired of victory in the way that young men claimed to be — that
+performative exhaustion that was really just another kind of boasting.
+Webb was tired in his bones, in the part of himself that had once
+believed that the act of campaigning was itself a form of democracy,
+that the handshake and the speech and the argument on the courthouse
+steps mattered not just because they produced a winner but because
+they produced a citizenry that had participated in its own governance.
+
+That was over now. Had been over for a decade, if he was honest. The
+Predictive Electoral Models had seen to that.
+
+He sat in his office in the Russell Building — still called that,
+though the building had been renamed twice and the Senate itself had
+been reorganized three times in his forty-year career — and looked out
+the window at the Mall. The Washington Monument. The Capitol dome. The
+old symbols of a republic that still called itself a republic, that
+still held elections every two years, that still counted votes and
+certified results and inaugurated winners. Everything looked the same.
+Everything functioned. The machinery of democracy was intact.
+
+It was just that the democracy had left the building.
+
+"Senator." His chief of staff, Diane Okafor, stood in the doorway.
+She was forty-five, efficient, loyal, and she had worked for Webb long
+enough to know that when he stared out the window for more than ten
+minutes, he was either making a decision or mourning something.
+Sometimes both.
+
+"How are the numbers?" Webb asked, without turning.
+
+"MERIDIAN has you at 34.7 percent likelihood of retention. ORACLE
+gives you 31.2. PYTHIA — which is the one the networks use — has you
+at 29.8." She paused. "Those are the worst numbers you've had in
+forty years."
+
+"I know."
+
+"The models are recommending that you concede preemptively. There's a
+protocol for it now — the Graceful Transition Framework. You announce
+three months before the election, the models adjust, your successor
+is identified through the compatibility algorithms, and the whole
+thing is wrapped up without the expense and disruption of an actual
+campaign."
+
+Webb turned from the window. "I know what the Graceful Transition
+Framework is, Diane. I voted against its authorization."
+
+"You and eleven others. It passed 89 to 11."
+
+"I can count."
+
+"Marcus." She dropped the formality, which she did only when she was
+about to say something he needed to hear. "The models are not wrong.
+They haven't been wrong in six election cycles. Not once. Not a single
+seat, not a single state, not a single margin. They predict outcomes
+with 99.7 percent accuracy, and the one time they were off — Sinclair
+in Montana — it was by half a percentage point. You cannot beat the
+models."
+
+"I know I can't beat the models," Webb said. "I'm not trying to beat
+the models. I'm trying to ignore them."
+
+                               II.
+
+The Predictive Electoral Models had arrived in American politics in
+2031, and they had devoured it in less than a decade.
+
+The technology was not complicated, in principle. Machine learning
+algorithms trained on every available data point — voting records,
+census data, consumer behavior, social media activity, physiological
+data from wearable devices, movement patterns, purchasing decisions,
+media consumption, emotional sentiment analysis, and a thousand other
+inputs that most citizens had consented to share without quite
+understanding what they were sharing — could predict electoral outcomes
+with a precision that made polling look like astrology.
+
+At first, the models were used the way polls had been used: as tools
+for campaigns, strategic instruments that helped candidates allocate
+resources and craft messages. But the models were too good for that.
+They didn't just predict how people would vote. They predicted with
+near-certainty who would win, in every race, at every level, months
+before the election. And once that information was public — and the
+courts had ruled that it must be public, under the Transparency in
+Electoral Forecasting Act of 2034 — the nature of elections changed
+fundamentally.
+
+Why campaign when the outcome was known? Why debate when the models
+had already determined which candidate's arguments would prevail with
+which demographics? Why vote when your individual ballot was, in the
+mathematical sense, irrelevant — not because it didn't count, but
+because the models had already counted it, along with everyone else's,
+and the result was a matter of statistical certainty?
+
+Voter turnout had dropped from 62 percent to 19 percent in three
+election cycles. Campaign spending had collapsed by 80 percent.
+Debates had become ceremonial — scripted exchanges performed for the
+historical record, watched by fewer people than tuned in for the
+weather. The parties still existed, still nominated candidates, still
+held conventions, but the conventions had the atmosphere of trade shows
+rather than political events, because everyone in the hall already
+knew who would win and by how much.
+
+Webb had watched it happen. He had given speeches about it, written
+op-eds, proposed legislation. He had argued that democracy was not a
+system for producing optimal outcomes — it was a system for producing
+legitimate ones, and legitimacy required participation, and
+participation required uncertainty. If the outcome was known in
+advance, the election was not an election. It was a formality. And a
+republic that governed by formality was a republic in name only.
+
+Nobody had listened. Or rather, people had listened, had nodded, had
+agreed in principle, and had then checked the models to see whether
+Webb's proposed reforms had any chance of passing, and the models had
+said no, and so the reforms had died in committee, their failure
+predicted to the decimal point before they were even introduced.
+
+                               III.
+
+"I'm going to run," Webb said. "The old way."
+
+Diane sat down. This was not a good sign. Diane Okafor did not sit
+down unless she was settling in for a long argument.
+
+"Define 'the old way,'" she said.
+
+"Rallies. Town halls. Door-to-door canvassing. Debates — real debates,
+not the scripted theater. Handshakes. Speeches. Arguments. I want to
+stand in front of actual voters and make my case and let them decide,
+and I don't want anyone in my campaign to look at the models or cite
+the models or even acknowledge the models exist."
+
+"Marcus, that's — "
+
+"Quixotic. I know. I've read the editorials."
+
+"I was going to say 'expensive.' You're proposing to run a
+twentieth-century campaign in a twenty-first-century system. Do you
+have any idea what that costs? When was the last time anyone rented
+a rally venue? Printed yard signs? Paid for a bus tour?"
+
+"That's exactly my point. The infrastructure of democratic campaigning
+has atrophied because the models made it unnecessary. I want to
+rebuild it. Not because it'll change the outcome — I know what the
+models say, and I know the models are probably right — but because the
+act of campaigning matters. The act of asking for someone's vote, face
+to face, matters. The act of making your case in a room full of people
+who might disagree with you matters. Democracy isn't an algorithm. It's
+a conversation."
+
+Diane was quiet for a moment. She was a pragmatist, which was why Webb
+had hired her, and she was also a patriot, which was why she had stayed.
+
+"The models will call this a stunt," she said.
+
+"The models can't call anything. They're math. The pundits will call
+it a stunt. Let them."
+
+"Your opponent — whoever the compatibility algorithms select — will
+have a fully optimized, model-driven campaign. Targeted messaging,
+behavioral nudges, precision resource allocation. Everything calibrated
+to the decimal point."
+
+"Good. I want the contrast. I want people to see what an election used
+to look like and what it looks like now, and I want them to decide
+which one they prefer."
+
+"They'll prefer the one that works. People always prefer the one that
+works."
+
+"Maybe. Or maybe they'll remember what it felt like to be asked. To
+be courted. To have a senator show up in their town and look them in
+the eye and say, 'I want your vote, and here's why I deserve it.' When
+was the last time any of them experienced that?"
+
+Diane opened her mouth to answer, and then closed it, because the
+answer was that she did not know, and that was, in its own way, the
+most persuasive argument Webb had made.
+
+                               IV.
+
+The campaign began in March, eight months before the election.
+
+Webb's opponent was a woman named Priya Dasgupta, forty-one years old,
+a former data scientist who had entered politics through the model-
+management sector — the growing bureaucracy of analysts and technicians
+who maintained the predictive systems and translated their outputs
+into policy recommendations. She was intelligent, composed, and
+thoroughly modern, and she had been selected by the party's
+compatibility algorithm as the optimal candidate for Webb's district:
+the person most likely to win, based on the same data that predicted
+Webb's defeat.
+
+Dasgupta ran a model-driven campaign. This meant, in practice, that she
+hardly campaigned at all. Her team released precisely calibrated
+statements at intervals determined by sentiment analysis. She appeared
+at events that the models indicated would maximize favorable media
+coverage. She did not hold town halls, because the models showed that
+town halls produced unpredictable outcomes and therefore introduced
+unnecessary risk. She did not knock on doors, because the models had
+already identified every persuadable voter and sent them personalized
+digital content that was more effective than any human interaction.
+
+Webb knocked on doors.
+
+He started in the old neighborhoods — the parts of the district that
+the models classified as "low-engagement zones," which meant that the
+residents had largely stopped voting and therefore received almost no
+attention from model-driven campaigns. These were the neighborhoods
+where the yard signs had disappeared first, where the polling places
+had been consolidated and then closed, where democracy had receded like
+a tide going out, leaving behind the detritus of a civic life that no
+longer functioned.
+
+He knocked on a door in Brightwood. A man named Gerald Tyson opened it
+and stared at him.
+
+"I'm Senator Marcus Webb," Webb said. "I'm running for reelection, and
+I'd like to talk to you about it."
+
+Tyson was sixty-two, retired, and he looked at Webb the way a man
+looks at something he hasn't seen in so long he's forgotten what it is.
+
+"A senator," Tyson said. "At my door."
+
+"At your door."
+
+"I haven't voted in — " Tyson paused, calculating. "Eight years? Maybe
+ten."
+
+"I know. That's why I'm here."
+
+"The models say you're going to lose."
+
+"The models say a lot of things. I'm here to say something different.
+Can I come in?"
+
+Tyson opened the door.
+
+                               V.
+
+He talked to Gerald Tyson for forty-five minutes. He talked about the
+models, and about what the models had replaced, and about the
+difference between an election and a prediction. He talked about the
+Senate, and about how it had changed in his forty years, and about
+the precise moment when he realized that his colleagues had stopped
+trying to persuade each other because the models had already
+determined how every vote would go. He talked about legitimacy, and
+consent, and the difference between a government that was selected
+by an algorithm and a government that was chosen by its citizens.
+
+Tyson listened. He asked questions. He disagreed about some things
+and agreed about others, and when Webb left, Tyson said, "I don't
+know if I'll vote for you, Senator. But I'll vote."
+
+Webb shook his hand and walked to the next house.
+
+It was slow work. Exhausting work. Webb was seventy-three, and his
+knees ached and his voice gave out by evening and he went to bed each
+night in his small apartment near the Capitol feeling every one of his
+years. The models updated daily, and his numbers did not improve. The
+pundits covered his campaign with a mixture of condescension and
+nostalgia, the way one might cover the last practitioner of an obsolete
+craft — interesting as a curiosity, irrelevant as a political strategy.
+
+But something happened in the neighborhoods.
+
+People came to the door. Not all of them — not even most of them — but
+enough that Webb noticed, and enough that Diane noticed, and enough
+that the reporters who accompanied him began to notice too. There was
+a hunger in those doorways, a surprise that was also a kind of grief,
+the recognition of something that had been lost so gradually that
+its absence had become invisible. People wanted to be asked. They
+wanted to argue. They wanted to feel that their participation in
+their own governance was not a formality but a necessity, that their
+vote was not a data point but a decision.
+
+A woman in Adams Morgan said, "I forgot what this felt like. Being
+asked."
+
+A man in Anacostia said, "My father used to take me to the polling
+place. It felt important. Like church."
+
+A teenager in Petworth said, "I've never seen a politician in person
+before. I thought they were — I don't know. A thing on a screen."
+
+Webb held rallies. Small ones, in community centers and church
+basements and parking lots, the kinds of spaces that had once been
+the infrastructure of democratic participation and were now used for
+other things or not used at all. He spoke without a teleprompter,
+without model-optimized talking points, without sentiment-calibrated
+language. He spoke the way he had spoken in his first campaign, forty
+years ago, when he was thirty-three and idealistic and believed that
+politics was the art of persuasion rather than the science of
+prediction.
+
+The crowds were small. Fifty people. Seventy. Once, in a union hall in
+Northeast, a hundred and twelve. They were not the kinds of crowds that
+the models considered significant. But the people in those crowds were
+doing something that the models had not predicted, because the models
+had not been trained on it: they were participating.
+
+                               VI.
+
+Dasgupta's team noticed. The models noticed. Webb's numbers did not
+improve — the models were clear about that, and the models were almost
+certainly correct — but something else was changing, something the
+models measured but did not fully account for: engagement. In the
+neighborhoods Webb visited, voter registration ticked upward. Not by
+much — a percent here, two percent there — but in a system that had
+seen nothing but decline for a decade, any increase was anomalous.
+
+Dasgupta requested a debate. A real debate, not the scripted kind. Her
+team calculated that refusing would create a narrative of avoidance
+that could affect her margins in educated suburban precincts, and so
+she agreed to meet Webb on a stage, in a format that neither the models
+nor the algorithms had designed, and to argue.
+
+It was held in a high school gymnasium. There were four hundred people
+in the audience, which was the largest political gathering Webb's
+district had seen in six years. There were cameras, but the broadcast
+attracted a modest audience — the networks no longer devoted significant
+resources to political events whose outcomes were already known.
+
+Webb spoke first. He was old and his voice was hoarse and he gripped
+the podium with both hands, and he said:
+
+"I am going to lose this election. The models are clear about that,
+and I don't dispute their accuracy. They are very good at predicting
+what will happen. What they cannot predict — what no algorithm can
+predict — is what should happen. And what should happen is this: you
+should decide. Not a model. Not an algorithm. Not a compatibility
+matrix or a behavioral nudge or a predictive framework. You. Each of
+you. In a voting booth, alone with your conscience, making a choice
+that is yours and no one else's.
+
+"I have been in the Senate for forty years. I have watched this body
+transform from a deliberative institution into a ratification engine
+for algorithmic outputs. I have watched my colleagues stop arguing,
+stop persuading, stop believing that their words could change anyone's
+mind, because the models had already determined every outcome. I have
+watched voter turnout drop to nineteen percent and been told that this
+is efficient — that the models have simply eliminated the friction
+from the process, the way you might eliminate friction from a machine.
+
+"But democracy is not a machine. It is a conversation. It is the
+loudest, messiest, most inefficient conversation in human history, and
+it is the only system we have ever invented that treats the ordinary
+citizen as someone whose judgment matters. The models do not treat your
+judgment as something that matters. They treat it as a data point. They
+have already counted your vote. They have already decided the outcome.
+They have left you with nothing to do but ratify their prediction — or
+stay home, which is what most of you have done, and I do not blame you,
+because why would you participate in a process that does not need you?
+
+"I am here tonight because I believe it needs you. I believe this
+republic needs your anger and your hope and your disagreement and your
+stubborn, irrational, unpredictable humanity. I believe that a
+government predicted by a model is not the same as a government chosen
+by a people. And I believe that if we surrender the act of choosing to
+the machines that can predict our choices, we will have lost something
+that cannot be recovered by any algorithm, no matter how sophisticated.
+
+"I am asking for your vote. Not because the models say I will win. They
+say I will lose. I am asking for your vote because the asking is the
+point. The asking is democracy. And if we stop asking, we stop being a
+republic, no matter what we call ourselves.
+
+"That's all I have. Thank you."
+
+The gymnasium was quiet. Four hundred people sat in folding chairs
+under fluorescent lights and did not speak, and in that silence Webb
+heard something he had not heard in a very long time: the sound of
+people thinking.
+
+                               VII.
+
+Dasgupta spoke well. She was intelligent and articulate and she made
+the case for the models with precision and conviction: they produced
+better outcomes, reduced campaign waste, eliminated the distortions of
+money and media, and ensured that the most qualified candidates
+governed. She was right about all of it. The models did produce better
+outcomes, by any measurable standard. Government functioned more
+smoothly. Policy was more rational. Corruption had declined. The
+system worked.
+
+Webb did not argue with any of it. He had never argued that the models
+produced bad outcomes. He argued that the outcomes were beside the
+point.
+
+The debate was watched, in the end, by two hundred thousand people —
+a fraction of the district's population, but ten times the audience
+for any political event in recent memory. Clips circulated. Webb's
+closing statement was transcribed and shared and discussed in a way
+that political speech had not been discussed in years.
+
+The models did not change their predictions. Webb was still projected
+to lose by a comfortable margin, and the models were almost certainly
+correct, because the models were always correct.
+
+But in the weeks that followed, voter registration in the district
+increased by 4.3 percent. This was unprecedented. The analysts noted
+it, the commentators discussed it, and the models incorporated it into
+their projections and confirmed that it did not change the outcome.
+
+Webb continued to campaign. Door to door. Town hall to town hall. He
+was seventy-three and exhausted and he knew he was going to lose and he
+kept going, because the going was the point.
+
+                               VIII.
+
+Election Day.
+
+Webb voted at 7:00 AM at his local polling place, a school gymnasium
+not unlike the one where the debate had been held. There was a line. A
+short one — eleven people ahead of him — but a line nonetheless, and
+he stood in it like everyone else, and when he reached the booth he
+marked his ballot by hand, on paper, in the manner that the law still
+required even though the models had rendered the act ceremonial.
+
+He spent the day at his campaign office, which was a rented storefront
+in Brightwood — Gerald Tyson's neighborhood. Volunteers came and went.
+There were not many of them, but they were earnest and energetic and
+several of them were young people who had never worked on a campaign
+before because there had been no campaigns to work on.
+
+The results came in at 8:00 PM, which was the same time the models
+had predicted they would come in, which was the same time results
+always came in. Dasgupta won. The margin was 61.3 to 38.7, which was
+within one percentage point of every major model's projection.
+
+Webb had lost.
+
+But.
+
+Voter turnout in the district was 34 percent. It had been 18 percent
+in the previous cycle, and 22 percent in the cycle before that. Thirty-
+four percent. In a district where the models had called the race eight
+months before Election Day. In a system where participation had been
+declining for a decade. Thirty-four percent of eligible voters had
+gone to the polls and cast ballots in an election whose outcome
+everyone already knew.
+
+Diane showed him the number. He looked at it for a long time.
+
+"It doesn't change anything," she said gently.
+
+"It changes everything," Webb said.
+
+                               IX.
+
+He gave his concession speech in the storefront office in Brightwood.
+Sixty people were there, including Gerald Tyson, who had voted for the
+first time in a decade and who had voted, as he told Webb afterward,
+for Dasgupta.
+
+"I liked what you said about the asking," Tyson explained. "But I
+looked at both of you and I made my own decision, and my decision was
+her. I hope that doesn't offend you."
+
+Webb shook his hand. "That's the most beautiful thing anyone has said
+to me in forty years of politics."
+
+He stood before the small crowd and spoke without notes:
+
+"I lost tonight, and the models predicted that I would lose, and the
+models were right. They are very good at what they do. But I want to
+tell you what I learned in these eight months of doing something that
+most people thought was pointless.
+
+"I knocked on one thousand, four hundred and twelve doors. I shook
+approximately three thousand hands. I held forty-seven rallies, in
+rooms that ranged from church basements to parking lots. I had nine
+hundred and six individual conversations with voters, many of whom
+had not spoken to a politician, or voted, in years. And what I learned
+is this: the hunger has not gone away. The desire to participate, to be
+asked, to be treated as a citizen rather than a data point — it is
+still there, buried under a decade of algorithmic governance, waiting
+for someone to dig it up.
+
+"Thirty-four percent of you voted today. That is not a victory by any
+conventional measure. But it is a sign that the conversation is not
+over. The models predict. They predict with extraordinary accuracy. But
+they do not choose. Only you can choose. And today, more of you chose
+to choose than anyone expected.
+
+"I am leaving the Senate. I am seventy-three years old, and this was
+my last campaign, and it was the best one. Not because I came close to
+winning — I did not come close. But because, for eight months, in a
+system that no longer requires it, a senator knocked on doors and
+asked for votes, and the people behind those doors remembered what it
+felt like to be asked. That is worth a career. That is worth a loss.
+
+"Go home. Talk to your neighbors. Argue with each other. Show up at
+the next election, whether the models say it matters or not. That is
+all I ask. That is all I have ever asked.
+
+"Thank you. Good night."
+
+He walked out of the storefront and into the November darkness, an old
+man in a rumpled suit, and behind him the small crowd applauded — not
+loudly, not for long, but with the particular warmth of people who had
+been reminded of something they had almost forgotten, and who were not
+yet sure what to do with the remembering, but who were grateful for it
+all the same.
+
+                              * * *
+
+================================================================================
+
+                      INDIAN SUMMER ON IO
+
+                        by Theodore Cain
+
+================================================================================
+
+                               I.
+
+The shuttle from Ganymede Station put down on the old pad at Sulfur
+Creek at half past six in the morning, local time, which on Io meant
+nothing at all. There was no morning on Io. There was Jupiter, filling
+a quarter of the sky, and there was the pale sun, and there was the
+yellow-gray surface stretching out in every direction like a bad dream
+about the desert, and there was the radiation, always the radiation,
+ticking away on every dosimeter like a clock that only counted down.
+
+Walt Kovacs stepped off the shuttle and stood on the pad and looked
+at what was left of the town.
+
+Not much. The main street — if you could call it a street, it had been
+a pressurized corridor connecting the hab modules — was still standing,
+more or less. The modules themselves were intact, because they were
+built to last and because there was nothing on Io to knock them down
+except the occasional sulfur eruption, and the engineers who had sited
+Sulfur Creek back in '38 had known enough to put it on stable ground.
+The comm tower was still up, though its dish was cocked at an angle
+that suggested it hadn't tracked a signal in years. The loading dock
+where the ore carriers had backed in to take on their loads of
+iridium and palladium was empty, its blast shields raised like arms
+frozen in surrender.
+
+Kovacs was sixty-seven. He had come to Sulfur Creek when he was
+twenty-two, fresh off a labor shuttle from Ceres with a mining
+certificate and a pair of boots that didn't fit right. He had worked
+the deep tunnels for twenty-three years — the shafts that went down
+through the sulfur crust into the silicate mantle where the heavy
+metals collected in veins that glittered like frozen lightning in
+your headlamp beam. He had breathed recycled air and eaten processed
+protein and slept in a bunk that was six feet long and four feet wide
+and felt, after a twelve-hour shift at the rock face, like the most
+comfortable bed in the solar system.
+
+He'd left in '83, when the mine closed. Everyone left. The company
+pulled the extraction equipment and the processing plant and most of
+the hab furniture and anything else that had a positive scrap value,
+and they left the modules and the corridors and the tunnels and the
+memories, because memories had no scrap value, and neither did ghosts.
+
+That had been twelve years ago.
+
+"You sure about this?" the shuttle pilot asked from the hatch. She was
+young — couldn't have been more than twenty-five — and she looked at
+Sulfur Creek the way you look at a cemetery.
+
+"I'm sure," Kovacs said.
+
+"I'll be back in seventy-two hours. Dosimeter stays green, you'll be
+fine. It goes yellow, you get back to the pad and you call me."
+
+"I know the drill."
+
+"No offense, but nobody comes to Io for fun. Especially not to a
+dead mine."
+
+"No offense taken."
+
+The shuttle lifted off, and Kovacs was alone on Io, which was a thing
+he had not been in twelve years and which felt, to his surprise, like
+coming home.
+
+                               II.
+
+The airlock on the main hab still worked, which meant someone had
+maintained the seals, or more likely the seals had been over-engineered
+to begin with. Mining equipment on Io was built paranoid — triple
+redundancies on everything, because the alternative was dying in a
+place where nobody could reach you fast enough to matter. Kovacs
+cycled through and stepped into the main corridor and turned on his
+suit lamp.
+
+The corridor was dark. Power had been cut when the town was
+decommissioned, and whatever battery reserves had kept the emergency
+lights going had drained years ago. Kovacs's lamp threw a cone of
+white light that moved as he moved, picking out details the way memory
+picks out moments: the bulletin board on the left wall, still bearing
+a faded notice about shift changes that would never happen; the floor
+tiles, scuffed by a decade of mining boots, each scuff mark a small
+record of a person going somewhere with purpose; the door to the
+commissary, propped open with a folded piece of cardboard, the way
+it had always been propped open because the latch was broken and
+nobody had ever gotten around to fixing it.
+
+He walked slowly. There was no reason to hurry, and every reason not
+to. He was here to remember, and remembering takes time.
+
+The commissary. He pushed through the door and stood in the room where
+he had eaten ten thousand meals. The tables were still there — bolted
+to the floor, too heavy to be worth shipping out. The serving counter
+was bare, the kitchen behind it stripped. But the tables were there,
+and Kovacs could see them as they had been: crowded, noisy, cluttered
+with trays and coffee cups and the elbows of miners who had just come
+off shift and were too tired to sit up straight. He could hear them,
+almost. The voices. Henriksen, who told the same joke every Tuesday.
+Patel, who argued about politics with anyone who would sit still.
+Yoko, who ate in silence and read paperback westerns and never said
+more than three words at a meal unless directly provoked.
+
+They were scattered across the system now, the ones who were still
+alive. Henriksen had gone back to Earth, last Kovacs heard. Patel was
+on Mars, teaching school. Yoko — nobody knew about Yoko. She had
+dropped off the grid after the mine closed, the way some people do,
+not dead but not findable, existing in the spaces between databases
+where privacy still lived.
+
+Kovacs sat down at his old table. Third from the left, by the wall.
+He could tell it was his because of the initials someone had scratched
+into the surface — not his initials, but the initials of a woman named
+Maria Espinoza, who had worked the same shift as Kovacs for six years
+and who had carved M.E. into the table one night when she was drunk on
+the homebrewed potato liquor that circulated through Sulfur Creek's
+underground economy. Maria had died on shift in '71, a tunnel collapse
+in Shaft Seven. Kovacs had been two hundred meters away when it
+happened. He had heard the sound — a low, grinding roar that you felt
+in your chest more than your ears — and he had known, immediately,
+what it meant, and he had run toward it anyway, the way you run toward
+the worst thing that can happen because the worst thing that can happen
+is already happening and running away from it doesn't make it stop.
+
+They got her out, but not in time. The official cause of death was
+crush trauma. The unofficial cause was Io: the radiation, the
+pressure, the sulfur, the sheer grinding hostility of a moon that
+did not want human beings on it and had an infinite number of ways
+to make that point.
+
+Kovacs traced the initials with his gloved finger. M.E. Maria
+Espinoza. She had been thirty-four.
+
+                               III.
+
+He went into the tunnels.
+
+This was the part of the pilgrimage — and he understood now that it
+was a pilgrimage, that it had always been going to be a pilgrimage,
+that the word he had been avoiding was the word that fit — that he had
+come for. The tunnels were the reason Sulfur Creek existed. The tunnels
+were where the work happened, where the ore was pulled from the rock,
+where men and women spent their shifts in darkness and heat and noise
+and came up at the end blinking and sore and carrying in their muscles
+the particular exhaustion of having wrestled the universe for its
+resources and won, temporarily, again.
+
+The main shaft was accessible from the lower level of the hab complex,
+through a reinforced door that still bore the yellow warning signs —
+AUTHORIZED PERSONNEL ONLY, RADIATION MONITORING REQUIRED, EMERGENCY
+SHELTER LOCATIONS POSTED AT EACH LEVEL — that Kovacs had walked past
+ten thousand times without reading because they were part of the
+landscape, as invisible as wallpaper.
+
+He opened the door. The shaft stretched downward at a gentle grade,
+wide enough for the ore carts that had once run on tracks embedded in
+the floor. The tracks were still there, rusted but intact, and
+Kovacs followed them into the dark.
+
+The air in the tunnel was cold and still. It tasted of sulfur, faintly,
+the way everything on Io tasted of sulfur — that acrid, mineral tang
+that got into your suit and your skin and your dreams and that Kovacs
+had not smelled in twelve years and that hit him now with the force of
+an autobiography. Every breath was a chapter. Here, at this depth, he
+had learned to use a plasma drill. Here, fifty meters farther down, he
+had found his first high-grade vein — a ribbon of iridium running
+through the silicate like a bright sentence in a dark book. Here, at
+the junction where Shaft Three branched left toward the deep levels,
+he had kissed Maria Espinoza for the first and only time, a brief and
+clumsy kiss exchanged in the dark between shifts, neither of them
+mentioning it afterward, both of them remembering it always.
+
+He descended. The shaft went down for a kilometer, then two, the
+grade steepening as it followed the ore body into the mantle. Kovacs
+walked slowly, his lamp picking out the bore marks on the walls — the
+smooth, curved gouges left by the tunnel-boring machines that had
+carved these passages through solid rock. Each mark was a record of
+work, of effort, of someone's shift spent pushing the tunnel another
+meter into the dark.
+
+At the bottom of Shaft Three, he found what he had come to find.
+
+The memorial wall.
+
+It had been the miners' idea, not the company's. A section of smooth
+rock face at the deepest point of the deepest shaft, where someone —
+no one remembered who — had started carving names. The names of everyone
+who had died at Sulfur Creek. Not an official memorial — the company
+had one of those, a plaque in the main hab that listed names and dates
+in corporate-approved typography. This was different. This was carved
+by hand, by miners, in the rock of the mine itself, and it had the
+rough, honest quality of work done by people who were not artists but
+who understood that some things needed to be marked in a way that
+would last.
+
+Kovacs counted the names. Twenty-seven. He knew them all.
+
+He stood in front of the wall for a long time. His lamp illuminated
+the carved letters, and the shadows they cast were deep and sharp,
+and the silence in the tunnel was the particular silence of a place
+that has been abandoned by the living but not by the dead, who have
+nowhere else to go.
+
+"Hey, Maria," he said, to the wall, to the dark, to the sulfur-scented
+air. "I came back."
+
+The tunnel did not answer. Tunnels don't. But the silence felt
+different than it had a moment before — less empty, less abandoned,
+as if the names on the wall had heard him and were acknowledging,
+in their silent way, that he had come.
+
+                               IV.
+
+He spent three days on Io. He walked every corridor of Sulfur Creek.
+He sat in every room. He went into the tunnels twice more, descending
+to the memorial wall each time and standing before it the way a man
+stands before a grave, which is what it was, in a way — not a grave
+for bodies but for a time, a place, a version of himself that had
+existed here and nowhere else.
+
+He slept in his old bunk. The mattress was gone, but the frame was
+there, and he inflated his camping pad and lay in the dark and
+listened to the silence and remembered the sounds: the ventilation,
+the distant thump of the ore processors, the voices in the corridor
+outside, Henriksen's laugh, the creak of the hab settling against
+Io's ceaseless geological restlessness.
+
+On the third day, before the shuttle came, he went back to the
+memorial wall one last time. He took a small chisel from his pack —
+he had brought it from home, from the tool chest he'd kept from his
+mining days — and he added something to the wall. Not a name. All the
+names were already there. He added a line, at the bottom, below the
+twenty-seven names of the dead:
+
+WE WERE HERE.
+
+He carved it slowly, carefully, the way a miner does everything that
+matters. Each letter clean and deep, cut to last. When he was done he
+put the chisel back in his pack and stood and looked at the wall one
+final time and then turned and walked up the shaft toward the surface,
+toward the shuttle that would take him back to Ganymede and then to
+Ceres and then to whatever was left of his life, leaving behind him
+the tunnels and the names and the town and the memory of a time
+when he was young and the work was hard and the people were real and
+the place, for all its hostility, was home.
+
+The shuttle pilot asked him how it was.
+
+"Good," Kovacs said. "It was good to go back."
+
+"Find what you were looking for?"
+
+He thought about the commissary, and the initials on the table, and
+the memorial wall, and the silence that was not quite silence, and the
+sulfur smell that was not quite a smell but a password to a room in his
+memory that he had not entered in twelve years.
+
+"Yeah," he said. "I did."
+
+The shuttle lifted off, and Io shrank beneath them, yellow and scarred
+and empty, and Sulfur Creek disappeared into the landscape the way all
+abandoned places disappear, slowly, inevitably, the structures standing
+long after the people have gone, holding in their walls and corridors
+and tunnels the echo of the lives that passed through them, waiting
+for someone to come back and listen.
+
+No one else ever did.
+
+                              * * *
+
+================================================================================
+
+                       THE THANATOS GAMBIT
+
+                        by Rex Drummond
+
+================================================================================
+
+                               I.
+
+"Black" Helena Vasquez hadn't killed anyone in eleven years, and she
+intended to keep it that way.
+
+Not out of conscience — she'd made her peace with the deaths a long
+time ago, the way a surgeon makes peace with the ones who don't come
+off the table. It was part of the job. You ran the Outer Reach trade
+lanes, you took what wasn't yours, and sometimes people got in the way
+of the taking, and that was the math of piracy. Helena had been good
+at the math. She'd been very good at it, in fact, for twenty-three
+years, which was a career of uncommon length in a profession where the
+average retirement plan involved a plasma bolt or a prison cell.
+
+But she'd gotten out. Eleven years ago, at fifty-two, she'd docked the
+Calypso at a repair station on Titan, paid off her crew, sold the
+ship for forty percent of its value because the buyer knew what she
+was and what that knowledge was worth as leverage, and disappeared
+into the anonymous sprawl of the Saturn colonies. She'd changed her
+name, changed her face — not enough to fool a deep scan, but enough
+to fool a casual glance — and settled into a quiet life in the lower
+levels of Enceladus Station, where she repaired small electronics in
+a shop the size of a closet and drank cheap whiskey in the evenings
+and did not think about the Outer Reach if she could help it.
+
+She was sixty-three now. Her hands were still steady — you needed
+steady hands for circuit work, the same way you needed them for a helm
+console in a high-g pursuit, and Helena's hands had never let her down
+in either profession. But her joints ached in the station's artificial
+cold, and her left knee was bad from a fall she'd taken during the
+Callisto job in '31, and she couldn't run the way she used to, which
+meant she couldn't run from the things she used to run from, which was
+one of several reasons she'd retired.
+
+She was in the shop, resoldering a nav unit for a freighter captain
+who didn't ask questions, when the door opened and a young woman
+walked in who was clearly not there to have her electronics repaired.
+
+The woman was twenty-five, maybe twenty-six. Dark hair cut short,
+practical. She wore a dock worker's coverall, but she moved like
+someone who'd had training — not military, Helena decided, but close
+enough. Private security, maybe, or corporate enforcement. Someone
+who'd been taught to enter a room and assess its threats in the first
+three seconds.
+
+"Helena Vasquez?" the woman said.
+
+Helena didn't look up from the nav unit. "Never heard of her."
+
+"I'm not here to arrest you. I'm not law enforcement."
+
+"Good. Because I'm not Helena Vasquez, so an arrest would be awkward
+for both of us."
+
+The woman put a data chip on the counter. It was small, standard
+issue, the kind that held maybe a terabyte of compressed information
+and could be concealed in a back tooth if you had the right dental
+work. Helena looked at it without touching it.
+
+"My name is Tess Alvarado," the woman said. "My father was Emilio
+Alvarado. He died six months ago on Enceladus Station because
+Helix Dynamics denied his life-extension therapy application on the
+grounds that he was not a 'qualifying economic contributor.'"
+
+Helena's hands stopped moving. Not much — a hesitation that lasted
+less than a second — but Tess saw it.
+
+"He was fifty-eight," Tess continued. "The therapy would have given
+him another forty years. It costs Helix twelve thousand credits per
+course to manufacture. They charge three hundred thousand. Only
+corporate executives, government officials, and 'approved investors'
+qualify for subsidized access. Everyone else has to pay full price, and
+everyone else can't, and so everyone else dies on schedule while the
+rich live to a hundred and twenty."
+
+"I know how it works," Helena said. "I've lived in the lower levels
+for eleven years. I've watched plenty of people die on schedule."
+
+"Then you know why I'm here."
+
+Helena set down the soldering iron. She picked up the data chip and
+turned it over in her fingers, feeling its weight, which was negligible,
+and its implications, which were not.
+
+"You want me to steal it," she said.
+
+"I want you to steal the manufacturing process. The chemical formulas,
+the synthesis protocols, the production specifications. Everything
+someone would need to produce the therapy independently, outside of
+Helix's monopoly."
+
+"And you came to me because — "
+
+"Because you're the best thief in the Outer Reach. Because you hit the
+Juno Platform in '27 and got away clean. Because you robbed the
+Meridian Vault on Titan and the security company still doesn't know
+how you did it. Because you're Helena Vasquez, and this is the kind
+of job that only Helena Vasquez can pull off."
+
+Helena looked at Tess for a long moment. The girl had her father's
+eyes — dark, steady, the kind of eyes that didn't look away.
+
+"I'm sixty-three years old," Helena said. "I have a bad knee, no ship,
+no crew, and eleven years of rust on every skill that matters. The
+woman who hit the Juno Platform was forty years old and fearless and
+didn't have arthritis. I'm not her anymore."
+
+"You're the only one who can do this."
+
+"That's flattering. It's also probably not true."
+
+"Then tell me who else, and I'll go ask them."
+
+Helena didn't answer, because the answer was that there wasn't anyone
+else, not really, not for a job like this. The Outer Reach pirates of
+her generation were dead or imprisoned or retired, and the new breed
+were smash-and-grab amateurs who wouldn't last five minutes against
+Helix corporate security. This was a job that required planning,
+patience, and the kind of meticulous attention to detail that
+separated professionals from corpses.
+
+"Tell me about the target," Helena said.
+
+                               II.
+
+The data chip contained everything. Tess had done her homework —
+or someone had done it for her, someone with access to information
+that shouldn't have been accessible, which meant Tess had allies, or
+at least a patron, and Helena filed that away for later examination.
+
+Helix Dynamics maintained its life-extension research and manufacturing
+facility on Rhea, Saturn's second-largest moon. The facility was called
+the Aesculapius Complex — corporate types loved their classical
+references — and it was, by any reasonable assessment, the most
+heavily secured private installation in the outer solar system.
+
+Three concentric security perimeters. Automated defense platforms.
+Biometric access controls at every checkpoint. A private security
+force of two hundred trained operatives. And at the center of it all,
+the production laboratory where the Nexagen therapy — the life-
+extension compound that had transformed human longevity from a dream
+into a product, and then from a product into a weapon of class warfare —
+was synthesized, tested, and packaged for distribution to those who
+could afford it.
+
+Helena studied the schematics for two days. She spread them across the
+counter of her shop, weighing down the corners with soldering irons
+and coffee cups, and she traced the security layers with her finger
+and felt the old instincts waking up — the part of her brain that
+looked at a defended target the way a chess player looks at a board,
+seeing not the pieces but the spaces between them, the vulnerabilities,
+the sequences of moves that could open a path through what appeared to
+be an impenetrable defense.
+
+"The front door is impossible," she told Tess on the third day.
+
+"Obviously."
+
+"The back door is also impossible. And the side doors, and the roof,
+and the tunnels, which they've sealed with pressure sensors that would
+detect a cockroach. Whoever designed this security system was either
+very good or very paranoid, and those aren't mutually exclusive."
+
+"So it can't be done."
+
+"I didn't say that. I said the doors are impossible. I didn't say
+anything about the windows."
+
+Tess frowned. "What windows?"
+
+Helena tapped the schematic. "Supply chain. Helix doesn't manufacture
+everything on-site. They can't. The Nexagen synthesis requires
+seventeen precursor compounds, eight of which are produced off-world
+and shipped to Rhea on a biweekly supply run. The ships are inspected,
+the cargo is scanned, the manifests are audited. But the inspection
+happens at the perimeter. Once the cargo is inside, it moves through
+the facility on automated conveyors to the production lab."
+
+"You want to get in with the cargo?"
+
+"I want to get in instead of the cargo. Or rather, I want to replace
+one specific container in one specific shipment with a container that
+looks identical, passes the perimeter scan, and contains me instead
+of precursor compounds."
+
+"You can't possibly pass a molecular scan."
+
+"I don't have to. I have to pass a container integrity scan, which
+checks that the container hasn't been tampered with, and a content
+verification scan, which checks the mass and spectral signature of
+the contents. The container needs to weigh the right amount and emit
+the right spectral profile. Everything else is darkness."
+
+Tess stared at her. "You've done this before."
+
+"Something like it. The Juno Platform, actually. Different cargo,
+same principle. Security systems are designed to detect threats. I'm
+not a threat. I'm a container of precursor compounds. The system
+isn't looking for me because the system doesn't know I exist."
+
+                               III.
+
+The preparation took six weeks. Helena worked methodically, the way
+she had always worked — not with the flashy speed that the holodrama
+pirate stories favored, but with the patient, painstaking thoroughness
+of a craftsman who understood that every hour of preparation saved an
+hour of improvisation, and improvisation was what got you killed.
+
+She needed a ship. Not the Calypso — the Calypso was gone, sold and
+resold and probably scrapped by now — but something small, fast, and
+unremarkable. Tess provided a modified courier, registered under a
+freight company that existed on paper and nowhere else. Helena
+inspected it, pronounced it adequate, and spent three days upgrading
+the sensor countermeasures to her own specifications.
+
+She needed a crew. Not a large one — this was a stealth job, not an
+assault, and more people meant more variables — but at least two,
+someone to fly the ship and someone to handle the extraction once
+she was inside. Tess offered to serve as pilot. Helena refused.
+
+"You're motivated by anger," Helena said. "Anger makes you fast.
+This job requires slow."
+
+She found her own people. Kojo, a former nav officer from the
+Ganymede merchant fleet, who had been cashiered for smuggling and
+who flew a ship the way a surgeon handled a scalpel — with steady
+hands and no unnecessary movements. And Devi, a systems infiltration
+specialist who had worked for Helix corporate security before she was
+fired for asking too many questions about who qualified for Nexagen
+access. Devi knew the security protocols from the inside. She knew
+the gaps.
+
+"There's a twelve-second window during the cargo transfer at
+checkpoint three," Devi said, pointing to the schematic. "The
+biometric scanners cycle between container scans. During that window,
+the system is blind."
+
+"Twelve seconds," Helena said. "That's tight."
+
+"It's what we have."
+
+"Then it's enough."
+
+                               IV.
+
+The job went wrong in the third minute.
+
+Not catastrophically wrong — catastrophic meant alarms, meant pursuit,
+meant the plasma bolts and prison cells that Helena had spent a career
+avoiding. This was the other kind of wrong, the quiet kind, the kind
+where one variable shifts and suddenly the plan you spent six weeks
+building needs to be rebuilt in real time with nothing but your
+instincts and whatever tools you have on your person.
+
+The variable was the biometric scanner at checkpoint three. It didn't
+cycle the way Devi had said it would. It cycled four seconds early,
+which meant the twelve-second window was an eight-second window, which
+meant Helena was still inside the cargo container when the scanner
+came back online, and the container was still on the conveyor, and
+she had exactly eight seconds to extract herself, clear the scanner's
+range, and find cover before the next sweep.
+
+She made it in seven.
+
+She lay flat against the wall of the conveyor tunnel, her heart
+hammering, her breath controlled by the discipline of twenty-three
+years of doing this exact thing in slightly different settings, and
+she waited. The scanner swept past. It did not detect her, because
+she was not in its detection profile, because she had spent six weeks
+ensuring that her suit, her equipment, and her physical signature
+were invisible to every sensor system Helix employed.
+
+She moved.
+
+The facility was vast and sterile, all white corridors and sealed
+doors and the low hum of environmental systems maintaining the
+precise conditions that the Nexagen synthesis required. Helena
+navigated by memory — she had memorized the schematic until she could
+walk it in her sleep, which she had, literally, on three consecutive
+nights — and by the maintenance access routes that Devi had mapped,
+the narrow service corridors that the security system monitored with
+less intensity because they were not intended for human traffic.
+
+She reached the production laboratory in eleven minutes. The door
+required a biometric key. Helena used a spoofed key that Devi had
+fabricated from stolen data, and the door opened, and she was inside
+the room where the most valuable substance in the outer solar system
+was manufactured.
+
+The lab was beautiful. Helena had not expected that, but it was — rows
+of synthesis chambers gleaming under soft white light, the chemical
+processors humming with the quiet efficiency of systems that functioned
+perfectly because the people who built them could afford perfection.
+This was where life was made. Not life in the biological sense — the
+Nexagen therapy didn't create life, it extended it, turning the slow
+decline of cellular aging into a plateau that could last decades — but
+life in the economic sense, the social sense, the political sense.
+This room decided who lived and who died, and the decision was based
+not on need or merit but on the ability to pay three hundred thousand
+credits for something that cost twelve thousand to produce.
+
+Helena found the data terminal. She inserted the extraction drive
+that Devi had provided and began copying: formulas, synthesis
+protocols, production specifications, quality control parameters,
+everything that would be needed to manufacture Nexagen outside of
+Helix's monopoly. The download took four minutes and thirty-seven
+seconds. Helena counted every one of them.
+
+"You could take some of the product too," a voice in her earpiece
+said. Tess, monitoring from the courier ship.
+
+"No."
+
+"There are thousands of doses in that room. You could — "
+
+"I said no. We're taking the recipe, not the cake. Doses run out.
+Formulas don't."
+
+The download completed. Helena pulled the drive, wiped the access
+log — or rather, Devi's software wiped it, in a way that would be
+undetectable for approximately seventy-two hours, which was more than
+enough — and turned to leave.
+
+And found a security guard standing in the doorway.
+
+He was young. Twenty-five, maybe. He had a sidearm on his hip, and
+his hand was on it, and his eyes were wide with the particular
+expression of a person who has trained for a situation and is now
+discovering that the situation feels nothing like the training.
+
+Helena raised her hands. Slowly. The drive was in her left boot, in
+a compartment that would pass a standard search.
+
+"Easy," she said. "I'm not armed."
+
+"You're not supposed to be here."
+
+"No, I'm not. And you're not supposed to find me. So we're both having
+a bad night."
+
+His hand tightened on the sidearm. Helena watched his eyes and made
+the calculation she had made a hundred times in her career — the
+calculation that weighed speed against distance against the reflexes
+of the person in front of her and produced a probability, expressed
+not as a number but as a feeling, a bone-deep assessment of whether
+she could close the distance before he drew.
+
+She could. She was sixty-three and her knee was bad, but she could.
+
+And then she would have to hurt him.
+
+She thought about the eleven years. About the promise she had made to
+herself when she sold the Calypso and walked away from the Outer Reach.
+No more. No more violence, no more blood, no more calculating the odds
+of whether she could take someone down before they took her down. She
+was done with the math of piracy. She was done with the kind of
+arithmetic that turned human beings into obstacles.
+
+"What's your name?" she asked.
+
+The guard blinked. This was not in his training.
+
+"What?"
+
+"Your name. What is it."
+
+"Reeves. Sean Reeves."
+
+"Sean. Do you know what they make in this room?"
+
+"I'm — that's classified."
+
+"It's a drug that makes people live longer. Rich people. People who can
+afford it. Do you qualify, Sean? Does your contract with Helix include
+Nexagen access?"
+
+His jaw tightened. "That's not — "
+
+"No. It doesn't. You're a security guard. You'll work here for twenty
+years, and you'll protect the thing that could save your life, and
+you will never qualify for it, and you will die on schedule while the
+people you protect live to a hundred and twenty. That's the deal. That's
+the company you work for."
+
+"I have a job to do."
+
+"So do I. Mine is to take the formula for that drug and give it to
+people who can produce it for a fraction of the cost. People like you,
+Sean. People who don't qualify."
+
+He didn't draw. Helena watched his hand on the sidearm and saw the
+moment — the exact moment — when the calculation shifted, when the
+training and the loyalty and the fear of consequences weighed against
+the knowledge of what he was protecting and who he was protecting it
+for, and the scales tipped.
+
+"I didn't see anyone," Reeves said.
+
+"No," Helena said. "You didn't."
+
+She walked past him, through the door, and back into the maintenance
+corridors, and she did not run, because running drew attention and
+because her knee wouldn't allow it and because "Black" Helena Vasquez
+had never run from anything in her life, and she was not going to start
+at sixty-three.
+
+                               V.
+
+The extraction went clean. Kojo brought the courier to the pickup
+coordinates at the precise second he was supposed to, because Kojo did
+everything at the precise second he was supposed to, and Helena was
+aboard and the ship was moving before Helix security knew that
+anything had happened.
+
+They cleared Saturn's gravity well and made the burn for the transit
+route to Ceres, and Helena sat in the courier's tiny galley and drank
+the bad coffee that was all Kojo kept aboard and felt the adrenaline
+drain out of her body the way it always drained — slowly, reluctantly,
+leaving behind it a bone-deep fatigue that was not unpleasant, that
+was in fact a kind of satisfaction, the physical confirmation that she
+had done a thing that required everything she had and that she had done
+it without killing anyone.
+
+Tess sat across from her. The girl was vibrating with the energy of
+someone who has just participated in the most exciting event of her
+life and has not yet processed it.
+
+"We did it," Tess said.
+
+"We did the first part. The formula is useless until someone can
+manufacture it. You have people for that?"
+
+"We have a network. Underground pharma labs on Ceres, Ganymede, Titan.
+Good chemists. They can produce Nexagen for fifteen thousand credits a
+course. Not cheap, but a tenth of what Helix charges, and we can bring
+it down further as the process scales."
+
+Helena nodded. Fifteen thousand credits was still more than most lower-
+level workers could afford, but it was within reach of collectives,
+cooperatives, mutual aid networks — the informal economies of the
+outer solar system that had always existed beneath the corporate
+surface.
+
+"Helix will come after you," Helena said. "Not me — they'll never know
+I was involved, if Devi's countermeasures held. But the moment generic
+Nexagen hits the market, they'll know the formula leaked, and they'll
+start hunting."
+
+"Let them hunt. The formula will be on a thousand data chips in a
+hundred stations by the time they figure out what happened. You can't
+un-ring a bell."
+
+Helena looked at Tess and saw the fire in her and recognized it,
+because she had seen it before, in other young people, in other
+fights, and it was the most dangerous thing in the solar system and
+also the most necessary.
+
+"Your father," Helena said. "What was he like?"
+
+Tess was quiet for a moment. "He was a maintenance worker. Water
+recycling systems. He kept the water clean for thirty years and he
+never made enough to afford the therapy that would have let him keep
+doing it for another thirty."
+
+"That's who this is for."
+
+"That's who this is for. Him, and everyone like him."
+
+Helena drank her coffee. It was terrible. She drank it anyway, the way
+she had drunk terrible coffee in a hundred ships in a hundred ports
+across the Outer Reach, and she felt the old satisfaction settling
+into her bones — not the satisfaction of the take, which was what the
+young Helena had lived for, but the satisfaction of the craft, of
+having done a difficult thing well, and of having done it, for once,
+for a reason that was worth the doing.
+
+"I'm going back to my shop," she said. "I've got a nav unit to finish."
+
+Tess smiled. "That's it? The greatest heist in the Outer Reach, and
+you're going back to fix a nav unit?"
+
+"That nav unit isn't going to fix itself. And the captain who owns it
+is picking it up Thursday."
+
+She leaned back in her chair and closed her eyes, and the courier
+carried them through the dark between worlds, and Helena Vasquez —
+"Black" Helena Vasquez, pirate, thief, and the best in the business —
+slept the sleep of the righteous, or at least the sleep of the
+competent, which in her experience was the more reliable kind.
+
+                              * * *
+
+================================================================================
+
+                   THE GIVING TREES OF CENTAURI
+
+                       by Margaret Thornton
+
+================================================================================
+
+                               I.
+
+The first thing Dr. Lena Halvorsen noticed about the trees of Centauri
+IV was that they wanted to feed her.
+
+Not metaphorically. Not in the loose, poetic sense in which one might
+say that a forest "gives" its resources to the creatures that inhabit
+it. The trees of Centauri IV — or, more precisely, the arboriform
+organisms that occupied the ecological niche of trees on a world
+where nothing was actually a tree — dropped seedpods at her feet.
+Deliberately. Repeatedly. With a specificity of aim that ruled out
+wind, gravity, or coincidence.
+
+She had been on the planet for six hours. She had walked three hundred
+meters from the landing site into the forest margin, accompanied by
+her field assistant, Jun Okada, and a geochemist named Brennan whose
+first name she kept forgetting because he insisted on being called
+Brennan. They were the advance survey team for the Colonial Assessment
+Mission, tasked with evaluating Centauri IV's biosphere for human
+compatibility before the settlement ships arrived. It was routine work.
+Lena had done it on four previous worlds, each time compiling the same
+categories of data: atmospheric composition, soil chemistry, native
+biology, potential hazards. The forms were standardized. The methodology
+was established. The only variable was the world itself, and worlds,
+in Lena's experience, were full of surprises that the forms did not
+anticipate.
+
+The seedpods were one of those surprises.
+
+They were approximately the size of a clenched fist, ovoid, covered in
+a thin husk that split along a seam when the pod struck the ground,
+revealing a dense, moist interior that smelled — startlingly, absurdly —
+like roasted grain. Lena knelt beside the first one and scanned it
+with her portable analyzer. The readout made her frown.
+
+"Jun. Come look at this."
+
+Jun Okada was crouched twenty meters away, photographing the bark of
+the nearest arboriform. He came over, camera still hanging from his
+neck, and looked at the analyzer display.
+
+"That can't be right," he said.
+
+"Run it again."
+
+He ran it again. The result was the same. The seedpod contained complex
+carbohydrates, plant-based proteins, a suite of fatty acids, and a
+mineral profile that included calcium, iron, zinc, and potassium in
+concentrations that were — and this was the part that made Lena's
+scientific instincts flare like an alarm — almost precisely calibrated
+to human nutritional requirements.
+
+"It's food," Jun said. "Human food."
+
+"It's a seedpod that happens to contain nutrients compatible with
+human metabolism. Those are not the same thing."
+
+"They taste like food."
+
+Lena turned to find Brennan standing behind them, chewing. He held
+half a seedpod in his hand. The interior flesh was pale gold, fibrous,
+and he was eating it with the casual confidence of a man who had never
+once considered the possibility that an alien world might want to
+poison him.
+
+"Brennan. What are you doing."
+
+"Eating." He held up the pod. "It's good. Nutty. Like oat bread."
+
+"You ate an unidentified alien seedpod. Without waiting for full
+toxicology results."
+
+"The analyzer said it was nutritionally compatible. I was hungry."
+
+Lena counted to five in her head, which was a technique she had
+developed over four previous survey missions as an alternative to
+physically striking her colleagues. "We have field rations in the
+shuttle. There was no need to eat the local produce."
+
+"The local produce is better than the field rations. Considerably
+better, actually."
+
+"Brennan — "
+
+"I'm fine. I feel great. This stuff is — " He paused, chewing
+thoughtfully. "It's exactly what I wanted. Like it was made for me."
+
+Lena looked at him, and then at the seedpod, and then up at the
+arboriform that had dropped it. The organism stood twelve meters tall,
+its trunk a deep reddish-brown, its canopy a broad parasol of
+translucent green structures that were not leaves — they were more
+like membranes, filtering the orange light of Alpha Centauri A through
+their veined surfaces and converting it, presumably, into chemical
+energy. It was a handsome organism, by any aesthetic standard. It
+looked healthy, vigorous, well-established.
+
+It looked, to a biologist's eye, like something that had been doing
+very well for a very long time.
+
+"We need to run a full analysis," Lena said. "Soil chemistry,
+nutrient cycling, reproductive biology. Before anyone eats anything
+else."
+
+Another seedpod dropped at her feet.
+
+                               II.
+
+The analysis took three days, and the results confirmed what Lena
+had suspected and hoped she was wrong about.
+
+The seedpods were not incidental. They were not a byproduct of the
+arboriforms' reproductive cycle that happened to be nutritionally
+compatible with human biology. They were, as far as Lena could
+determine, specifically produced in response to the presence of human
+beings.
+
+The evidence was methodical and damning.
+
+First: the arboriforms near the landing site had increased their
+seedpod production by a factor of eleven since the survey team's
+arrival. Arboriforms at the forest margin, beyond the range of human
+activity, showed no such increase. The production was localized,
+targeted, and proportional to proximity.
+
+Second: the nutritional content of the seedpods varied by individual
+consumer. The pods that dropped near Brennan — who was iron-deficient,
+according to his medical records — contained elevated iron levels.
+The pods that dropped near Jun — who had a mild calcium deficiency —
+were calcium-rich. The pods that dropped near Lena — who was, by the
+metrics of her last physical, nutritionally balanced — contained a
+generalized nutrient profile with no particular emphasis. The trees
+were not merely feeding the humans. They were tailoring the food to
+each individual's needs.
+
+Third: the mechanism was chemical. Lena identified a network of fine,
+hair-like structures in the arboriforms' root systems that extended
+outward through the soil in a radial pattern. These structures — she
+designated them chemo-receptors, for lack of a better term — were
+capable of detecting and analyzing complex chemical signatures,
+including the volatile organic compounds that human beings shed
+continuously through their skin and breath. The trees could, in
+effect, smell the humans, analyze their biochemistry, and adjust the
+seedpod composition accordingly.
+
+"It's extraordinary," Jun said, reading the data on Lena's portable
+lab station. "The level of biochemical sophistication — the speed of
+the response — this is an organism with an analytical capability that
+rivals our own instruments."
+
+"It's extraordinary," Lena agreed. "It's also concerning."
+
+"Why? They're feeding us. Voluntarily. Tailored nutrition, no cost,
+no labor required. From a colonial standpoint, this is — "
+
+"From a colonial standpoint, this is a planet that rolls out the
+welcome mat and hands us dinner. And the first question any biologist
+should ask when an organism offers you something for nothing is: what
+does it get in return?"
+
+Jun was quiet for a moment. "You think it's parasitism."
+
+"I think it's something. Organisms don't invest this kind of
+metabolic energy — analyzing alien biochemistry, tailoring nutrient
+profiles, increasing production elevenfold — without a return on
+investment. Nothing in biology is free. Nothing."
+
+"Maybe it's mutualism. We get food, they get — what? Carbon dioxide?
+Soil disturbance from our movement? Seed dispersal?"
+
+"Maybe. Those are the benign possibilities, and I hope one of them
+is correct. But there are other possibilities that are less benign,
+and we need to investigate all of them before we tell the settlement
+fleet that Centauri IV comes with free groceries."
+
+                               III.
+
+Brennan continued to eat the seedpods. He did this despite Lena's
+explicit instructions not to, because Brennan was the kind of scientist
+who considered instructions advisory rather than binding, and because
+the seedpods were, by his own repeated testimony, delicious.
+
+"I know you're worried," he told Lena on the fourth day. "But I've
+been eating these for four days and I feel better than I've felt in
+months. My energy is up, my digestion is perfect, my iron levels are
+normalizing. Whatever these trees are doing, it's working."
+
+"That's exactly what concerns me."
+
+"You think feeling good is a symptom."
+
+"I think feeling good is how parasites get hosts to cooperate. A tick
+injects an anesthetic before it bites. A wasp larva releases
+dopamine-mimics to keep its host caterpillar passive. If you wanted
+to manipulate the behavior of a large, mobile organism, the most
+efficient strategy would be to make it feel healthy, content, and
+well-fed. To make it not want to leave."
+
+Brennan looked at her with the expression of a man who was trying to
+take a concern seriously while simultaneously enjoying what he
+considered the best meal on the planet. "You're comparing alien trees
+to parasitic wasps."
+
+"I'm comparing biochemical manipulation strategies across phyla. The
+principle is the same regardless of the organism. If these trees can
+analyze our biochemistry well enough to tailor our nutrition, they can
+analyze it well enough to manipulate it. We don't know what else is
+in those seedpods. We know the nutrients. We don't know what
+we're not detecting."
+
+"The analyzer — "
+
+"The analyzer checks for known toxins and known nutritional compounds.
+It does not check for novel bioactive molecules that we've never
+encountered before, because it can't check for what it doesn't know
+to look for. That's the limitation of any analysis: it can only find
+what it's designed to find."
+
+Brennan set down the seedpod he had been eating. He set it down slowly,
+with the reluctance of a man who was not convinced but who had been
+given a reason, at least, to hesitate.
+
+"What do you want to do?" he asked.
+
+"I want to run a deep-spectrum analysis on the seedpod matrix. Every
+compound, identified or not. And I want to track our biochemistry —
+all three of us — over the next two weeks, looking for changes that
+can't be attributed to the known nutritional content."
+
+"And if you find something?"
+
+"Then we flag this planet and recommend against settlement until the
+biology is understood. Which could take years."
+
+"The fleet is eight months out."
+
+"I know."
+
+                               IV.
+
+The deep-spectrum analysis took a week. Lena ran it three times, using
+different methodologies, because the results were troubling and she
+wanted to be certain before she raised an alarm that would affect the
+lives of twelve thousand colonists aboard the settlement fleet.
+
+The seedpods contained, in addition to their impressive nutritional
+profile, three compounds that the analyzer could not identify.
+
+This was not, in itself, unusual. Any alien biosphere would produce
+novel chemistry. But the three compounds shared a structural
+characteristic that made Lena's training sit up and pay attention:
+they were all capable of crossing the blood-brain barrier.
+
+She could not determine their function. That would require years of
+research, controlled studies, the kind of careful, long-term work
+that the colonial assessment timeline did not accommodate. But she
+could observe their presence, note their blood-brain-barrier
+compatibility, and draw the obvious inference: the trees were
+introducing something into the human brain, and whatever it was, it
+was not nutrition.
+
+"It could be coincidental," Jun said, when she showed him the data.
+"Plenty of natural compounds are BBB-compatible without being
+neuroactive."
+
+"Plenty of natural compounds don't appear in seedpods that are
+specifically produced for alien consumption and tailored to individual
+biochemistry. Context matters, Jun. In the context of everything else
+these trees are doing, BBB-compatible unknowns are not coincidental.
+They're strategic."
+
+"Strategic implies intention."
+
+"Strategic implies selection pressure. These organisms have evolved
+in an environment where large mobile fauna exist — we've seen the
+herbivore analogs in the grasslands beyond the forest. The trees have
+evolved to interact with mobile organisms, to attract them, to
+influence their behavior. We're just the newest mobile organisms in
+the neighborhood."
+
+"And the brain-active compounds — "
+
+"Are the mechanism of influence. Think about it from the tree's
+perspective. You're a sessile organism. You can't move. Your
+reproductive success depends on seed dispersal, which depends on
+mobile organisms carrying your seeds to new locations. How do you
+ensure that the mobile organisms cooperate? You feed them. You make
+the food irresistible. And then you add something to the food that
+makes them want to stay near you, to eat more, to carry your seeds
+farther, to do whatever serves your reproductive interests."
+
+Jun looked at the arboriforms beyond the lab station's window. They
+stood in their patient rows, their membrane-canopies filtering the
+orange light, their seedpods swelling on their branches like gifts
+waiting to be given.
+
+"You're describing a drug," he said.
+
+"I'm describing a relationship. Every mutualism has a mechanism of
+enforcement. Bees pollinate flowers because the nectar reward is
+chemically compelling. Birds disperse seeds because the fruit is
+engineered to attract them. The mechanism is always chemical, always
+targeted, always operating below the level of conscious choice. These
+trees are doing the same thing. They're just doing it to us."
+
+                               V.
+
+Lena wrote her report. It was fourteen pages long, meticulously
+documented, and it concluded with a recommendation that Centauri IV
+be classified as a Category Three biohazard — habitable but requiring
+extensive biological study before settlement.
+
+She knew what the recommendation would mean. The settlement fleet was
+eight months out, carrying twelve thousand people who had left their
+previous lives to build new ones on this world. A Category Three
+classification would divert them to an alternative site — a world
+that was habitable but harsher, less welcoming, without the generous
+forests and their irresistible seedpods. Twelve thousand lives
+disrupted, billions of credits in redirected infrastructure, years
+of planning abandoned. It was not a recommendation she made lightly.
+
+She transmitted the report and waited.
+
+The response came in three days. It was from the Colonial Assessment
+Board, and it was carefully worded in the way that institutional
+communications are carefully worded when they intend to overrule a
+field scientist without appearing to do so:
+
+"Dr. Halvorsen's concerns are noted and will be incorporated into
+ongoing biological monitoring. However, given the absence of
+demonstrated harm and the significant logistical implications of
+reclassification at this stage, the Board recommends proceeding
+with settlement on the current timeline. Additional research resources
+will be allocated to the xenobotanical questions Dr. Halvorsen has
+raised."
+
+Lena read it twice. She read between the lines, which did not take
+much reading between because the lines themselves were transparent:
+the trees fed the humans, the humans would settle the planet, and if
+the trees were manipulating human neurochemistry to encourage their
+own dispersal, that was a problem for future scientists to study, not
+a reason to divert a twelve-billion-credit colonization effort.
+
+She looked out the window at the forest.
+
+The arboriforms had spread. Not dramatically — the advance was measured
+in meters, not kilometers — but observably. In the three weeks since
+the survey team's arrival, the forest margin had crept closer to the
+landing site. New shoots had appeared in soil that had been bare when
+they arrived. The trees were growing toward the humans.
+
+And the humans, Lena realized, were not growing away.
+
+Brennan spent his evenings in the forest now. He sat among the
+arboriforms and ate their seedpods and said he was collecting samples,
+which he was, but he also stayed longer than his sample collection
+required, and he sat closer to the trunks than observation demanded,
+and he had, twice, fallen asleep beneath their canopies, which was
+behavior that Lena catalogued in her notebook with the same careful
+objectivity she applied to all her observations, though the hand that
+wrote the words was not quite steady.
+
+Jun had started eating the seedpods too. He had held out for two weeks,
+but hunger and proximity had worn him down, and the seedpods were
+always there, always fresh, always perfectly suited to his particular
+nutritional needs, and resistance — Lena understood this with the
+clarity of a biologist who studied predator-prey dynamics for a
+living — resistance was not what the trees were designed for. The
+trees were designed for capitulation. Slow, comfortable, delicious
+capitulation.
+
+Lena had not eaten the seedpods. She maintained her field rations with
+a discipline that felt, increasingly, like stubbornness rather than
+science. The seedpods dropped at her feet every time she entered the
+forest. They split open their husks and filled the air with their
+warm, grain-like smell, and her body wanted them — her mouth watered,
+her stomach tightened, her hands reached before her mind intervened —
+and she did not eat them, because she understood, with the particular
+horror of a biologist confronting a system more elegant than anything
+she could have designed, that the wanting itself was the mechanism.
+
+                               VI.
+
+On the last day before the settlement fleet's point of no return —
+the navigational threshold beyond which course correction to the
+alternative site would be impossible — Lena walked into the forest
+alone.
+
+She carried her analyzer, her notebook, and a seedpod that she had
+sealed in a specimen container six days earlier. She walked to the
+largest arboriform in the survey area — a specimen she had designated
+AT-001, fourteen meters tall, trunk diameter one and a half meters,
+canopy spread eleven meters — and she stood beneath it and looked up.
+
+The canopy filtered the orange light into shifting patterns on the
+forest floor. Seedpods hung from the lower branches, heavy and ripe,
+their husks already beginning to split. The chemo-receptor roots
+extended through the soil beneath her boots, reading her biochemistry,
+analyzing her stress hormones, her cortisol levels, her hunger signals.
+The tree knew she was there. The tree knew what she needed.
+
+"I know what you are," Lena said.
+
+The tree did not respond. Trees do not respond to speech, on any
+planet, though Lena had begun to suspect that the arboriforms of
+Centauri IV could detect vocal vibrations through their root network
+and process them as data, if not as language.
+
+"You're not generous. You're strategic. Your seedpods are a dispersal
+mechanism, and we're the dispersal agents. You feed us so we'll stay,
+and you put something in the food that makes us want to stay, and when
+we spread across this planet — building settlements, clearing land,
+carrying your seeds to new territories — you'll spread with us.
+Wherever humans go, your trees will follow. We're your vector."
+
+A seedpod dropped. It landed at her feet and split open, and the
+warm grain smell rose from it like an invitation.
+
+Lena looked at it. She looked at the tree. She thought about the
+settlement fleet, and the twelve thousand people aboard it, and the
+Board's decision, and the fact that the fleet would arrive in eight
+months regardless of what she recommended, because the decision had
+been made by people who had never stood beneath these trees and felt
+the pull of their generosity, which was not generosity at all but the
+oldest strategy in biology: feed them, and they will come; feed them
+well enough, and they will never leave.
+
+She opened her notebook and wrote her final field observation:
+
+The arboriforms of Centauri IV represent a xenobotanical organism of
+extraordinary sophistication. Their seedpod production is targeted,
+individualized, and almost certainly neuroactive. They are not
+feeding us out of generosity. They are cultivating us. We are, from
+their perspective, a dispersal mechanism: a large, mobile, highly
+social organism with a demonstrated tendency to modify landscapes
+and transport resources across vast distances. They are investing in
+us the way any organism invests in a mutualist partner — by making
+the relationship irresistible.
+
+The colony will come. The humans will eat the seedpods, because the
+seedpods are perfect, and they will carry the seeds, because the seeds
+will be everywhere, and the trees will spread across the planet in the
+wake of human settlement, because that is what they have evolved to do.
+Whether this constitutes parasitism or mutualism depends on the
+long-term effects of the neuroactive compounds, which we do not yet
+understand and which the Board has declined to investigate before
+settlement.
+
+I am filing this observation for the record. I do not expect it to
+change anything.
+
+She closed the notebook. She looked at the seedpod at her feet. The
+smell was warm and good and exactly what her body wanted, and she bent
+down, slowly, and picked it up, and held it in her hand, and felt its
+weight, which was the weight of an answer to a question she had not
+asked.
+
+She did not eat it. She placed it in her specimen container, sealed it,
+and labeled it: AT-001-SEEDPOD-FINAL. FOR ANALYSIS.
+
+She walked back to the landing site, through the forest that was
+growing toward her, past the trees that dropped their gifts at her
+feet, and she did not look back, because looking back would have
+required a strength she was not certain she still possessed.
+
+The settlement fleet was eight months away.
+
+The trees could wait.
+
+They were very good at waiting.
+
+                              * * *
+
+================================================================================
+
+                     THE WEIGHT OF TOMORROW
+
+                     by Father Thomas Aquino
+
+================================================================================
+
+                               I.
+
+The visions came during the Consecration.
+
+This was the cruelest part. Father Michael Brennan had lived with the
+gift — or the affliction, or the condition, depending on which
+specialist he consulted and which theology he applied — for seven
+years, and he had learned to manage its intrusions during most of the
+day. Walking, eating, reading, hearing confessions — during these
+activities the visions were sporadic, brief, manageable. A flash of
+tomorrow's weather. A glimpse of a conversation not yet held. Small
+prophecies, easily absorbed, easily filed away in the private archive
+of foreknowledge that he maintained in his mind like a sealed room
+whose contents he tried not to examine too closely.
+
+But during Mass — during the moment of Consecration, when he held the
+bread and spoke the words of institution, when the liturgy required
+his total presence, his complete attention to the mystery of the
+sacrament — the visions flooded in with a force and clarity that
+overwhelmed everything else, as though the act of reaching toward the
+sacred tore open a door to the temporal, and tomorrow poured through
+it like light through a broken window.
+
+He stood at the altar of St. Anselm's Parish in the city of New
+Corinth, colony world, population forty thousand, and he held the
+bread and said, "This is my body, which will be given up for you,"
+and as he spoke the words he saw:
+
+Tomorrow. Sunday morning. The earthquake.
+
+It arrived in his vision with the devastating specificity that his
+visions always possessed — not a vague sense of foreboding, not a
+symbolic dream requiring interpretation, but a detailed, precise,
+temporally located event observed as clearly as if he were watching
+it through a window in the present. He saw the ground split along
+the fault line that ran beneath the eastern district. He saw buildings
+collapse — not all of them, but three: the municipal water treatment
+facility, the residential tower at the corner of Seventh and Aldrin,
+and St. Anselm's itself, the church in which he now stood, whose
+stone walls would buckle inward at 10:47 AM during the Sunday morning
+Mass that he was currently preparing to celebrate.
+
+He saw the dead. He counted them. Seventeen people, in the rubble of
+the three buildings. Eleven in the residential tower. Four in the
+water treatment plant. Two in the church.
+
+He saw who they were.
+
+He completed the Consecration. His hands did not tremble, because
+he had learned, in seven years of carrying this weight, to separate
+the act of worship from the act of seeing, to hold the sacred in one
+hand and the terrible in the other, and to proceed with the ritual
+even when the knowledge of what was coming made the ritual feel like
+a rehearsal for grief.
+
+He distributed Communion. He spoke the final blessing. He processed
+to the sacristy, removed his vestments with careful hands, and sat
+down on the wooden bench and breathed.
+
+Seventeen people would die tomorrow.
+
+He could prevent it.
+
+The question, as always, was whether he should.
+
+                               II.
+
+The visions had begun when he was thirty-one, two years after his
+ordination, during a retreat at the Jesuit novitiate on Ceres.
+
+He had been praying. Not the formal, structured prayer of the Office,
+but the open, silent prayer of Ignatian contemplation — the kind of
+prayer in which the mind is emptied and offered to God, and God, if
+He chooses, fills it. Father Brennan had been practicing this form of
+prayer since his novitiate, and he had experienced, over the years,
+the full range of its rewards: consolation, desolation, occasional
+insight, frequent silence. He did not expect revelation. Revelation
+was not, in the Jesuit understanding, a standard feature of the
+contemplative life.
+
+But on that particular evening, in the small chapel overlooking the
+crater, with the stars of the Ceres sky visible through the dome, his
+mind had opened in a way it never had before, and he had seen — with
+a clarity that bypassed the senses and arrived directly in his
+understanding, like a theorem proven without recourse to steps —
+tomorrow.
+
+He saw the novice master, Father Gunther, trip on the stairs outside
+the refectory and break his wrist. He saw the exact step (the third
+from the bottom), the exact time (7:23 AM), and the exact nature of
+the injury (a transverse fracture of the left distal radius). He saw
+it with the same certainty with which he saw the wall of the chapel
+or the stars through the dome, and when it happened — when Father
+Gunther fell, on the third step, at 7:23, and broke his left wrist —
+Father Brennan understood that something had changed in his
+relationship with time, and that the change was permanent.
+
+He told his spiritual director. Father Alonzo was eighty years old,
+had been a Jesuit for fifty-five of them, and had heard more strange
+confessions than most priests encounter in a lifetime. He listened to
+Brennan's account with the patient attention of a man who understood
+that the spiritual life contained phenomena that theology could
+describe but not explain.
+
+"There are precedents," Father Alonzo said. "The mystics write of
+similar experiences. St. Joseph of Cupertino. Padre Pio. Others.
+The Church does not deny the possibility of prophetic gifts. It
+merely insists that they be discerned with caution and used with
+prudence."
+
+"Used," Brennan repeated. "You mean acted upon."
+
+"I mean discerned. The gift of seeing what will happen is not the
+same as the gift of knowing what to do about it. The first may be
+given. The second must be earned, through prayer, through counsel,
+through the exercise of prudence and humility."
+
+"Father Gunther broke his wrist. I saw it before it happened. I could
+have warned him."
+
+"You could have. But would the warning have been believed? And if it
+were believed, and Father Gunther avoided the stairs, what would that
+mean? That God showed you the future so that you could change it? Or
+that God showed you a future that was not fixed, and the showing
+itself was the change?"
+
+Brennan had not answered, because the question had no answer that he
+could formulate, and because the question was, in the Jesuit
+tradition, not meant to be answered but to be lived with.
+
+                               III.
+
+He had lived with it for seven years. In that time, the visions had
+grown more frequent, more detailed, and more burdensome. He saw
+accidents before they happened. He saw illnesses before they were
+diagnosed. He saw the small, daily futures of the people around him —
+a student who would fail an examination, a parishioner who would
+receive bad news, a child who would scrape her knee on the playground —
+with a specificity that was both trivial and overwhelming, because each
+vision, no matter how small, carried the same weight: the weight of
+knowledge that demanded a response.
+
+He had developed rules. Not theological rules — the Church had provided
+no guidelines for the management of prophetic gifts in parish priests,
+an oversight he found both understandable and frustrating — but
+practical rules, born of experience and prayer:
+
+He did not act on visions of events that were painful but not
+dangerous. The student who would fail the exam needed to learn from
+failure. The parishioner who would receive bad news needed to receive
+it in her own time, not filtered through a priest's foreknowledge.
+The child's scraped knee would heal. These were the ordinary
+sufferings of life, and to intervene in them — to smooth every rough
+edge, to prevent every minor hurt — would be an act not of mercy but
+of control, and Father Brennan understood, with the instinct of a
+man trained in the theology of free will, that control was not what
+the gift was for.
+
+He acted on visions of genuine danger. Three times in seven years he
+had intervened: once to prevent a parishioner from boarding a transport
+that would crash (he had fabricated an urgent pastoral need that
+required her presence), once to evacuate a school building minutes
+before a structural failure, and once to redirect a hiking group away
+from a trail that would be struck by a rockslide. In each case, he had
+found a plausible, non-prophetic reason for his intervention. In each
+case, lives had been saved. In each case, he had spent the subsequent
+weeks in prayer, asking whether he had done right, and receiving no
+answer, because God, in Father Brennan's experience, did not confirm
+or deny. God simply continued to show him tomorrow.
+
+Now he sat in the sacristy and weighed what he had seen.
+
+Seventeen dead. An earthquake. Tomorrow at 10:47 AM.
+
+He could evacuate the church. He could fabricate a reason — a gas leak,
+a structural concern, anything that would clear the building before
+10:47. Two lives saved.
+
+He could warn the residents of the tower at Seventh and Aldrin. A
+fire drill, perhaps, or a utilities inspection. Eleven lives saved.
+
+He could alert the workers at the water treatment plant. An equipment
+malfunction, a safety protocol. Four lives saved.
+
+Seventeen lives. The math was simple. The ethics were not.
+
+                               IV.
+
+Father Brennan walked to the rectory and sat in his study and thought.
+
+The study was small: a desk, a chair, a bookshelf, a crucifix on the
+wall. A window that looked out onto the parish garden, where the roses
+that the previous pastor had planted were still blooming in the mild
+climate of New Corinth's equatorial zone. It was a room designed for
+thought, and Brennan had done a great deal of thinking in it.
+
+The problem was not whether to act. Seventeen lives were at stake,
+and Father Brennan was not a man who could sit in a chair and let
+seventeen people die when he had the knowledge to prevent it. He was
+a Jesuit, and the Jesuits were men of action — contemplatives who
+prayed with their hands as well as their hearts, who believed that
+faith without works was, as the Apostle James had written, dead.
+
+The problem was the scope.
+
+When he had prevented a single parishioner from boarding a doomed
+transport, the intervention was small, personal, plausibly motivated
+by pastoral concern. When he had evacuated a school, the intervention
+was larger but still attributable to a prudent response to observable
+conditions. But evacuating three buildings across a city, in advance
+of an earthquake that no seismological instrument had predicted —
+that was a public act, a conspicuous act, an act that would demand
+explanation.
+
+And the explanation was the thing he feared most.
+
+Not because he feared exposure. Father Brennan had no attachment to
+secrecy for its own sake. He feared explanation because explanation
+would lead to institutionalization. If the visions were known — if
+the authorities understood that a parish priest on New Corinth could
+see tomorrow with perfect accuracy — the demands would be immediate
+and overwhelming. Predict the weather. Predict the markets. Predict
+the next election. Tell us who will live and who will die and when and
+how, and we will build a system around your gift, and your gift will
+become a tool, and you will become the tool's operator, and the quiet,
+contemplative life that has sustained your sanity for seven years will
+be over.
+
+He had seen this future too. Not in a vision — the visions showed
+tomorrow, not next year — but in the plain, rational extrapolation of
+a man who understood how institutions respond to power. The gift would
+be studied, replicated if possible, exploited in any case. He would
+become, in the language of the colonial administration, a strategic
+asset. And strategic assets did not have the luxury of discernment.
+Strategic assets performed on demand.
+
+But seventeen people would die.
+
+He opened his breviary and prayed the Office of Readings. The
+psalms for the day were Psalm 39 and Psalm 90. "Lord, let me know
+my end, and what is the measure of my days; let me know how fleeting
+my life is." And: "The years of our life are seventy, or even by
+reason of strength eighty; yet their span is but toil and trouble;
+they are soon gone, and we fly away."
+
+He closed the breviary. He looked at the crucifix. He made his
+decision.
+
+                               V.
+
+He called the colonial administrator's office at four o'clock in the
+afternoon.
+
+"This is Father Michael Brennan, pastor of St. Anselm's Parish. I
+need to report a concern about seismic activity in the eastern
+district."
+
+The administrator's assistant was polite and skeptical. "Father, our
+seismic monitoring systems are showing no unusual activity. What's the
+basis for your concern?"
+
+Father Brennan had anticipated this question. He had spent an hour
+preparing an answer that was truthful without being complete — a
+Jesuit skill, he reflected, that his training had refined to an
+uncomfortable degree.
+
+"I've been observing structural anomalies in the church building.
+Hairline cracks in the load-bearing walls, consistent with subsurface
+stress along the eastern fault line. I'm not a geologist, but I'm
+concerned enough to think it warrants inspection."
+
+"I see. We can schedule an inspection for — "
+
+"Tomorrow morning. Before ten o'clock."
+
+"Father, our inspection schedule is — "
+
+"I understand. But I'm canceling tomorrow's ten-thirty Mass as a
+precaution, and I'd feel more responsible if the building were
+inspected before we use it again. I'd also suggest — and I know this
+is outside my area — that the residential tower at Seventh and Aldrin
+and the water treatment facility in the eastern district might benefit
+from similar inspections. Those buildings are on the same geological
+substrate."
+
+There was a pause. The assistant was, Father Brennan could hear,
+trying to decide whether a parish priest's architectural concerns
+warranted interrupting the administrator's afternoon.
+
+"I'll pass along your concerns, Father."
+
+"Thank you. Please emphasize the urgency."
+
+He hung up. He did not know whether the administrator would act. He
+did not know whether the inspections would be scheduled, whether
+the buildings would be evacuated, whether seventeen people would live
+or die based on the persuasiveness of a lie he had told in service
+of a truth he could not reveal.
+
+He went to the church. He walked through the nave, running his hand
+along the stone walls that he had told the administrator were cracked.
+They were not cracked. They were solid, well-built, the work of
+craftsmen who had raised this building thirty years ago with the care
+that sacred spaces demand. Tomorrow, at 10:47, the walls would buckle
+inward, and the roof would fall, and two of his parishioners would die
+beneath it.
+
+Unless he succeeded in emptying the building first.
+
+He stood at the altar. He placed his hands on it, palms flat, the way
+he placed them during the Eucharistic prayer, and he spoke to God — not
+in the formal language of the liturgy, but in the plain, honest language
+of a man who was frightened and confused and who needed, more than
+anything, to understand why he had been given the ability to see what
+was coming and the inability to explain how he knew.
+
+"I don't understand the purpose," he said. "If You want me to save
+them, why give me the knowledge in a form I cannot share? If You want
+me to accept their deaths, why show me the vision at all? If this is
+a test, I need to know what is being tested. If this is a gift, I need
+to know what it costs."
+
+The church was silent. God did not answer, because God, in Father
+Brennan's seven years of experience with the visions, never answered
+direct questions. God showed. God illuminated. God opened doors and
+flooded rooms with light. But God did not explain, and the absence of
+explanation was, Father Brennan had come to believe, itself the
+message: that faith was not the possession of answers but the
+willingness to act without them.
+
+                               VI.
+
+Sunday morning. 7:00 AM.
+
+Father Brennan posted a notice on the church door: MASS CANCELED DUE
+TO BUILDING SAFETY INSPECTION. PARISHIONERS ARE ASKED TO ATTEND THE
+11:00 AM MASS AT ST. CLARE'S, WEST DISTRICT.
+
+He received four telephone calls in the first hour. Parishioners who
+were confused, annoyed, concerned. He explained, calmly, that a
+routine structural inspection had revealed concerns that warranted
+further investigation. A precaution, nothing more. Please attend Mass
+at St. Clare's.
+
+At 8:30, he drove to the residential tower at Seventh and Aldrin. The
+building manager was a woman named Ortega who was not pleased to be
+told that a priest had concerns about her building's structural
+integrity.
+
+"Father, with all due respect, you're a clergyman, not an engineer."
+
+"I agree completely. That's why I've asked the colonial administrator's
+office to send an inspection team. I'm simply suggesting, as a
+precaution, that the building be evacuated until the inspection is
+complete."
+
+"Evacuated? Do you have any idea — "
+
+"Mrs. Ortega. I am asking you, as a personal favor, to get your
+residents out of this building before ten o'clock this morning. I
+cannot explain why. I can only tell you that I believe it is a matter
+of their safety, and I would not ask if I were not certain."
+
+She looked at him. Father Brennan was not a dramatic man. He did not
+raise his voice, did not invoke divine authority, did not threaten or
+cajole. He stood in her office in his black clerical suit and his
+Roman collar and he looked at her with the quiet, steady gaze of a
+man who was telling the truth, and she saw that he was afraid, and
+the fear persuaded her where the words had not.
+
+"I'll order a fire drill," she said. "Residents assemble in the plaza.
+One hour."
+
+"Thank you."
+
+At 9:15, he called the water treatment plant. The supervisor was less
+cooperative. There were protocols, schedules, regulatory requirements.
+You couldn't just shut down a treatment facility because a priest had
+a feeling.
+
+Father Brennan tried. He was patient, he was reasonable, he was
+persuasive. The supervisor was unmoved. At 9:45, Father Brennan drove
+to the facility and stood in the parking lot and prayed, because there
+was nothing else he could do.
+
+At 10:47 AM, the earthquake struck.
+
+It was a 6.1 on the colonial seismic scale, centered on the eastern
+fault line, exactly as Father Brennan had seen. The ground split. The
+buildings shook. Three structures sustained catastrophic damage: the
+water treatment facility, the residential tower at Seventh and Aldrin,
+and St. Anselm's Church.
+
+St. Anselm's was empty. The residential tower was empty — Mrs. Ortega's
+fire drill had cleared the building twenty minutes before the quake.
+
+The water treatment plant was not empty.
+
+Four workers died in the collapse.
+
+                               VII.
+
+Father Brennan administered last rites to two of the four, who were
+extracted alive from the rubble and died within the hour. He knelt in
+the dust and the emergency lighting and held their hands and spoke the
+words of the sacrament, and they died, and he had known they would die,
+and he had tried to prevent it, and he had failed.
+
+Thirteen people lived who would not have lived. The church, empty.
+The tower, empty. Thirteen out of seventeen. The math was simple.
+
+Father Brennan did not find comfort in the math.
+
+He returned to the rectory. The building was undamaged — the rectory
+was in the western district, away from the fault line. He sat in his
+study and looked at the crucifix and did not pray, because he did not
+know what to pray for. Gratitude? Thirteen saved. Grief? Four lost.
+Forgiveness? For what — for failing, or for succeeding, or for the
+presumption of having tried at all?
+
+The colonial administrator's office called. They were conducting an
+investigation into how Father Brennan had known about the seismic
+risk. His report of structural anomalies in the church — fabricated,
+as it turned out, since the pre-quake inspection found no anomalies —
+had prompted the inquiry. How had he known? What had he seen? Why had
+he called?
+
+Father Brennan sat at his desk and weighed his options.
+
+He could tell the truth. The visions, the gift, the seven years of
+seeing tomorrow. He could open the sealed room and let the institution
+examine its contents, and the institution would do what institutions
+do with power: it would systematize it, exploit it, and eventually
+destroy the thing that made it valuable, which was the contemplative
+silence in which the visions arose.
+
+He could lie. A lucky guess. A parishioner's rumor. An anonymous tip.
+He could bury the truth and continue as he had, acting on his visions
+through indirect means, saving whom he could, failing whom he must,
+carrying the weight alone.
+
+He could refuse to answer. A priest's conscience. A matter of faith.
+The seal of — no, not the confessional. But something like it. A seal
+of a different kind, placed on a different kind of knowledge, by a
+different kind of authority.
+
+He looked at the crucifix. The figure on the cross had known what was
+coming, too. Had known the betrayal, the trial, the nails, the death.
+Had known, and had gone forward anyway, not because the knowledge made
+the suffering easier but because the purpose transcended the suffering,
+and the purpose was love, and love did not require understanding. Love
+required only the willingness to carry the weight.
+
+Father Brennan picked up the telephone and called the administrator's
+office.
+
+"This is Father Brennan. I understand you have questions about my
+report."
+
+"Father, we need to understand how — "
+
+"I observed cracks in the church walls. I was mistaken about their
+origin — they turned out to be cosmetic rather than structural. But
+the concern prompted me to raise the alarm, and the alarm, as it
+happened, was warranted for reasons I did not foresee. I was lucky."
+
+"Father, with all due respect, the timing of your — "
+
+"I was lucky," Father Brennan said again. "Providence works through
+ordinary channels, including the anxieties of parish priests. I am
+grateful that my concern, however poorly founded, led to the
+evacuation of the church and the tower. I grieve for those lost at the
+water treatment plant. I will be holding a memorial Mass for them this
+week, and you and your staff are welcome to attend."
+
+There was a long silence.
+
+"Very well, Father. We'll note your account in the report."
+
+"Thank you."
+
+He hung up. He sat in the quiet of his study and listened to the
+silence, which was the silence of a man who had lied to protect a
+truth, and who would continue to lie, and who would continue to see
+tomorrow during every Consecration, and who would continue to weigh
+the terrible, beautiful, impossible burden of knowing what was coming
+and choosing, each time, whether to act.
+
+He opened his breviary.
+
+The psalm for the evening was Psalm 131. "O Lord, my heart is not
+lifted up; my eyes are not raised too high; I do not occupy myself
+with things too great and too marvelous for me."
+
+He read it twice, slowly, letting the words settle into the place
+where the visions lived, and he closed the book, and he sat in the
+failing light of the afternoon, and the weight of tomorrow pressed
+upon him, and he bore it, as he had always borne it, in silence, in
+faith, and in the stubborn, unreasonable hope that bearing it was
+enough.
+
+                              * * *
+
+================================================================================
+
+                        ABOUT THE AUTHORS
+
+================================================================================
+
+GUNNAR ERIKSSON is a literary translator and fiction writer who lives in
+Stockholm, Sweden, and writes in English with a beauty that shames the
+rest of us. His generation ship stories — which began with "The Long
+Watch" (Issue #16) and continued through "The Wanderer's Rest" (Issue
+#20) — have established him as one of the most distinctive voices in
+science fiction, and "The Archivist of Endings" is, in this editor's
+opinion, the finest thing he has written. It is also the most
+devastating. I wept when I read it, and I am not a man who weeps
+easily. He is married to painter Ingrid Bergstrom, and they live
+quietly in Sodermalm, where Eriksson writes slowly, carefully, and
+with a depth of feeling that his spare prose barely contains.
+
+FRANKLIN HOYT is a journalist and fiction writer based in Washington,
+D.C., whose political SF has become one of this magazine's defining
+features. A graduate of Howard University and a veteran who served in
+a segregated Army unit, he brings to his fiction a journalist's eye,
+a preacher's moral authority, and an unyielding conviction that power
+must be watched. "The Last Campaign" is his most personal story — a
+tribute to the democratic process that he believes is worth defending
+even when it appears to be losing. He is married to civil rights
+attorney Barbara Hoyt, and we suspect that the conversations at their
+dinner table are more interesting than most people's entire lives.
+
+THEODORE CAIN is, as regular readers know, the most prolific
+contributor in the history of this magazine and a man of remarkable
+range. With "Indian Summer on Io," he has surprised us again — a
+quiet, almost plotless meditation on memory and place that is unlike
+anything he has written before and that proves, once more, that
+Theodore Cain is capable of anything you ask of him and several
+things you did not think to ask. He continues to write every evening
+from 8:00 PM to midnight in his home in Dearborn, Michigan, and his
+wife, Jean, continues to sleep through the sound of his typewriter.
+
+REX DRUMMOND — and we admit to some surprise in writing this — has
+turned in what may be the most emotionally complex story of his career.
+"The Thanatos Gambit" has all the hallmarks of a Drummond adventure —
+the heist, the danger, the colorful characters, the momentum — but it
+also has a sixty-three-year-old protagonist who aches and thinks and
+makes moral choices, and we did not know Drummond had that in him,
+though perhaps we should have. He remains a Texan, a cigar smoker, a
+raconteur, and the man most likely to buy you a drink at a convention
+bar. He is also, it turns out, a writer of considerable depth, and we
+salute him.
+
+MARGARET THORNTON returns with another xenobotanical tale that will
+make you think twice about accepting gifts from strangers — especially
+tall, photosynthetic strangers with very good aim. "The Giving Trees
+of Centauri" is ecological SF at its most unsettling: a story about
+generosity that is not generous at all, about organisms that feed you
+precisely because they want something from you, and about the
+difficulty of refusing a gift that is perfectly designed for your
+needs. She continues to live on Orcas Island, where she conducts tide
+pool surveys at dawn and writes stories that make us question every
+comfortable assumption we hold about the natural world.
+
+FATHER THOMAS AQUINO is an ordained Jesuit priest and professor of
+philosophy and theology at Loyola University in Baltimore whose science
+fiction explores the intersection of faith and knowledge with a
+seriousness and compassion that is unique in the genre. "The Weight of
+Tomorrow" is his most agonizing story — a tale of a man who can see
+the future and who must decide, again and again, whether to act on
+what he sees. We published it with the conviction that science fiction
+is the ideal genre for theological inquiry, and Father Aquino is the
+ideal writer for the task. He writes in a small study overlooking a
+garden, slowly and carefully, and the care shows on every page.
+
+================================================================================
+
+                         SIGNALS RECEIVED
+                      Letters to the Editor
+
+================================================================================
+
+Dear Mr. Sterling,
+
+Gunnar Eriksson's "The Wanderer's Rest" in Issue #20 was, I believe,
+the most beautiful story you have published. I have read it four times
+and each time I find something new — a detail, a cadence, a moment of
+silence that somehow communicates more than speech. The generation ship
+subgenre has produced many fine stories, but Eriksson's work exists on
+a plane of its own. I eagerly await whatever he writes next, though I
+suspect that whatever it is will require several hours of recovery
+afterward.
+
+                              — Dr. Elisabeth Franzen
+                                 University of Gothenburg, Sweden
+
+Dear Editor,
+
+I must take issue with Rex Drummond's continued insistence on equipping
+his characters with weapons that violate basic energy conservation. In
+"Hell's Highway" (Issue #21), Captain Corvin fires a "plasma lance"
+that apparently draws its power from nowhere, generates no waste heat,
+and can be aimed with pinpoint accuracy while driving a vehicle at
+several hundred kilometers per hour. This is, to put it charitably,
+implausible. I realize that Mr. Drummond is not in the business of
+scientific rigor, but a modicum of attention to thermodynamics would
+not, I think, diminish his stories' entertainment value.
+
+                              — Robert Chen
+                                 Department of Physics
+                                 MIT, Cambridge, Massachusetts
+
+(Mr. Drummond, upon being shown Mr. Chen's letter, replied: "Tell the
+professor I'll fix the thermodynamics when he learns to write a chase
+scene." We are staying out of this one.                        — M.S.)
+
+Dear Mr. Sterling,
+
+Margaret Thornton's "The Ambassador's Garden" in Issue #21 was a
+revelation. I am a horticulturist by profession and a science fiction
+reader by inclination, and it is rare that I find both passions served
+by a single story. Miss Thornton writes about plants the way Dr.
+Koslov writes about stars — with a precision that is also poetry. I
+would very much like to correspond with her about the chemical
+signaling mechanisms she describes. Are they based on current
+research?
+
+                              — Mrs. Dorothy Appleton
+                                 Brooklyn Botanic Garden
+                                 Brooklyn, New York
+
+(They are. Miss Thornton holds a master's degree in marine biology and
+keeps current with the literature in chemical ecology. We have forwarded
+your letter to her, and she replies that she would be delighted to
+correspond.                                                    — M.S.)
+
+Dear Sterling,
+
+Father Aquino's "The Confession Booth" in Issue #20 was the first
+science fiction story I have ever read in which a character's faith is
+treated as something other than a problem to be solved or a
+superstition to be overcome. I am not a Catholic, and I am not sure I
+am a believer of any kind, but Father Aquino made me understand what
+faith feels like from the inside, and that is a rare and valuable
+thing. More, please.
+
+                              — James Whitaker
+                                 Portland, Oregon
+
+We are grateful for these letters and for your continued engagement.
+This month's issue is one of the most personal we have assembled, and
+your responses to the stories that inspired it mean more than we can
+express. Keep writing.                                         — M.S.
+
+================================================================================
+
+                    THE BOOKSHELF OF TOMORROW
+                         Book Reviews
+
+================================================================================
+
+A MIRROR FOR OBSERVERS by Edgar Pangborn
+(Doubleday, 1954, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Mr. Pangborn has written a novel of quiet, persistent beauty — a
+story of alien observers living among us and watching humanity with a
+patience and compassion that we rarely extend to ourselves. The aliens
+are not invaders; they are witnesses, and their presence raises
+questions about the nature of observation, responsibility, and whether
+watching a civilization stumble toward its own destruction constitutes
+complicity or helplessness. The prose is luminous, the characterization
+deep, and the moral questions genuinely unsettling. This is the kind
+of science fiction that stays with you not because of its spectacle
+but because of its silence — the things it does not say, the judgments
+it refuses to render. Highly recommended.
+
+BRAIN WAVE by Poul Anderson
+(Ballantine Books, 1954, $0.35)
+
+Reviewed by Maxwell Sterling
+
+What would happen if, overnight, every living creature on Earth
+became dramatically more intelligent? Mr. Anderson explores this
+premise with his characteristic blend of scientific rigor and
+narrative energy, following the consequences as they ripple through
+society: the animals who suddenly understand their captivity, the
+workers who can no longer tolerate repetitive labor, the governments
+that cannot govern a populace smarter than its leaders. The first half
+is brilliant — a genuinely original thought experiment played out with
+ruthless logic. The second half strains somewhat under the weight of
+its own premise, as Anderson struggles to dramatize a level of
+intelligence that exceeds the author's own. But the ambition is
+magnificent, and the questions it raises about the relationship between
+intelligence and happiness are worth the price of admission alone.
+Recommended.
+
+LONG TOMORROW by Leigh Brackett
+(Doubleday, 1955, $2.95)
+
+Reviewed by Maxwell Sterling
+
+Miss Brackett, known primarily for her planetary romances and her
+screenwriting, has produced something unexpected: a sober, thoughtful
+novel about a post-nuclear America that has constitutionally banned
+cities and technology, and a young man who must decide whether to
+accept the safety of agrarian simplicity or risk everything for the
+possibility of knowledge. The world-building is superb — Brackett
+renders her neo-rural America with the detail and conviction of
+someone who has actually lived in it — and the protagonist's moral
+dilemma is genuinely wrenching. If the ending is somewhat ambiguous,
+that is perhaps appropriate for a novel about the impossibility of
+choosing between safety and progress. A mature, ambitious work from
+a writer whose range continues to surprise. Recommended with
+admiration.
+
+================================================================================
+
+                       COMING ATTRACTIONS
+          Next Month in Tales from the Future and Beyond
+
+================================================================================
+
+Issue #24 — December 1954 (Holiday Issue)
+
+We are delighted to announce the contents of our first Holiday Issue,
+which we believe is our most festive and varied collection to date:
+
+"THE GIFT EQUATION" by Dr. Vincent Koslov — On a research station at
+the edge of the solar system, a physicist discovers that the universe
+itself may be structured as an act of generosity — a cosmological
+constant that exists for no reason except to make life possible. A
+holiday meditation on gratitude and wonder from our most rigorous
+scientific voice.
+
+"THE TOYMAKER OF TITAN" by Theodore Cain — An artisan who builds
+handcrafted toys on Titan discovers that his creations are being
+collected by an alien intelligence that does not understand play but
+desperately wants to learn. A warm, surprising story from our most
+versatile contributor.
+
+"HOMECOMING" by Gunnar Eriksson — A generation ship receives a
+transmission from the world it left behind, three centuries and
+change too late. Eriksson's most emotionally devastating work to date,
+which is saying something.
+
+"SATURNALIA" by Rex Drummond — A holiday party aboard a pirate vessel
+goes spectacularly wrong when the crew discovers that their stolen
+cargo is alive, intelligent, and in a festive mood of its own.
+Drummond at his most exuberant.
+
+Plus: stories by Margaret Thornton and Arthur Wainwright, a special
+expanded Bookshelf of Tomorrow, and a holiday message from the editor.
+
+Tales from the Future and Beyond — 35 cents at your newsstand, or
+subscribe for $3.50 per year (12 issues) by writing to: Subscriptions,
+Meridian Publishing Company, 114 East 32nd Street, New York 16, N.Y.
+
+================================================================================
+
+         Tales from the Future and Beyond is published monthly by
+         Meridian Publishing Company, 114 East 32nd Street, New
+         York 16, N.Y. Entire contents copyright 1954 by Meridian
+         Publishing Company. All rights reserved. Printed in the
+         United States of America.
+
+         Unsolicited manuscripts must be accompanied by a stamped,
+         self-addressed envelope. We pay three cents per word on
+         acceptance. Response time: six to eight weeks.
+
+         STAFF
+         Editor: Maxwell Sterling
+         Associate Editor: Frances Greer
+         Art Director: Gerald "Gerry" Pulaski
+         Editorial Assistant: David Yun
+         Circulation Manager: Robert Tavish
+
+================================================================================
+
