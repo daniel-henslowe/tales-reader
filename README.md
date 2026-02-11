@@ -2,6 +2,14 @@
 
 A digital reading archive for the classic sci-fi pulp magazine "Tales from the Future and Beyond" (1953–1968).
 
+## Screenshots
+
+### Shelf View
+![Shelf View](screenshots/shelf.png)
+
+### Reader View
+![Reader View](screenshots/reader.png)
+
 ## Overview
 
 This web-based reader provides access to all 78 issues across two publication eras:
@@ -25,9 +33,9 @@ This web-based reader provides access to all 78 issues across two publication er
 - No build tools or dependencies required
 - Static site ready for any web host
 
-## Usage
+## Live Demo
 
-Simply open `index.html` in a browser or deploy to any static hosting service.
+Visit the live site: [https://daniel-henslowe.github.io/tales-reader](https://daniel-henslowe.github.io/tales-reader)
 
 ## License
 
